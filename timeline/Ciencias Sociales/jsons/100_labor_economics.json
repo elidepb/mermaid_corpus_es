@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Economía laboral",
+            "category": "Economía",
+            "description": "La cronología de la economía laboral destaca aportaciones fundamentales. Adam Smith (1776) enfatizó la división del trabajo y la determinación salarial. David Ricardo (1817) avanzó el concepto de salarios de subsistencia. A principios del siglo XX, la economía institucional (Commons, Veblen) analizó las relaciones laborales. En 1962, Gary Becker formalizó la teoría del capital humano, planteando la educación como una inversión. La ecuación de ingresos de Jacob Mincer (1973) se convirtió en la herramienta estándar para estimar los rendimientos de la escolarización. Durante las décadas de 1980 y 1990, los modelos de búsqueda y emparejamiento (Pissarides, Mortensen, Diamond) explicaron el desempleo friccional y la dinámica del mercado de trabajo. Desde la década de 2000, la revolución de la credibilidad ha transformado la economía laboral empírica mediante experimentos naturales y métodos cuasiexperimentales, reforzando la inferencia causal.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la economía laboral\n    1776 : Adam Smith<br>División del trabajo, salarios\n    1817 : Ricardo sobre la determinación salarial<br>Salarios de subsistencia\n    1890s‑1920s : Economía laboral institucional<br>Commons, Veblen\n    1962 : Capital humano de Becker<br>Inversión en educación\n    1973 : Ecuación de ingresos de Mincer<br>Rendimientos de la escolarización\n    1980s‑90s : Modelos de búsqueda y emparejamiento<br>Pissarides, Mortensen, Diamond\n    2000s‑present : Revolución de la credibilidad<br>Experimentos naturales, cuasiexperimentos",
+            "complexity": "medium",
+            "tags": [
+                "economia_laboral",
+                "historia",
+                "capital_humano",
+                "modelos_de_busqueda",
+                "revolucion_de_la_credibilidad"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

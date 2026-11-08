@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Ingeniería de control",
+            "category": "Ingeniería",
+            "description": "La ingeniería de control abarca metodologías de control y aplicaciones diversas. El control clásico incluye control PID (proporcional-integral-derivativo con métodos de sintonía como Ziegler-Nichols), compensación adelanto-atraso, análisis del lugar de las raíces, métodos de respuesta en frecuencia (diagramas de Bode, diagramas de Nyquist) y análisis de margen de ganancia/margen de fase. La teoría moderna de control presenta representación en espacio de estados, análisis de controlabilidad y observabilidad, colocación de polos, realimentación de estados, regulador lineal cuadrático (LQR) y filtrado de Kalman. Las estrategias avanzadas de control incluyen control predictivo basado en modelo (MPC), control adaptativo, control robusto (H-infinito), control por lógica difusa, control por redes neuronales y control por modos deslizantes. Los componentes del sistema abarcan sensores (posición, velocidad, temperatura, presión), actuadores (motores, válvulas, calentadores), controladores (microcontroladores, PLC, DCS) e interfaces hombre-máquina. Las herramientas de análisis incluyen MATLAB/Simulink, LabVIEW, Python Control Systems Library y Scilab. Las aplicaciones cubren industrias de proceso (plantas químicas, refinerías), automatización de la fabricación, robótica, sistemas automotrices (control de crucero, control de estabilidad), aeroespacial (piloto automático, guiado), sistemas HVAC y sistemas de potencia. Las especificaciones de rendimiento involucran error en régimen permanente, tiempo de establecimiento, tiempo de subida, sobreimpulso, márgenes de estabilidad y rechazo de perturbaciones.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ingeniería de control))\n    Control clásico\n      Funciones de transferencia\n      Diagramas de bloques\n      Lugar de las raíces\n      Respuesta en frecuencia\n    Control moderno\n      Espacio de estados\n      Controlabilidad\n      Observabilidad\n      Control óptimo\n    Control PID\n      Control proporcional\n      Control integral\n      Control derivativo\n      Métodos de sintonía\n    Control digital\n      Muestreo\n      Transformadas Z\n      Sistemas discretos\n      Controladores digitales\n    Control no lineal\n      Plano de fase\n      Funciones descriptivas\n      Estabilidad de Lyapunov\n      Control por modos deslizantes\n    Control adaptativo\n      Referencia de modelo\n      Autosintonía\n      Programación de ganancia\n    Control robusto\n      Control H-infinito\n      Incertidumbre\n      Rechazo de perturbaciones\n    Aplicaciones\n      Control de procesos\n      Robótica\n      Aeroespacial\n      Sistemas automotrices",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_de_control",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "290",
+            "topic": "Gestión de ingresos",
+            "category": "Negocios",
+            "description": "La gestión de ingresos evolucionó del yield management aéreo a una aplicación generalizada en múltiples industrias. La tarificación aérea temprana usaba estructuras de descuento simples y controles manuales (décadas de 1950-1960). American Airlines fue pionera en sistemas informatizados de yield management en la década de 1970, optimizando la asignación de inventario de asientos. La desregulación de la industria aérea (1978) intensificó la competencia de precios y aceleró la adopción de la gestión de ingresos. El liderazgo de Robert Crandall en American Airlines en la década de 1980 refinó las estrategias de precios dinámicos, creando ventaja competitiva frente a las aerolíneas de bajo coste. La investigación académica formalizó la ciencia de la gestión de ingresos en las décadas de 1980-1990 mediante investigación de operaciones y teoría económica. La industria hotelera adoptó la gestión de ingresos en la década de 1990, adaptando técnicas aéreas al inventario de habitaciones. El término revenue management sustituyó a yield management en la década de 1990, reflejando una aplicación más amplia. Los motores de reservas por internet (finales de la década de 1990-2000) permitieron precios en tiempo real y ampliaron los canales de distribución. La integración de aprendizaje automático e IA comenzó en la década de 2010, mejorando la exactitud de las previsiones. La gestión de ingresos actual incorpora personalización, plataformas móviles, analítica de big data y aplicaciones intersectoriales en retail, entretenimiento y salud.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de ingresos\n    1950s-1960s : Tarificación aérea temprana\n                : Estructuras de descuento simples\n    1970s : Sistemas informatizados de yield\n          : Innovación de American Airlines\n    1978 : Desregulación aérea\n         : Competencia de precios intensificada\n    1980s : Refinamiento de precios dinámicos\n          : Ventaja competitiva de Crandall\n    1980s-1990s : Formalización académica\n                : Fundamento de investigación de operaciones\n    1990s : Adopción de la industria hotelera\n          : Optimización del inventario de habitaciones\n    1990s : Término revenue management\n          : Aplicación más amplia más allá del yield\n    Late 1990s-2000s : Reservas por internet\n                     : Era de precios en tiempo real\n    2010s : Integración de aprendizaje automático\n          : Exactitud de previsiones mejorada\n    2020s : IA y personalización\n          : Expansión intersectorial de big data",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_ingresos",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

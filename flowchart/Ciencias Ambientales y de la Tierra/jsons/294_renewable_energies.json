@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "294",
+            "topic": "Energías renovables",
+            "category": "Ciencias ambientales",
+            "description": "Las energías renovables son tecnologías de generación de electricidad que aprovechan recursos que se reponen de forma natural, incluidos la solar, eólica, hidráulica, biomasa y geotérmica, ofreciendo alternativas limpias a los combustibles fósiles y reduciendo emisiones y riesgos de seguridad energética. El proceso comienza con la evaluación de recursos, valorando el potencial renovable disponible mediante mediciones de irradiancia solar, análisis de velocidad del viento, cuantificación del caudal, encuestas de disponibilidad de biomasa o estudios de gradiente geotérmico que determinan la idoneidad del emplazamiento. La selección de tecnología elige sistemas apropiados como paneles fotovoltaicos, aerogeneradores, generadores hidroeléctricos, plantas de biomasa o instalaciones geotérmicas según las características del recurso, los costos y los requisitos de la red. El diseño del sistema optimiza capacidad, disposición, orientación y configuración para maximizar la captura de energía, minimizando costos e impacto ambiental. El desarrollo de infraestructura construye instalaciones de generación, líneas de transmisión, subestaciones y sistemas de almacenamiento de energía que se integran con las redes eléctricas. La integración a la red gestiona la producción variable mediante previsión, almacenamiento de energía, respuesta a la demanda y tecnologías de redes inteligentes que aseguran la fiabilidad. Las operaciones y el mantenimiento realizan monitoreo, mantenimiento preventivo, optimización del desempeño y reparaciones para maximizar el tiempo de operación y la eficiencia. La política y la economía abordan incentivos, regulaciones, contratos de compraventa de energía y mecanismos de financiación que apoyan el despliegue. Las consideraciones ambientales y sociales evalúan impactos en la fauna, el uso del suelo, las comunidades y los ecosistemas, implementando estrategias de mitigación. El objetivo es transitar los sistemas energéticos de los combustibles fósiles a fuentes renovables sostenibles, reduciendo las emisiones de gases de efecto invernadero, reforzando la independencia energética, creando oportunidades económicas y combatiendo el cambio climático mediante el despliegue a escala de diversas tecnologías de energía limpia.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Energías renovables</b><br>Aprovechar recursos que se reponen<br>de forma natural para la energía]:::title\n    B[<b>META PRINCIPAL</b><br>Transitar a energía limpia<br>combatiendo el cambio climático]:::goal\n    C[<b>DESPLIEGUE RENOVABLE</b>]:::process\n    \n    subgraph D[Evaluación de recursos]\n        D1[Evaluar potencial solar, eólico, hidráulico,<br>de biomasa o geotérmico]\n    end\n    \n    subgraph E[Selección de tecnología]\n        E1[Elegir sistemas FV, turbinas, hidráulicos,<br>de biomasa o geotérmicos]\n    end\n    \n    subgraph F[Diseño del sistema]\n        F1[Optimizar capacidad, disposición<br>y configuración]\n    end\n    \n    subgraph G[Desarrollo de infraestructura]\n        G1[Construir instalaciones, transmisión<br>y almacenamiento de energía]\n    end\n    \n    subgraph H[Integración a la red]\n        H1[Gestionar la producción mediante previsión,<br>almacenamiento y redes inteligentes]\n    end\n    \n    subgraph I[Operaciones y mantenimiento]\n        I1[Monitorear, mantener y optimizar<br>el desempeño]\n    end\n    \n    subgraph J[Política y economía]\n        J1[Abordar incentivos, regulaciones<br>y financiación]\n    end\n    \n    subgraph K[Ambiental y social]\n        K1[Evaluar impactos en fauna, uso del suelo<br>y comunidades]\n    end\n    \n    L[<b>RESULTADO</b><br>Energía limpia que reduce emisiones<br>y refuerza la seguridad]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    L -.->|expansión continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "energia_renovable",
+                "ciencias_ambientales",
+                "solar",
+                "eolica",
+                "hidraulica",
+                "geotermica",
+                "biomasa",
+                "generacion_electrica"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

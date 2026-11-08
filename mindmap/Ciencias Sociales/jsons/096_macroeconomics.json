@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomía",
+            "category": "Economía",
+            "description": "El mapa mental de la macroeconomía irradia desde el concepto central, organizando sus áreas nucleares: objetivos últimos (crecimiento, empleo, estabilidad), agregados clave (PIB, inflación, desempleo, balanza de pagos), instrumentos de política (herramientas fiscales y monetarias), escuelas de pensamiento influyentes (clásica, keynesiana, monetarista, neokeynesiana, de la oferta) y las herramientas de medición usadas para seguir el desempeño económico (cuentas nacionales, índices de precios, encuestas de fuerza de trabajo). Esta estructura captura las dimensiones interconectadas del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Macroeconomía))\n    Objetivos\n      Crecimiento económico\n      Pleno empleo\n      Estabilidad de precios\n    Agregados clave\n      PIB\n      Tasa de desempleo\n      Tasa de inflación\n      Balanza de pagos\n    Instrumentos de política\n      Política fiscal\n        Gasto público\n        Impuestos\n      Política monetaria\n        Tasas de interés\n        Oferta monetaria\n    Escuelas de pensamiento\n      Clásica\n      Keynesiana\n      Monetarista\n      Neokeynesiana\n      De la oferta\n    Medición\n      Cuentas nacionales\n      Índice de precios al consumidor\n      Encuestas de fuerza de trabajo",
+            "complexity": "high",
+            "tags": [
+                "macroeconomía",
+                "mapa_mental",
+                "objetivos_económicos",
+                "agregados",
+                "política_fiscal",
+                "política_monetaria"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

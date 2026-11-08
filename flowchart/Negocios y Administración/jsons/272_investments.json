@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "272",
+            "topic": "Inversiones",
+            "category": "Negocios",
+            "description": "Las inversiones son la asignación estratégica de capital a activos con la expectativa de generar rendimientos a lo largo del tiempo, gestionando el riesgo. Comienzan con la definición de metas financieras, estableciendo objetivos de jubilación, acumulación de patrimonio o generación de ingresos. La evaluación del riesgo valora la tolerancia al riesgo del inversor, el horizonte temporal y la capacidad financiera. La asignación de activos distribuye el capital entre clases como acciones, bonos, inmuebles y alternativas para optimizar el equilibrio riesgo-rendimiento. La selección de valores elige inversiones específicas mediante análisis fundamental y técnico. La construcción de la cartera forma tenencias diversificadas alineadas con los objetivos estratégicos. El monitoreo del desempeño sigue los rendimientos, los compara con referencias y evalúa métricas de riesgo. El rebalanceo ajusta las asignaciones para mantener los pesos objetivo y responder a las condiciones del mercado. El objetivo es maximizar los rendimientos ajustados al riesgo mediante procesos de inversión disciplinados y una perspectiva de largo plazo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Inversiones</b><br>Asignación estratégica de capital<br>para obtener rendimientos]:::title\n    B[<b>META PRINCIPAL</b><br>Maximizar los rendimientos<br>ajustados al riesgo]:::goal\n    C[<b>PROCESO DE INVERSIÓN</b>]:::process\n    \n    subgraph D[Definición de metas financieras]\n        D1[Definir objetivos de<br>jubilación y patrimonio]\n    end\n    \n    subgraph E[Evaluación del riesgo]\n        E1[Evaluar tolerancia,<br>horizonte y capacidad]\n    end\n    \n    subgraph F[Asignación de activos]\n        F1[Distribuir entre acciones,<br>bonos y alternativas]\n    end\n    \n    subgraph G[Selección de valores]\n        G1[Elegir inversiones mediante<br>análisis fundamental y técnico]\n    end\n    \n    subgraph H[Construcción de la cartera]\n        H1[Construir tenencias<br>diversificadas]\n    end\n    \n    subgraph I[Monitoreo del desempeño]\n        I1[Seguir rendimientos frente<br>a referencias]\n    end\n    \n    subgraph J[Rebalanceo]\n        J1[Ajustar asignaciones a<br>los pesos objetivo]\n    end\n    \n    K[<b>RESULTADO</b><br>Crecimiento patrimonial a largo plazo<br>con control del riesgo]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|ciclo continuo| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "inversiones",
+                "finanzas",
+                "gestion_de_carteras",
+                "asignacion_de_activos",
+                "gestion_de_riesgos"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

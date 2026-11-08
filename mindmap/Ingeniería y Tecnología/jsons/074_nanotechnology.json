@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "074",
+            "topic": "Nanotecnología",
+            "category": "Ingeniería/Ciencia",
+            "description": "La nanotecnología abarca tipos de materiales y aplicaciones diversas. Los nanomateriales incluyen estructuras basadas en carbono (fullerenos, nanotubos de carbono, grafeno, nanodiamantes), nanopartículas metálicas (oro, plata, platino, óxido de hierro), puntos cuánticos semiconductores (CdSe, CdTe, perovskitas), nanopartículas poliméricas, dendrímeros y nanocomposites. Los métodos de fabricación cubren técnicas descendentes (fotolitografía, litografía de haz de electrones, haz de iones focalizado, litografía por nanoimpresión) y enfoques ascendentes (depósito químico en fase vapor, síntesis sol-gel, autoensamblaje molecular, depósito de capas atómicas). Las herramientas de caracterización incluyen microscopía electrónica de transmisión (TEM), microscopía electrónica de barrido (SEM), microscopía de fuerza atómica (AFM), microscopía de efecto túnel (STM), difracción de rayos X y dispersión dinámica de luz. Las aplicaciones cubren electrónica (pantallas flexibles, computación cuántica, dispositivos de memoria), energía (células solares, baterías, celdas de combustible, supercondensadores), medicina (entrega dirigida de fármacos, terapia del cáncer, biosensores, ingeniería de tejidos), ambiental (purificación de agua, filtración de aire, catálisis) y materiales (recubrimientos, textiles, composites). Las consideraciones de seguridad involucran evaluación de toxicidad, impacto ambiental, límites de exposición ocupacional y marcos regulatorios. Las áreas emergentes incluyen nanobots, nanotecnología de ADN, puntos cuánticos para pantallas y nanorrobótica para medicina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Nanotecnología))\n    Nanomateriales\n      Nanopartículas\n      Nanotubos\n      Nanohilos\n      Puntos cuánticos\n      Grafeno\n    Métodos de síntesis\n      Enfoque descendente\n      Enfoque ascendente\n      Autoensamblaje\n      Depósito químico en fase vapor\n    Caracterización\n      Microscopía electrónica\n      Microscopía de sonda de barrido\n      Espectroscopía\n      Difracción de rayos X\n    Propiedades\n      Efectos de tamaño\n      Área superficial\n      Efectos cuánticos\n      Propiedades ópticas\n    Aplicaciones\n      Electrónica\n      Medicina\n      Energía\n      Ambiental\n      Materiales\n    Nanofabricación\n      Litografía\n      Grabado\n      Depósito\n      Patrón\n    Nanoelectrónica\n      Transistores\n      Dispositivos de memoria\n      Sensores\n      Computación cuántica\n    Seguridad y ética\n      Toxicidad\n      Impacto ambiental\n      Regulaciones\n      Evaluación de riesgos",
+            "complexity": "high",
+            "tags": [
+                "nanotecnología",
+                "ingeniería",
+                "ciencia"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

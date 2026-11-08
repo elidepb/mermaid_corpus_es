@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "056",
+            "topic": "Ingeniería robótica",
+            "category": "ingenieria",
+            "description": "La ingeniería robótica es el campo interdisciplinario que diseña, construye y opera robots para realizar tareas de forma autónoma o semiautónoma. Su objetivo principal es crear máquinas inteligentes que aumenten las capacidades humanas y automaticen procesos complejos. Las disciplinas centrales incluyen: diseño mecánico (componentes estructurales, actuadores, sistemas de movilidad), electrónica y sistemas de control (sensores, microcontroladores, gestión de energía), programación e IA (algoritmos, aprendizaje automático, planificación de trayectorias) e interacción humano-robot (interfaces, protocolos de seguridad). Estos elementos se integran mediante principios de ingeniería de sistemas, utilizando bucles de retroalimentación y procesamiento en tiempo real para lograr operaciones robóticas precisas, adaptativas y eficientes en aplicaciones industriales, médicas, de servicio y de exploración.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería robótica</b><br>Campo interdisciplinario que diseña<br>y opera máquinas inteligentes]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear sistemas autónomos<br>para aumentar las capacidades humanas]:::goal\n    C[<b>DISCIPLINAS CENTRALES</b>]:::disciplines\n    \n    subgraph D[Diseño mecánico]\n        D1[Componentes estructurales<br>Actuadores<br>Sistemas de movilidad]\n    end\n    \n    subgraph E[Electrónica y control]\n        E1[Sensores<br>Microcontroladores<br>Gestión de energía]\n    end\n    \n    subgraph F[Programación e IA]\n        F1[Algoritmos<br>Aprendizaje automático<br>Planificación de trayectorias]\n    end\n    \n    subgraph G[Interacción humano-robot]\n        G1[Interfaces<br>Protocolos de seguridad<br>Colaboración]\n    end\n    \n    H[<b>INTEGRACIÓN</b><br>Ingeniería de sistemas<br>Bucles de retroalimentación<br>Procesamiento en tiempo real]:::integration\n    \n    I[<b>LOGRA</b><br>Operaciones robóticas precisas,<br>adaptativas y eficientes]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|unificado por| H\n    H -->|produce| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef disciplines fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef integration fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_robotica",
+                "ingenieria",
+                "robotica",
+                "cinematica",
+                "slam"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

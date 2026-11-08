@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "085",
+            "topic": "Procesamiento de lenguaje natural",
+            "category": "Ingeniería",
+            "description": "El procesamiento de lenguaje natural evolucionó de sistemas basados en reglas a enfoques neuronales que alcanzan un desempeño de nivel humano en muchas tareas. El trabajo temprano en traducción automática usaba enfoques basados en reglas (décadas de 1950-1960) con éxito limitado. El chatbot ELIZA (1966) demostró el emparejamiento simple de patrones para la conversación. Los métodos estadísticos surgieron en las décadas de 1980-1990 usando modelos probabilísticos y enfoques basados en corpus. WordNet (década de 1990) aportó una base de datos léxica para relaciones semánticas. El Penn Treebank (1992) permitió la investigación de análisis sintáctico supervisado. La traducción automática estadística avanzó en la década de 2000 usando modelos basados en frases. Word2Vec (2013) revolucionó las representaciones de palabras con un aprendizaje eficiente de incrustaciones. Los modelos secuencia a secuencia (2014) permitieron la traducción automática neuronal. Los mecanismos de atención (2015) mejoraron el modelado de secuencias. Las redes LSTM se convirtieron en estándar para datos secuenciales. La arquitectura transformer (2017) introdujo la autoatención sustituyendo a la recurrencia. BERT (2018) logró un desempeño de avance mediante preentrenamiento bidireccional y ajuste fino. GPT-2 (2019) demostró impresionantes capacidades de generación de texto. GPT-3 (2020) escaló a 175 000 millones de parámetros mostrando aprendizaje few-shot. ChatGPT (2022) llevó la IA conversacional al público general. El PLN actual integra el ajuste por instrucciones, la recuperación aumentada, el razonamiento encadenado y la comprensión multimodal que combina texto con visión y otras modalidades.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del procesamiento de lenguaje natural\n    1950s-1960s : Traducción basada en reglas\n                : Enfoques limitados de TA\n    1966 : Chatbot ELIZA\n         : Conversación por emparejamiento de patrones\n    1980s-1990s : Métodos estadísticos\n                : Basados en corpus probabilísticos\n    1990s : Base de datos WordNet\n          : Relaciones semánticas\n    1992 : Penn Treebank\n         : Corpus de análisis sintáctico supervisado\n    2000s : TA estadística\n          : Modelos basados en frases\n    2013 : Incrustaciones Word2Vec\n         : Aprendizaje eficiente de representaciones\n    2014 : Modelos Seq2Seq\n         : Traducción automática neuronal\n    2015 : Mecanismos de atención\n         : Modelado de secuencias mejorado\n    2017 : Arquitectura transformer\n         : Revolución de la autoatención\n    2018 : Avance de BERT\n         : Preentrenamiento bidireccional\n    2020 : GPT-3 de 175 000 millones de parámetros\n         : Capacidad de aprendizaje few-shot\n    2022 : ChatGPT generalizado\n         : Adopción de la IA conversacional\n    2020s : Ajuste por instrucciones y RAG\n          : Integración de razonamiento y multimodal",
+            "complexity": "high",
+            "tags": [
+                "procesamiento_de_lenguaje_natural",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

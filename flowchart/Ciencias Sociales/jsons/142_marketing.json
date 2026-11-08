@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "142",
+            "topic": "Marketing",
+            "category": "Empresa y gestión",
+            "description": "El marketing es la función organizacional y el conjunto de procesos para crear, comunicar y entregar valor a los clientes. Este diagrama de flujo describe su lógica sistemática: el objetivo último es construir relaciones rentables con los clientes y un valor de marca sostenible. Integra componentes centrales: investigación de mercados y conocimientos del consumidor, segmentación, targeting y posicionamiento (STP), y la mezcla de marketing (producto, precio, plaza, promoción, más personas, proceso y evidencia física en los servicios). Estos se informan por marcos teóricos principales (comportamiento del consumidor, jerarquía de Maslow, modelo AIDA, cinco fuerzas de Porter, modelos de valor de marca) y se ejecutan mediante un proceso cíclico: investigación → estrategia → implementación → evaluación → retroalimentación. Los resultados incluyen lealtad del cliente, crecimiento de la cuota de mercado y rentabilidad a largo plazo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Marketing</b><br>Función organizacional para crear,<br>comunicar y entregar valor]:::title\n    B[<b>OBJETIVO</b><br>Construir relaciones rentables con los clientes<br>y un valor de marca sostenible]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Comprensión del mercado]\n        D1[Investigación de mercados y conocimientos del consumidor<br>Exploración del entorno<br>Análisis competitivo]\n    end\n    subgraph E[\"Estrategia (STP)\"]\n        E1[Segmentación<br>Targeting<br>Posicionamiento y diferenciación]\n    end\n    subgraph F[Mezcla de marketing]\n        F1[\"Producto (características, calidad, marca)<br>Precio (valor, descuentos, modelos)<br>Plaza (canales, logística, cobertura)<br>Promoción (anuncios, RP, ventas, digital)<br>Servicios: personas, proceso, evidencia física\"]\n    end\n    G[<b>FUNDAMENTOS TEÓRICOS</b><br>Comportamiento del consumidor y decisión de compra<br>Jerarquía de necesidades de Maslow<br>Modelo AIDA, cinco fuerzas de Porter<br>Valor de marca y lealtad]:::theory\n    H[<b>CICLO DE MARKETING</b><br>Investigación → Estrategia → Implementación<br>→ Evaluación → Retroalimentación]:::process\n    I[<b>RESULTADOS</b><br>Lealtad del cliente, cuota de mercado,<br>defensa de la marca, rentabilidad]:::outcome\n\n    A -->|pretende| B\n    B -->|requiere| C\n    C -->|comienza con| D\n    D -->|alimenta| E\n    E -->|configura| F\n    D & E & F -->|guiado por| G\n    G -->|impulsa| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "mezcla_de_marketing",
+                "STP",
+                "comportamiento_del_consumidor",
+                "valor_de_marca",
+                "estrategia_de_marketing",
+                "AIDA"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

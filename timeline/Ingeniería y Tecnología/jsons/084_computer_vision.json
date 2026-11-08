@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "084",
+            "topic": "Visión por computadora",
+            "category": "Ingeniería",
+            "description": "La visión por computadora evolucionó del reconocimiento simple de patrones a sofisticados sistemas de aprendizaje profundo que rivalizan con la percepción humana. El trabajo temprano en la década de 1960 exploró algoritmos de detección de bordes y reconocimiento de patrones. La transformada de Hough (1972) permitió la detección robusta de líneas y formas. La teoría computacional de la visión de David Marr (1982) aportó un marco teórico para las etapas del procesamiento visual. La transformada de características invariante a la escala SIFT (1999) revolucionó el emparejamiento de características permitiendo el reconocimiento robusto de objetos. El desafío PASCAL VOC (2005) estableció puntos de referencia para la detección y segmentación de objetos. Las redes neuronales convolucionales ganaron protagonismo cuando AlexNet (2012) ganó la competición ImageNet con mejoras dramáticas usando GPU y arquitecturas profundas. La CNN basada en regiones R-CNN (2014) avanzó la detección de objetos combinando propuestas de región con CNN. ResNet (2015) introdujo conexiones residuales que permitieron redes de más de 100 capas. YOLO (2016) logró la detección de objetos en tiempo real con arquitectura de un solo paso. Mask R-CNN (2017) extendió las capacidades de segmentación de instancias. DeepFace (2014) y FaceNet (2015) lograron reconocimiento facial a nivel humano. Los transformers de visión (2020) aplicaron mecanismos de atención desafiando el dominio de las CNN. CLIP (2021) alineó visión y lenguaje mediante aprendizaje contrastivo. La visión por computadora actual integra el aprendizaje autosupervisado, el reconocimiento few-shot, la búsqueda de arquitectura neuronal y la comprensión multimodal que combina visión con texto y otras modalidades.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la visión por computadora\n    1960s : Reconocimiento de patrones temprano\n          : Algoritmos de detección de bordes\n    1972 : Transformada de Hough\n         : Detección robusta de formas\n    1982 : Teoría de la visión de Marr\n         : Marco computacional\n    1999 : Algoritmo SIFT\n         : Revolución del emparejamiento de características\n    2005 : Desafío PASCAL VOC\n         : Puntos de referencia establecidos\n    2012 : Victoria de AlexNet en ImageNet\n         : Avance del aprendizaje profundo\n    2014 : Detección de objetos R-CNN\n         : Propuestas de región con CNN\n    2015 : Conexiones residuales de ResNet\n         : Redes de más de 100 capas\n    2016 : YOLO en tiempo real\n         : Detección de un solo paso\n    2017 : Mask R-CNN\n         : Segmentación de instancias\n    2020 : Transformers de visión\n         : Mecanismos de atención\n    2021 : CLIP visión-lenguaje\n         : Multimodal contrastivo\n    2020s : Autosupervisado y few-shot\n          : Paradigmas de aprendizaje eficiente",
+            "complexity": "high",
+            "tags": [
+                "vision_por_computadora",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

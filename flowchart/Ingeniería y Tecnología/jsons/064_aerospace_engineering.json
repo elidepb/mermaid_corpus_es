@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Ingeniería aeroespacial",
+            "category": "ingenieria",
+            "description": "La ingeniería aeroespacial es la disciplina dedicada al diseño, desarrollo, prueba y producción de aeronaves, naves espaciales, satélites y misiles. Su objetivo principal es crear vehículos seguros, eficientes y de alto rendimiento para el vuelo atmosférico y espacial. Los dominios centrales incluyen: aerodinámica (sustentación, resistencia, análisis del flujo de aire, pruebas en túnel de viento), sistemas de propulsión (motores a reacción, motores cohete, generación de empuje), estructuras y materiales (composites ligeros, análisis de tensiones, resistencia a la fatiga), dinámica y control de vuelo (estabilidad, navegación, sistemas de piloto automático) y aviónica (instrumentos de vuelo, comunicación, sistemas de guiado). El proceso de ingeniería involucra diseño conceptual, análisis computacional (CFD), desarrollo de prototipos, pruebas (en tierra y en vuelo) y certificación. Estos elementos se integran mediante principios de mecánica de fluidos, termodinámica y mecánica estructural para producir aeronaves, naves espaciales, satélites y sistemas de defensa que operan de forma fiable en condiciones extremas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería aeroespacial</b><br>Diseño, desarrollo y producción<br>de aeronaves y naves espaciales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear vehículos seguros y eficientes<br>para vuelo atmosférico y espacial]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Aerodinámica]\n        D1[Sustentación y resistencia<br>Análisis del flujo de aire<br>Pruebas en túnel de viento]\n    end\n    \n    subgraph E[Sistemas de propulsión]\n        E1[Motores a reacción<br>Motores cohete<br>Generación de empuje]\n    end\n    \n    subgraph F[Estructuras y materiales]\n        F1[Composites ligeros<br>Análisis de tensiones<br>Resistencia a la fatiga]\n    end\n    \n    subgraph G[Dinámica y control de vuelo]\n        G1[Estabilidad<br>Navegación<br>Sistemas de piloto automático]\n    end\n    \n    subgraph H[Aviónica]\n        H1[Instrumentos de vuelo<br>Comunicación<br>Sistemas de guiado]\n    end\n    \n    I[<b>PROCESO DE INGENIERÍA</b><br>Diseño, análisis CFD<br>Pruebas, certificación]:::process\n    \n    J[<b>PRODUCE</b><br>Aeronaves, naves espaciales y sistemas<br>para condiciones extremas]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_aeroespacial",
+                "ingenieria",
+                "aeronautica",
+                "astronautica",
+                "aerodinamica"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

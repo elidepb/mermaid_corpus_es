@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Ciencia de datos",
+            "category": "ciencias_de_la_computacion",
+            "description": "La ciencia de datos es el campo interdisciplinario que combina métodos estadísticos, algoritmos computacionales y experiencia de dominio para extraer conocimientos e información significativos de datos estructurados y no estructurados. Comienza con la formulación del problema, definiendo las preguntas de negocio, los criterios de éxito y el enfoque analítico alineado con los objetivos de la organización. La adquisición de datos reúne datos de bases de datos, API, raspado web, sensores y fuentes externas, asegurando volumen y variedad suficientes. La limpieza de datos aborda valores faltantes, duplicados, valores atípicos e inconsistencias, transformando los datos brutos en un formato listo para el análisis. El análisis exploratorio de datos investiga patrones, distribuciones, correlaciones y anomalías usando resúmenes estadísticos y visualizaciones. La ingeniería de características crea nuevas variables, transforma características existentes y selecciona predictores relevantes que mejoran el rendimiento del modelo. La construcción del modelo aplica algoritmos de aprendizaje automático, modelos estadísticos o técnicas de aprendizaje profundo para descubrir relaciones y realizar predicciones. La interpretación del modelo explica los resultados, valida supuestos y comunica hallazgos mediante visualizaciones y narrativas. El despliegue y la operacionalización integran los conocimientos en los procesos de toma de decisiones, construyen paneles y automatizan flujos de trabajo analíticos. El objetivo es transformar los datos en inteligencia accionable que impulse decisiones de negocio informadas y ventaja competitiva.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ciencia de datos</b><br>Extracción de conocimientos de<br>datos estructurados y no estructurados]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Transformar datos en<br>inteligencia accionable]:::goal\n    C[<b>FLUJO DE TRABAJO DE CIENCIA DE DATOS</b>]:::process\n    \n    subgraph D[Formulación del problema]\n        D1[Definir preguntas, criterios<br>y enfoque analítico]\n    end\n    \n    subgraph E[Adquisición de datos]\n        E1[Reunir de bases de datos,<br>API y fuentes externas]\n    end\n    \n    subgraph F[Limpieza de datos]\n        F1[Abordar valores faltantes,<br>valores atípicos e inconsistencias]\n    end\n    \n    subgraph G[Análisis exploratorio]\n        G1[Investigar patrones,<br>distribuciones y correlaciones]\n    end\n    \n    subgraph H[Ingeniería de características]\n        H1[Crear variables y<br>seleccionar predictores]\n    end\n    \n    subgraph I[Construcción del modelo]\n        I1[Aplicar algoritmos de AA y<br>modelos estadísticos]\n    end\n    \n    subgraph J[Interpretación del modelo]\n        J1[Explicar resultados y<br>comunicar hallazgos]\n    end\n    \n    subgraph K[Despliegue y operacionalización]\n        K1[Integrar conocimientos y<br>automatizar flujos de trabajo]\n    end\n    \n    L[<b>RESULTADO</b><br>Decisiones informadas y<br>ventaja competitiva]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    L -.->|refinamiento iterativo| G\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ciencia_de_datos",
+                "ciencias_de_la_computacion",
+                "aprendizaje_automatico",
+                "analisis_de_datos",
+                "macrodatos"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

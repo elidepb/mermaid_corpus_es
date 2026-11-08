@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Marketing digital",
+            "category": "Negocios",
+            "description": "El marketing digital abarca diversos canales, técnicas y tecnologías para la interacción con los clientes en línea. La optimización para motores de búsqueda mejora la visibilidad orgánica mediante investigación de palabras clave, optimización en la página, SEO técnico y construcción de enlaces. El marketing en redes sociales construye comunidades en plataformas como Facebook, Instagram, LinkedIn y TikTok mediante el intercambio de contenidos y la interacción. El marketing de contenidos entrega valor a través de blogs, videos, podcasts, infografías y libros electrónicos que educan y entretienen. La publicidad de pago por clic dirige audiencias mediante Google Ads, anuncios sociales, redes de display y campañas de retargeting. El email marketing cultiva relaciones mediante campañas segmentadas, flujos de automatización y mensajería personalizada. El marketing de influencers aprovecha creadores y embajadores de marca para una promoción auténtica. La automatización de marketing agiliza la nutrición de prospectos, los recorridos del cliente y la gestión de campañas. La analítica y la atribución rastrean recorridos del cliente, rutas de conversión y ROI en los puntos de contacto.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Marketing<br>digital</b>))\n    <b>SEO</b>\n      Investigación de palabras clave\n      Optimización en la página\n      SEO técnico\n      Construcción de enlaces\n      SEO local\n      Optimización de contenidos\n    <b>Marketing en redes sociales</b>\n      Estrategia de plataformas\n      Construcción de comunidad\n      Calendario de contenidos\n      Tácticas de interacción\n      Escucha social\n      Alianzas con influencers\n    <b>Marketing de contenidos</b>\n      Artículos de blog\n      Contenido de video\n      Podcasts\n      Infografías\n      Libros electrónicos y guías\n      Seminarios web\n    <b>Publicidad PPC</b>\n      Google Ads\n      Anuncios sociales\n      Redes de display\n      Retargeting\n      Campañas de compras\n      Gestión de pujas\n    <b>Email marketing</b>\n      Segmentación\n      Flujos de automatización\n      Personalización\n      Pruebas A/B\n      Construcción de listas\n      Campañas de boletín\n    <b>Marketing de influencers</b>\n      Alianzas con creadores\n      Embajadores de marca\n      Microinfluencers\n      Gestión de campañas\n    <b>Automatización de marketing</b>\n      Nutrición de prospectos\n      Recorridos del cliente\n      Automatización de flujos\n      Integración CRM\n    <b>Analítica</b>\n      Google Analytics\n      Seguimiento de conversiones\n      Modelado de atribución\n      Medición del ROI\n      Mapas de calor",
+            "complexity": "high",
+            "tags": [
+                "marketing_digital",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

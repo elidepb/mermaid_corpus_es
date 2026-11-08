@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "Derecho internacional",
+            "category": "Derecho",
+            "description": "Esta cronología traza el desarrollo del derecho internacional desde sus raíces en la Edad Moderna hasta la gobernanza mundial contemporánea. Los hitos clave incluyen: la obra fundacional de Hugo Grotius De Jure Belli ac Pacis (1625), que estableció marcos de derecho natural; la Paz de Westfalia (1648), que reconoció la igualdad soberana de los Estados; el Congreso de Viena (1815), que codificó el derecho diplomático; la Primera Convención de Ginebra (1864) para la protección humanitaria; las Conferencias de Paz de La Haya (1899, 1907); la creación de la Sociedad de Naciones (1919) y la Carta de las Naciones Unidas (1945); el establecimiento de la Corte Internacional de Justicia (1946); las cuatro Convenciones de Ginebra (1949); la Convención de Viena sobre el Derecho de los Tratados (1969); el Estatuto de Roma, que creó la Corte Penal Internacional (1998); y el Acuerdo de París sobre el cambio climático (2015). La cronología ilustra la codificación y expansión progresivas del derecho internacional, de la diplomacia bilateral a las instituciones multilaterales y la jurisdicción universal.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho internacional\n    section Primeros fundamentos\n      1625 : Hugo Grotius<br>De Jure Belli ac Pacis\n      1648 : Paz de Westfalia<br>Igualdad soberana\n    section Siglo XIX\n      1815 : Congreso de Viena<br>Derecho diplomático\n      1864 : Primera Convención de Ginebra\n      1899 : Conferencia de Paz de La Haya\n    section Siglo XX\n      1919 : Sociedad de Naciones\n      1945 : Carta de las Naciones Unidas\n      1946 : Corte Internacional de Justicia\n      1949 : Revisión de las Convenciones de Ginebra\n      1969 : Convención de Viena sobre el Derecho de los Tratados\n    section Era moderna\n      1998 : Estatuto de Roma<br>(Corte Penal Internacional)\n      2002 : La CPI inicia operaciones\n      2015 : Acuerdo de París<br>(cambio climático)\n      2020s : Derecho internacional<br>digital y cibernético",
+            "complexity": "high",
+            "tags": [
+                "derecho_internacional",
+                "historia",
+                "linea_de_tiempo",
+                "grotius",
+                "westfalia",
+                "convenciones_de_ginebra",
+                "carta_de_la_onu",
+                "cpi",
+                "acuerdo_de_paris"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

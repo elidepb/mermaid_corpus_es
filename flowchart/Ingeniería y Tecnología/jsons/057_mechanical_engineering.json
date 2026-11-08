@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "057",
+            "topic": "Ingeniería mecánica",
+            "category": "ingenieria",
+            "description": "La ingeniería mecánica es la disciplina que aplica principios de física, ciencia de materiales y matemáticas para diseñar, analizar, fabricar y mantener sistemas mecánicos. Su objetivo principal es resolver problemas prácticos mediante soluciones de ingeniería innovadoras. Los dominios centrales incluyen: termodinámica y transferencia de calor (conversión de energía, sistemas HVAC, motores), mecánica y dinámica (estática, cinemática, análisis estructural), ciencia de materiales (selección de materiales, resistencia, propiedades) y procesos de fabricación (mecanizado, fundición, CAD/CAM). La metodología de diseño involucra conceptualización, análisis (MEF, CFD), prototipado y pruebas. Estos elementos convergen mediante principios de ingeniería para crear sistemas mecánicos eficientes, fiables y sostenibles para el transporte, la energía, la fabricación y los productos de consumo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería mecánica</b><br>Aplicación de física, ciencia de materiales<br>y matemáticas a sistemas mecánicos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Resolver problemas prácticos<br>mediante soluciones innovadoras]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Termodinámica y transferencia de calor]\n        D1[Conversión de energía<br>Sistemas HVAC<br>Motores]\n    end\n    \n    subgraph E[Mecánica y dinámica]\n        E1[Estática<br>Cinemática<br>Análisis estructural]\n    end\n    \n    subgraph F[Ciencia de materiales]\n        F1[Selección de materiales<br>Propiedades de resistencia<br>Ensayos]\n    end\n    \n    subgraph G[Procesos de fabricación]\n        G1[Mecanizado<br>Fundición<br>CAD/CAM]\n    end\n    \n    H[<b>METODOLOGÍA DE DISEÑO</b><br>Conceptualización, análisis<br>Prototipado, pruebas]:::methodology\n    \n    I[<b>CREA</b><br>Sistemas mecánicos eficientes,<br>fiables y sostenibles]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|unificado por| H\n    H -->|produce| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methodology fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_mecanica",
+                "ingenieria",
+                "mecanica",
+                "termodinamica",
+                "fabricacion"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

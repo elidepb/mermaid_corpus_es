@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Derecho mercantil",
+            "category": "Derecho",
+            "description": "El derecho mercantil regula los negocios y las transacciones comerciales. Este diagrama de flujo muestra su proceso sistemático: el objetivo último es facilitar el comercio, garantizar la equidad y proporcionar certeza jurídica. Integra áreas centrales: contratos, compraventa de mercaderías, operaciones con garantía, títulos negociables, organizaciones empresariales, competencia, protección del consumidor y comercio internacional. Estas se sustentan en principios fundamentales (libertad contractual, buena fe, autonomía de la voluntad) y se derivan de múltiples fuentes (estatutos como el UCC, jurisprudencia, convenios internacionales). El marco resultante ofrece reglas previsibles que permiten operaciones empresariales eficientes, resuelven litigios y fomentan el crecimiento económico.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Derecho mercantil</b><br>Cuerpo jurídico que regula los negocios<br>y las transacciones comerciales]:::title\n    B[<b>OBJETIVO</b><br>Facilitar el comercio, garantizar<br>la equidad, proporcionar certeza jurídica]:::goal\n    C[<b>ÁREAS CENTRALES</b>]:::areas\n    subgraph D[Transacción y responsabilidad]\n        D1[\"Contratos<br>Compraventa de mercaderías (UCC art. 2)<br>Operaciones con garantía<br>Títulos negociables\"]\n    end\n    subgraph E[Empresa y mercado]\n        E1[Organizaciones empresariales<br>Agencia y empleo<br>Competencia y antimonopolio<br>Protección del consumidor]\n    end\n    subgraph F[Internacional]\n        F1[\"Comercio internacional (CISG)<br>Cartas de crédito<br>Arbitraje\"]\n    end\n    G[<b>PRINCIPIOS</b><br>Libertad contractual, buena fe,<br>autonomía de la voluntad, previsibilidad]:::principles\n    H[\"<b>FUENTES</b><br>Estatutos (UCC, códigos nacionales)<br>Jurisprudencia, convenios internacionales\"]:::sources\n    I[<b>RESULTADOS</b><br>Transacciones eficientes, resolución<br>de litigios, crecimiento económico]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante la regulación de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|guiado por| G\n    G -->|derivado de| H\n    H -->|permite| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef areas fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef principles fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef sources fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "derecho_mercantil",
+                "derecho_empresarial",
+                "contratos",
+                "UCC",
+                "compraventa_de_mercancias",
+                "operaciones_con_garantia",
+                "organizaciones_empresariales",
+                "comercio_internacional"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

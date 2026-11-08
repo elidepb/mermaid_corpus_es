@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "092",
+            "topic": "Ingeniería textil",
+            "category": "Ingeniería",
+            "description": "La ingeniería textil evolucionó de la producción artesanal a una fabricación automatizada de alta tecnología que integra ciencia de materiales y tecnologías digitales. El hilado y el tejido a mano dominaron la producción textil durante milenios en todas las culturas. La spinning jenny inventada por James Hargreaves (1764) permitió la producción de hilo con múltiples husos. El telar mecánico de Edmund Cartwright (1785) mecanizó el tejido durante la Revolución Industrial. La desmotadora de algodón de Eli Whitney (1793) automatizó la separación de fibras acelerando el procesamiento de materia prima. Las fibras sintéticas surgieron con el rayón (1894) como primera fibra manufacturada comercial. El nailon inventado por Wallace Carothers en DuPont (1935) revolucionó los textiles sintéticos. El poliéster se desarrolló (1941) convirtiéndose en la fibra más producida del mundo. El spandex introducido (1958) aportó elasticidad excepcional para tejidos elásticos. Los sistemas de diseño asistido por computadora transformaron el diseño textil (décadas de 1970-1980). Las fibras de alto desempeño incluyendo Kevlar (1965) y la fibra de carbono permitieron aplicaciones técnicas. Las tecnologías de tejido sin lanzadera como los telares de chorro de aire y de pinza aumentaron las velocidades de producción (décadas de 1980-1990). La impresión textil digital surgió (década de 2000) permitiendo la personalización y reduciendo el desperdicio. Las aplicaciones de nanotecnología mejoraron las propiedades textiles con nanorrevestimientos y nanofibras (décadas de 2000-2010). Los textiles inteligentes integraron sensores, LED y fibras conductoras. La ingeniería textil actual emplea tejido 3D, materiales biofabricados, textiles potenciados con grafeno y optimización de diseño impulsada por IA, al tiempo que aborda la sostenibilidad mediante principios de economía circular.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería textil\n    Ancient-1700s : Producción a mano\n                  : Oficio de hilado y tejido\n    1764 : Spinning jenny\n         : Producción de múltiples husos\n    1785 : Telar mecánico\n         : Mecanización de Cartwright\n    1793 : Desmotadora de algodón\n         : Separación de fibras de Whitney\n    1894 : Desarrollo del rayón\n         : Primera fibra manufacturada\n    1935 : Invención del nailon\n         : Avance sintético de Carothers\n    1941 : Desarrollo del poliéster\n         : Surge la fibra más producida\n    1958 : Introducción del spandex\n         : Elasticidad excepcional\n    1965 : Alto desempeño de Kevlar\n         : Aplicaciones de fibra técnica\n    1970s-1980s : Sistemas CAD\n                : Transformación del diseño digital\n    1980s-1990s : Telares sin lanzadera\n                : Aumento de la velocidad de producción\n    2000s : Impresión digital\n          : Personalización y reducción de desperdicio\n    2000s-2010s : Nanotecnología\n                : Propiedades mejoradas\n    2020s : Tejido 3D y biomateriales\n          : Optimización sostenible con IA",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_textil",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

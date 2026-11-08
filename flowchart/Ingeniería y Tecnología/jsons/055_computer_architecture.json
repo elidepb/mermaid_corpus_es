@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Arquitectura de computadoras",
+            "category": "ciencias_de_la_computacion",
+            "description": "La arquitectura de computadoras es el diseño conceptual y la estructura operativa fundamental de un sistema informático, que define cómo interactúan los componentes de hardware para ejecutar instrucciones. Su propósito principal es optimizar el rendimiento, la eficiencia y la funcionalidad. Los componentes centrales incluyen: CPU (unidad central de procesamiento: ejecución de instrucciones con UAL y unidad de control), jerarquía de memoria (registros, caché, RAM, almacenamiento), sistemas de E/S (interfaz con dispositivos externos) y arquitectura de bus (vías de datos que conectan componentes). Los principios de diseño involucran la arquitectura del conjunto de instrucciones (ISA), la segmentación, el paralelismo y los modelos de flujo de datos. Esta estructura permite en conjunto el cómputo, el procesamiento de datos y la ejecución de programas con velocidad y utilización de recursos óptimas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Arquitectura de computadoras</b><br>Diseño conceptual y estructura operativa<br>de los sistemas informáticos]:::title\n    B[<b>PROPÓSITO PRINCIPAL</b><br>Optimizar rendimiento,<br>eficiencia y funcionalidad]:::purpose\n    C[<b>COMPONENTES CENTRALES</b>]:::components\n    \n    subgraph D[CPU]\n        D1[Unidad central de procesamiento<br>UAL y unidad de control<br>Ejecución de instrucciones]\n    end\n    \n    subgraph E[Jerarquía de memoria]\n        E1[Registros, caché<br>RAM, almacenamiento<br>Retención de datos]\n    end\n    \n    subgraph F[Sistemas de E/S]\n        F1[Entrada/salida<br>Interfaces con<br>dispositivos externos]\n    end\n    \n    subgraph G[Arquitectura de bus]\n        G1[Vías de datos<br>Interconexión de<br>componentes]\n    end\n    \n    H[<b>PRINCIPIOS DE DISEÑO</b><br>ISA, segmentación,<br>paralelismo, flujo de datos]:::principles\n    \n    I[<b>PERMITE</b><br>Cómputo, procesamiento<br>y ejecución óptima]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|guiado por| H\n    H -->|en conjunto logra| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef purpose fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef principles fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "arquitectura_de_computadoras",
+                "ciencias_de_la_computacion",
+                "cpu",
+                "isa",
+                "memoria"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

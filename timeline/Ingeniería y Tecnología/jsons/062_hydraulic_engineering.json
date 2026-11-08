@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Ingeniería hidráulica",
+            "category": "Ingeniería",
+            "description": "La ingeniería hidráulica tiene raíces antiguas: las primeras civilizaciones (desde 3000 a. C.) desarrollaron sistemas de riego en Mesopotamia, Egipto y el valle del Indo, junto con acueductos romanos que demostraban el transporte avanzado de agua. La Edad Media vio proliferar los sistemas de canales y los molinos de agua por Europa y Asia. El siglo XVIII trajo los fundamentos científicos con los principios de dinámica de fluidos de Daniel Bernoulli (1738) y la ecuación de flujo en canal abierto de Antoine Chézy (1768). El siglo XIX presenció grandes proyectos de canales, el desarrollo de turbinas y la fórmula de Manning (1889) para el flujo en canales. A principios del siglo XX se introdujo la gran construcción de presas (presa Hoover 1936) y la expansión de la energía hidroeléctrica. Las décadas de 1950-60 vieron proyectos hídricos a gran escala en todo el mundo y el surgimiento del modelado por computadora. Las de 1970-80 avanzaron con métodos numéricos, mejoras de la tecnología de bombas y consideraciones ambientales. Las de 1990-2000 trajeron software sofisticado de modelado hidráulico (HEC-RAS, CFD) y la gestión integrada de recursos hídricos. Las de 2010-2020 continúan con sistemas hídricos inteligentes, monitoreo en tiempo real, estrategias de adaptación climática y diseño hidráulico sostenible como práctica estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería hidráulica</b>\n    \n    section Era antigua\n        3000 BCE onwards : Sistemas de riego\n                         : Mesopotamia, Egipto, Indo\n        Roman Era : Acueductos\n                  : Transporte avanzado de agua\n        Middle Ages : Sistemas de canales\n                    : Molinos de agua\n    \n    section Fundamentos científicos\n        1738  : Principios de Bernoulli\n              : Dinámica de fluidos\n        1768  : Ecuación de Chézy\n              : Flujo en canal abierto\n        1800s : Grandes proyectos de canales\n              : Desarrollo de turbinas\n        1889  : Fórmula de Manning\n    \n    section Era de las presas\n        Early 1900s : Gran construcción de presas\n                    : Expansión hidroeléctrica\n        1936  : Finalización de la presa Hoover\n    \n    section Hidráulica moderna\n        1950s-60s : Proyectos hídricos a gran escala\n                  : Comienza el modelado por computadora\n        1970s-80s : Métodos numéricos\n                  : Avances en tecnología de bombas\n                  : Enfoque ambiental\n    \n    section Era digital\n        1990s-2000s : Software de modelado hidráulico\n                    : Herramientas HEC-RAS y CFD\n                    : Gestión integrada\n        2010s-2020s : Sistemas hídricos inteligentes\n                    : Monitoreo en tiempo real\n                    : Adaptación climática\n                    : Diseño sostenible",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_hidraulica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

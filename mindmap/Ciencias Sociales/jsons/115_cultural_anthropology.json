@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Antropología cultural",
+            "category": "Antropología",
+            "description": "Este mapa mental organiza el campo de la antropología cultural. Se ramifica en conceptos centrales (cultura, relativismo cultural, holismo, etnocentrismo, aculturación), métodos (etnografía, observación participante, entrevistas, historias de vida, método comparativo, descripción densa), marcos teóricos (evolucionismo cultural, funcionalismo, estructuralismo, antropología simbólica e interpretativa, economía política, posestructuralismo, antropología feminista), pensadores clave (Edward Tylor, Franz Boas, Bronisław Malinowski, Claude Lévi-Strauss, Margaret Mead, Clifford Geertz) y áreas aplicadas (antropología médica, antropología del desarrollo, antropología educativa, antropología empresarial). El mapa captura el alcance de la disciplina de la teoría a la práctica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Antropología cultural))\n    Conceptos_centrales\n      Cultura\n      Relativismo_cultural\n      Holismo\n      Etnocentrismo\n      Aculturación\n    Métodos\n      Etnografía\n      Observación_participante\n      Entrevistas\n      Historias_de_vida\n      Método_comparativo\n      Descripción_densa\n    Marcos_teóricos\n      Evolucionismo_cultural\n      Funcionalismo\n      Estructuralismo\n      Simbólica_e_interpretativa\n      Economía_política\n      Posestructuralismo\n      Antropología_feminista\n    Pensadores_clave\n      Edward_Tylor\n      Franz_Boas\n      Bronisław_Malinowski\n      Claude_Lévi-Strauss\n      Margaret_Mead\n      Clifford_Geertz\n    Áreas_aplicadas\n      Antropología_médica\n      Desarrollo\n      Educación\n      Empresa",
+            "complexity": "high",
+            "tags": [
+                "antropología_cultural",
+                "mapa_mental",
+                "etnografía",
+                "relativismo_cultural",
+                "boas",
+                "malinowski",
+                "geertz",
+                "estructuralismo"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

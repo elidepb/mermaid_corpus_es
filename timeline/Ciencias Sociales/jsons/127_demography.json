@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demografía",
+            "category": "Ciencias sociales",
+            "description": "Esta cronología traza la evolución de la demografía desde los primeros recuentos hasta la ciencia moderna de la población. Hitos clave: censos antiguos (Babilonia c. 3800 a. C., romano c. 6 d. C.); el análisis de tablas de mortalidad de John Graunt en 1662, fundamento de la demografía; la tabla de mortalidad de Edmund Halley de 1693; el «Ensayo sobre el principio de la población» de Thomas Malthus de 1798; los primeros censos modernos (EE. UU. 1790, Reino Unido 1801); la sociología estadística de Adolphe Quetelet de 1835; la teoría de la población estable de Alfred Lotka de 1907; el modelo de transición demográfica (Notestein, 1945); la creación de la División de Población de la ONU en 1946; la Conferencia Mundial de Población de 1954; la Conferencia de Bucarest de 1974; la Conferencia de El Cairo sobre Población y Desarrollo de 1994; hitos de la población mundial (1000 millones en 1804, 7000 millones en 2011, 8000 millones en 2022); y desarrollos contemporáneos en macrodatos y proyecciones de población.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la demografía\n    section Primeros recuentos\n      c. 3800 BCE : Tablillas de arcilla babilónicas<br>censo\n      c. 6 CE : Censo romano\n    section Fundamentos científicos\n      1662 : John Graunt<br>Observaciones naturales y políticas\n      1693 : Edmund Halley<br>Primera tabla de mortalidad moderna\n      1798 : Thomas Malthus<br>Ensayo sobre la población\n    section Censos modernos y estadística\n      1790 : Primer censo de EE. UU.\n      1801 : Primer censo del Reino Unido\n      1835 : Adolphe Quetelet<br>Estudio estadístico del hombre\n      1907 : Alfred Lotka<br>Teoría de la población estable\n    section Transición demográfica e instituciones\n      1945 : Frank Notestein<br>Modelo de transición demográfica\n      1946 : División de Población de la ONU<br>establecida\n      1954 : Primera Conferencia Mundial de Población\n    section Política mundial y desarrollo\n      1974 : Conferencia de Bucarest<br>población y desarrollo\n      1994 : Conferencia de El Cairo<br>salud reproductiva y derechos\n    section Hitos de población\n      1804 : 1000 millones\n      1927 : 2000 millones\n      1960 : 3000 millones\n      1974 : 4000 millones\n      1987 : 5000 millones\n      1999 : 6000 millones\n      2011 : 7000 millones\n      2022 : 8000 millones\n    section Contemporáneo\n      2010s-20s : Macrodatos, microsimulación<br>y proyecciones sensibles al clima",
+            "complexity": "high",
+            "tags": [
+                "demografia",
+                "historia",
+                "linea_de_tiempo",
+                "censo",
+                "malthus",
+                "transicion_demografica",
+                "crecimiento_poblacional",
+                "estadisticas_vitales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

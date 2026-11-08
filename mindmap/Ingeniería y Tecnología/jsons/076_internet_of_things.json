@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "076",
+            "topic": "Internet de las cosas",
+            "category": "Tecnología",
+            "description": "El internet de las cosas abarca tipos de dispositivos, protocolos de comunicación, plataformas y aplicaciones que crean ecosistemas conectados. Los dispositivos IoT incluyen sensores que miden temperatura, presión, movimiento, luz y condiciones ambientales; actuadores que controlan motores, válvulas e interruptores; wearables que siguen salud y actividad; electrodomésticos inteligentes que automatizan funciones del hogar; y equipo industrial que monitoriza maquinaria. Los protocolos de comunicación emplean WiFi para conectividad local de alto ancho de banda, Bluetooth Low Energy para dispositivos personales de corto alcance, celular (4G/5G) para cobertura de área amplia, LoRaWAN para aplicaciones de largo alcance y baja potencia, Zigbee para redes en malla de automatización del hogar y MQTT para mensajería ligera. Las plataformas IoT proporcionan AWS IoT para integración en la nube, Azure IoT Hub para ecosistemas Microsoft, Google Cloud IoT para analítica, ThingSpeak para visualización de datos y opciones de código abierto como Node-RED. Los dominios de aplicación cubren hogares inteligentes con iluminación y climatización automatizadas, IoT industrial que optimiza la fabricación y el mantenimiento predictivo, ciudades inteligentes que gestionan tráfico y servicios, sanidad que monitoriza pacientes a distancia, agricultura que optimiza riego y gestión de cultivos, y vehículos conectados que habilitan la conducción autónoma. La computación en el borde procesa datos localmente, reduciendo latencia y ancho de banda, mientras que los retos de seguridad abordan autenticación de dispositivos, cifrado de datos, protección de la privacidad y gestión de vulnerabilidades en despliegues distribuidos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Internet de las<br>cosas</b>))\n    <b>Dispositivos IoT</b>\n      Sensores ambientales\n      Actuadores y controles\n      Wearables\n      Electrodomésticos inteligentes\n      Equipo industrial\n      Contadores inteligentes\n    <b>Protocolos de comunicación</b>\n      Conectividad WiFi\n      Bluetooth Low Energy\n      Celular 4G/5G\n      LoRaWAN de largo alcance\n      Redes en malla Zigbee\n      Mensajería MQTT\n    <b>Plataformas IoT</b>\n      AWS IoT\n      Azure IoT Hub\n      Google Cloud IoT\n      ThingSpeak\n      Node-RED de código abierto\n      IBM Watson IoT\n    <b>Dominios de aplicación</b>\n      Hogares inteligentes\n      IoT industrial\n      Ciudades inteligentes\n      Monitorización sanitaria\n      Agricultura de precisión\n      Vehículos conectados\n    <b>Computación en el borde</b>\n      Procesamiento local de datos\n      Reducción de latencia\n      Optimización de ancho de banda\n      Decisiones en tiempo real\n      Computación en la niebla\n    <b>Analítica de datos</b>\n      Procesamiento en flujo\n      Analítica predictiva\n      Detección de anomalías\n      Aprendizaje automático\n      Paneles de visualización\n    <b>Retos de seguridad</b>\n      Autenticación de dispositivos\n      Cifrado de datos\n      Protección de la privacidad\n      Actualizaciones de firmware\n      Gestión de vulnerabilidades\n    <b>Normas y protocolos</b>\n      HTTP/HTTPS\n      CoAP\n      IPv6/6LoWPAN\n      Thread\n      Norma Matter",
+            "complexity": "high",
+            "tags": [
+                "internet_de_las_cosas",
+                "tecnología"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

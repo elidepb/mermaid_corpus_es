@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Sociología política",
+            "category": "Sociología y ciencia política",
+            "description": "La sociología política examina la intersección de la sociedad y la política. Este diagrama de flujo mapea su lógica: partiendo del objetivo de comprender cómo las fuerzas sociales configuran el poder político y sus resultados, integra dimensiones centrales (el Estado y su autonomía, el poder y la dominación, la sociedad civil y el capital social, la cultura política y la ideología, y la participación política y los movimientos sociales). Estas dimensiones se analizan a través de teorías clásicas y contemporáneas (análisis de clase marxista, autoridad weberiana, teoría de las élites, pluralismo, nuevo institucionalismo, posestructuralismo). La síntesis explica fenómenos políticos clave como la estabilidad democrática, la revolución, la elaboración de políticas y el auge del populismo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociología política</b><br>El estudio de cómo la sociedad<br>configura la política y el poder]:::title\n    B[<b>OBJETIVO</b><br>Explicar la interacción entre<br>estructuras sociales y resultados políticos]:::goal\n    C[<b>DIMENSIONES CENTRALES</b>]:::dimensions\n    subgraph D[Conceptos fundacionales]\n        D1[El Estado y la autonomía<br>Poder y dominación<br>Sociedad civil y capital social<br>Cultura política e ideología<br>Participación y movimientos sociales]\n    end\n    subgraph E[Lentes teóricas]\n        E1[\"Teorías de clase y élites (Marx, Weber, Pareto)<br>Pluralismo y poliarquía (Dahl)<br>Nuevo institucionalismo<br>Posestructuralismo (Foucault)\"]\n    end\n    F[<b>ANÁLISIS</b><br>Conectar el comportamiento político micro<br>con las estructuras de nivel macro]:::analysis\n    G[<b>RESULTADOS</b><br>Estabilidad democrática, revolución,<br>formación de políticas, populismo]:::outcome\n\n    A -->|busca| B\n    B -->|mediante el estudio de| C\n    C -->|abarca| D\n    C -->|aplica| E\n    D & E -->|informan| F\n    F -->|explica| G\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "sociologia_politica",
+                "poder",
+                "estado",
+                "sociedad_civil",
+                "cultura_politica",
+                "movimientos_sociales",
+                "teoria_de_las_elites",
+                "pluralismo"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

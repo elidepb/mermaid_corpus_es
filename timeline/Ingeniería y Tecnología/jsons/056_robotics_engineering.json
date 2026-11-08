@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "056",
+            "topic": "Ingeniería robótica",
+            "category": "Ingeniería",
+            "description": "La historia de la ingeniería robótica comenzó en la década de 1920 cuando Karel Čapek introdujo el término robot en su obra R.U.R. La década de 1950 vio el primer robot programable (Unimate) y las Tres leyes de la robótica de Isaac Asimov. 1961 marcó el despliegue de Unimate en una fábrica de GM, iniciando la robótica industrial. La década de 1970 trajo el Stanford Cart y los primeros robots móviles con visión por computadora. La década de 1980 presenció los robots SCARA y una automatización manufacturera reforzada. 1997 introdujo el rover Sojourner de Mars Pathfinder y el desarrollo del humanoide ASIMO de Honda. La década de 2000 vio vehículos autónomos (DARPA Grand Challenge 2004), drones comerciales y robots quirúrgicos (da Vinci). La década de 2010 avanzó los robots colaborativos (cobots), la integración de IA y los robots dinámicos de Boston Dynamics. La de 2020 continúa con sistemas de entrega autónoma, robótica blanda y colaboración humano-robot que se vuelven habituales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería robótica</b>\n    \n    section Era temprana\n        1920s : Se acuña el término \"robot\"\n              : Obra R.U.R. de Karel Čapek\n        1950s : Primer robot programable\n              : Tres leyes de Asimov\n        1961  : Unimate en fábrica de GM\n              : Comienza la robótica industrial\n    \n    section Fase de desarrollo\n        1970s : Stanford Cart\n              : Robots móviles con visión\n        1980s : Introducción de robots SCARA\n              : Automatización manufacturera\n    \n    section Robótica moderna\n        1997  : Rover Sojourner de Marte\n              : Humanoide ASIMO de Honda\n        2004  : DARPA Grand Challenge\n              : Vehículos autónomos\n        2000s : Robots quirúrgicos (da Vinci)\n              : Drones comerciales\n    \n    section Integración de IA\n        2010s : Robots colaborativos (cobots)\n              : Integración de IA y AA\n              : Avances de Boston Dynamics\n    \n    section Era actual\n        2020s : Sistemas de entrega autónoma\n              : Desarrollo de robótica blanda\n              : Colaboración humano-robot\n              : Autonomía impulsada por IA",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_robotica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

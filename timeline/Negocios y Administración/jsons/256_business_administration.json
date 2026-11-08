@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Administración de empresas",
+            "category": "Negocios",
+            "description": "La evolución de la administración de empresas abarca desde la gestión científica de principios del siglo XX hasta la transformación digital actual. Frederick Taylor introdujo estudios sistemáticos del trabajo en 1911, seguido de los principios de administración de Fayol en 1916. El movimiento de relaciones humanas surgió en la década de 1930, reconociendo la psicología del trabajador. Peter Drucker popularizó la dirección por objetivos en 1954. La década de 1980 trajo la gestión de la calidad total, la de 1990 la reingeniería de procesos de negocio, y la de 2000 las metodologías lean. Las tendencias actuales se centran en la gestión ágil y la toma de decisiones impulsada por IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la administración de empresas\n    1911 : Gestión científica\n         : Estudios de trabajo de Frederick Taylor\n    1916 : Teoría administrativa\n         : Los 14 principios de Henri Fayol\n    1930s : Movimiento de relaciones humanas\n          : Estudios de Hawthorne\n    1954 : Dirección por objetivos\n         : Marco de Peter Drucker\n    1980s : Gestión de la calidad total\n          : Deming y métodos japoneses\n    1990s : Reingeniería de procesos de negocio\n          : Rediseño radical de procesos\n    2000s : Gestión lean\n          : Enfoque en la eliminación de desperdicios\n    2010s : Ágil y digital\n          : Metodologías adaptativas\n    2020s : Gestión impulsada por IA\n          : Analítica de datos y automatización",
+            "complexity": "high",
+            "tags": [
+                "administracion_de_empresas",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

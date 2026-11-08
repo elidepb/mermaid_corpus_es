@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Derecho mercantil",
+            "category": "Derecho",
+            "description": "Esta cronología traza la evolución del derecho mercantil desde las costumbres mercantiles medievales hasta los marcos internacionales modernos. Los hitos clave incluyen la Lex Mercatoria (derecho mercantil medieval), la Sale of Goods Act inglesa de 1893, la Uniform Sales Act de EE. UU. de 1906, el Uniform Commercial Code (UCC) redactado en 1952, la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías (CISG) de 1980 y los Principios UNIDROIT sobre los Contratos Comerciales Internacionales (1994). La cronología también señala la adopción de códigos de comercio nacionales en los países de derecho civil durante el siglo XIX y los desarrollos contemporáneos en el comercio digital y los contratos inteligentes.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho mercantil\n    section Orígenes medievales\n      11th‑15th c. : Lex Mercatoria<br>Costumbre mercantil en Europa\n    section Codificaciones nacionales\n      1807 : Código de Comercio francés\n      1893 : Sale of Goods Act del Reino Unido\n      1906 : Uniform Sales Act de EE. UU.\n    section Leyes y códigos uniformes\n      1952 : Uniform Commercial Code de EE. UU.<br>(UCC) redactado\n      1950s‑60s : El UCC es adoptado por todos los estados\n    section Unificación internacional\n      1980 : CISG (Convención de Viena)\n      1994 : Principios UNIDROIT\n      2000s : Regulaciones del<br>comercio electrónico\n    section Contemporáneo\n      2010s‑20s : Contratos inteligentes,<br>fintech, derecho del comercio digital",
+            "complexity": "high",
+            "tags": [
+                "derecho_mercantil",
+                "historia",
+                "linea_de_tiempo",
+                "lex_mercatoria",
+                "UCC",
+                "CISG",
+                "UNIDROIT",
+                "compraventa_de_mercancias"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

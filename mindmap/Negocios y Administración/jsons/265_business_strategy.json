@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Estrategia empresarial",
+            "category": "Negocios",
+            "description": "La estrategia empresarial abarca marcos analíticos y enfoques estratégicos que orientan la dirección organizacional. El análisis competitivo emplea las cinco fuerzas de Porter, el perfilado de competidores, el posicionamiento de mercado y la evaluación de la estructura del sector. La planificación estratégica desarrolla estrategias a nivel corporativo, de negocio y funcional, junto con planificación de escenarios. Las estrategias de crecimiento incluyen penetración de mercado, desarrollo de productos, desarrollo de mercados y diversificación mediante la matriz de Ansoff. Las ventajas competitivas se construyen mediante liderazgo en costos, diferenciación, innovación y capacidades basadas en recursos. Las alianzas estratégicas se forman a través de joint ventures, fusiones y adquisiciones, asociaciones y desarrollo de ecosistemas. La transformación digital integra la disrupción tecnológica, las estrategias de plataforma y la toma de decisiones basada en datos. La estrategia de océano azul crea espacios de mercado no disputados mediante la innovación en valor.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Estrategia<br>empresarial</b>))\n    <b>Análisis competitivo</b>\n      Cinco fuerzas de Porter\n      Perfilado de competidores\n      Posicionamiento de mercado\n      Estructura del sector\n      Análisis de barreras\n    <b>Planificación estratégica</b>\n      Estrategia corporativa\n      Estrategia a nivel de negocio\n      Estrategia funcional\n      Planificación de escenarios\n      Alineación de la visión\n    <b>Estrategias de crecimiento</b>\n      Penetración de mercado\n      Desarrollo de productos\n      Desarrollo de mercados\n      Diversificación\n      Matriz de Ansoff\n    <b>Ventaja competitiva</b>\n      Liderazgo en costos\n      Diferenciación\n      Enfoque en innovación\n      Visión basada en recursos\n      Competencias centrales\n    <b>Alianzas estratégicas</b>\n      Joint ventures\n      Integración de fusiones y adquisiciones\n      Asociaciones\n      Desarrollo de ecosistemas\n    <b>Transformación digital</b>\n      Disrupción tecnológica\n      Estrategias de plataforma\n      Decisiones basadas en datos\n      Cambio de modelo de negocio\n    <b>Estrategia océano azul</b>\n      Innovación en valor\n      Mercados no disputados\n      Lienzo estratégico\n      Marco de las cuatro acciones",
+            "complexity": "high",
+            "tags": [
+                "estrategia_empresarial",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Administración de empresas",
+            "category": "Negocios",
+            "description": "La administración de empresas es el proceso sistemático de gestionar los recursos organizacionales para alcanzar objetivos estratégicos de forma eficiente. Abarca planificar lo que la organización hará, organizar cómo se estructurarán los recursos, dirigir equipos para ejecutar los planes y controlar los resultados para asegurar que se cumplan las metas. Este proceso cíclico de gestión crea valor mediante la coordinación óptima de los recursos humanos, financieros y materiales.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Administración de empresas</b><br>Gestión sistemática de<br>recursos organizacionales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Alcanzar metas estratégicas<br>de forma eficiente]:::objective\n    C[<b>CUATRO FUNCIONES CENTRALES</b>]:::functions\n    \n    subgraph D[Planificación]\n        D1[Definir objetivos<br>y estrategias]\n    end\n    \n    subgraph E[Organización]\n        E1[Estructurar recursos<br>y responsabilidades]\n    end\n    \n    subgraph F[Dirección]\n        F1[Motivar y dirigir<br>equipos]\n    end\n    \n    subgraph G[Control]\n        G1[Monitorear el desempeño<br>y ajustar]\n    end\n    \n    H[<b>CREACIÓN DE VALOR</b><br>Mediante la coordinación óptima<br>de recursos]:::value\n    \n    A -->|busca| B\n    B -->|requiere| C\n    C -->|implica| D\n    C -->|implica| E\n    C -->|implica| F\n    C -->|implica| G\n    D & E & F & G -->|logran colectivamente| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef functions fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef value fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "administracion_de_empresas",
+                "gestion",
+                "finanzas",
+                "marketing",
+                "operaciones"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

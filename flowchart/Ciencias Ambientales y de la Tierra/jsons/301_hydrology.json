@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "301",
+            "topic": "Hidrología",
+            "category": "Ciencias de la Tierra",
+            "description": "La hidrología es el estudio científico del movimiento, la distribución y las propiedades del agua a lo largo del ciclo hidrológico de la Tierra, abarcando las aguas superficiales, las aguas subterráneas y el agua atmosférica. Su objetivo principal es comprender el comportamiento del agua en sistemas naturales y modificados por el ser humano para apoyar la gestión de recursos hídricos, la predicción de inundaciones, la evaluación de sequías y la protección ambiental. Los dominios centrales incluyen: procesos del ciclo hidrológico (precipitación, evapotranspiración, infiltración, escorrentía, flujo de aguas subterráneas), hidrología superficial (análisis de cuencas, dinámica del caudal, hidráulica fluvial, hidrología de lagos y embalses), hidrología subsuperficial (movimiento de aguas subterráneas, características de acuíferos, dinámica de la humedad del suelo, procesos de la zona vadosa), modelado hidrológico (modelos lluvia-escorrentía, modelos de aguas subterráneas, modelos integrados de cuencas, evaluación de impactos climáticos) y medición y monitoreo (pluviómetros, aforos de caudal, pozos de aguas subterráneas, teledetección, trazadores isotópicos). El proceso de investigación y aplicación implica recolección y monitoreo de datos, análisis hidrológico, desarrollo y calibración de modelos, predicción y previsión, y aplicación a la gestión del agua. Estos elementos se integran mediante la física, las matemáticas y las ciencias de la Tierra para posibilitar la previsión de inundaciones, la planificación del abastecimiento de agua, la gestión de sequías, la evaluación de la contaminación, los estudios de impacto del cambio climático y la determinación de caudales ecosistémicos que informan las decisiones sobre recursos hídricos y la protección ambiental.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Hidrología</b><br>Estudio del movimiento, la distribución<br>y las propiedades del agua]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Comprender el comportamiento del agua<br>para la gestión y la predicción]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Ciclo hidrológico]\n        D1[Precipitación<br>Evapotranspiración<br>Infiltración y escorrentía]\n    end\n    \n    subgraph E[Hidrología superficial]\n        E1[Análisis de cuencas<br>Dinámica del caudal<br>Hidráulica fluvial]\n    end\n    \n    subgraph F[Hidrología subsuperficial]\n        F1[Movimiento de aguas subterráneas<br>Características de acuíferos<br>Humedad del suelo]\n    end\n    \n    subgraph G[Modelado hidrológico]\n        G1[Modelos lluvia-escorrentía<br>Modelos de aguas subterráneas<br>Evaluación de impactos climáticos]\n    end\n    \n    subgraph H[Medición y monitoreo]\n        H1[Pluviómetros<br>Aforos de caudal<br>Teledetección]\n    end\n    \n    I[<b>PROCESO DE INVESTIGACIÓN</b><br>Recolección de datos, análisis<br>Modelado, previsión]:::process\n    \n    J[<b>POSIBILITA</b><br>Previsión de inundaciones, planificación hídrica<br>y protección ambiental]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante el estudio| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "hidrologia",
+                "ciencias_de_la_tierra",
+                "ciclo_hidrologico",
+                "agua",
+                "evaporacion",
+                "precipitacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Educación especial",
+            "category": "Educación",
+            "description": "La educación especial es la instrucción adaptada para atender las necesidades singulares del alumnado con discapacidad. Este diagrama de flujo ilustra el proceso sistemático: el objetivo último es proporcionar acceso equitativo y apoyo individualizado en el entorno menos restrictivo. Comienza con la derivación y la evaluación, seguidas de la determinación de elegibilidad y la elaboración del IEP. Los componentes centrales incluyen la instrucción especializada, los servicios relacionados, los ajustes razonables y la tecnología de apoyo. Estos se implementan en entornos inclusivos y se supervisan en su progreso, lo que conduce a resultados de logro académico, independencia y participación social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Educación especial</b><br>Instrucción adaptada para el alumnado<br>con discapacidad]:::title\n    B[<b>OBJETIVO</b><br>Garantizar el acceso equitativo, el apoyo<br>individualizado y la inclusión]:::goal\n    C[<b>PROCESO CENTRAL</b>]:::process\n    subgraph D[Identificación y evaluación]\n        D1[Derivación<br>Evaluación multidisciplinar<br>Determinación de elegibilidad]\n    end\n    subgraph E[Planificación individualizada]\n        E1[Elaboración del IEP<br>Ubicación en el LRE<br>Ajustes y modificaciones]\n    end\n    subgraph F[Instrucción y servicios]\n        F1[\"Instrucción especializada<br>Servicios relacionados (OT, PT, SLP)<br>Tecnología de apoyo<br>Apoyos conductuales\"]\n    end\n    subgraph G[Progreso y revisión]\n        G1[Seguimiento continuo del progreso<br>Revisión anual del IEP<br>Reevaluación]\n    end\n    H[<b>RESULTADOS</b><br>Logro académico, independencia,<br>participación social, autodefensa]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|comienza con| D\n    D -->|conduce a| E\n    E -->|guía| F\n    F -->|medido por| G\n    G -->|logra| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef process fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "educacion_especial",
+                "IEP",
+                "educacion_inclusiva",
+                "LRE",
+                "discapacidad",
+                "IDEA",
+                "evaluacion",
+                "instruccion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

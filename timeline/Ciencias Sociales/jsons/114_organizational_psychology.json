@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Psicología organizacional",
+            "category": "Psicología y negocios",
+            "description": "Esta cronología rastrea la evolución de la psicología organizacional. Hitos clave: la gestión científica de Taylor (1911) y Psicología y eficiencia industrial de Münsterberg (1913) establecieron el campo. Los estudios de Hawthorne (1924-1932) impulsaron el movimiento de relaciones humanas. A mediados de siglo surgieron la jerarquía de necesidades de Maslow (1943), la formación de la División 14 de la APA (1945, más tarde SIOP), la teoría de los dos factores de Herzberg (1959) y la teoría de la expectativa de Vroom (1964). El modelo de las características del puesto (1976) transformó el diseño del trabajo. La década de 1990 enfatizó el estrés, el bienestar y la conciliación. La de 2000 trajo el comportamiento organizacional positivo (2002) y la analítica de personas (década de 2010). Los temas contemporáneos incluyen el trabajo remoto, la DEI y la transformación digital (década de 2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la psicología organizacional\n    section Primeros fundamentos\n      1911 : Frederick Taylor<br>Principios de la gestión científica\n      1913 : Hugo Münsterberg<br>Psicología y eficiencia industrial\n    section Relaciones humanas\n      1924-32 : Estudios de Hawthorne<br>(Mayo) Movimiento de relaciones humanas\n    section Teorías de mediados de siglo\n      1943 : Maslow<br>Jerarquía de necesidades\n      1945 : División 14 de la APA<br>Psicología industrial-organizacional\n      1959 : Herzberg<br>Teoría de los dos factores\n      1964 : Vroom<br>Teoría de la expectativa\n    section Diseño del puesto y DO\n      1976 : Hackman y Oldham<br>Modelo de las características del puesto\n      1980s : Desarrollo organizacional<br>cultura y cambio\n    section Era moderna\n      1990s : Estrés y bienestar<br>conciliación laboral\n      2002 : Comportamiento organizacional<br>positivo (Luthans)\n      2010s : Analítica de personas<br>y big data\n      2020s : Trabajo remoto, DEI,<br>transformación digital",
+            "complexity": "high",
+            "tags": [
+                "psicologia_organizacional",
+                "historia",
+                "linea_de_tiempo",
+                "gestion_cientifica",
+                "estudios_de_Hawthorne",
+                "maslow",
+                "caracteristicas_del_puesto",
+                "analitica_de_personas"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

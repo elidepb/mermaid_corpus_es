@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "072",
+            "topic": "Ingeniería de transporte",
+            "category": "ingenieria",
+            "description": "La ingeniería de transporte es la rama especializada de la ingeniería civil que planifica, diseña, opera y mantiene sistemas de transporte para mover personas y mercancías de forma segura y eficiente. Su objetivo principal es desarrollar infraestructura de transporte integrada y sostenible que optimice la movilidad, reduzca la congestión, mejore la seguridad y minimice el impacto ambiental. Los dominios centrales incluyen: ingeniería de carreteras (diseño geométrico, diseño de pavimentos, análisis de flujo de tráfico, diseño de intersecciones), ingeniería de tráfico (temporización de semáforos, gestión del tráfico, análisis de capacidad, sistemas inteligentes de transporte), sistemas de transporte público (tránsito ferroviario, autobús de tránsito rápido, diseño de estaciones, programación), planificación del transporte (pronóstico de la demanda, optimización de redes, integración con el uso del suelo) y seguridad del transporte (análisis de accidentes, auditorías de seguridad, diseño de contramedidas). El proceso de ingeniería involucra recopilación y análisis de datos, modelado de la demanda, diseño y simulación, implementación y evaluación del rendimiento. Estos elementos se integran mediante la teoría del flujo de tráfico, algoritmos de optimización y factores humanos para crear autovías, calles urbanas, sistemas de tránsito, aeropuertos y redes de transporte multimodal que apoyan el desarrollo económico y la calidad de vida.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería de transporte</b><br>Planificación, diseño y operación<br>de sistemas de transporte]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Desarrollar infraestructura sostenible<br>que optimice movilidad y seguridad]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Ingeniería de carreteras]\n        D1[Diseño geométrico<br>Diseño de pavimentos<br>Diseño de intersecciones]\n    end\n    \n    subgraph E[Ingeniería de tráfico]\n        E1[Temporización de semáforos<br>Gestión del tráfico<br>Sistemas ITS]\n    end\n    \n    subgraph F[Sistemas de transporte público]\n        F1[Tránsito ferroviario y de autobús<br>Diseño de estaciones<br>Programación]\n    end\n    \n    subgraph G[Planificación del transporte]\n        G1[Pronóstico de la demanda<br>Optimización de redes<br>Integración con el uso del suelo]\n    end\n    \n    subgraph H[Seguridad del transporte]\n        H1[Análisis de accidentes<br>Auditorías de seguridad<br>Diseño de contramedidas]\n    end\n    \n    I[<b>PROCESO DE INGENIERÍA</b><br>Análisis de datos, modelado<br>Diseño, implementación]:::process\n    \n    J[<b>CREA</b><br>Redes de transporte que apoyan<br>la movilidad y el desarrollo]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_de_transporte",
+                "ingenieria",
+                "ingenieria_civil",
+                "ingenieria_de_trafico",
+                "planificacion_del_transporte"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

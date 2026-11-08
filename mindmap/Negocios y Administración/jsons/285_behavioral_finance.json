@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Finanzas conductuales",
+            "category": "Negocios",
+            "description": "Las finanzas conductuales abarcan sesgos cognitivos, factores emocionales y fenómenos de mercado que cuestionan los supuestos de las finanzas racionales. Los sesgos cognitivos incluyen el exceso de confianza que causa negociación excesiva y toma de riesgos, el anclaje que se fija en puntos de referencia irrelevantes, el sesgo de confirmación que busca información de apoyo e ignora evidencia contradictoria, la heurística de disponibilidad que sobrepondera eventos fácilmente recordados y la representatividad que juzga por estereotipos en lugar de tasas base. Los sesgos emocionales involucran la aversión a la pérdida, que siente las pérdidas con más intensidad que ganancias equivalentes, la aversión al arrepentimiento que evita decisiones que podrían causar arrepentimiento futuro, problemas de autocontrol que favorecen la gratificación inmediata sobre la diferida, y efectos del estado de ánimo que vinculan emociones con preferencias de riesgo. La teoría de las perspectivas explica la dependencia de la referencia que evalúa resultados respecto a puntos de referencia, la asimetría de la aversión a la pérdida, la ponderación de probabilidades que sobrepondera probabilidades pequeñas y los efectos de encuadre en los que la presentación influye en las elecciones. Las anomalías de mercado incluyen el momentum o continuación de retornos pasados, la prima de valor de las acciones infravaloradas, el efecto tamaño del mejor desempeño de las small-cap y patrones de calendario como los efectos de enero. Las heurísticas emplean atajos mentales, incluida la representatividad, la disponibilidad y la heurística del afecto. El comportamiento del inversionista muestra el efecto disposición, el rebaño, la negociación excesiva y el sesgo doméstico que favorece las inversiones nacionales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Finanzas<br>conductuales</b>))\n    <b>Sesgos cognitivos</b>\n      Exceso de confianza\n      Anclaje\n      Sesgo de confirmación\n      Heurística de disponibilidad\n      Representatividad\n      Sesgo de retrospectiva\n    <b>Sesgos emocionales</b>\n      Aversión a la pérdida\n      Aversión al arrepentimiento\n      Problemas de autocontrol\n      Efectos del estado de ánimo\n      Sesgo de optimismo\n    <b>Teoría de las perspectivas</b>\n      Dependencia de la referencia\n      Asimetría de aversión a la pérdida\n      Ponderación de probabilidades\n      Efectos de encuadre\n      Función de valor\n    <b>Anomalías de mercado</b>\n      Efectos de momentum\n      Prima de valor\n      Efecto tamaño\n      Anomalías de calendario\n      Deriva post-resultados\n      Patrones de reversión\n    <b>Heurísticas</b>\n      Representatividad\n      Disponibilidad\n      Heurística del afecto\n      Heurística de reconocimiento\n      Atajos mentales\n    <b>Comportamiento del inversionista</b>\n      Efecto disposición\n      Comportamiento de rebaño\n      Negociación excesiva\n      Sesgo doméstico\n      Efectos de atención\n    <b>Racionalidad limitada</b>\n      Limitaciones cognitivas\n      Satisfacción suficiente\n      Atención limitada\n      Sobrecarga de información\n    <b>Neurofinanzas</b>\n      Estudios de imagen cerebral\n      Mecanismos neurales\n      Interacción emoción-cognición\n      Neurociencia de la decisión",
+            "complexity": "high",
+            "tags": [
+                "finanzas_conductuales",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

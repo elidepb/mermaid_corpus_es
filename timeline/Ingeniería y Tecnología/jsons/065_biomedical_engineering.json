@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Ingeniería biomédica",
+            "category": "Ingeniería",
+            "description": "Los fundamentos de la ingeniería biomédica surgieron a principios del siglo XX con la invención del ECG de Willem Einthoven (1903) y el desarrollo de la tecnología temprana de rayos X. Las décadas de 1920-30 trajeron el ventilador pulmón de acero y los primeros desarrollos protésicos. La década de 1950 marcó el establecimiento formal del campo con el primer marcapasos (1958) y las máquinas de diálisis. La década de 1960 presenció las máquinas corazón-pulmón que permitieron la cirugía a corazón abierto y la primera prótesis de cadera exitosa (John Charnley). La década de 1970 introdujo la tomografía computarizada (Hounsfield, 1971), la proliferación de programas de titulación en ingeniería biomédica y los implantes cocleares. La década de 1980 trajo la tecnología de RM a uso clínico, los desarrollos de corazón artificial y las técnicas de cirugía artroscópica. La década de 1990 vio los sistemas de cirugía robótica (da Vinci), los avances de la ingeniería de tejidos y el Proyecto Genoma Humano. La década de 2000 avanzó con los stents liberadores de fármacos, las mejoras de la imagen médica 3D y el progreso de la investigación con células madre. Las de 2010-2020 continúan con la edición génica CRISPR, órganos e implantes impresos en 3D, diagnósticos asistidos por IA, monitores de salud vestibles, interfaces cerebro-computadora y la medicina personalizada que se vuelven realidades clínicas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería biomédica</b>\n    \n    section Fundamentos iniciales\n        1903  : Invención del ECG\n              : Einthoven\n        1920s-30s : Ventilador pulmón de acero\n                  : Prótesis tempranas\n    \n    section Establecimiento del campo\n        1950s : Primer marcapasos (1958)\n              : Máquinas de diálisis\n        1960s : Máquinas corazón-pulmón\n              : Prótesis de cadera (Charnley)\n    \n    section Revolución de la imagen\n        1971  : Tomografía computarizada\n              : Hounsfield\n        1970s : Se expanden los programas biomédicos\n              : Implantes cocleares\n        1980s : Uso clínico de la RM\n              : Corazón artificial\n              : Cirugía artroscópica\n    \n    section Era digital\n        1990s : Cirugía robótica (da Vinci)\n              : Avances de la ingeniería de tejidos\n              : Proyecto Genoma Humano\n        2000s : Stents liberadores de fármacos\n              : Mejoras de la imagen 3D\n              : Investigación con células madre\n    \n    section Era moderna\n        2010s-2020s : Edición génica CRISPR\n                    : Órganos impresos en 3D\n                    : Diagnósticos con IA\n                    : Monitores vestibles\n                    : Interfaces cerebro-computadora\n                    : Medicina personalizada",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_biomedica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

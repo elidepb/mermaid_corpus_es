@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Publicidad",
+            "category": "Empresa y Comunicación",
+            "description": "Este mapa mental organiza el campo de la Publicidad en torno a su concepto central. Se ramifica en Conceptos clave (público objetivo, marca, USP, alcance, frecuencia, ROI, llamada a la acción, jingle), Tipos de publicidad (TV, radio, impresa, exterior, display digital, redes sociales, nativa, influencers, programática), Modelos clásicos (AIDA, DAGMAR, modelo de probabilidad de elaboración, jerarquía de efectos, teoría de medios-fines), Estrategia creativa (insight, estrategia de mensaje, tono, eslogan, identidad visual, redacción), Canales de medios (audiovisual, impreso, OOH, digital, búsqueda, social, CTV), Figuras clave (David Ogilvy, Bill Bernbach, Rosser Reeves, Leo Burnett) y Tendencias modernas (personalización, creatividad generada por IA, retargeting, publicidad centrada en la privacidad, métricas de atención). El mapa refleja tanto los principios perdurables como la innovación contemporánea.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Publicidad))\n    Conceptos_Clave\n      Público_Objetivo\n      Marca\n      USP\n      Alcance\n      Frecuencia\n      ROI\n      Llamada_a_la_Acción\n    Tipos_de_Publicidad\n      TV\n      Radio\n      Impresa\n      Exterior\n      Display_Digital\n      Redes_Sociales\n      Nativa\n      Influencers\n      Programática\n    Modelos_Clásicos\n      AIDA\n      DAGMAR\n      Probabilidad_de_Elaboración\n      Jerarquía_de_Efectos\n      Teoría_Medios_Fines\n    Estrategia_Creativa\n      Insight_del_Consumidor\n      Estrategia_de_Mensaje\n      Tono\n      Eslogan\n      Identidad_Visual\n      Redacción\n    Canales_de_Medios\n      Audiovisual\n      Impreso\n      OOH\n      Digital\n      Búsqueda\n      Social\n      CTV\n    Figuras_Clave\n      David_Ogilvy\n      Bill_Bernbach\n      Rosser_Reeves\n      Leo_Burnett\n    Tendencias_Modernas\n      Personalización\n      Creatividad_Generada_por_IA\n      Retargeting\n      Publicidad_Centrada_en_la_Privacidad\n      Métricas_de_Atención",
+            "complexity": "high",
+            "tags": ["publicidad", "mapa_mental", "estrategia_creativa", "canales_de_medios", "AIDA", "anuncios_digitales", "ogilvy"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

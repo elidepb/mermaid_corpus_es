@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Historia Antigua",
+            "category": "Historia",
+            "description": "Este mapa mental organiza el campo de la Historia Antigua en torno a su concepto central. Se ramifica en Grandes civilizaciones (Mesopotamia, Egipto, Indo, China, Grecia, Roma, Persia, Maya), Dominios temáticos (política y Estado, economía y comercio, sociedad y vida cotidiana, religión y mitología, arte y arquitectura, guerra), Periodos clave (Edad del Bronce, Edad del Hierro, Era Axial, Antigüedad Clásica, Antigüedad Tardía), Fuentes (evidencia arqueológica, textos literarios, inscripciones, monedas, etnografía comparada), Enfoques metodológicos (historiografía, crítica de fuentes, arqueología, estudios interdisciplinarios) e Historiadores influyentes (Heródoto, Tucídides, Sima Qian, Livio). La estructura destaca el carácter interdisciplinario y comparativo de la investigación histórica antigua.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia Antigua))\n    Civilizaciones\n      Mesopotamia\n      Egipto\n      Valle_del_Indo\n      China\n      Grecia\n      Roma\n      Persia\n      Maya\n    Dominios_Temáticos\n      Política_y_Estado\n      Economía_y_Comercio\n      Sociedad_y_Vida_Cotidiana\n      Religión_y_Mitología\n      Arte_y_Arquitectura\n      Guerra\n    Periodos_Clave\n      Edad_del_Bronce\n      Edad_del_Hierro\n      Era_Axial\n      Antigüedad_Clásica\n      Antigüedad_Tardía\n    Fuentes\n      Evidencia_Arqueológica\n      Textos_Literarios\n      Inscripciones\n      Monedas\n      Etnografía_Comparada\n    Enfoques_Metodológicos\n      Historiografía\n      Crítica_de_Fuentes\n      Arqueología\n      Estudios_Interdisciplinarios\n    Historiadores_Influyentes\n      Heródoto\n      Tucídides\n      Sima_Qian\n      Livio",
+            "complexity": "high",
+            "tags": ["historia_antigua", "mapa_mental", "civilizaciones", "periodos", "fuentes", "metodología", "historiadores"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

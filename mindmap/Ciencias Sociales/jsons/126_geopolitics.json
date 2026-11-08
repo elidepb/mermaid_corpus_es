@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "126",
+            "topic": "Geopolítica",
+            "category": "Geografía/Política",
+            "description": "Un mapa mental que muestra los conceptos fundamentales y la estructura de la Geopolítica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Geopolítica))\n    Geopolítica Clásica\n      Teoría del Heartland\n      Teoría del Rimland\n      Poder Naval\n    Cuestiones Contemporáneas\n      Competencia por Recursos\n      Disputas Territoriales\n      Regiones Estratégicas\n      Esferas de Influencia\n    Actores Geopolíticos\n      Grandes Potencias\n      Potencias Regionales\n      Alianzas\n    Temas\n      Geopolítica de la Energía\n      Política Ártica\n      Seguridad Marítima\n      Geopolítica Cibernética",
+            "complexity": "high",
+            "tags": [
+                "geopolítica",
+                "geografía",
+                "política"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

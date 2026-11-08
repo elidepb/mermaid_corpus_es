@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "073",
+            "topic": "Ingeniería de control",
+            "category": "ingenieria",
+            "description": "La ingeniería de control es la disciplina que aplica la teoría de control y los principios de ingeniería para diseñar sistemas que mantienen salidas deseadas mediante mecanismos de retroalimentación y regulación. Su objetivo principal es crear sistemas de control estables, exactos y con respuesta rápida que regulen de forma automática procesos, maquinaria y sistemas dinámicos. Los dominios centrales incluyen: sistemas de control por retroalimentación (control en lazo cerrado, detección de error, acción correctiva), algoritmos de control (control PID, métodos de espacio de estados, control óptimo, control adaptativo), modelado de sistemas (funciones de transferencia, ecuaciones de estado, linealización, identificación), análisis de estabilidad (criterio de Routh-Hurwitz, estabilidad de Nyquist, métodos de Lyapunov) e implementación de control (controladores digitales, sensores y actuadores, sistemas en tiempo real). El proceso de ingeniería involucra identificación del sistema, modelado matemático, diseño del controlador, simulación y análisis, implementación y ajuste del rendimiento. Estos elementos convergen mediante ecuaciones diferenciales, transformadas de Laplace y análisis en el dominio de la frecuencia para crear sistemas de automatización industrial, control de procesos, control robótico, sistemas de guiado aeroespacial y control automotriz que mantienen precisión y estabilidad en condiciones variables.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería de control</b><br>Diseño de sistemas que mantienen<br>salidas deseadas mediante retroalimentación]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear sistemas de control automático<br>estables y exactos]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Sistemas de control por retroalimentación]\n        D1[Control en lazo cerrado<br>Detección de error<br>Acción correctiva]\n    end\n    \n    subgraph E[Algoritmos de control]\n        E1[Control PID<br>Métodos de espacio de estados<br>Control óptimo y adaptativo]\n    end\n    \n    subgraph F[Modelado de sistemas]\n        F1[Funciones de transferencia<br>Ecuaciones de estado<br>Identificación de sistemas]\n    end\n    \n    subgraph G[Análisis de estabilidad]\n        G1[Routh-Hurwitz<br>Estabilidad de Nyquist<br>Métodos de Lyapunov]\n    end\n    \n    subgraph H[Implementación de control]\n        H1[Controladores digitales<br>Sensores y actuadores<br>Sistemas en tiempo real]\n    end\n    \n    I[<b>PROCESO DE INGENIERÍA</b><br>Modelado, diseño<br>Simulación, implementación]:::process\n    \n    J[<b>CREA</b><br>Sistemas de automatización y control<br>que mantienen la precisión]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_de_control",
+                "ingenieria",
+                "sistemas_de_control",
+                "retroalimentacion",
+                "controlador_pid"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

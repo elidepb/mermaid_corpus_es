@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Política educativa",
+            "category": "Educación y políticas públicas",
+            "description": "Esta cronología traza la evolución de las grandes políticas educativas a escala mundial. Comienza con los primeros mandatos de educación pública en los siglos XVIII y XIX (Prusia 1763, Francia 1833). A principios del siglo XX se expandió la escolarización obligatoria. Entre las políticas históricas de la posguerra figuran la Education Act del Reino Unido (1944) y Brown v. Board of Education (1954), que puso fin a la segregación legal. La década de 1960 trajo la Elementary and Secondary Education Act de EE. UU. (1965) y el Informe Coleman (1966). Las décadas de 1970‑1980 vieron la Education for All Handicapped Children Act (1975, luego IDEA) y el auge de la reforma estandarizada tras A Nation at Risk (1983). La década de 1990 introdujo la Conferencia Mundial sobre Educación para Todos (1990) y el movimiento basado en estándares. La década de 2000 vio No Child Left Behind (2001) y los Objetivos de Desarrollo del Milenio de la ONU. La década de 2010 trajo Every Student Succeeds Act (2015) y el Objetivo de Desarrollo Sostenible 4 (2015). Las tendencias contemporáneas incluyen la recuperación del aprendizaje tras la COVID‑19 y la IA en la gobernanza educativa.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la política educativa\n    section Primeros mandatos\n      1763 : Prusia introduce la<br>escolarización obligatoria\n      1833 : La Ley Guizot de Francia<br>exige escuelas primarias\n    section Expansión de la obligatoriedad\n      19th‑early 20th c. : Leyes de educación<br>obligatoria universal\n    section Era de la posguerra\n      1944 : Education Act del Reino Unido<br>(Butler Act)\n      1954 : Brown v. Board of Education\n      1965 : Elementary and<br>Secondary Education Act de EE. UU.\n    section Equidad y necesidades especiales\n      1975 : Education for All<br>Handicapped Children Act\n      1983 : A Nation at Risk\n      1990 : Conferencia Mundial sobre<br>Educación para Todos (Jomtien)\n    section Rendición de cuentas y estándares\n      2001 : No Child Left Behind\n      2000s : Objetivos de Desarrollo<br>del Milenio de la ONU\n      2015 : Every Student Succeeds Act<br>Objetivo de Desarrollo Sostenible 4\n    section Contemporáneo\n      2020 : Cierres escolares por COVID‑19<br>y políticas de recuperación del aprendizaje\n      2023 : Gobernanza de la IA y<br>equidad en la educación",
+            "complexity": "high",
+            "tags": [
+                "politica_educativa",
+                "historia",
+                "linea_de_tiempo",
+                "educacion_obligatoria",
+                "ESEA",
+                "NCLB",
+                "ODS4",
+                "equidad",
+                "rendicion_de_cuentas"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

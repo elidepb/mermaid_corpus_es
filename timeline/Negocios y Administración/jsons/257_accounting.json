@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Contabilidad",
+            "category": "Negocios",
+            "description": "El desarrollo histórico de la contabilidad va desde la teneduría de libros antigua hasta los sistemas digitales modernos. Luca Pacioli documentó la partida doble en 1494, estableciendo los cimientos de la contabilidad moderna. La Revolución Industrial en el siglo XIX generó demanda de contabilidad de costes. El crack bursátil de 1929 condujo a la estandarización de la información financiera y a la creación de la SEC en 1934. El Financial Accounting Standards Board se formó en 1973 para desarrollar los GAAP. Las Normas Internacionales de Información Financiera surgieron en 2001 para la armonización mundial. La Ley Sarbanes-Oxley de 2002 reforzó los requisitos de auditoría tras Enron. La contabilidad actual integra blockchain, IA y tecnologías de información en tiempo real.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución histórica de la contabilidad\n    1494 : Partida doble\n         : Summa de Arithmetica de Luca Pacioli\n    1800s : Revolución Industrial\n          : Surgimiento de la contabilidad de costes\n    1929 : Crack bursátil\n         : Necesidad de información estandarizada\n    1934 : Creación de la SEC\n         : Comienza la regulación de valores\n    1973 : Creación del FASB\n         : Desarrollo y supervisión de los GAAP\n    2001 : Introducción de las NIIF\n         : Normas contables mundiales\n    2002 : Ley Sarbanes-Oxley\n         : Requisitos de auditoría reforzados\n    2010s : Contabilidad en la nube\n          : Sistemas financieros en tiempo real\n    2020s : IA y blockchain\n          : Contabilidad automatizada y transparente",
+            "complexity": "high",
+            "tags": [
+                "contabilidad",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

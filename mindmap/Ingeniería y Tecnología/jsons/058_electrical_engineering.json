@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "058",
+            "topic": "Ingeniería eléctrica",
+            "category": "Ingeniería",
+            "description": "La ingeniería eléctrica abarca especializaciones y áreas técnicas diversas. La ingeniería de potencia incluye generación (térmica, hidráulica, nuclear, renovable), sistemas de transmisión (líneas de alta tensión, subestaciones) y redes de distribución. Los sistemas de control involucran control por realimentación, automatización, controladores PID, sistemas SCADA y control industrial. La teoría electromagnética cubre las ecuaciones de Maxwell, la propagación de ondas, motores (CA/CC, inducción, síncronos), generadores y transformadores. El procesamiento de señales abarca señales analógicas y digitales, análisis de Fourier, filtros, amplificadores y sistemas de comunicación. Las herramientas clave incluyen software de simulación de circuitos (SPICE, MATLAB/Simulink), osciloscopios y multímetros. Las aplicaciones cubren centrales eléctricas, redes eléctricas, motores y accionamientos, telecomunicaciones, sistemas de iluminación e instalaciones de energía renovable. Las normas profesionales incluyen reglamentos de seguridad (NEC, IEC), calidad de la energía e ingeniería de fiabilidad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>eléctrica</b>))\n    <b>Ingeniería de potencia</b>\n      Generación\n        Térmica\n        Hidráulica\n        Nuclear\n        Renovable\n      Transmisión\n        Líneas de alta tensión\n        Subestaciones\n      Distribución\n    <b>Sistemas de control</b>\n      Control por realimentación\n      Automatización\n      Controladores PID\n      SCADA\n      Control industrial\n    <b>Electromagnetismo</b>\n      Ecuaciones de Maxwell\n      Propagación de ondas\n      Motores\n        Motores CA/CC\n        Inducción\n        Síncronos\n      Generadores\n      Transformadores\n    <b>Procesamiento de señales</b>\n      Señales analógicas\n      Señales digitales\n      Análisis de Fourier\n      Filtros\n      Amplificadores\n      Sistemas de comunicación\n    <b>Herramientas y software</b>\n      SPICE\n      MATLAB/Simulink\n      Osciloscopios\n      Multímetros\n    <b>Aplicaciones</b>\n      Centrales eléctricas\n      Redes eléctricas\n      Motores y accionamientos\n      Telecomunicaciones\n      Sistemas de iluminación\n      Energía renovable\n    <b>Normas</b>\n      Seguridad (NEC, IEC)\n      Calidad de la energía\n      Fiabilidad",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_eléctrica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

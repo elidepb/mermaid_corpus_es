@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Psicología cognitiva",
+            "category": "Psicología",
+            "description": "Esta cronología rastrea la historia de la psicología cognitiva. Los primeros precursores incluyen la cronometría mental de Donders (1868) y los estudios de la memoria de Ebbinghaus (1885). El trabajo de Bartlett de 1932 sobre la memoria reconstructiva cuestionó las visiones conductistas. La revolución cognitiva cobró impulso con el Simposio Hixon de 1948 y el «número mágico 7» de Miller (1956). La reseña de Chomsky de 1959 sobre la conducta verbal de Skinner marcó una ruptura crítica. Surgieron modelos fundacionales: el modelo de filtro de Broadbent (1958), el manual de Neisser de 1967 que definió el campo y el modelo multialmacén de Atkinson y Shiffrin (1968). La década de 1970 vio el modelo de memoria de trabajo de Baddeley y Hitch (1974) y los heurísticos de Kahneman y Tversky (1974). La de 1980 trajo el conexionismo (Rumelhart y McClelland, 1986), mientras que la de 1990 vio florecer la neurociencia cognitiva. Desde 2000, la cognición corporeizada y los enfoques de big data han ampliado el campo.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la psicología cognitiva\n    section Precursores\n      1868 : Donders<br>Cronometría mental (tiempo de reacción)\n      1885 : Ebbinghaus<br>Estudio experimental de la memoria\n      1932 : Bartlett<br>Memoria reconstructiva\n    section Revolución cognitiva\n      1948 : Simposio Hixon<br>Mecanismos cerebrales\n      1956 : George Miller<br>\"Número mágico 7\"\n      1958 : Broadbent<br>Modelo de filtro de la atención\n      1959 : Noam Chomsky<br>Reseña de la conducta verbal de Skinner\n    section Modelos fundacionales\n      1967 : Ulric Neisser<br>Psicología cognitiva (manual)\n      1968 : Atkinson y Shiffrin<br>Modelo multialmacén de la memoria\n      1974 : Baddeley y Hitch<br>Modelo de memoria de trabajo\n      1974 : Kahneman y Tversky<br>Heurísticos y sesgos\n    section Expansión\n      1986 : Rumelhart y McClelland<br>Conexionismo (PDP)\n      1990s : Neurociencia cognitiva<br>fMRI, PET, EEG\n    section Contemporánea\n      2000s : Cognición corporeizada<br>neuronas espejo\n      2010s : Big data y ciencia cognitiva<br>computacional",
+            "complexity": "high",
+            "tags": [
+                "psicologia_cognitiva",
+                "historia",
+                "linea_de_tiempo",
+                "revolucion_cognitiva",
+                "neisser",
+                "chomsky",
+                "memoria_de_trabajo",
+                "conexionismo",
+                "neurociencia_cognitiva"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

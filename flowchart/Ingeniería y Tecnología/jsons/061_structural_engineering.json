@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Ingeniería estructural",
+            "category": "ingenieria",
+            "description": "La ingeniería estructural es la disciplina especializada dentro de la ingeniería civil que analiza y diseña estructuras para resistir cargas y fuerzas, asegurando al mismo tiempo seguridad, estabilidad y servicialidad. Su objetivo principal es crear marcos estructuralmente sólidos que soporten de forma segura las cargas previstas a lo largo de su vida de diseño. Las responsabilidades centrales incluyen: análisis de cargas (cargas muertas, cargas vivas, viento, sísmicas, fuerzas de nieve), diseño estructural (selección de materiales adecuados, dimensionamiento de miembros, detalles de conexiones), sistemas estructurales (pórticos, cerchas, cáscaras, cables) y verificación de seguridad (análisis de tensiones, comprobaciones de deflexión, evaluación de estabilidad). La metodología de diseño involucra determinación de cargas, modelado estructural, análisis (estático y dinámico), diseño de miembros, detallado y verificación frente a códigos de edificación. Estos elementos convergen mediante la mecánica de materiales, la dinámica estructural y el criterio de ingeniería para producir estructuras seguras, eficientes y económicas para edificios, puentes, torres e instalaciones especiales.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería estructural</b><br>Análisis y diseño de estructuras<br>para resistir cargas y fuerzas]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear marcos estructuralmente sólidos<br>que aseguren la seguridad]:::goal\n    C[<b>RESPONSABILIDADES CENTRALES</b>]:::responsibilities\n    \n    subgraph D[Análisis de cargas]\n        D1[Cargas muertas y vivas<br>Viento y sísmicas<br>Fuerzas de nieve]\n    end\n    \n    subgraph E[Diseño estructural]\n        E1[Selección de materiales<br>Dimensionamiento de miembros<br>Detalles de conexiones]\n    end\n    \n    subgraph F[Sistemas estructurales]\n        F1[Pórticos y cerchas<br>Cáscaras y cables<br>Sistemas de apoyo]\n    end\n    \n    subgraph G[Verificación de seguridad]\n        G1[Análisis de tensiones<br>Comprobaciones de deflexión<br>Evaluación de estabilidad]\n    end\n    \n    H[<b>METODOLOGÍA DE DISEÑO</b><br>Modelado, análisis<br>Diseño, verificación]:::methodology\n    \n    I[<b>PRODUCE</b><br>Marcos estructurales seguros,<br>eficientes y económicos]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|unificado por| H\n    H -->|produce| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef responsibilities fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methodology fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_estructural",
+                "ingenieria",
+                "ingenieria_civil",
+                "analisis_estructural",
+                "diseno_estructural"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

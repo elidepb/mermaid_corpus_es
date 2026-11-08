@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "261",
+            "topic": "Gestión de operaciones",
+            "category": "Negocios",
+            "description": "La gestión de operaciones es el diseño, la ejecución y la mejora sistemáticos de los procesos que transforman insumos en productos de valor. Comienza con la previsión de la demanda para anticipar las necesidades del cliente, seguida de la planificación de la capacidad para alinear los recursos. El diseño de procesos establece flujos de trabajo eficientes, mientras que la gestión de la cadena de suministro coordina los flujos de materiales. El control de calidad asegura que se cumplan los estándares, la gestión de inventarios equilibra los niveles de existencias y la programación optimiza el uso de recursos. Metodologías de mejora continua como Lean y Seis Sigma eliminan desperdicios y reducen la variación. El objetivo es entregar productos y servicios de forma eficiente, cumpliendo los requisitos del cliente al tiempo que se minimizan los costos y se maximiza la productividad.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de operaciones</b><br>Diseño y mejora de<br>procesos de transformación]:::title\n    B[<b>META PRINCIPAL</b><br>Entrega eficiente de<br>productos y servicios]:::goal\n    C[<b>CICLO DE OPERACIONES</b>]:::cycle\n    \n    subgraph D[Planificación]\n        D1[Previsión de la demanda<br>y planificación de la capacidad]\n    end\n    \n    subgraph E[Diseño de procesos]\n        E1[Establecimiento y<br>optimización del flujo de trabajo]\n    end\n    \n    subgraph F[Cadena de suministro]\n        F1[Coordinación de materiales<br>y logística]\n    end\n    \n    subgraph G[Control de calidad]\n        G1[Verificación de estándares<br>y prevención de defectos]\n    end\n    \n    subgraph H[Inventario]\n        H1[Equilibrio y gestión<br>de existencias]\n    end\n    \n    subgraph I[Programación]\n        I1[Optimización de recursos<br>y tiempos]\n    end\n    \n    subgraph J[Mejora]\n        J1[Lean y Seis Sigma<br>eliminación de desperdicios]\n    end\n    \n    K[<b>RESULTADO</b><br>Minimización de costos y<br>maximización de la productividad]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|bucle continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_operaciones",
+                "negocios",
+                "cadena_de_suministro",
+                "gestion_de_calidad",
+                "gestion_de_inventarios"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

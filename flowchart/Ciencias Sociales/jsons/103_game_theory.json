@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Teoría de juegos",
+            "category": "Matemáticas y economía",
+            "description": "Este diagrama de flujo representa el enfoque sistemático de la teoría de juegos. Partiendo del objetivo de predecir resultados y determinar estrategias óptimas, procede a definir un juego mediante jugadores, estrategias, pagos e información. El juego se clasifica en tipos (cooperativo frente a no cooperativo, suma cero, simultáneo frente a secuencial, información perfecta/imperfecta). Luego se aplican conceptos de solución, incluido el equilibrio de Nash y refinamientos como Nash perfecto en subjuegos, Nash bayesiano y la estrategia evolutivamente estable. Las ideas estratégicas resultantes informan aplicaciones en economía, política, biología y ciencias de la computación.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Teoría de juegos</b><br>Estudio de las interacciones<br>estratégicas]:::titulo\n    B[<b>OBJETIVO</b><br>Predecir resultados y<br>determinar estrategias óptimas]:::goal\n    C[<b>DEFINICIÓN DEL JUEGO</b><br>Jugadores, estrategias, pagos,<br>información]:::definition\n    subgraph D[Tipos de juego]\n        D1[Cooperativo frente a no cooperativo<br>Suma cero frente a no suma cero<br>Simultáneo frente a secuencial<br>Información perfecta frente a imperfecta]\n    end\n    E[<b>CONCEPTOS DE SOLUCIÓN</b>]:::solutions\n    subgraph F[Refinamientos del equilibrio]\n        F1[Equilibrio de Nash<br>Nash perfecto en subjuegos<br>Nash bayesiano<br>Estrategia evolutivamente estable]\n    end\n    G[<b>APLICACIONES</b><br>Economía, política,<br>biología, ciencias de la computación]:::applications\n\n    A -->|busca| B\n    B -->|requiere| C\n    C -->|se clasifica en| D\n    D -->|se resuelve con| E\n    E -->|incluye| F\n    F -->|aportan ideas estratégicas para| G\n\n    classDef titulo fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef definition fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef solutions fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef applications fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "teoria_de_juegos",
+                "equilibrio_de_nash",
+                "interaccion_estrategica",
+                "pagos",
+                "juegos_cooperativos",
+                "no_cooperativo",
+                "refinamientos",
+                "aplicaciones"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

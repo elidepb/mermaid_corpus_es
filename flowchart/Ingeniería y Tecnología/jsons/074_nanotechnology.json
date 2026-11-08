@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "074",
+            "topic": "Nanotecnología",
+            "category": "ciencia_de_la_ingenieria",
+            "description": "La nanotecnología es el campo interdisciplinario que manipula la materia a nanoescala (1-100 nanómetros) para crear materiales, dispositivos y sistemas con propiedades y funciones novedosas. Su objetivo principal es diseñar estructuras a nivel atómico y molecular para lograr un rendimiento mejorado, nuevas funcionalidades y aplicaciones disruptivas en múltiples industrias. Los dominios centrales incluyen: síntesis de nanomateriales (nanopartículas, nanotubos, puntos cuánticos, grafeno, nanohilos), técnicas de nanofabricación (enfoques de arriba abajo como la litografía, enfoques de abajo arriba como el autoensamblaje), métodos de caracterización (microscopía electrónica, microscopía de sonda de barrido, espectroscopía), nanoelectrónica (transistores, sensores, dispositivos cuánticos) y nanomedicina (administración de fármacos, herramientas de diagnóstico, aplicaciones terapéuticas). El proceso de desarrollo involucra diseño y simulación, síntesis o fabricación, caracterización y análisis, desarrollo de aplicaciones y evaluación de seguridad. Estos elementos se integran mediante mecánica cuántica, química de superficies y ciencia de materiales para crear materiales avanzados, tratamientos médicos, electrónica, soluciones energéticas y tecnologías ambientales con precisión y eficiencia sin precedentes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Nanotecnología</b><br>Manipulación de la materia a<br>nanoescala 1-100 nm]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Diseñar estructuras a nivel atómico<br>para un rendimiento mejorado]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Síntesis de nanomateriales]\n        D1[Nanopartículas<br>Nanotubos y grafeno<br>Puntos cuánticos]\n    end\n    \n    subgraph E[Técnicas de nanofabricación]\n        E1[Litografía de arriba abajo<br>Autoensamblaje de abajo arriba<br>Métodos híbridos]\n    end\n    \n    subgraph F[Métodos de caracterización]\n        F1[Microscopía electrónica<br>Sonda de barrido<br>Espectroscopía]\n    end\n    \n    subgraph G[Nanoelectrónica]\n        G1[Nanotransistores<br>Sensores<br>Dispositivos cuánticos]\n    end\n    \n    subgraph H[Nanomedicina]\n        H1[Administración de fármacos<br>Diagnóstico<br>Aplicaciones terapéuticas]\n    end\n    \n    I[<b>PROCESO DE DESARROLLO</b><br>Diseño, síntesis<br>Caracterización, aplicación]:::process\n    \n    J[<b>CREA</b><br>Materiales avanzados, electrónica<br>soluciones médicas y energéticas]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "nanotecnologia",
+                "ingenieria",
+                "ciencia",
+                "nanomateriales",
+                "nanofabricacion"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

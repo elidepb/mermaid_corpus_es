@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Estrategia empresarial",
+            "category": "Negocios",
+            "description": "La estrategia empresarial es la formulación y ejecución sistemáticas de planes para lograr ventaja competitiva y éxito organizacional a largo plazo. Comienza con el análisis del entorno, examinando oportunidades y amenazas externas mediante el análisis de la industria y las tendencias de mercado. La evaluación interna valora fortalezas y debilidades organizacionales, recursos y capacidades. La formulación estratégica define visión, misión y objetivos estratégicos alineados con el posicionamiento competitivo. La selección de estrategia elige entre alternativas como liderazgo en costos, diferenciación o enfoque. La implementación se ejecuta mediante asignación de recursos, alineación organizacional y gestión del cambio. El monitoreo del desempeño sigue el progreso con cuadros de mando integral e indicadores clave. La revisión estratégica adapta los planes según resultados y condiciones cambiantes. El objetivo es una ventaja competitiva sostenible que cree valor superior para las partes interesadas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Estrategia empresarial</b><br>Formulación y ejecución para<br>ventaja competitiva]:::title\n    B[<b>META PRINCIPAL</b><br>Ventaja competitiva<br>sostenible]:::goal\n    C[<b>PROCESO ESTRATÉGICO</b>]:::process\n    \n    subgraph D[Análisis del entorno]\n        D1[Evaluación de oportunidades<br>y amenazas externas]\n    end\n    \n    subgraph E[Evaluación interna]\n        E1[Fortalezas, debilidades<br>y capacidades]\n    end\n    \n    subgraph F[Formulación estratégica]\n        F1[Definición de visión, misión<br>y objetivos]\n    end\n    \n    subgraph G[Selección de estrategia]\n        G1[Elegir liderazgo en costos,<br>diferenciación o enfoque]\n    end\n    \n    subgraph H[Implementación]\n        H1[Asignación de recursos<br>y alineación organizacional]\n    end\n    \n    subgraph I[Monitoreo del desempeño]\n        I1[Seguir KPI<br>y cuadro de mando integral]\n    end\n    \n    subgraph J[Revisión estratégica]\n        J1[Adaptarse según resultados<br>y condiciones]\n    end\n    \n    K[<b>RESULTADO</b><br>Creación de valor superior<br>para las partes interesadas]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|ciclo continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "estrategia_empresarial",
+                "direccion_estrategica",
+                "analisis_foda",
+                "cinco_fuerzas_de_porter",
+                "estrategia_corporativa"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

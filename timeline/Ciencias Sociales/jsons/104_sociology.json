@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociología",
+            "category": "Ciencias sociales",
+            "description": "Esta cronología rastrea los hitos clave en el desarrollo de la sociología. Comienza cuando Auguste Comte acuña el término en 1838 y establece el positivismo. El Manifiesto comunista de Marx y Engels (1848) sentó las bases de la teoría del conflicto. A finales del siglo XIX, las obras seminales de Émile Durkheim sobre los hechos sociales, la metodología y el suicidio (1893, 1895, 1897). Max Weber introdujo la sociología interpretativa con La ética protestante (1904-05). En la década de 1920, la Escuela de Chicago impulsó la sociología urbana y el interaccionismo simbólico. A mediados del siglo XX surgió el funcionalismo estructural (Parsons, décadas de 1930-40) y una perspectiva del conflicto reavivada (Mills, Coser, décadas de 1950-60). A partir de la década de 1970, la sociología feminista, la teoría crítica de la raza, el posmodernismo y la globalización ampliaron el campo, hasta la sociología digital de la década de 2010.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la sociología\n    section Orígenes\n      1838 : Auguste Comte<br>acuña \"sociología\" (positivismo)\n      1848 : Marx y Engels<br>Manifiesto comunista\n    section Fundamentos clásicos\n      1893 : Durkheim<br>La división del trabajo social\n      1895 : Durkheim<br>Las reglas del método sociológico\n      1897 : Durkheim<br>El suicidio (sociología empírica)\n      1904-05 : Max Weber<br>La ética protestante y el espíritu del capitalismo\n    section Principios del siglo XX\n      1920s : Escuela de Chicago<br>Sociología urbana e interaccionismo simbólico\n      1930s-40s : Talcott Parsons<br>Funcionalismo estructural\n    section Desarrollos de mediados de siglo\n      1950s-60s : Resurgimiento de la teoría del conflicto<br>(C. Wright Mills, Lewis Coser)\n    section Finales del siglo XX y más allá\n      1970s : Sociología feminista<br>Teoría crítica de la raza\n      1980s : Posmodernismo<br>Estudios de la globalización\n      2010s : Sociología digital<br>y ciencia social computacional",
+            "complexity": "high",
+            "tags": [
+                "sociologia",
+                "historia",
+                "comte",
+                "marx",
+                "durkheim",
+                "weber",
+                "escuela_de_Chicago",
+                "parsons",
+                "sociologia_feminista"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

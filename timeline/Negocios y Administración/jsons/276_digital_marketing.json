@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Marketing digital",
+            "category": "Negocios",
+            "description": "El marketing digital evolucionó junto a la adopción de internet y de la tecnología móvil. El lanzamiento de la World Wide Web (1991) creó los cimientos del marketing en línea. Los primeros banners publicitarios aparecieron en 1994, marcando la primera publicidad comercial en internet. El lanzamiento de Google (1998) y AdWords (2000) revolucionaron el marketing en buscadores y la publicidad PPC. Las plataformas de redes sociales surgieron a principios de la década de 2000; Facebook (2004) transformó las estrategias de marketing. La fundación de YouTube (2005) permitió el marketing en vídeo a gran escala. El lanzamiento del iPhone (2007) inauguró el marketing mobile-first. El marketing de contenidos ganó protagonismo alrededor de 2010, con énfasis en estrategias inbound. Las plataformas de automatización de marketing maduraron en la década de 2010. El marketing de influencers explotó con el crecimiento de Instagram (2012-2015). La búsqueda por voz y la personalización impulsada por IA surgieron a finales de la década de 2010. El marketing digital actual integra estrategias omnicanal, enfoques centrados en la privacidad y optimización impulsada por IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del marketing digital\n    1991 : World Wide Web\n         : Cimientos del marketing en línea\n    1994 : Primeros banners publicitarios\n         : Publicidad comercial en internet\n    1998 : Lanzamiento de Google\n         : Revolución de los buscadores\n    2000 : Google AdWords\n         : Plataforma de publicidad PPC\n    2004 : Fundación de Facebook\n         : Comienza el marketing en redes sociales\n    2005 : Creación de YouTube\n         : Escala del marketing en vídeo\n    2007 : Lanzamiento del iPhone\n         : Era del marketing mobile-first\n    2010 : Auge del marketing de contenidos\n         : Énfasis en la estrategia inbound\n    2012-2015 : Marketing de influencers\n              : Crecimiento impulsado por Instagram\n    Late 2010s : IA y búsqueda por voz\n               : Avances en personalización\n    2020s : Omnicanal y privacidad\n          : Estrategias integradas impulsadas por IA",
+            "complexity": "high",
+            "tags": [
+                "marketing_digital",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

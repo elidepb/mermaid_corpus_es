@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Economía financiera",
+            "category": "Economía/Negocios",
+            "description": "La economía financiera es la aplicación rigurosa de la teoría económica y los métodos cuantitativos para analizar los mercados financieros, la valoración de activos y las decisiones de inversión bajo incertidumbre. Comienza con el análisis de mercado, examinando las dinámicas de oferta y demanda, los mecanismos de formación de precios y las características de eficiencia del mercado. La teoría de valoración de activos establece marcos de valoración mediante el modelo de valoración de activos de capital, la teoría de precios por arbitraje y modelos de factores que explican los rendimientos esperados. La optimización de carteras aplica el análisis media-varianza, la construcción de la frontera eficiente y la evaluación del equilibrio riesgo-rendimiento para construir asignaciones óptimas de activos. La evaluación de riesgos cuantifica el riesgo de mercado, el riesgo de crédito y el riesgo de liquidez usando medidas estadísticas como volatilidad, valor en riesgo y valor en riesgo condicional. La valoración de derivados valora opciones, futuros y valores complejos mediante modelos de Black-Scholes, árboles binomiales y simulación de Monte Carlo. El análisis conductual examina anomalías de mercado, psicología del inversor y desviaciones de la racionalidad. La contrastación empírica valida las teorías usando métodos econométricos y datos históricos. El objetivo es comprender los fenómenos financieros, tomar decisiones de inversión informadas y diseñar sistemas financieros eficientes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Economía financiera</b><br>Teoría económica aplicada a<br>los mercados financieros]:::title\n    B[<b>META PRINCIPAL</b><br>Comprender los fenómenos financieros<br>e informar las decisiones]:::goal\n    C[<b>PROCESO DE ANÁLISIS</b>]:::process\n    \n    subgraph D[Análisis de mercado]\n        D1[Examinar oferta, demanda<br>y formación de precios]\n    end\n    \n    subgraph E[Teoría de valoración de activos]\n        E1[Establecer valoración mediante<br>CAPM y modelos de factores]\n    end\n    \n    subgraph F[Optimización de carteras]\n        F1[Aplicar media-varianza<br>y frontera eficiente]\n    end\n    \n    subgraph G[Evaluación de riesgos]\n        G1[Cuantificar riesgos de mercado,<br>crédito y liquidez]\n    end\n    \n    subgraph H[Valoración de derivados]\n        H1[Valorar opciones mediante<br>Black-Scholes y simulación]\n    end\n    \n    subgraph I[Análisis conductual]\n        I1[Examinar anomalías y<br>psicología del inversor]\n    end\n    \n    subgraph J[Contrastación empírica]\n        J1[Validar teorías usando<br>métodos econométricos]\n    end\n    \n    K[<b>RESULTADO</b><br>Decisiones informadas y<br>sistemas financieros eficientes]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|ciclo de refinamiento| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "economia_financiera",
+                "economia",
+                "finanzas",
+                "valoracion_de_activos",
+                "eficiencia_de_mercado"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "268",
+            "topic": "Liderazgo",
+            "category": "Negocios",
+            "description": "El liderazgo es el proceso de influir, inspirar y guiar a individuos y equipos hacia el logro de metas compartidas y la visión organizacional. Comienza con el desarrollo de la visión, en el que los líderes articulan una dirección futura convincente y un propósito. La alineación estratégica asegura que las metas organizacionales se desplieguen en todos los niveles. La construcción de equipos recluta talento, fomenta la colaboración y desarrolla capacidades. La influencia y la motivación inspiran compromiso mediante inteligencia emocional, comunicación y modelado de roles. La toma de decisiones equilibra el análisis con la intuición para resolver problemas complejos. El liderazgo del cambio navega transiciones, supera resistencias e impulsa la transformación. El coaching de desempeño proporciona retroalimentación, mentoría y oportunidades de desarrollo. El objetivo es crear culturas de alto desempeño en las que las personas estén empoderadas, comprometidas y alineadas hacia objetivos comunes, adaptándose a desafíos en evolución.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Liderazgo</b><br>Influir y guiar hacia<br>metas compartidas]:::title\n    B[<b>META PRINCIPAL</b><br>Crear una cultura empoderada<br>de alto desempeño]:::goal\n    C[<b>PROCESO DE LIDERAZGO</b>]:::process\n    \n    subgraph D[Desarrollo de la visión]\n        D1[Articular una dirección<br>futura convincente]\n    end\n    \n    subgraph E[Alineación estratégica]\n        E1[Desplegar metas a través<br>de todos los niveles]\n    end\n    \n    subgraph F[Construcción de equipos]\n        F1[Reclutar talento y fomentar<br>la colaboración]\n    end\n    \n    subgraph G[Influencia y motivación]\n        G1[Inspirar compromiso<br>mediante la comunicación]\n    end\n    \n    subgraph H[Toma de decisiones]\n        H1[Equilibrar el análisis<br>con la intuición]\n    end\n    \n    subgraph I[Liderazgo del cambio]\n        I1[Navegar transiciones<br>e impulsar la transformación]\n    end\n    \n    subgraph J[Coaching de desempeño]\n        J1[Proporcionar retroalimentación<br>y desarrollo]\n    end\n    \n    K[<b>RESULTADO</b><br>Equipos comprometidos que alcanzan<br>objetivos comunes]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|evolución continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "liderazgo",
+                "gestion",
+                "estilos_de_liderazgo",
+                "liderazgo_situacional",
+                "liderazgo_transformacional"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

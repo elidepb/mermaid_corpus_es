@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Finanzas corporativas",
+            "category": "Negocios",
+            "description": "Las finanzas corporativas abarcan dominios especializados que, en conjunto, gestionan el capital organizacional. La presupuestación de capital evalúa proyectos de inversión a largo plazo mediante el análisis del VAN y de la TIR. La estructura de capital determina la mezcla óptima de deuda y patrimonio para minimizar el costo de capital. La gestión del capital de trabajo asegura liquidez suficiente para las operaciones diarias. Las técnicas de valoración estiman el valor de la empresa para fusiones y adquisiciones. La gestión de riesgos identifica y mitiga exposiciones financieras mediante derivados y coberturas. La planificación financiera pronostica necesidades futuras y alinea los recursos con los objetivos estratégicos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Finanzas<br>corporativas</b>))\n    <b>Presupuestación de capital</b>\n      Evaluación de proyectos\n      Análisis del VAN\n      Cálculo de la TIR\n      Periodo de recuperación\n      Selección de inversiones\n    <b>Estructura de capital</b>\n      Deuda frente a patrimonio\n      Costo de capital\n      Optimización del apalancamiento\n      Impacto en la calificación crediticia\n    <b>Capital de trabajo</b>\n      Gestión de tesorería\n      Control de inventarios\n      Cuentas por cobrar\n      Cuentas por pagar\n      Planificación de liquidez\n    <b>Valoración</b>\n      Modelos DCF\n      Análisis de comparables\n      Evaluación de fusiones y adquisiciones\n      Valor de la empresa\n    <b>Gestión de riesgos</b>\n      Exposición financiera\n      Derivados\n      Estrategias de cobertura\n      Riesgo de tipo de interés\n    <b>Planificación financiera</b>\n      Pronóstico\n      Alineación estratégica\n      Asignación de recursos\n      Métricas de desempeño",
+            "complexity": "high",
+            "tags": [
+                "finanzas_corporativas",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

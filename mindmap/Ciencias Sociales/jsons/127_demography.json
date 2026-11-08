@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demografía",
+            "category": "Ciencias Sociales",
+            "description": "Este mapa mental organiza el campo de la Demografía en torno a su concepto central. Las ramas principales incluyen Procesos centrales (fecundidad, mortalidad, migración), Medidas clave (tasa bruta de natalidad, tasa global de fecundidad, esperanza de vida, tasa de mortalidad infantil, tasa neta de migración), Teorías principales (teoría malthusiana, modelo de transición demográfica, segunda transición demográfica), Fuentes de datos (censo, registro vital, encuestas demográficas, registros administrativos), Métodos analíticos (construcción de tablas de vida, proyecciones de población, análisis de descomposición) y Aplicaciones (políticas públicas, seguridad social, planificación urbana, salud pública, marketing). Captura el carácter cuantitativo e interdisciplinario de los estudios de población.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Demografía))\n    Procesos_Centrales\n      Fecundidad\n      Mortalidad\n      Migración\n    Medidas_Clave\n      Tasa_Bruta_de_Natalidad\n      Tasa_Global_de_Fecundidad\n      Esperanza_de_Vida\n      Tasa_de_Mortalidad_Infantil\n      Tasa_Neta_de_Migración\n    Teorías_Principales\n      Teoría_Malthusiana\n      Transición_Demográfica\n      Segunda_Transición_Demográfica\n    Fuentes_de_Datos\n      Censo\n      Registro_Vital\n      Encuestas_Demográficas\n      Registros_Administrativos\n    Métodos_Analíticos\n      Tablas_de_Vida\n      Proyecciones_de_Población\n      Análisis_de_Descomposición\n    Aplicaciones\n      Políticas_Públicas\n      Seguridad_Social\n      Planificación_Urbana\n      Salud_Pública\n      Marketing",
+            "complexity": "high",
+            "tags": ["demografía", "mapa_mental", "población", "fecundidad", "mortalidad", "migración", "transición_demográfica", "métodos"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

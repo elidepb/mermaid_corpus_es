@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminología",
+            "category": "Ciencias Sociales y Derecho",
+            "description": "Este mapa mental organiza el campo de la Criminología. Se ramifica en conceptos centrales (delito, desviación, justicia), perspectivas teóricas (clásica, biológica, psicológica, sociológicas como tensión, asociación diferencial, control social, etiquetamiento, criminología crítica), áreas clave de investigación (victimología, delincuencia juvenil, delito de cuello blanco, ciberdelincuencia, terrorismo, pena y rehabilitación), metodologías (encuestas de victimización, estudios de autoinforme, estadísticas oficiales, etnografía, investigación comparada), pensadores clave (Beccaria, Lombroso, Sutherland, Merton, Becker) y componentes del sistema de justicia penal (policía, tribunales, instituciones penitenciarias). El mapa captura el carácter interdisciplinario y aplicado de la ciencia del delito.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Criminología))\n    Conceptos_Centrales\n      Delito\n      Desviación\n      Justicia_Penal\n      Daño_Social\n    Perspectivas_Teóricas\n      Clásica_Elección_Racional\n      Positivismo_Biológico\n      Rasgos_Psicológicos\n      Sociológicas\n        Tensión\n        Asociación_Diferencial\n        Control_Social\n        Etiquetamiento\n      Criminología_Crítica\n    Áreas_Clave_de_Investigación\n      Victimología\n      Delincuencia_Juvenil\n      Delito_de_Cuello_Blanco\n      Ciberdelincuencia\n      Terrorismo\n      Pena_y_Rehabilitación\n    Metodologías\n      Encuestas_de_Victimización\n      Estudios_de_Autoinforme\n      Estadísticas_Oficiales\n      Etnografía\n      Investigación_Comparada\n    Pensadores_Clave\n      Cesare_Beccaria\n      Cesare_Lombroso\n      Edwin_Sutherland\n      Robert_Merton\n      Howard_Becker\n    Sistema_de_Justicia_Penal\n      Policía\n      Tribunales\n      Instituciones_Penitenciarias",
+            "complexity": "high",
+            "tags": ["criminología", "mapa_mental", "teorías_del_delito", "victimología", "justicia_penal", "sutherland", "becker"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

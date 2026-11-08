@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "069",
+            "topic": "Bioingeniería",
+            "category": "Ingeniería",
+            "description": "Los fundamentos de la bioingeniería surgieron en las décadas de 1950-60 con el descubrimiento de la estructura del ADN (Watson y Crick, 1953) y el desciframiento del código genético. 1973 marcó los primeros experimentos de ADN recombinante (Cohen y Boyer), lanzando la ingeniería genética moderna. La década de 1970 trajo el uso de enzimas de restricción, las técnicas de clonación de genes y el nacimiento de la industria biotecnológica. 1982 vio la aprobación del primer fármaco genéticamente modificado (insulina humana). La década de 1980 presenció la invención de la PCR (Kary Mullis, 1983), la tecnología de anticuerpos monoclonales y el desarrollo de animales transgénicos. La década de 1990 trajo el inicio del Proyecto Genoma Humano (1990), la comercialización de los primeros cultivos GM y los avances de la ingeniería de tejidos. 1996 produjo a la oveja Dolly mediante clonación. La década de 2000 completó el Proyecto Genoma Humano (2003), avanzó la investigación con células madre y desarrolló la tecnología de ARNi. 2012 revolucionó el campo con la edición génica CRISPR-Cas9 (Doudna y Charpentier). Las de 2010-2020 continúan con la expansión de la biología sintética, la terapia de células CAR-T para el cáncer, el desarrollo de organoides, las aprobaciones de terapia génica, los ensayos clínicos de CRISPR y la tecnología de vacunas de ARNm que demuestran el impacto transformador de la bioingeniería en la salud.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la bioingeniería</b>\n    \n    section Fundamentos\n        1953  : Descubrimiento de la estructura del ADN\n              : Watson y Crick\n        1950s-60s : Código genético descifrado\n        1973  : Primer ADN recombinante\n              : Cohen y Boyer\n    \n    section Nacimiento de la biotecnología\n        1970s : Enzimas de restricción\n              : Técnicas de clonación de genes\n        1982  : Primer fármaco modificado\n              : Insulina humana\n        1983  : Invención de la PCR\n              : Kary Mullis\n        1980s : Anticuerpos monoclonales\n              : Animales transgénicos\n    \n    section Era de la genómica\n        1990  : Comienza el Proyecto Genoma Humano\n        1990s : Comercialización de cultivos GM\n              : Avances de la ingeniería de tejidos\n        1996  : Clonación de la oveja Dolly\n        2003  : Genoma humano completado\n    \n    section Bioingeniería moderna\n        2000s : Investigación con células madre\n              : Tecnología de ARNi\n        2012  : Desarrollo de CRISPR-Cas9\n              : Doudna y Charpentier\n    \n    section Era revolucionaria\n        2010s-2020s : Expansión de la biología sintética\n                    : Terapia de células CAR-T\n                    : Desarrollo de organoides\n                    : Aprobaciones de terapia génica\n                    : Ensayos clínicos de CRISPR\n                    : Vacunas de ARNm",
+            "complexity": "high",
+            "tags": [
+                "bioingenieria",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

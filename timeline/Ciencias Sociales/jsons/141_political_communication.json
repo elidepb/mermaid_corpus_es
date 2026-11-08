@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Comunicación política",
+            "category": "Comunicación y ciencia política",
+            "description": "Esta cronología traza la evolución de la comunicación política desde la persuasión antigua hasta los algoritmos digitales. Hitos clave: la retórica antigua (Retórica de Aristóteles, siglo IV a. C.); la imprenta y los panfletos políticos (siglos XVI‑XVIII); la era de la prensa de partido (siglo XIX); el auge de los medios de masas (charlas junto al fuego de FDR, 1933; debates televisivos Kennedy‑Nixon, 1960); la profesionalización de las campañas (consultores políticos, décadas de 1970‑80); las noticias por cable las 24 horas (CNN, 1980); internet y las campañas en línea (blog de Howard Dean, 2003; redes sociales de Obama, 2008); la era de las noticias falsas y la posverdad (2016); y los desarrollos contemporáneos en IA, deepfakes y microsegmentación algorítmica (década de 2020). La cronología ilustra la transformación continua de cómo se comunica la política.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la comunicación política\n    section Antigüedad y Edad Moderna\n      4th cent BCE : Retórica de Aristóteles<br>Oratoria de Cicerón\n      16th‑18th c. : Imprenta<br>Panfletos políticos\n    section Prensa de partido y medios de masas\n      19th c. : Periódicos de partido<br>Público de masas\n      1933 : Charlas junto al fuego de FDR<br>(intimidad radiofónica)\n      1960 : Debates televisivos Kennedy‑Nixon<br>(política visual)\n    section Profesionalización\n      1970s‑80s : Consultores políticos<br>Auge del spin\n      1980 : CNN y ciclo de noticias las 24 horas\n      1992 : Foro abierto de Clinton en MTV\n    section Transformación digital\n      2003 : Blog de Howard Dean<br>(recaudación de fondos en línea)\n      2008 : Campaña de Obama en redes sociales<br>(Facebook, YouTube)\n      2016 : Noticias falsas, interferencia<br>rusa, posverdad\n    section Contemporáneo\n      2020s : Deepfakes, contenido generado<br>por IA, microsegmentación,<br>política en TikTok",
+            "complexity": "high",
+            "tags": [
+                "comunicacion_politica",
+                "historia",
+                "linea_de_tiempo",
+                "debates_televisivos",
+                "obama",
+                "redes_sociales",
+                "noticias_falsas",
+                "campanas_digitales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

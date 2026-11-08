@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "076",
+            "topic": "Internet de las cosas",
+            "category": "Ingeniería",
+            "description": "El internet de las cosas evolucionó de la comunicación temprana máquina a máquina a una conectividad ubicua que transforma las industrias y la vida cotidiana. El concepto de dispositivos en red apareció en los primeros sistemas de automatización (décadas de 1970-1980). El primer electrodoméstico conectado a internet fue una máquina de Coca-Cola en Carnegie Mellon (1982) que informaba del inventario. Kevin Ashton acuñó Internet de las cosas (1999) mientras trabajaba en tecnología RFID en Procter & Gamble. La estandarización de IPv6 (1998) aportó espacio de direcciones para miles de millones de dispositivos. La tecnología RFID proliferó en la gestión de la cadena de suministro (principios de la década de 2000). La adopción de teléfonos inteligentes (2007+) permitió el control y el monitoreo de aplicaciones IoT. Arduino (2005) y Raspberry Pi (2012) democratizaron el prototipado y la educación del IoT. El termostato Nest (2011) popularizó los dispositivos de hogar inteligente de consumo. El IoT industrial ganó protagonismo alrededor de 2014 con las iniciativas de Industria 4.0. Amazon Echo (2014) trajo el IoT controlado por voz a los hogares. Las redes 5G comenzaron su despliegue (2019) permitiendo conectividad IoT masiva. La norma de hogar inteligente Matter se lanzó (2022) impulsando la interoperabilidad. El IoT actual integra IA en el borde, gemelos digitales para simulación, blockchain para seguridad y aborda la sostenibilidad mediante la optimización energética.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del internet de las cosas\n    1970s-1980s : Automatización temprana\n                : Comunicación máquina a máquina\n    1982 : Primer electrodoméstico conectado\n         : Máquina de Coca-Cola de Carnegie Mellon\n    1998 : Estandarización de IPv6\n         : Espacio de direcciones masivo\n    1999 : Se acuña el término IoT\n         : Kevin Ashton y RFID\n    Early 2000s : Proliferación de RFID\n                : Seguimiento de la cadena de suministro\n    2005 : Plataforma Arduino\n         : Prototipado IoT democratizado\n    2007+ : Era del teléfono inteligente\n          : Control móvil del IoT\n    2011 : Termostato Nest\n         : Hogar inteligente de consumo\n    2012 : Raspberry Pi\n         : Plataforma educativa de IoT\n    2014 : IoT industrial y Echo\n         : Industria 4.0 y control por voz\n    2019 : Despliegue del 5G\n         : Habilitador de conectividad masiva\n    2022 : Norma Matter\n         : Interoperabilidad del hogar inteligente\n    2020s : IA en el borde y gemelos digitales\n          : IoT distribuido inteligente",
+            "complexity": "high",
+            "tags": [
+                "internet_de_las_cosas",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

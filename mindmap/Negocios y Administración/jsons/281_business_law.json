@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Derecho empresarial",
+            "category": "Negocios/Derecho",
+            "description": "El derecho empresarial abarca diversos dominios legales esenciales para las operaciones comerciales. El derecho contractual rige la formación de acuerdos, las obligaciones de cumplimiento, los remedios por incumplimiento y el cumplimiento específico mediante los principios de oferta, aceptación, contraprestación y capacidad. El derecho societario aborda procedimientos de constitución, estructuras de gobernanza, deberes fiduciarios, derechos de los accionistas y procesos de disolución. El derecho laboral regula las prácticas de contratación, los requisitos de salarios y jornada, la seguridad en el trabajo bajo OSHA, las protecciones antidiscriminación y los procedimientos de despido. El derecho de la propiedad intelectual protege las innovaciones mediante el derecho de patentes para invenciones, el derecho de marcas para la identidad de marca, el derecho de autor para obras creativas y la protección de secretos comerciales para información confidencial. El derecho de valores rige la emisión de acciones, los requisitos de revelación, las prohibiciones de uso de información privilegiada y el cumplimiento regulatorio ante la SEC. Las transacciones comerciales involucran la compraventa de bienes bajo el UCC, instrumentos negociables, transacciones garantizadas y procedimientos de quiebra. El derecho de la competencia previene monopolios, la fijación de precios y las prácticas anticompetitivas. El derecho empresarial internacional aborda contratos transfronterizos, acuerdos comerciales, resolución de controversias y cuestiones de jurisdicción.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Derecho<br>empresarial</b>))\n    <b>Derecho contractual</b>\n      Formación de acuerdos\n      Obligaciones de cumplimiento\n      Remedios por incumplimiento\n      Cumplimiento específico\n      Defensas contractuales\n    <b>Derecho societario</b>\n      Procedimientos de constitución\n      Estructuras de gobernanza\n      Deberes fiduciarios\n      Derechos de los accionistas\n      Fusiones y adquisiciones\n    <b>Derecho laboral</b>\n      Prácticas de contratación\n      Leyes de salarios y jornada\n      Seguridad OSHA\n      Antidiscriminación\n      Procedimientos de despido\n    <b>Propiedad intelectual</b>\n      Derecho de patentes\n      Derecho de marcas\n      Derecho de autor\n      Secretos comerciales\n      Acuerdos de licencia\n    <b>Derecho de valores</b>\n      Emisión de acciones\n      Requisitos de revelación\n      Uso de información privilegiada\n      Cumplimiento SEC\n      Colocaciones privadas\n    <b>Transacciones comerciales</b>\n      Compraventa UCC\n      Instrumentos negociables\n      Transacciones garantizadas\n      Derecho concursal\n      Sistemas de pago\n    <b>Derecho de la competencia</b>\n      Prevención de monopolios\n      Prohibición de fijación de precios\n      Prácticas anticompetitivas\n      Revisión de fusiones\n    <b>Derecho internacional</b>\n      Contratos transfronterizos\n      Acuerdos comerciales\n      Resolución de controversias\n      Cuestiones de jurisdicción\n      Inversión extranjera",
+            "complexity": "high",
+            "tags": [
+                "derecho_empresarial",
+                "negocios",
+                "derecho"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

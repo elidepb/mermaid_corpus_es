@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminología",
+            "category": "Ciencias sociales y derecho",
+            "description": "La criminología es el estudio científico del delito, sus causas, consecuencias y respuestas sociales. Este diagrama de flujo describe su marco analítico: el objetivo último es comprender, prevenir y controlar la conducta delictiva. Integra los aspectos centrales del delito (definición, medición y tipos), examina las teorías explicativas (clásicas, biológicas/psicológicas, sociológicas, críticas) y analiza el sistema de justicia penal (fuerzas del orden, tribunales, ejecución de penas). Estos elementos se conectan mediante un proceso cíclico que informa las estrategias de política, prevención e intervención, con el fin último de reducir el delito y reforzar la seguridad pública.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Criminología</b><br>Estudio científico del delito,<br>sus causas y su control]:::title\n    B[<b>OBJETIVO</b><br>Comprender, prevenir y<br>reducir la conducta delictiva]:::goal\n    C[<b>ASPECTOS CENTRALES</b>]:::aspects\n    subgraph D[El delito y su naturaleza]\n        D1[\"Definición y medición<br>(UCR, encuestas de victimización)<br>Tipologías del delito\"]\n    end\n    subgraph E[Teorías del delito]\n        E1[\"Clásica y elección racional<br>Biológicas y psicológicas<br>Sociológicas (tensión, aprendizaje, control)<br>Teorías críticas y del conflicto\"]\n    end\n    subgraph F[Respuesta de la justicia penal]\n        F1[Policía y aplicación de la ley<br>Tribunales y sentencia<br>Ejecución penal y rehabilitación]\n    end\n    G[<b>PROCESO INTEGRADOR</b><br>Investigación → Teoría → Política<br>→ Prevención e intervención]:::process\n    H[<b>RESULTADOS</b><br>Menor delincuencia, mejor<br>justicia, apoyo a las víctimas,<br>comunidades más seguras]:::outcome\n\n    A -->|pretende| B\n    B -->|al examinar| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|conectado mediante| G\n    G -->|conduce a| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "criminologia",
+                "causas_del_delito",
+                "justicia_penal",
+                "teorias_del_delito",
+                "victimologia",
+                "policia",
+                "rehabilitacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

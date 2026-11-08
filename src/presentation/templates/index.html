@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor de diagramas Mermaid</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body data-default-tab="{{ selected_tab }}">
+    <div class="container">
+        <header>
+            <h1>Visor de diagramas Mermaid</h1>
+        </header>
+        <main>
+            <div class="tabs">
+                {% for tab_key in tabs_order %}
+                    {% set label = tab_labels.get(tab_key, tab_key) %}
+                    <button class="tab-button {% if selected_tab == tab_key %}active{% endif %}" data-tab="{{ tab_key }}">{{ label }}</button>
+                {% endfor %}
+            </div>
+            {% for tab_key, areas in diagrams.items() %}
+                <div id="{{ tab_key }}-content" class="tab-content {% if selected_tab == tab_key %}active{% endif %}">
+                    {% if areas %}
+                        {% for area, area_diagrams in areas.items() %}
+                        <section class="area-section" data-diagram-type="{{ tab_key }}">
+                            <h2>{{ area }}</h2>
+                            <div class="grid">
+                                {% for diagram in area_diagrams %}
+                                    <a href="/diagrams/{{ tab_key }}/{{ diagram.id }}?tab={{ tab_key }}" class="card">
+                                        <div class="card-image-container">
+                                            <div class="skeleton-loader"></div>
+                                            <div class="mermaid-container" data-diagram-id="{{ diagram.id }}" data-mermaid-code="{{ diagram.mermaid_code|e }}"></div>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">
+                                                <span class="diagram-number">{{ diagram.number }}</span> - {{ diagram.topic }}
+                                            </h5>
+                                            {% if diagram.has_errors %}
+                                                <p class="card-text error">
+                                                    <small>Error de sintaxis</small>
+                                                </p>
+                                            {% endif %}
+                                        </div>
+                                    </a>
+                                {% endfor %}
+                            </div>
+                        </section>
+                    {% endfor %}
+                {% else %}
+                    {% set empty_message = empty_messages.get(tab_key, "No hay diagramas disponibles.") %}
+                    <p style="text-align: center; padding: 2rem; color: var(--font-color);">{{ empty_message }}</p>
+                {% endif %}
+                </div>
+            {% endfor %}
+        </main>
+        <footer>
+            <p>Una aplicación web sencilla para ver diagramas Mermaid.</p>
+        </footer>
+    </div>
+    <script src="/static/index.js" defer></script>
+</body>
+</html>

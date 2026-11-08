@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "150",
+            "topic": "Historia del arte",
+            "category": "Historia y arte",
+            "description": "La historia del arte estudia la cultura visual y material a través del tiempo y del espacio. Este diagrama de flujo describe su lógica disciplinar: el objetivo último es interpretar los significados, las funciones y los contextos del arte, y comprender su papel en las sociedades humanas. Integra componentes centrales: periodos y estilos (desde la prehistoria hasta lo contemporáneo), conceptos centrales (iconografía, estilo, autoría, mecenazgo) y dominios contextuales (religioso, político, social, económico). El análisis se apoya en diversas fuentes y métodos (análisis visual, investigación de archivo, examen técnico, estudios de procedencia) y se enmarca en lentes teóricas principales: formalismo, iconología, historia social del arte, estudios feministas y de género, historias del arte poscoloniales y globales. Estas guían el proceso interpretativo (descripción → análisis → interpretación → evaluación) y generan resultados como la preservación del patrimonio cultural, la alfabetización visual crítica y una comprensión más profunda de la creatividad y la identidad humanas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historia del arte</b><br>Estudio de la cultura visual y material<br>a través del tiempo y del espacio]:::title\n    B[<b>OBJETIVO</b><br>Interpretar los significados, las funciones<br>y la significación cultural del arte]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Periodos y estilos]\n        D1[Antiguo, medieval, Renacimiento<br>Barroco, Rococó, Neoclasicismo<br>Modernismo, contemporáneo]\n    end\n    subgraph E[Conceptos centrales]\n        E1[Iconografía y simbolismo<br>Estilo y autoría<br>Mecenazgo y recepción<br>Procedencia y canon]\n    end\n    subgraph F[Dominios contextuales]\n        F1[Religión y creencia<br>Política y poder<br>Clase social e identidad<br>Economía y materiales]\n    end\n    G[\"<b>FUENTES Y MÉTODOS</b><br>Análisis visual y formalismo<br>Investigación de archivo y documental<br>Examen técnico (rayos X, pigmento)<br>Investigación de procedencia\"]:::methods\n    H[\"<b>LENTES TEÓRICAS</b><br>Iconología (Panofsky), historia social<br>del arte, feminismo, poscolonialismo,<br>historias globales del arte\"]:::theory\n    I[<b>PROCESO INTERPRETATIVO</b><br>Descripción → Análisis →<br>Interpretación → Evaluación]:::process\n    J[<b>RESULTADOS</b><br>Preservación del patrimonio cultural,<br>alfabetización visual crítica,<br>comprensión de la creatividad<br>y la identidad humanas]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el estudio de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|examinado mediante| G\n    G -->|enmarcado por| H\n    H -->|guía| I\n    I -->|genera| J\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef theory fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef process fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historia_del_arte",
+                "cultura_visual",
+                "iconografia",
+                "estilo",
+                "periodos",
+                "teorias",
+                "metodos",
+                "patrimonio_cultural"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

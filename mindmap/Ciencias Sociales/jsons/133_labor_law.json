@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Derecho Laboral",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el campo del Derecho Laboral en torno a su concepto central. Se ramifica en Empleo individual (contratos, salarios, jornada, salud y seguridad, discriminación, despido), Relaciones colectivas de trabajo (sindicatos, negociación, huelgas, representación de los trabajadores), Principios centrales (función protectora, no discriminación, libertad sindical, negociación colectiva, normas mínimas), Fuentes (constitución, legislación, convenios colectivos, convenios de la OIT, jurisprudencia), Órganos de aplicación (inspecciones de trabajo, tribunales laborales, servicios de mediación) y Actores (trabajadores, empleadores, sindicatos, Estado). El mapa captura la doble naturaleza individual-colectiva de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Laboral))\n    Relación_Individual_de_Trabajo\n      Contrato_de_Trabajo\n      Salarios_y_Jornada\n      Salud_y_Seguridad\n      Protección_contra_la_Discriminación\n      Extinción\n    Relaciones_Colectivas_de_Trabajo\n      Sindicatos\n      Negociación_Colectiva\n      Acción_Colectiva\n        Huelgas\n        Cierres_Patronales\n      Participación_de_los_Trabajadores\n    Principios_Centrales\n      Función_Protectora\n      No_Discriminación\n      Libertad_Sindical\n      Negociación_Colectiva\n      Normas_Mínimas\n    Fuentes_del_Derecho\n      Constitución\n      Legislación\n      Convenios_Colectivos\n      Convenios_ILO\n      Jurisprudencia\n    Órganos_de_Aplicación\n      Inspecciones_de_Trabajo\n      Tribunales_Laborales\n      Mediación_y_Arbitraje\n    Actores\n      Trabajadores\n      Empleadores\n      Sindicatos\n      Estado",
+            "complexity": "high",
+            "tags": ["derecho_laboral", "mapa_mental", "empleo", "negociación_colectiva", "ILO", "derechos_laborales", "aplicación"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

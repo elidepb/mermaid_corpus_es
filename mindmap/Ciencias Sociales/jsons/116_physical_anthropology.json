@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Antropología física",
+            "category": "Antropología",
+            "description": "Este mapa mental organiza el campo de la antropología física en torno a su concepto central. Las ramas cubren subcampos principales (paleoantropología, primatología, variación humana, bioarqueología, antropología forense, antropología molecular), conceptos clave (selección natural, adaptación, filogenia de homininos, raza como constructo social, deriva genética), métodos nucleares (excavación y datación de fósiles, anatomía comparada, genética y ADN antiguo, osteología, craneometría y morfometría 3D), figuras destacadas (Johann Blumenbach, Charles Darwin, Raymond Dart, Louis Leakey, Jane Goodall, Svante Pääbo) y aplicaciones (investigación sobre orígenes humanos, identificación forense, antropología médica, conservación de primates). El mapa captura la amplitud de la disciplina, de la teoría evolutiva a la ciencia aplicada.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Antropología física))\n    Subcampos\n      Paleoantropología\n      Primatología\n      Variación_humana\n      Bioarqueología\n      Antropología_forense\n      Antropología_molecular\n    Conceptos_clave\n      Evolución_por_selección_natural\n      Adaptación\n      Filogenia_de_homininos\n      Raza_como_constructo_social\n      Deriva_genética\n      Dimorfismo_sexual\n    Métodos\n      Excavación_y_datación_de_fósiles\n      Anatomía_comparada\n      Genética_y_ADN_antiguo\n      Osteología\n      Craneometría_y_morfometría_3D\n    Figuras_destacadas\n      Johann_Blumenbach\n      Charles_Darwin\n      Raymond_Dart\n      Louis_Leakey\n      Jane_Goodall\n      Svante_Pääbo\n    Aplicaciones\n      Investigación_de_orígenes_humanos\n      Identificación_forense\n      Antropología_médica\n      Primatología_de_conservación",
+            "complexity": "high",
+            "tags": [
+                "antropología_física",
+                "mapa_mental",
+                "paleoantropología",
+                "primatología",
+                "forense",
+                "adn_antiguo",
+                "variación_humana",
+                "evolución"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

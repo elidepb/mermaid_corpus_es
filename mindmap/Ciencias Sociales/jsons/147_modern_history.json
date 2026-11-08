@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Historia Moderna",
+            "category": "Historia",
+            "description": "Este mapa mental organiza el campo de la Historia Moderna en torno a su concepto central. Las ramas principales incluyen Periodos clave (edad moderna temprana, era de las revoluciones, largo siglo XIX, siglo XX, contemporánea), Temas principales (revolución y formación del Estado, capitalismo industrial, imperialismo y descolonización, guerra y genocidio, movimientos culturales y sociales, globalización), Fuentes y métodos (archivos, periódicos, estadísticas, historia oral, humanidades digitales), Enfoques teóricos (modernización, marxismo, sistemas-mundo, poscolonial, género y posestructuralismo), Grandes regiones (Europa, Asia Oriental, Asia Meridional, Oriente Medio, África, Américas) y Figuras clave (Eric Hobsbawm, Fernand Braudel, E.P. Thompson, Dipesh Chakrabarty, Joan Scott). El mapa ilustra el alcance global y la diversidad metodológica de la investigación histórica moderna.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia Moderna))\n    Periodos_Clave\n      Edad_Moderna_Temprana\n      Era_de_las_Revoluciones\n      Largo_Siglo_XIX\n      Siglo_XX\n      Contemporánea\n    Temas_Principales\n      Revolución_y_Formación_del_Estado\n      Capitalismo_Industrial\n      Imperialismo_y_Descolonización\n      Guerra_y_Genocidio\n      Movimientos_Culturales_y_Sociales\n      Globalización\n    Fuentes_y_Métodos\n      Archivos\n      Periódicos\n      Estadísticas\n      Historia_Oral\n      Humanidades_Digitales\n    Enfoques_Teóricos\n      Modernización\n      Marxismo\n      Sistemas_Mundo\n      Poscolonial\n      Género_y_Posestructuralismo\n    Grandes_Regiones\n      Europa\n      Asia_Oriental\n      Asia_Meridional\n      Oriente_Medio\n      África\n      Américas\n    Figuras_Clave\n      Eric_Hobsbawm\n      Fernand_Braudel\n      E.P._Thompson\n      Dipesh_Chakrabarty\n      Joan_Scott",
+            "complexity": "high",
+            "tags": ["historia_moderna", "mapa_mental", "periodos", "temas", "métodos", "historiografía", "historia_global"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Finanzas corporativas",
+            "category": "Negocios",
+            "description": "Las finanzas corporativas son el arte y la ciencia de gestionar el capital de una empresa para maximizar el valor para los accionistas. Se centran en tres decisiones fundamentales: dónde invertir en activos a largo plazo (inversión), cómo financiar esas inversiones (financiación) y cómo gestionar el flujo de caja cotidiano (dividendos y capital de trabajo). Estas decisiones están interconectadas y deben equilibrar el riesgo frente al rendimiento, al tiempo que aseguran que la empresa mantenga liquidez suficiente para operar. El objetivo último es la asignación óptima de recursos financieros para crear valor sostenible para los accionistas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Finanzas corporativas</b><br>El arte y la ciencia de gestionar<br>el capital de una empresa]:::title\n    B[<b>OBJETIVO ÚLTIMO</b><br>Maximizar el valor para los accionistas]:::goal\n    C[<b>TRES DECISIONES CENTRALES</b>]:::decisions\n    \n    subgraph D[Decisiones de inversión]\n        D1[Dónde invertir<br>en activos a largo plazo]\n    end\n    \n    subgraph E[Decisiones de financiación]\n        E1[Cómo financiar estas inversiones]\n    end\n    \n    subgraph F[Gestión de capital]\n        F1[Políticas de dividendos<br>y capital de trabajo]\n    end\n    \n    G[<b>ENFOQUE</b><br>Asignación óptima<br>de recursos financieros]:::focus\n    \n    A -->|busca| B\n    B -->|requiere| C\n    C -->|implica| D\n    C -->|implica| E\n    C -->|implica| F\n    D & E & F -->|logran colectivamente| G\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef decisions fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef focus fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "finanzas_corporativas",
+                "finanzas",
+                "inversion",
+                "presupuestacion_de_capital",
+                "politica_de_dividendos"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

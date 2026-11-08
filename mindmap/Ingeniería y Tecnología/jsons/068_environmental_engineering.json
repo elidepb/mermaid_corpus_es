@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "068",
+            "topic": "Ingeniería ambiental",
+            "category": "Ingeniería",
+            "description": "La ingeniería ambiental abarca múltiples especializaciones técnicas y enfoques. Los procesos de tratamiento de agua incluyen coagulación-floculación, sedimentación, filtración, desinfección (cloración, UV, ozonización), tecnologías de membrana (ósmosis inversa, ultrafiltración) y procesos de oxidación avanzada. El tratamiento de aguas residuales involucra tratamiento primario (cribado, desarenado), tratamiento secundario (lodos activados, filtros percoladores, biopelículas), tratamiento terciario (eliminación de nutrientes, filtración avanzada) y gestión de lodos. Las tecnologías de control de la contaminación atmosférica cubren eliminación de partículas (ciclones, precipitadores electrostáticos, filtros de mangas), tratamiento de gases (lavadores, convertidores catalíticos, adsorción) y sistemas de monitorización de emisiones. La gestión de residuos sólidos incluye caracterización de residuos, sistemas de recolección, diseño de vertederos, incineración, compostaje y programas de reciclaje. Las tecnologías de remediación presentan extracción de vapores del suelo, biorremediación, fitorremediación, sistemas de bombeo y tratamiento, y oxidación química. La monitorización ambiental usa sensores, cartografía SIG, teledetección y análisis de laboratorio. Los marcos regulatorios involucran normas de la EPA, Ley de Agua Limpia, Ley de Aire Limpio, RCRA y protocolos ambientales internacionales. Las áreas emergentes incluyen infraestructura verde, adaptación al cambio climático, secuestro de carbono y soluciones basadas en la naturaleza.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>ambiental</b>))\n    <b>Tratamiento de agua</b>\n      Coagulación-floculación\n      Sedimentación\n      Filtración\n      Desinfección\n        Cloración\n        UV\n        Ozonización\n      Tecnologías de membrana\n        Ósmosis inversa\n        Ultrafiltración\n      Oxidación avanzada\n    <b>Tratamiento de aguas residuales</b>\n      Tratamiento primario\n        Cribado\n        Desarenado\n      Tratamiento secundario\n        Lodos activados\n        Filtros percoladores\n        Biopelículas\n      Tratamiento terciario\n        Eliminación de nutrientes\n      Gestión de lodos\n    <b>Control de la contaminación atmosférica</b>\n      Eliminación de partículas\n        Ciclones\n        Precipitadores electrostáticos\n        Filtros de mangas\n      Tratamiento de gases\n        Lavadores\n        Convertidores catalíticos\n        Adsorción\n      Monitorización de emisiones\n    <b>Gestión de residuos sólidos</b>\n      Caracterización de residuos\n      Sistemas de recolección\n      Diseño de vertederos\n      Incineración\n      Compostaje\n      Programas de reciclaje\n    <b>Tecnologías de remediación</b>\n      Extracción de vapores del suelo\n      Biorremediación\n      Fitorremediación\n      Bombeo y tratamiento\n      Oxidación química\n    <b>Monitorización ambiental</b>\n      Sensores\n      Cartografía SIG\n      Teledetección\n      Análisis de laboratorio\n    <b>Marcos regulatorios</b>\n      Normas EPA\n      Ley de Agua Limpia\n      Ley de Aire Limpio\n      RCRA\n    <b>Áreas emergentes</b>\n      Infraestructura verde\n      Adaptación climática\n      Secuestro de carbono\n      Soluciones basadas en la naturaleza",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_ambiental",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

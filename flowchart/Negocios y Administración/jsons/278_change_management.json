@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "278",
+            "topic": "Gestión del cambio",
+            "category": "Negocios",
+            "description": "La gestión del cambio es el enfoque estructurado para transitar a individuos, equipos y organizaciones desde el estado actual hacia el estado futuro deseado, minimizando la resistencia y maximizando la adopción. Comienza con la identificación del cambio, reconociendo la necesidad de transformación impulsada por cambios de mercado, tecnología o imperativos estratégicos. El análisis de partes interesadas mapea a las partes afectadas, evalúa los niveles de impacto e identifica impulsores y resistentes al cambio. El desarrollo de visión y estrategia articula el caso convincente del cambio, los resultados deseados y la hoja de ruta de implementación. La planificación de la comunicación entrega mensajes consistentes por múltiples canales para construir conciencia y comprensión. La gestión de la resistencia aborda preocupaciones, temores y objeciones mediante involucramiento, formación y apoyo. La ejecución de la implementación despliega los cambios de forma incremental con victorias rápidas para generar impulso. El refuerzo y la sostenibilidad incorporan nuevos comportamientos mediante reconocimiento, medición y ajuste continuo. El objetivo es una transformación exitosa con mínima disrupción y adopción conductual sostenida.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión del cambio</b><br>Transición estructurada del estado<br>actual al futuro]:::title\n    B[<b>META PRINCIPAL</b><br>Transformación exitosa con<br>adopción sostenida]:::goal\n    C[<b>PROCESO DE CAMBIO</b>]:::process\n    \n    subgraph D[Identificación del cambio]\n        D1[Reconocer la necesidad impulsada por<br>el mercado o la estrategia]\n    end\n    \n    subgraph E[Análisis de partes interesadas]\n        E1[Mapear partes afectadas<br>y niveles de impacto]\n    end\n    \n    subgraph F[Visión y estrategia]\n        F1[Articular un caso convincente<br>y una hoja de ruta]\n    end\n    \n    subgraph G[Planificación de la comunicación]\n        G1[Entregar mensajes consistentes<br>en todos los canales]\n    end\n    \n    subgraph H[Gestión de la resistencia]\n        H1[Abordar preocupaciones mediante<br>involucramiento y formación]\n    end\n    \n    subgraph I[Ejecución de la implementación]\n        I1[Desplegar cambios con<br>victorias rápidas]\n    end\n    \n    subgraph J[Refuerzo y sostenibilidad]\n        J1[Incorporar comportamientos mediante<br>reconocimiento y medición]\n    end\n    \n    K[<b>RESULTADO</b><br>Mínima disrupción y<br>adopción conductual]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|evolución continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_cambio",
+                "modelo_8_pasos_de_kotter",
+                "cambio_organizacional",
+                "liderazgo",
+                "negocios"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

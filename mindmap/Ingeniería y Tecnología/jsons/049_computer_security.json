@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "049",
+            "topic": "Seguridad informática",
+            "category": "Ciencias de la computación",
+            "description": "La seguridad informática abarca categorías de amenazas, mecanismos de defensa y marcos de seguridad que protegen los activos digitales. Los principios de seguridad incluyen la confidencialidad, que impide la divulgación no autorizada de información; la integridad, que garantiza la exactitud y fiabilidad de los datos; la disponibilidad, que mantiene el acceso a los sistemas; la autenticación, que verifica las reivindicaciones de identidad; y el no repudio, que prueba que las acciones ocurrieron. Las categorías de amenazas cubren el malware, incluidos virus, troyanos y ransomware; la ingeniería social, que manipula la psicología humana; los ataques de red, que explotan vulnerabilidades de protocolo; las amenazas internas de usuarios autorizados; y las amenazas persistentes avanzadas que llevan a cabo campañas sofisticadas. Los controles de seguridad emplean controles preventivos que bloquean amenazas antes de que ocurran, controles de detección que identifican eventos de seguridad, controles correctivos que responden a incidentes y controles disuasorios que desincentivan los ataques. La criptografía proporciona cifrado simétrico para la confidencialidad, cifrado asimétrico para el intercambio de claves, funciones hash para la verificación de integridad, firmas digitales para la autenticación e infraestructura de clave pública para la gestión de certificados. La seguridad de red implementa cortafuegos que filtran el tráfico, VPN que aseguran el acceso remoto, sistemas de prevención de intrusiones que bloquean ataques, segmentación de red que limita el alcance de una brecha y protocolos seguros como TLS. La seguridad de aplicaciones aborda prácticas de codificación segura, validación de entradas, mecanismos de autenticación, gestión de sesiones y pruebas de seguridad a lo largo del ciclo de vida de desarrollo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Seguridad<br>informática</b>))\n    <b>Principios de seguridad</b>\n      Confidencialidad\n      Integridad\n      Disponibilidad\n      Autenticación\n      No repudio\n      Autorización\n    <b>Categorías de amenazas</b>\n      Ataques de malware\n      Ingeniería social\n      Ataques de red\n      Amenazas internas\n      APT\n      Exploits de día cero\n    <b>Controles de seguridad</b>\n      Controles preventivos\n      Controles de detección\n      Controles correctivos\n      Controles disuasorios\n      Controles compensatorios\n    <b>Criptografía</b>\n      Cifrado simétrico\n      Cifrado asimétrico\n      Funciones hash\n      Firmas digitales\n      Infraestructura PKI\n    <b>Seguridad de red</b>\n      Cortafuegos\n      Túneles VPN\n      Sistemas IPS/IDS\n      Segmentación de red\n      Protocolos seguros\n    <b>Seguridad de aplicaciones</b>\n      Codificación segura\n      Validación de entradas\n      Autenticación\n      Gestión de sesiones\n      Pruebas de seguridad\n    <b>Identidad y acceso</b>\n      Autenticación multifactor\n      Inicio de sesión único\n      Acceso basado en roles\n      Acceso privilegiado\n      Gobernanza de identidad\n    <b>Marcos de seguridad</b>\n      Ciberseguridad NIST\n      ISO 27001\n      Controles CIS\n      COBIT\n      Confianza cero",
+            "complexity": "high",
+            "tags": [
+                "seguridad_informática",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

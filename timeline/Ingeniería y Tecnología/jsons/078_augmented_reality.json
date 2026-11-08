@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Realidad aumentada",
+            "category": "Ingeniería",
+            "description": "La realidad aumentada evolucionó de conceptos teóricos a experiencias móviles ubicuas que transforman las industrias y el entretenimiento. Los primeros conceptos de RA aparecieron en la ciencia ficción y en sistemas experimentales (décadas de 1960-1970). El visor montado en la cabeza de Ivan Sutherland (1968) sentó las bases. El término realidad aumentada fue acuñado por el investigador de Boeing Tom Caudell (1990) para el ensamblaje de aeronaves. El sistema Virtual Fixtures en la Fuerza Aérea de EE. UU. (1992) demostró el primer sistema de RA funcional para entrenamiento. ARToolKit se publicó (1999) como biblioteca de código abierto que permitió el desarrollo de RA basada en marcadores. Los videojuegos de RA surgieron con ARQuake (2000) superponiendo elementos de juego en entornos reales. Wikitude (2008) fue pionera en navegadores de RA móvil con información basada en la ubicación. La realidad aumentada ganó atención generalizada a través de campañas de marketing y aplicaciones (década de 2010). Google Glass (2013) intentó gafas de RA de consumo pero se enfrentó a preocupaciones de privacidad. Pokémon GO (2016) se convirtió en un fenómeno cultural con más de 500 millones de descargas que demostraron el atractivo masivo de la RA. Apple ARKit (2017) y Google ARCore democratizaron el desarrollo de RA para miles de millones de dispositivos móviles. La aplicación IKEA Place mostró la visualización práctica de mobiliario. La RA actual integra renderizado neuronal, reconstrucción 3D en tiempo real, plataformas de computación espacial y soluciones empresariales para asistencia remota y formación.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la realidad aumentada\n    1960s-1970s : Primeros conceptos de RA\n                : Sistemas experimentales\n    1968 : HMD de Sutherland\n         : Trabajo fundacional de visualización\n    1990 : Se acuña el término RA\n         : Tom Caudell en Boeing\n    1992 : Sistema Virtual Fixtures\n         : Primera RA funcional\n    1999 : Publicación de ARToolKit\n         : Seguimiento de marcadores de código abierto\n    2000 : Videojuegos ARQuake\n         : Superposición de juego en el mundo real\n    2008 : RA móvil Wikitude\n         : Navegador basado en la ubicación\n    2013 : Google Glass\n         : Intento de gafas de RA de consumo\n    2016 : Fenómeno Pokémon GO\n         : Más de 500 millones de descargas de atractivo masivo\n    2017 : Lanzamiento de ARKit y ARCore\n         : Democratización de la RA móvil\n    2020s : Renderizado neuronal y espacial\n          : 3D en tiempo real y RA empresarial",
+            "complexity": "high",
+            "tags": [
+                "realidad_aumentada",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

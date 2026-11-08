@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Teoría sociológica",
+            "category": "Sociología",
+            "description": "La teoría sociológica ofrece marcos para comprender los fenómenos sociales. Este diagrama de flujo mapea el proceso: partiendo del objetivo de explicar el orden y el cambio sociales, integra fundamentos clásicos (la teoría del conflicto de Marx, el funcionalismo de Durkheim, la sociología interpretativa de Weber) y perspectivas modernas (funcionalismo, conflicto, interaccionismo simbólico, feminismo, teoría crítica de la raza, posmodernismo). Luego aborda debates teóricos centrales (estructura frente a agencia, consenso frente a conflicto, micro frente a macro) que orientan el análisis de las instituciones sociales (familia, educación, economía), y en última instancia produce ideas para la política, reflexión crítica y vías de cambio social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Teoría sociológica</b><br>Marcos para comprender<br>el orden, la acción y el cambio sociales]:::title\n    B[<b>OBJETIVO</b><br>Explicar los fenómenos sociales<br>y orientar la investigación sociológica]:::goal\n    C[<b>FUNDAMENTOS</b>]:::foundations\n    subgraph D[Teóricos clásicos]\n        D1[Karl Marx<br>Conflicto de clases, alienación<br>base/superestructura]\n        D2[Émile Durkheim<br>Hechos sociales, conciencia colectiva<br>anomia, funcionalismo]\n        D3[Max Weber<br>Verstehen, racionalización<br>Ética protestante, burocracia]\n    end\n    subgraph E[Perspectivas modernas]\n        E1[Funcionalismo<br>Teoría del conflicto<br>Interaccionismo simbólico<br>Teoría feminista<br>Teoría crítica de la raza<br>Posmodernismo]\n    end\n    F[<b>DEBATES CENTRALES</b><br>Estructura frente a agencia<br>Consenso frente a conflicto<br>Micro frente a macro]:::debates\n    G[<b>ANÁLISIS</b><br>Aplicado a instituciones<br>Familia, educación, economía, Estado]:::analysis\n    H[<b>RESULTADOS</b><br>Ideas para la política, reflexión crítica<br>vías de cambio social]:::outcome\n\n    A -->|persigue| B\n    B -->|integra| C\n    C -->|se basa en| D\n    C -->|incorpora| E\n    D & E -->|informan| F\n    F -->|orienta| G\n    G -->|produce| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef foundations fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef debates fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "teoria_sociologica",
+                "sociologia_clasica",
+                "funcionalismo",
+                "teoria_del_conflicto",
+                "interaccionismo_simbolico",
+                "feminismo",
+                "estructura_agencia",
+                "analisis_social"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

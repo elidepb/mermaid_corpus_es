@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Sociología política",
+            "category": "Sociología y ciencia política",
+            "description": "Este mapa mental traza el terreno de la sociología política. El nodo central se ramifica en conceptos clave (Estado, poder, legitimidad, autoridad, sociedad civil, hegemonía), teóricos fundacionales (Marx sobre el conflicto de clases, Weber sobre legitimidad y burocracia, Gramsci sobre hegemonía cultural), grandes perspectivas teóricas (teoría de las élites, pluralismo, marxismo, institucionalismo, posestructuralismo) y áreas primarias de investigación (participación política, movimientos sociales, revoluciones, comportamiento electoral, nacionalismo, Estados de bienestar, comunicación política). El mapa captura la amplitud conceptual y temática del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sociología política))\n    Conceptos_centrales\n      Poder\n      Estado\n      Legitimidad\n      Autoridad\n      Sociedad civil\n      Hegemonía\n    Teóricos_fundacionales\n      Karl Marx\n        Conflicto de clases\n        Base y superestructura\n      Max Weber\n        Tipos de autoridad\n        Burocracia\n      Antonio Gramsci\n        Hegemonía cultural\n        Intelectuales orgánicos\n    Perspectivas_teóricas\n      Teoría de las élites\n        Pareto, Mosca\n      Pluralismo\n        Robert Dahl\n      Marxismo\n      Nuevo institucionalismo\n      Posestructuralismo\n        Foucault\n    Áreas_de_investigación\n      Participación política\n      Movimientos sociales\n      Revoluciones\n      Comportamiento electoral\n      Nacionalismo\n      Estados de bienestar\n      Comunicación política",
+            "complexity": "high",
+            "tags": [
+                "sociología_política",
+                "mapa_mental",
+                "poder",
+                "estado",
+                "gramsci",
+                "teoría_de_las_élites",
+                "movimientos_sociales",
+                "participación_política"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

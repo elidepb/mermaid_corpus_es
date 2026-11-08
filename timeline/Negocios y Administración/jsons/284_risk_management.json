@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Gestión de riesgos",
+            "category": "Negocios",
+            "description": "La gestión de riesgos evolucionó de la protección basada en seguros a una disciplina integral de toda la empresa. La gestión de riesgos temprana se centró en seguros de daños y de accidentes en la era industrial (siglo XIX-principios del XX). La gestión de riesgos surgió como función corporativa en las décadas de 1950-1960, inicialmente centrada en riesgos asegurables. La gestión de riesgos financieros avanzó con el crecimiento de los mercados de derivados en las décadas de 1970-1980, usando futuros y opciones para la cobertura. El concepto de valor en riesgo ganó protagonismo en la década de 1990 para cuantificar la exposición al riesgo de mercado. Los marcos de gestión de riesgos empresariales surgieron a finales de la década de 1990 y principios de la de 2000, integrando la supervisión del riesgo en las organizaciones. El marco COSO ERM (2004) y la norma ISO 31000 (2009) aportaron metodologías estructuradas. La crisis financiera de 2008 puso de relieve las interconexiones del riesgo sistémico y las limitaciones de los modelos. Sarbanes-Oxley (2002) y los acuerdos de Basilea reforzaron los requisitos de gobernanza del riesgo. La resiliencia operativa y el riesgo cibernético se convirtieron en prioridades en la década de 2010. La gestión de riesgos actual integra analítica impulsada por IA, evaluación del riesgo climático y seguimiento del riesgo de terceros.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de riesgos\n    1800s-Early 1900s : Protección basada en seguros\n                      : Enfoque en daños y accidentes\n    1950s-1960s : Función corporativa de riesgos\n                : Gestión de riesgos asegurables\n    1970s-1980s : Gestión de riesgos financieros\n                : Cobertura con derivados\n    1990s : Valor en riesgo\n          : Cuantificación del riesgo de mercado\n    Late 1990s-2000s : Gestión de riesgos empresariales\n                     : Supervisión integrada\n    2004 : Marco COSO ERM\n         : Metodología estructurada\n    2008 : Crisis financiera\n         : Conciencia del riesgo sistémico\n    2009 : Norma ISO 31000\n         : Marco mundial de riesgos\n    2010s : Riesgo cibernético y operativo\n          : Enfoque en amenazas digitales\n    2020s : Analítica de IA y riesgo climático\n          : Enfoque predictivo y de sostenibilidad",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_riesgos",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

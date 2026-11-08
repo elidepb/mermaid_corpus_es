@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "Economía internacional",
+            "category": "Economía",
+            "description": "La economía internacional estudia las interacciones económicas a través de las fronteras nacionales. El diagrama de flujo divide el campo en sus dos ramas principales: el comercio internacional y las finanzas internacionales. El comercio internacional analiza la ventaja comparativa, las ganancias del comercio, los patrones comerciales explicados por la nueva teoría del comercio y los instrumentos de política comercial como aranceles, cuotas y acuerdos comerciales. Las finanzas internacionales examinan los regímenes cambiarios, la balanza de pagos y los flujos internacionales de capital. Estas dos ramas determinan conjuntamente los resultados de bienestar global —crecimiento, estabilidad y la necesidad de coordinación de políticas— y están profundamente influidas por instituciones internacionales como la OMC, el FMI y el Banco Mundial. El diagrama destaca la naturaleza interconectada del comercio y los flujos financieros y el papel de retroalimentación de la gobernanza mundial.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>ECONOMÍA INTERNACIONAL</b><br>Interacciones económicas entre<br>países]:::title\n    B[<b>RAMAS PRINCIPALES</b>]:::branches\n    subgraph trade [Comercio internacional]\n        C1[Ventaja comparativa<br>Ganancias del comercio]\n        C2[Patrones comerciales<br>Nueva teoría del comercio]\n        C3[Política comercial<br>Aranceles, cuotas, acuerdos]\n    end\n    subgraph finance [Finanzas internacionales]\n        C4[Tipos de cambio<br>Fijos frente a flotantes]\n        C5[Balanza de pagos<br>Cuentas corriente y de capital]\n        C6[Flujos de capital<br>Inversión extranjera]\n    end\n    D[<b>BIENESTAR GLOBAL</b><br>Crecimiento, estabilidad,<br>coordinación de políticas]:::welfare\n    E[<b>INSTITUCIONES</b><br>OMC, FMI, Banco Mundial]:::institutions\n    A -->|se divide en| B\n    B --> trade\n    B --> finance\n    trade & finance -->|influyen en| D\n    D -->|respaldado por| E\n    E -->|configura| trade\n    E -->|configura| finance\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef branches fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef welfare fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef institutions fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    style trade fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style finance fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "economia_internacional",
+                "comercio",
+                "finanzas",
+                "tipos_de_cambio",
+                "omc"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

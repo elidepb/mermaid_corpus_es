@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Historia antigua",
+            "category": "Historia",
+            "description": "La historia antigua estudia los orígenes, el desarrollo y las interacciones de las primeras civilizaciones desde la invención de la escritura (c. 3000 a. C.) hasta la caída de los grandes imperios clásicos (c. 476 d. C.). Este diagrama de flujo describe su marco disciplinar: el objetivo último es reconstruir las sociedades del pasado y comprender los procesos de largo plazo que dieron forma a la organización humana, la cultura y el poder. Integra componentes centrales: las grandes civilizaciones (Mesopotamia, Egipto, valle del Indo, China, Grecia, Roma y otras), dominios temáticos clave (formación del Estado y gobernanza, religión e ideología, economía y comercio, jerarquía social y vida cotidiana, y logros culturales y tecnológicos) y las diversas fuentes y métodos (arqueología, registros textuales, análisis comparativo). Estos se interpretan mediante lentes teóricas (difusionismo, teoría de los sistemas-mundo, historia ambiental, perspectivas poscoloniales) y se organizan en torno a un arco histórico: formación temprana del Estado → imperios clásicos y era axial → crisis, declive y transformación. Los conocimientos resultantes iluminan el patrimonio cultural, los modelos políticos y los patrones duraderos de las sociedades humanas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historia antigua</b><br>Estudio de las primeras civilizaciones y<br>de sus interconexiones]:::title\n    B[<b>OBJETIVO</b><br>Reconstruir las sociedades del pasado y<br>comprender el desarrollo a largo plazo<br>de la organización humana]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Grandes civilizaciones]\n        D1[\"Mesopotamia (Sumer, Akkad, Babilonia)<br>Antiguo Egipto<br>Valle del Indo e India védica<br>China antigua (Shang, Zhou, Qin, Han)<br>Grecia clásica y mundo helenístico<br>Roma (República e Imperio)<br>Persia, mayas, otras\"]\n    end\n    subgraph E[Temas clave]\n        E1[Formación del Estado y gobernanza<br>Religión, mito e ideología<br>Economía, comercio y tecnología<br>Jerarquía social, género, esclavitud<br>Arte, escritura, ciencia y filosofía]\n    end\n    subgraph F[Fuentes y métodos]\n        F1[\"Arqueología (excavación, prospección)<br>Registros textuales (inscripciones, literatura)<br>Historia del arte y cultura material<br>Análisis comparativo e interregional\"]\n    end\n    G[<b>LENTES TEÓRICAS</b><br>Difusionismo, sistemas-mundo,<br>historia ambiental,<br>enfoques poscoloniales y estructurales]:::theory\n    H[<b>ARCO HISTÓRICO</b><br>Estados tempranos y urbanización →<br>Imperios clásicos y era axial →<br>Crisis, declive y transformación]:::process\n    I[<b>RESULTADOS</b><br>Patrimonio cultural e identidad,<br>claves sobre los sistemas políticos,<br>comprensión de la evolución social]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el análisis de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|interpretado mediante| G\n    G -->|organizado en torno a| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historia_antigua",
+                "civilizaciones",
+                "arqueologia",
+                "formacion_del_estado",
+                "imperios_clasicos",
+                "edad_del_bronce",
+                "edad_del_hierro"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

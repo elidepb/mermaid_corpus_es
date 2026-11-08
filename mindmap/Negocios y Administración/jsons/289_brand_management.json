@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Gestión de marca",
+            "category": "Negocios",
+            "description": "La gestión de marca abarca marcos estratégicos, elementos de identidad y sistemas de medición para construir un valor de marca duradero. Los marcos de estrategia de marca incluyen el posicionamiento de marca que define la propuesta de valor única y la diferenciación competitiva, la personalidad de marca que expresa características humanas como sinceridad o entusiasmo, el propósito de marca que articula una misión social más allá del beneficio, y la promesa de marca que establece expectativas hacia los clientes. Los componentes del valor de marca comprenden el conocimiento de marca que mide reconocimiento y recuerdo, las asociaciones de marca que vinculan atributos y beneficios, la calidad percibida que evalúa la superioridad del producto, la lealtad de marca que indica la conducta de recompra y los activos de marca que incluyen elementos propietarios. Los sistemas de identidad de marca definen la identidad visual mediante logotipos, colores y tipografía, la identidad verbal vía eslóganes y mensajería, el branding sensorial que usa sonido, aroma y tacto, y las directrices de marca que aseguran consistencia. Los modelos de arquitectura de marca emplean casa de marca usando una marca maestra en todos los productos, casa de marcas con submarcas independientes, marcas respaldadas que combinan nombres de matriz y producto, y submarcas que extienden la marca central. Los puntos de contacto de marca abarcan la experiencia de producto, los entornos minoristas, las plataformas digitales, las campañas publicitarias, el servicio al cliente y las interacciones de los empleados. La medición de marca rastrea puntuaciones de salud de marca, Net Promoter Score, métodos de valoración de marca y estudios de posicionamiento competitivo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>marca</b>))\n    <b>Estrategia de marca</b>\n      Posicionamiento de marca\n      Personalidad de marca\n      Propósito de marca\n      Promesa de marca\n      Audiencia objetivo\n    <b>Componentes del valor de marca</b>\n      Conocimiento de marca\n      Asociaciones de marca\n      Calidad percibida\n      Lealtad de marca\n      Activos propietarios\n    <b>Sistemas de identidad de marca</b>\n      Identidad visual\n      Identidad verbal\n      Branding sensorial\n      Directrices de marca\n      Estándares de diseño\n    <b>Arquitectura de marca</b>\n      Casa de marca\n      Casa de marcas\n      Marcas respaldadas\n      Submarcas\n      Estrategia de cartera\n    <b>Puntos de contacto de marca</b>\n      Experiencia de producto\n      Entornos minoristas\n      Plataformas digitales\n      Campañas publicitarias\n      Servicio al cliente\n      Interacciones de empleados\n    <b>Medición de marca</b>\n      Puntuaciones de salud de marca\n      Net Promoter Score\n      Valoración de marca\n      Estudios de seguimiento\n      Métricas de valor\n    <b>Extensión de marca</b>\n      Expansión de categoría\n      Cobranding\n      Licenciamiento\n      Expansión geográfica\n    <b>Protección de marca</b>\n      Registro de marcas\n      Prevención de falsificación\n      Control de calidad\n      Gestión de reputación",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_marca",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

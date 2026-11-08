@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "296",
+            "topic": "Contaminación atmosférica",
+            "category": "Ciencias ambientales",
+            "description": "La contaminación atmosférica es la contaminación de la atmósfera por sustancias nocivas que plantean riesgos para la salud de humanos, animales y ecosistemas, al tiempo que contribuyen a la degradación ambiental. Su preocupación principal es comprender las fuentes, los mecanismos de transporte y los impactos sanitarios y ambientales para desarrollar estrategias eficaces de control y prevención. Los aspectos centrales incluyen: fuentes de contaminación (fuentes fijas como centrales eléctricas e instalaciones industriales, fuentes móviles incluidos vehículos y aeronaves, fuentes naturales como incendios forestales y tormentas de polvo), tipos de contaminantes (contaminantes criterio: material particulado, ozono, óxidos de nitrógeno, dióxido de azufre, monóxido de carbono, plomo; contaminantes atmosféricos peligrosos: sustancias tóxicas, compuestos orgánicos volátiles), procesos atmosféricos (dispersión y transporte, transformaciones químicas, reacciones fotoquímicas que forman contaminantes secundarios), impactos sanitarios y ambientales (enfermedades respiratorias, efectos cardiovasculares, lluvia ácida, reducción de la visibilidad, daño a los ecosistemas) y medidas de control (estándares de emisión, tecnologías de control de la contaminación, monitoreo de la calidad del aire, intervenciones de política). El proceso de gestión implica monitoreo y evaluación de la calidad del aire, identificación de fuentes, evaluación de impactos, implementación de tecnologías de control y aplicación normativa. Estos elementos se integran mediante la química atmosférica, la meteorología y la salud pública para abordar la contaminación a través de controles de emisiones, tecnologías más limpias, planificación urbana, políticas de transporte y gestión de la calidad del aire que protegen la salud humana y la calidad ambiental.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Contaminación atmosférica</b><br>Contaminación de la atmósfera por<br>sustancias nocivas]:::title\n    B[<b>PREOCUPACIÓN PRINCIPAL</b><br>Comprender fuentes e impactos<br>para desarrollar estrategias de control]:::concern\n    C[<b>ASPECTOS CENTRALES</b>]:::aspects\n    \n    subgraph D[Fuentes de contaminación]\n        D1[Fijas: centrales eléctricas<br>Móviles: vehículos<br>Naturales: incendios forestales]\n    end\n    \n    subgraph E[Tipos de contaminantes]\n        E1[Contaminantes criterio<br>PM, O3, NOx, SO2<br>Contaminantes atmosféricos peligrosos]\n    end\n    \n    subgraph F[Procesos atmosféricos]\n        F1[Dispersión y transporte<br>Transformaciones químicas<br>Reacciones fotoquímicas]\n    end\n    \n    subgraph G[Impactos sanitarios y ambientales]\n        G1[Enfermedades respiratorias<br>Lluvia ácida<br>Daño a los ecosistemas]\n    end\n    \n    subgraph H[Medidas de control]\n        H1[Estándares de emisión<br>Tecnologías de control<br>Intervenciones de política]\n    end\n    \n    I[<b>PROCESO DE GESTIÓN</b><br>Monitoreo, evaluación<br>Control, aplicación]:::process\n    \n    J[<b>ABORDA</b><br>La contaminación mediante controles,<br>tecnología y política]:::outcome\n    \n    A -->|plantea| B\n    B -->|mediante la comprensión| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|permite| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "contaminacion_atmosferica",
+                "ciencias_ambientales",
+                "contaminantes",
+                "emisiones",
+                "esmog",
+                "lluvia_acida",
+                "calidad_del_aire"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

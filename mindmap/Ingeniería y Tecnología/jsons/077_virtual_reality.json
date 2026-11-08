@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Realidad virtual",
+            "category": "Tecnología",
+            "description": "La realidad virtual abarca hardware, software, aplicaciones y principios de diseño que crean experiencias digitales inmersivas. El hardware de RV incluye visores como Meta Quest, PlayStation VR y Valve Index, con distintas resoluciones y campos de visión; sistemas de seguimiento con tracking inside-out o lighthouse; dispositivos de entrada que incluyen controladores de movimiento y seguimiento de manos; sistemas hápticos que proporcionan realimentación de fuerza y vibración; y cintas de correr que habilitan la locomoción natural. Las plataformas de software utilizan el motor Unity para desarrollo multiplataforma, Unreal Engine para gráficos de alta fidelidad, WebVR para experiencias en el navegador y marcos especializados para aplicaciones empresariales. Las aplicaciones de RV cubren videojuegos con entretenimiento inmersivo, simulaciones de formación para aviación, cirugía y militares, visitas virtuales de inmuebles y destinos turísticos, plataformas de RV social para colaboración remota, usos terapéuticos que tratan fobias y TEPT, y visualización de diseño para arquitectura y desarrollo de productos. Las consideraciones de diseño abordan métodos de locomoción que previenen el mareo, diseño de interfaz de usuario para el espacio 3D, espacialización de audio que crea paisajes sonoros realistas, adaptaciones de accesibilidad para usuarios diversos y factores de confort que gestionan calor, peso y duración. Los retos técnicos incluyen renderizar escenas complejas manteniendo la tasa de fotogramas, reducir la latencia por debajo de 20 ms, alcanzar alta resolución superando el efecto de puerta de pantalla, transmisión inalámbrica que equilibra calidad y retraso, y creación de contenido que requiere habilidades y herramientas especializadas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Realidad<br>virtual</b>))\n    <b>Hardware de RV</b>\n      Visores\n      Meta Quest\n      PlayStation VR\n      Valve Index\n      Controladores de movimiento\n      Seguimiento de manos\n      Realimentación háptica\n    <b>Sistemas de seguimiento</b>\n      Seguimiento inside-out\n      Lighthouse outside-in\n      Movimiento 6DOF\n      Seguimiento ocular\n      Seguimiento de cuerpo completo\n    <b>Plataformas de software</b>\n      Motor Unity\n      Unreal Engine\n      Navegadores WebVR\n      Runtime SteamVR\n      Norma OpenXR\n    <b>Aplicaciones de RV</b>\n      Videojuegos y entretenimiento\n      Simulaciones de formación\n      Visitas virtuales\n      Plataformas de RV social\n      Usos terapéuticos\n      Visualización de diseño\n    <b>Consideraciones de diseño</b>\n      Métodos de locomoción\n      IU en espacio 3D\n      Audio espacial\n      Accesibilidad\n      Factores de confort\n      Prevención del cibermareo\n    <b>Retos técnicos</b>\n      Altas tasas de fotogramas\n      Baja latencia <20 ms\n      Resolución y FOV\n      Transmisión inalámbrica\n      Creación de contenido\n    <b>Métodos de interacción</b>\n      Gestos de la mano\n      Órdenes de voz\n      Selección por mirada\n      Controladores físicos\n      Guantes hápticos\n    <b>Tipos de contenido</b>\n      Vídeo de 360 grados\n      3D en tiempo real\n      Fotogrametría\n      Captura volumétrica\n      Generación procedimental",
+            "complexity": "high",
+            "tags": [
+                "realidad_virtual",
+                "tecnología"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

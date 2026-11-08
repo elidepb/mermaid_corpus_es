@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Antropología lingüística",
+            "category": "Antropología",
+            "description": "Esta cronología rastrea hitos clave en el desarrollo de la antropología lingüística. A principios del siglo XX: Boas documenta lenguas indígenas americanas y establece el enfoque de los cuatro campos. Las décadas de 1920-30 vieron a Sapir y Whorf desarrollar la hipótesis de la relatividad lingüística. En la década de 1960, Dell Hymes fundó la etnografía de la comunicación. Michael Silverstein introdujo las ideologías lingüísticas en 1979. La década de 1980 trajo la teoría de la socialización lingüística (Ochs y Schieffelin). Las décadas de 1990-2000 vieron el auge del análisis crítico del discurso y los estudios de la comunicación digital. El trabajo contemporáneo explora el lenguaje y la globalización, el multilingüismo y la revitalización.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la antropología lingüística\n    section Primeros fundamentos\n      1911 : Manual de lenguas indígenas<br>americanas de Boas\n      1920s-30s : Hipótesis de Sapir-Whorf<br>Relatividad lingüística\n    section Etnografía y comunicación\n      1962 : Dell Hymes<br>Etnografía del habla\n      1972 : Gumperz y Hymes<br>Direcciones en sociolingüística\n    section Ideología y socialización lingüísticas\n      1979 : Silverstein<br>Ideología lingüística y metapragmática\n      1984 : Ochs y Schieffelin<br>Socialización lingüística\n    section Giros crítico y digital\n      1990s : Análisis crítico del discurso<br>Lenguaje y poder\n      2000s : Comunicación digital<br>y comunidades en línea\n    section Contemporánea\n      2010s : Lenguaje y globalización<br>Multilingüismo\n      2020s : Revitalización lingüística<br>y lingüística decolonial",
+            "complexity": "high",
+            "tags": [
+                "antropologia_linguistica",
+                "historia",
+                "linea_de_tiempo",
+                "boas",
+                "sapir_whorf",
+                "hymes",
+                "ideologia_linguistica",
+                "socializacion_linguistica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

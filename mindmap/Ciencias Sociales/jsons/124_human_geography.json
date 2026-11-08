@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Geografía humana",
+            "category": "Geografía",
+            "description": "Este mapa mental organiza el campo de la geografía humana en torno a su concepto central. Se ramifica en conceptos nucleares (espacio, lugar, escala, región, paisaje, territorialidad), subcampos principales (geografía cultural, económica, política, urbana, social, de la población, de la salud), enfoques teóricos (positivismo, humanístico, marxista, feminista, posestructural, poscolonial), métodos de investigación (SIG, cartografía, teledetección, etnografía, encuestas, estadística espacial), pensadores clave (Carl Sauer, David Harvey, Doreen Massey, Yi-Fu Tuan, Edward Soja) y áreas aplicadas (planificación urbana y regional, gestión ambiental, transporte, respuesta a desastres, salud pública). El mapa captura las preocupaciones diversas de la disciplina con las interacciones ser humano-entorno y la justicia espacial.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Geografía humana))\n    Conceptos_centrales\n      Espacio\n      Lugar\n      Escala\n      Región\n      Paisaje\n      Territorialidad\n    Subcampos_principales\n      Geografía_cultural\n      Geografía_económica\n      Geografía_política\n      Geografía_urbana\n      Geografía_social\n      Geografía_de_la_población\n      Geografía_de_la_salud\n    Enfoques_teóricos\n      Positivismo\n      Humanístico\n      Marxista\n      Feminista\n      Posestructural\n      Poscolonial\n    Métodos_de_investigación\n      SIG\n      Cartografía\n      Teledetección\n      Etnografía\n      Encuestas\n      Estadística_espacial\n    Pensadores_clave\n      Carl_Sauer\n      David_Harvey\n      Doreen_Massey\n      Yi-Fu_Tuan\n      Edward_Soja\n    Áreas_aplicadas\n      Planificación_urbana_y_regional\n      Gestión_ambiental\n      Transporte\n      Respuesta_a_desastres\n      Salud_pública",
+            "complexity": "high",
+            "tags": [
+                "geografía_humana",
+                "mapa_mental",
+                "conceptos",
+                "subcampos",
+                "análisis_espacial",
+                "teorías",
+                "sig",
+                "lugar"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

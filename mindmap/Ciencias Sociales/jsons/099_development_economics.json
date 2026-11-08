@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Economía del desarrollo",
+            "category": "Economía",
+            "description": "El mapa mental de la economía del desarrollo organiza el campo en cinco ramas centrales. Las teorías incluyen las etapas del crecimiento de Rostow, los modelos de cambio estructural, la teoría de la dependencia, el enfoque de las capacidades y los marcos de crecimiento neoclásico. Los indicadores y la medición cubren el Índice de Desarrollo Humano (IDH), el Índice de Pobreza Multidimensional, el coeficiente de Gini y el PIB per cápita. Los instrumentos de política abarcan inversiones en educación, salud, infraestructura, microfinanzas y transferencias condicionadas. También son centrales los desafíos persistentes como la desigualdad, la corrupción, el conflicto, el cambio climático y la deuda externa. Por último, actores clave —gobiernos, el Banco Mundial, el FMI, agencias de las Naciones Unidas y organizaciones no gubernamentales— desempeñan un papel crítico en los resultados del desarrollo. Esta estructura refleja el carácter interdisciplinario de la economía del desarrollo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Economía del desarrollo))\n    Teorías\n      Etapas de Rostow\n      Cambio estructural\n      Teoría de la dependencia\n      Enfoque de las capacidades\n      Crecimiento neoclásico\n    Indicadores y medición\n      IDH\n      Índice de pobreza multidimensional\n      Coeficiente de Gini\n      PIB per cápita\n    Instrumentos de política\n      Educación\n      Salud y nutrición\n      Infraestructura\n      Microfinanzas\n      Transferencias condicionadas\n    Desafíos persistentes\n      Desigualdad\n      Corrupción\n      Conflicto\n      Cambio climático\n      Deuda\n    Actores clave\n      Gobiernos\n      Banco Mundial\n      FMI\n      Agencias de la ONU\n      ONG",
+            "complexity": "medium",
+            "tags": [
+                "economía_del_desarrollo",
+                "mapa_mental",
+                "idh",
+                "pobreza",
+                "instrumentos_de_política",
+                "sostenibilidad"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

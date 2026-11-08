@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "285",
+            "topic": "Finanzas conductuales",
+            "category": "Negocios",
+            "description": "Las finanzas conductuales son el estudio interdisciplinario de las influencias psicológicas y los sesgos cognitivos que afectan la toma de decisiones financieras y los resultados de mercado, cuestionando los supuestos tradicionales del actor racional. Comienzan con la identificación de sesgos cognitivos, reconociendo patrones sistemáticos de desviación de la racionalidad, incluidos el exceso de confianza, el anclaje, la heurística de disponibilidad y el sesgo de confirmación. El análisis de la influencia emocional examina cómo el miedo, la avaricia, el arrepentimiento y el orgullo impulsan las decisiones de inversión y las conductas de toma de riesgo. La investigación de anomalías de mercado estudia fenómenos inconsistentes con los mercados eficientes, como efectos de momentum, primas de valor, anomalías de calendario y la deriva post-resultados. Los patrones de comportamiento del inversor revelan tendencias de rebaño, el efecto disposición de vender ganadores demasiado pronto y retener perdedores demasiado tiempo, y la contabilidad mental de tratar el dinero de forma distinta según origen o propósito. La aplicación de marcos psicológicos emplea la teoría de las perspectivas, que explica preferencias de riesgo asimétricas, la racionalidad limitada que reconoce limitaciones cognitivas y las heurísticas que describen atajos mentales. El diseño de intervenciones desarrolla empujones, arquitectura de elección y ayudas a la decisión para mejorar los resultados financieros. La validación empírica contrasta predicciones conductuales usando métodos experimentales y datos de mercado. El objetivo es comprender el comportamiento financiero real, explicar las ineficiencias de mercado y diseñar mejores procesos de inversión y políticas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Finanzas conductuales</b><br>Influencias psicológicas en las<br>decisiones financieras]:::title\n    B[<b>META PRINCIPAL</b><br>Comprender el comportamiento real y<br>explicar las ineficiencias de mercado]:::goal\n    C[<b>PROCESO DE ANÁLISIS</b>]:::process\n    \n    subgraph D[Identificación de sesgos cognitivos]\n        D1[Reconocer exceso de confianza,<br>anclaje y sesgo de confirmación]\n    end\n    \n    subgraph E[Análisis de la influencia emocional]\n        E1[Examinar efectos del miedo, la avaricia,<br>el arrepentimiento y el orgullo]\n    end\n    \n    subgraph F[Investigación de anomalías de mercado]\n        F1[Estudiar momentum, valor<br>y patrones de calendario]\n    end\n    \n    subgraph G[Patrones de comportamiento del inversor]\n        G1[Revelar rebaño, disposición<br>y contabilidad mental]\n    end\n    \n    subgraph H[Marcos psicológicos]\n        H1[Aplicar teoría de las perspectivas,<br>racionalidad limitada y heurísticas]\n    end\n    \n    subgraph I[Diseño de intervenciones]\n        I1[Desarrollar empujones y<br>ayudas a la decisión]\n    end\n    \n    subgraph J[Validación empírica]\n        J1[Contrastar predicciones usando<br>experimentos y datos]\n    end\n    \n    K[<b>RESULTADO</b><br>Mejores procesos de inversión<br>y políticas mejoradas]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|bucle de refinamiento| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "finanzas_conductuales",
+                "finanzas",
+                "economia",
+                "sesgos_cognitivos",
+                "sesgos_emocionales"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

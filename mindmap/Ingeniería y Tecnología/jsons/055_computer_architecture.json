@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Arquitectura de computadoras",
+            "category": "Ciencias de la computación",
+            "description": "La arquitectura de computadoras abarca múltiples capas y filosofías de diseño. La CPU incluye la ALU (operaciones aritméticas), la unidad de control (decodificación de instrucciones) y los registros (almacenamiento rápido). La jerarquía de memoria cubre registros, caché L1/L2/L3, RAM y almacenamiento secundario. Los conjuntos de instrucciones incluyen CISC (instrucciones complejas) y RISC (instrucciones reducidas). Los modelos de procesamiento presentan la arquitectura de Von Neumann, la arquitectura Harvard, la segmentación (pipelining) y el procesamiento paralelo (SIMD, MIMD). Los sistemas de bus comprenden bus de datos, bus de direcciones y bus de control. Los factores de rendimiento incluyen velocidad de reloj, núcleos, tamaño de caché y ancho de banda. Las innovaciones modernas involucran procesadores multinúcleo, GPU, computación cuántica y chips neuromórficos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Arquitectura de<br>computadoras</b>))\n    <b>Componentes de la CPU</b>\n      ALU\n      Unidad de control\n      Registros\n      Reloj\n    <b>Jerarquía de memoria</b>\n      Registros\n      Caché L1/L2/L3\n      RAM\n      Almacenamiento secundario\n    <b>Conjuntos de instrucciones</b>\n      CISC\n        Instrucciones complejas\n      RISC\n        Instrucciones reducidas\n      ARM\n      x86\n    <b>Modelos de arquitectura</b>\n      Von Neumann\n      Harvard\n      Segmentación\n      Procesamiento paralelo\n        SIMD\n        MIMD\n    <b>Sistemas de bus</b>\n      Bus de datos\n      Bus de direcciones\n      Bus de control\n    <b>Factores de rendimiento</b>\n      Velocidad de reloj\n      Núcleos\n      Tamaño de caché\n      Ancho de banda\n    <b>Sistemas de E/S</b>\n      Interrupciones\n      DMA\n      Controladores\n    <b>Innovaciones modernas</b>\n      Multinúcleo\n      GPU\n      Computación cuántica\n      Neuromórfico",
+            "complexity": "high",
+            "tags": [
+                "arquitectura_de_computadoras",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Psicología del desarrollo",
+            "category": "Psicología",
+            "description": "Esta cronología rastrea el desarrollo histórico de la psicología del desarrollo. Las primeras observaciones científicas comenzaron con la biografía infantil de Darwin (1877) y El alma del niño de Preyer (1882). A principios del siglo XX aparecieron la escala de inteligencia de Binet y Simon (1905) y la teoría maduracionista de Gesell (década de 1920). La obra revolucionaria de Piaget sobre los estadios cognitivos surgió en las décadas de 1930-40, mientras que la teoría sociocultural de Vygotsky (1934) obtuvo reconocimiento en Occidente más tarde. La teoría del apego fue establecida por Bowlby (1951) y Ainsworth (1978). Los estadios psicosociales de Erikson (1950) extendieron el desarrollo a lo largo de la vida. El modelo ecológico de Bronfenbrenner (1979) enfatizó el contexto. A finales del siglo XX surgió la neurociencia del desarrollo (década de 1990) y el auge de la ciencia del desarrollo a lo largo de la vida (Baltes, 1987). El trabajo reciente integra la epigenética y las perspectivas globales (décadas de 2010-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la psicología del desarrollo\n    section Primeras observaciones\n      1877 : Darwin<br>Bosquejo biográfico de un infante\n      1882 : Wilhelm Preyer<br>El alma del niño\n    section Fundamentos\n      1905 : Binet y Simon<br>Escala de inteligencia\n      1920s : Arnold Gesell<br>Teoría maduracionista\n      1936 : Jean Piaget<br>El nacimiento de la inteligencia en el niño\n      1934 : Lev Vygotsky<br>Pensamiento y lenguaje\n    section Teorías de mediados de siglo\n      1950 : Erik Erikson<br>Infancia y sociedad\n      1951 : John Bowlby<br>Cuidado materno y salud mental\n      1963 : Albert Bandura<br>Teoría del aprendizaje social\n    section Finales del siglo XX\n      1978 : Mary Ainsworth<br>Situación extraña\n      1979 : Urie Bronfenbrenner<br>Teoría de los sistemas ecológicos\n      1987 : Paul Baltes<br>Psicología del desarrollo a lo largo de la vida\n      1990s : Neurociencia cognitiva del desarrollo\n    section Contemporánea\n      2000s : Epigenética<br>interacción gen-ambiente\n      2010s‑20s : Perspectivas globales<br>interseccionalidad y contextos digitales",
+            "complexity": "high",
+            "tags": [
+                "psicologia_del_desarrollo",
+                "historia",
+                "linea_de_tiempo",
+                "piaget",
+                "vygotsky",
+                "bowlby",
+                "erikson",
+                "bronfenbrenner",
+                "epigenetica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

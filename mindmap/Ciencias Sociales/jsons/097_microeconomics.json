@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomía",
+            "category": "Economía",
+            "description": "El mapa mental de la microeconomía se ramifica desde la idea central hacia sus bloques fundamentales: teoría del consumidor (utilidad, presupuesto, preferencias), teoría del productor (producción, costos, maximización del beneficio), estructuras de mercado (competencia perfecta, monopolio, oligopolio), mercados de factores (trabajo, capital), economía del bienestar (eficiencia, equidad, optimalidad de Pareto) y fallos de mercado que requieren intervención correctiva (externalidades, bienes públicos, información asimétrica).",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Microeconomía))\n    Teoría del consumidor\n      Utilidad\n      Restricción presupuestaria\n      Curvas de indiferencia\n    Teoría del productor\n      Función de producción\n      Costos de producción\n      Maximización del beneficio\n    Estructuras de mercado\n      Competencia perfecta\n      Monopolio\n      Competencia monopolística\n      Oligopolio\n    Mercados de factores\n      Trabajo\n      Capital\n      Tierra\n    Economía del bienestar\n      Eficiencia\n      Equidad\n      Optimalidad de Pareto\n    Fallo de mercado\n      Externalidades\n      Bienes públicos\n      Información asimétrica",
+            "complexity": "medium",
+            "tags": [
+                "microeconomía",
+                "mapa_mental",
+                "teoría_del_consumidor",
+                "estructuras_de_mercado",
+                "bienestar",
+                "externalidades"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

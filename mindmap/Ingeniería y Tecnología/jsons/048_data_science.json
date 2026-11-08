@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Ciencia de datos",
+            "category": "Ciencias de la computación",
+            "description": "La ciencia de datos abarca metodologías, herramientas y aplicaciones para el análisis integral de datos y la generación de conocimiento. Las competencias centrales incluyen la estadística, que aporta contrastes de hipótesis, distribuciones de probabilidad y métodos inferenciales; la programación con Python y R para la manipulación y el análisis de datos; el aprendizaje automático, que aplica algoritmos supervisados y no supervisados; la visualización de datos, que crea gráficos convincentes con Tableau y matplotlib; y la experiencia de dominio, que comprende el contexto de negocio. Los tipos de datos cubren datos estructurados en bases de datos relacionales, datos semiestructurados como JSON y XML, datos no estructurados que incluyen texto e imágenes, series temporales con patrones temporales y datos en flujo que requieren procesamiento en tiempo real. Las técnicas analíticas emplean analítica descriptiva que resume datos históricos, analítica diagnóstica que explica por qué ocurrieron los hechos, analítica predictiva que pronostica resultados futuros, analítica prescriptiva que recomienda acciones óptimas e inferencia causal que establece relaciones de causa-efecto. Las herramientas y tecnologías utilizan Python con pandas y scikit-learn, R para computación estadística, SQL para consultas a bases de datos, marcos de big data como Spark y Hadoop, y plataformas en la nube como AWS y Azure. Las aplicaciones incluyen analítica de clientes para segmentación y predicción de abandono, analítica financiera para detección de fraude y modelado de riesgos, analítica sanitaria para resultados de pacientes y descubrimiento de fármacos, y analítica de operaciones que optimiza cadenas de suministro y procesos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ciencia de<br>datos</b>))\n    <b>Competencias centrales</b>\n      Estadística\n      Programación\n      Aprendizaje automático\n      Visualización de datos\n      Experiencia de dominio\n      Habilidades de comunicación\n    <b>Tipos de datos</b>\n      Datos estructurados\n      Datos semiestructurados\n      Datos no estructurados\n      Series temporales\n      Datos en flujo\n      Datos espaciales\n    <b>Técnicas analíticas</b>\n      Analítica descriptiva\n      Analítica diagnóstica\n      Analítica predictiva\n      Analítica prescriptiva\n      Inferencia causal\n    <b>Herramientas y tecnologías</b>\n      Python pandas\n      Computación estadística R\n      Bases de datos SQL\n      Spark y Hadoop\n      Plataformas en la nube\n      Cuadernos Jupyter\n    <b>Herramientas de visualización</b>\n      Tableau\n      Power BI\n      Matplotlib\n      Seaborn\n      D3.js\n      Plotly\n    <b>Aplicaciones</b>\n      Analítica de clientes\n      Analítica financiera\n      Analítica sanitaria\n      Optimización de operaciones\n      Inteligencia de marketing\n    <b>Big data</b>\n      Computación distribuida\n      Lagos de datos\n      Bases de datos NoSQL\n      Almacenamiento de datos\n      Canalizaciones ETL\n    <b>Ética y gobernanza</b>\n      Privacidad de datos\n      Equidad algorítmica\n      Transparencia\n      IA responsable\n      Calidad de los datos",
+            "complexity": "high",
+            "tags": [
+                "ciencia_de_datos",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

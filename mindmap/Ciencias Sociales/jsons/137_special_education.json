@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Educación Especial",
+            "category": "Educación",
+            "description": "Este mapa mental organiza el campo de la Educación Especial en torno a su concepto central. Se ramifica en Legislación principal (IDEA, Section 504, ADA, ESSA), Principios centrales (FAPE, LRE, debido proceso, rechazo cero, evaluación no discriminatoria), Categorías de discapacidad (autismo, discapacidad intelectual, dificultad específica de aprendizaje, trastorno emocional, discapacidad del habla y el lenguaje, discapacidad visual/auditiva, discapacidades múltiples), Componentes del IEP (niveles actuales, metas anuales, servicios, adecuaciones, participación, transición), Servicios relacionados (terapia del habla y el lenguaje, terapia ocupacional, fisioterapia, consejería, transporte), Enfoques instruccionales (instrucción diferenciada, Diseño Universal para el Aprendizaje, coenseñanza, inclusión, instrucción explícita) y Roles clave (docente de educación especial, docente de educación general, psicólogo escolar, logopeda, TO/FT, padres). El mapa captura el carácter integral y colaborativo del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Educación Especial))\n    Legislación_Principal\n      IDEA\n      Section_504\n      ADA\n      ESSA\n    Principios_Centrales\n      FAPE\n      LRE\n      Debido_Proceso\n      Rechazo_Cero\n      Evaluación_No_Discriminatoria\n    Categorías_de_Discapacidad\n      Autismo\n      Discapacidad_Intelectual\n      Dificultad_Específica_de_Aprendizaje\n      Trastorno_Emocional\n      Discapacidad_del_Habla_y_Lenguaje\n      Discapacidad_Visual_Auditiva\n      Discapacidades_Múltiples\n    Componentes_del_IEP\n      Niveles_Actuales\n      Metas_Anuales\n      Servicios\n      Adecuaciones\n      Participación\n      Planificación_de_la_Transición\n    Servicios_Relacionados\n      Terapia_del_Habla_y_Lenguaje\n      Terapia_Ocupacional\n      Fisioterapia\n      Consejería\n      Transporte\n    Enfoques_Instruccionales\n      Instrucción_Diferenciada\n      Diseño_Universal_para_el_Aprendizaje\n      Coenseñanza\n      Inclusión\n      Instrucción_Explícita\n    Roles_Clave\n      Docente_de_Educación_Especial\n      Docente_de_Educación_General\n      Psicólogo_Escolar\n      Logopeda\n      OT_PT\n      Padres",
+            "complexity": "high",
+            "tags": ["educación_especial", "mapa_mental", "IDEA", "IEP", "categorías_de_discapacidad", "UDL", "inclusión", "servicios_relacionados"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

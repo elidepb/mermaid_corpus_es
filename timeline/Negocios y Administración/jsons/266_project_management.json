@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Gestión de proyectos",
+            "category": "Negocios",
+            "description": "La gestión de proyectos evolucionó de prácticas de ingeniería y construcción a una disciplina formalizada. El diagrama de Gantt, desarrollado por Henry Gantt en 1917, revolucionó la visualización de la programación de proyectos. El Proyecto Manhattan (1942-1946) demostró la coordinación de proyectos a gran escala. El método del camino crítico (CPM) y la técnica de revisión y evaluación de programas (PERT) surgieron a finales de la década de 1950 para la programación de proyectos complejos. El Project Management Institute se fundó en 1969 para profesionalizar el campo. La Guía del PMBOK se publicó por primera vez en 1987, estableciendo prácticas estandarizadas. Las metodologías ágiles surgieron en 2001 con el Manifiesto Ágil, enfatizando el desarrollo iterativo. PRINCE2 ganó protagonismo en la década de 2000 como enfoque basado en procesos. La gestión de proyectos actual integra herramientas impulsadas por IA, metodologías híbridas y plataformas de colaboración remota.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de proyectos\n    1917 : Diagrama de Gantt\n         : Herramienta de visualización de cronogramas\n    1942-1946 : Proyecto Manhattan\n              : Coordinación a gran escala\n    1958 : CPM y PERT\n         : Métodos de programación en red\n    1969 : Fundación del PMI\n         : Se crea el instituto profesional\n    1987 : Publicación de la Guía del PMBOK\n         : Prácticas estandarizadas\n    2001 : Manifiesto Ágil\n         : Metodología iterativa\n    2000s : Protagonismo de PRINCE2\n          : Enfoque basado en procesos\n    2010s : Metodologías híbridas\n          : Marcos combinados\n    2020s : IA y herramientas remotas\n          : Transformación digital",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_proyectos",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

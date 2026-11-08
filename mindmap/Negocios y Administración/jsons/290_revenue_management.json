@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "290",
+            "topic": "Gestión de ingresos",
+            "category": "Negocios",
+            "description": "La gestión de ingresos abarca técnicas analíticas, estrategias de precios y sistemas tecnológicos para la optimización del rendimiento. Los conceptos centrales incluyen inventario perecedero con valor sensible al tiempo, restricciones de capacidad que limitan las unidades disponibles, demanda variable que fluctúa por tiempo y temporada, heterogeneidad de clientes con diversas sensibilidades al precio y estrategias de sobreventa que contemplan cancelaciones y no presentaciones. Las estrategias de precios emplean precios dinámicos que se ajustan según la demanda, gestión del rendimiento que maximiza el ingreso por unidad, discriminación de precios que cobra de forma distinta a diferentes segmentos, empaquetamiento que combina productos para generar valor y optimización de rebajas para liquidación. Los métodos de pronóstico utilizan análisis de series temporales, modelos de regresión, algoritmos de aprendizaje automático, análisis de recogidas y modelado de curvas de reserva. Las métricas de ingresos miden RevPAR (ingreso por habitación disponible), porcentaje de rendimiento, tarifa media diaria, tasas de ocupación y el desempeño del ingreso total. Las aplicaciones abarcan aerolíneas con gestión de inventario de asientos, hoteles que optimizan el precio de habitaciones, alquiler de autos que gestiona la utilización de la flota, eventos con estrategias de boletería y comercio electrónico con precios dinámicos. Los sistemas tecnológicos despliegan software de gestión de ingresos, motores de precios, plataformas de inteligencia de negocio e integración con sistemas de reservas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>ingresos</b>))\n    <b>Conceptos centrales</b>\n      Inventario perecedero\n      Restricciones de capacidad\n      Demanda variable\n      Heterogeneidad de clientes\n      Estrategias de sobreventa\n    <b>Estrategias de precios</b>\n      Precios dinámicos\n      Gestión del rendimiento\n      Discriminación de precios\n      Tácticas de empaquetamiento\n      Optimización de rebajas\n    <b>Métodos de pronóstico</b>\n      Análisis de series temporales\n      Modelos de regresión\n      Aprendizaje automático\n      Análisis de recogidas\n      Curvas de reserva\n    <b>Métricas de ingresos</b>\n      Cálculo de RevPAR\n      Porcentaje de rendimiento\n      Tarifa media diaria\n      Tasas de ocupación\n      Ingreso total\n    <b>Segmentación de mercado</b>\n      Viajeros de negocios\n      Clientes de ocio\n      Reservas de grupos\n      Segmentos de canal\n      Mercados geográficos\n    <b>Aplicaciones</b>\n      Asientos de aerolíneas\n      Habitaciones de hoteles\n      Flota de alquiler de autos\n      Boletería de eventos\n      Precios de comercio electrónico\n    <b>Sistemas tecnológicos</b>\n      Software de gestión de ingresos\n      Motores de precios\n      Plataformas de BI\n      Integración de reservas\n      Herramientas de automatización\n    <b>Técnicas de optimización</b>\n      Programación lineal\n      Modelado estocástico\n      Simulación\n      Algoritmos heurísticos",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_ingresos",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Historia medieval",
+            "category": "Historia",
+            "description": "Esta cronología traza los grandes hitos del período medieval, desde la caída del Imperio romano de Occidente hasta el umbral de la Edad Moderna. Las fechas clave incluyen: 476 d. C., caída de Occidente; 622 d. C., Hégira y auge del islam; 800 d. C., coronación de Carlomagno como emperador; 1066, conquista normanda de Inglaterra; 1095, primera llamada a la cruzada; 1215, Magna Carta; 1271, viajes de Marco Polo; la Peste Negra (1347‑1351); 1453, caída de Constantinopla; y 1492, el fin de la Granada musulmana y el viaje de Colón, que marcan el cierre convencional de la Edad Media.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Hitos de la historia medieval\n    section Alta Edad Media\n      476 : Caída del Imperio romano de Occidente\n      527‑565 : Reinado de Justiniano<br>Corpus Juris Civilis\n      622 : Hégira – auge del islam\n      800 : Carlomagno coronado emperador\n    section Expansión vikinga y feudal\n      9th‑10th c. : Incursiones y asentamientos vikingos\n      1066 : Conquista normanda de Inglaterra\n      1071 : Batalla de Manzikert<br>Los turcos selyúcidas entran en Anatolia\n    section Plenitud de la Edad Media\n      1095 : El papa Urbano II convoca<br>la Primera Cruzada\n      1215 : Magna Carta (Inglaterra)\n      1271‑1295 : Viajes de Marco Polo a China\n      1337 : Comienza la Guerra de los Cien Años\n    section Baja Edad Media\n      1347‑1351 : Peste Negra en Europa\n      1381 : Revuelta de los campesinos en Inglaterra\n      1453 : Caída de Constantinopla<br>(Imperio otomano)\n      1492 : Fin de la Granada musulmana,<br>Colón llega a América",
+            "complexity": "high",
+            "tags": [
+                "historia_medieval",
+                "linea_de_tiempo",
+                "caida_de_roma",
+                "cruzadas",
+                "magna_carta",
+                "peste_negra",
+                "renacimiento"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

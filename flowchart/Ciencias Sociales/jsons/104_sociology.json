@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociología",
+            "category": "Ciencias sociales",
+            "description": "La sociología es el estudio científico de la sociedad, el comportamiento social y las instituciones sociales. Este diagrama de flujo muestra cómo la disciplina busca comprender y explicar los patrones, las estructuras y el cambio sociales integrando elementos centrales: las grandes perspectivas teóricas (funcionalismo, teoría del conflicto, interaccionismo simbólico, teoría feminista), los métodos de investigación (encuestas, etnografía, experimentos, análisis histórico-comparativo) y los conceptos fundacionales (estructura social, cultura, socialización, estratificación, poder). Estos componentes orientan el análisis en los niveles micro y macro, y en última instancia producen resultados que informan la política pública, promueven la justicia social y profundizan nuestra comprensión del comportamiento humano.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociología</b><br>Estudio científico de la sociedad,<br>el comportamiento social y las instituciones]:::title\n    B[<b>OBJETIVO</b><br>Comprender y explicar patrones sociales,<br>estructuras y cambio]:::goal\n    C[<b>ELEMENTOS CENTRALES</b>]:::core\n    subgraph D[Perspectivas teóricas]\n        D1[Funcionalismo, teoría del conflicto<br>Interaccionismo simbólico, teoría feminista]\n    end\n    subgraph E[Métodos de investigación]\n        E1[Encuestas, etnografía<br>Experimentos, histórico-comparativo]\n    end\n    subgraph F[Conceptos centrales]\n        F1[Estructura social, cultura<br>Socialización, estratificación, poder]\n    end\n    G[<b>ANÁLISIS</b><br>Examen de fenómenos sociales<br>en los niveles micro y macro]:::analysis\n    H[<b>RESULTADOS</b><br>Informar la política, promover la justicia social,<br>comprender el comportamiento humano]:::outcome\n\n    A -->|busca| B\n    B -->|mediante la integración de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|orientan| G\n    G -->|conduce a| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "sociologia",
+                "ciencia_social",
+                "teoria_social",
+                "funcionalismo",
+                "teoria_del_conflicto",
+                "interaccionismo_simbolico",
+                "estructura_social",
+                "metodos_de_investigacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Ciencia política",
+            "category": "Ciencias sociales",
+            "description": "La ciencia política es el estudio sistemático del gobierno, el poder y los procesos políticos. Este diagrama de flujo ilustra su lógica disciplinar: el objetivo general es explicar y comprender los fenómenos políticos. Esto se logra integrando subcampos centrales —teoría política (fundamentos normativos y empíricos), política comparada (análisis transnacional), relaciones internacionales (conflicto, cooperación, gobernanza global), política y administración públicas, y metodología (cualitativa, cuantitativa, modelado formal). Estos subcampos emplean métodos de investigación (estudios de caso, encuestas, experimentos, teoría de juegos) para producir conocimientos que informan la política pública, fortalecen la gobernanza democrática, promueven la resolución de conflictos y mejoran la conciencia cívica.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ciencia política</b><br>Estudio sistemático del poder, el gobierno<br>y los procesos políticos]:::title\n    B[<b>OBJETIVO</b><br>Explicar y comprender<br>los fenómenos políticos]:::goal\n    C[<b>SUBCAMPOS CENTRALES</b>]:::subfields\n    subgraph D[Teoría política]\n        D1[Fundamentos normativos y empíricos<br>de la política]\n    end\n    subgraph E[Política comparada]\n        E1[Análisis transnacional<br>de instituciones y comportamiento]\n    end\n    subgraph F[Relaciones internacionales]\n        F1[Conflicto, cooperación,<br>organizaciones internacionales]\n    end\n    subgraph G[Política y administración públicas]\n        G1[Análisis de políticas, gestión<br>pública, gobernanza]\n    end\n    subgraph H[Metodología]\n        H1[Métodos cualitativos y cuantitativos,<br>modelado formal]\n    end\n    I[<b>MÉTODOS DE INVESTIGACIÓN</b><br>Estudios de caso, encuestas,<br>experimentos, teoría de juegos]:::methods\n    J[<b>RESULTADOS APLICADOS</b><br>Política pública, gobernanza democrática,<br>resolución de conflictos, compromiso cívico]:::outcome\n\n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|emplean| I\n    I -->|informan| J\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef subfields fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "ciencia_politica",
+                "gobierno",
+                "poder",
+                "teoria_politica",
+                "politica_comparada",
+                "relaciones_internacionales",
+                "politica_publica",
+                "metodologia"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

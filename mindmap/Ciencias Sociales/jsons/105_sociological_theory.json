@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Teoría sociológica",
+            "category": "Sociología",
+            "description": "Este mapa mental organiza el campo de la teoría sociológica. Se ramifica desde los teóricos clásicos y sus ideas centrales (el conflicto de Marx, los hechos sociales de Durkheim, la racionalización de Weber), pasando por los grandes paradigmas contemporáneos (funcionalismo, conflicto, interaccionismo simbólico, feminismo, raza crítica, posmodernismo), hasta conceptos clave (estructura social, agencia, poder, ideología) y debates persistentes (estructura vs agencia, micro vs macro). Ilustra el conjunto teórico interconectado usado para analizar la sociedad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Teoría sociológica))\n    Teóricos_clásicos\n      Karl Marx\n        Conflicto de clases\n        Base/superestructura\n      Émile Durkheim\n        Hechos sociales\n        Anomia\n      Max Weber\n        Verstehen\n        Racionalización\n    Paradigmas_contemporáneos\n      Funcionalismo\n      Teoría del conflicto\n      Interaccionismo simbólico\n      Teoría feminista\n      Teoría crítica de la raza\n      Posmodernismo\n    Conceptos_centrales\n      Estructura social\n      Agencia\n      Poder\n      Ideología\n      Solidaridad\n    Debates_clave\n      Estructura vs agencia\n      Micro vs macro\n      Consenso vs conflicto",
+            "complexity": "high",
+            "tags": [
+                "teoría_sociológica",
+                "mapa_mental",
+                "teóricos_clásicos",
+                "paradigmas",
+                "conceptos",
+                "debates",
+                "marx",
+                "durkheim",
+                "weber"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

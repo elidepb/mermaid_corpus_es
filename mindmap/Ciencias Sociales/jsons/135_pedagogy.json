@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogía",
+            "category": "Educación",
+            "description": "Este mapa mental organiza el campo de la Pedagogía. Las ramas principales incluyen Fundamentos teóricos (conductismo, cognitivismo, constructivismo, humanismo, pedagogía crítica), Métodos de enseñanza (instrucción directa, aprendizaje colaborativo, basado en proyectos, indagación, aula invertida), Conceptos clave (andamiaje, zona de desarrollo próximo, diferenciación, aprendizaje activo, metacognición), Evaluación (formativa, sumativa, auténtica, autoevaluación), Pensadores destacados (Comenius, Rousseau, Pestalozzi, Herbart, Dewey, Montessori, Piaget, Vygotsky, Freire) y Tendencias contemporáneas (pedagogía digital, educación inclusiva, enseñanza culturalmente relevante, aprendizaje personalizado). El mapa captura la amplitud del saber pedagógico, de la teoría a la práctica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Pedagogía))\n    Fundamentos_Teóricos\n      Conductismo\n      Cognitivismo\n      Constructivismo\n      Humanismo\n      Pedagogía_Crítica\n    Métodos_de_Enseñanza\n      Instrucción_Directa\n      Aprendizaje_Colaborativo\n      Basado_en_Proyectos\n      Indagación\n      Aula_Invertida\n    Conceptos_Clave\n      Andamiaje\n      ZDP\n      Diferenciación\n      Aprendizaje_Activo\n      Metacognición\n    Evaluación\n      Formativa\n      Sumativa\n      Auténtica\n      Autoevaluación\n    Pensadores_Destacados\n      Comenius\n      Rousseau\n      Pestalozzi\n      Herbart\n      Dewey\n      Montessori\n      Piaget\n      Vygotsky\n      Freire\n    Tendencias_Contemporáneas\n      Pedagogía_Digital\n      Educación_Inclusiva\n      Culturalmente_Relevante\n      Aprendizaje_Personalizado",
+            "complexity": "high",
+            "tags": ["pedagogía", "mapa_mental", "métodos_de_enseñanza", "teorías_del_aprendizaje", "educación", "dewey", "vygotsky", "freire"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

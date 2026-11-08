@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Arqueología",
+            "category": "Arqueología",
+            "description": "Esta cronología rastrea la historia de la arqueología. El anticuarismo temprano (siglos XVII-XVIII) condujo al sistema de las tres edades (Thomsen, 1836) y a la estratigrafía científica (Lubbock, 1865). Flinders Petrie desarrolló la seriación y el registro de contexto (década de 1890). A principios del siglo XX aparecieron el método de cuadrícula de Mortimer Wheeler y la historia cultural de Gordon Childe (décadas de 1920-30). A mediados de siglo, Willard Libby introdujo la datación por radiocarbono (1949) y Lewis Binford impulsó la arqueología procesual (Nueva Arqueología, 1962). El posprocesualismo surgió con Ian Hodder (1986). A finales del siglo XX llegaron el SIG, la teledetección y el análisis genético. Los avances recientes incluyen la revolución del LiDAR (década de 2010), el ADN antiguo (aDNA) y las arqueologías de compromiso comunitario.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la arqueología\n    section Anticuarismo y primeros sistemas\n      17th-18th c : Coleccionismo anticuario\n      1836 : Thomsen<br>Sistema de las tres edades\n      1865 : Lubbock<br>Paleolítico y Neolítico\n    section Fundamentos científicos\n      1890s : Flinders Petrie<br>Seriación y registro de contexto\n      1920s-30s : Mortimer Wheeler<br>Excavación en cuadrícula\n      1925-30s : Gordon Childe<br>Historia cultural\n    section Datación y Nueva Arqueología\n      1949 : Willard Libby<br>Datación por radiocarbono (C14)\n      1962 : Lewis Binford<br>Arqueología procesual\n    section Giros interpretativos\n      1986 : Ian Hodder<br>Arqueología posprocesual\n      1990s : SIG y teledetección<br>Arqueología del paisaje\n    section Siglo XXI\n      2000s : Revolución del ADN antiguo y<br>la bioarqueología\n      2010s : El LiDAR revela<br>paisajes ocultos\n      2020s : Arqueología comunitaria<br>y patrimonio digital",
+            "complexity": "high",
+            "tags": [
+                "arqueologia",
+                "historia",
+                "linea_de_tiempo",
+                "thomsen",
+                "datacion_por_radiocarbono",
+                "binford",
+                "hodder",
+                "lidar",
+                "adn_antiguo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

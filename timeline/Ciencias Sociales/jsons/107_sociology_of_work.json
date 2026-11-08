@@ -1,0 +1,26 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociología del trabajo",
+            "category": "Sociología y estudios laborales",
+            "description": "Esta cronología rastrea el desarrollo histórico de la sociología del trabajo. Los primeros fundamentos incluyen el análisis de la división del trabajo de Adam Smith en 1776 y el concepto de alienación de Marx en 1844. El período clásico vio La división del trabajo social de Durkheim (1893), la gestión científica de Taylor (1911) y el análisis de la burocracia de Weber (1922). El movimiento de relaciones humanas surgió en la década de 1930 (estudios de Hawthorne de Mayo). Trabajo y capital monopolista de Harry Braverman (1974) abrió el debate sobre la descalificación. En 1983, Arlie Hochschild acuñó el «trabajo emocional» en El corazón gestionado. La tesis de la especialización flexible de 1984 (Piore y Sabel) cuestionó los modelos de producción en masa, mientras que El fin del trabajo de Jeremy Rifkin (1995) predijo el desempleo tecnológico. Desde la década de 2000, el concepto de precariado de Guy Standing, los estudios del trabajo de plataformas y gig, y la investigación sobre la automatización y el futuro del trabajo han definido la sociología del trabajo contemporánea.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la sociología del trabajo\n    section Primeros fundamentos\n      1776 : Adam Smith<br>División del trabajo en<br>La riqueza de las naciones\n      1844 : Karl Marx<br>Alienación del trabajo\n    section Sociología clásica\n      1893 : Émile Durkheim<br>La división del trabajo social\n      1911 : Frederick Taylor<br>Gestión científica\n      1922 : Max Weber<br>Burocracia y racionalización\n    section Relaciones humanas y posguerra\n      1930s : Elton Mayo<br>Estudios de Hawthorne<br>Escuela de relaciones humanas\n    section Descalificación y giro emocional\n      1974 : Harry Braverman<br>Trabajo y capital monopolista<br>(tesis de la descalificación)\n      1983 : Arlie Hochschild<br>El corazón gestionado<br>(trabajo emocional)\n      1984 : Piore y Sabel<br>Especialización flexible\n    section Finales del siglo XX hasta el presente\n      1995 : Jeremy Rifkin<br>El fin del trabajo\n      2011 : Guy Standing<br>El precariado\n      2010s : Trabajo de plataformas y gig<br>(Vallas, Kalleberg)\n      2020s : Automatización, IA y<br>futuro del trabajo",
+            "complexity": "high",
+            "tags": [
+                "sociologia_del_trabajo",
+                "historia",
+                "linea_de_tiempo",
+                "marx",
+                "durkheim",
+                "braverman",
+                "hochschild",
+                "precariedad",
+                "economia_gig",
+                "descalificacion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

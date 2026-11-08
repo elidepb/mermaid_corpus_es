@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "045",
+            "topic": "Ingeniería de sistemas",
+            "category": "ingenieria",
+            "description": "La ingeniería de sistemas es el enfoque interdisciplinario para diseñar, integrar y gestionar sistemas complejos a lo largo de su ciclo de vida, asegurando que todos los componentes funcionen juntos para cumplir los requisitos de las partes interesadas. Comienza con el análisis de las partes interesadas, identificando a todas las partes afectadas por el sistema y recabando sus necesidades, expectativas y restricciones. La ingeniería de requisitos captura, analiza y documenta los requisitos funcionales y no funcionales con trazabilidad hacia las necesidades de las partes interesadas. El diseño de la arquitectura del sistema desarrolla la estructura de alto nivel que define subsistemas, interfaces y la asignación de requisitos a los componentes. El diseño detallado especifica las implementaciones de cada subsistema, los protocolos de interfaz y las estrategias de integración. La integración del sistema ensambla los componentes de forma incremental, verificando interfaces e interacciones entre subsistemas mediante pruebas sistemáticas. La verificación y la validación aseguran que el sistema se construya correctamente y cumpla su propósito previsto a través de pruebas, simulación y análisis. El despliegue y las operaciones transicionan los sistemas a los usuarios, proporcionan formación y apoyan el uso operativo. El mantenimiento y la evolución abordan defectos, implementan mejoras y se adaptan a requisitos cambiantes a lo largo del ciclo de vida. El objetivo es entregar sistemas complejos que satisfagan las necesidades de las partes interesadas, gestionando al mismo tiempo las restricciones técnicas, de plazo y de coste mediante procesos sistemáticos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería de sistemas</b><br>Diseño y gestión interdisciplinarios<br>de sistemas complejos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Entregar sistemas que cumplan<br>las necesidades de las partes interesadas]:::goal\n    C[<b>PROCESO DE IS</b>]:::process\n    \n    subgraph D[Análisis de partes interesadas]\n        D1[Identificar partes y<br>recabar necesidades]\n    end\n    \n    subgraph E[Ingeniería de requisitos]\n        E1[Capturar y documentar<br>requisitos funcionales]\n    end\n    \n    subgraph F[Arquitectura del sistema]\n        F1[Desarrollar estructura que define<br>subsistemas e interfaces]\n    end\n    \n    subgraph G[Diseño detallado]\n        G1[Especificar implementaciones<br>de subsistemas]\n    end\n    \n    subgraph H[Integración del sistema]\n        H1[Ensamblar componentes y<br>verificar interfaces]\n    end\n    \n    subgraph I[Verificación y validación]\n        I1[Probar corrección del sistema<br>y adecuación al propósito]\n    end\n    \n    subgraph J[Despliegue y operaciones]\n        J1[Transicionar a usuarios y<br>apoyar operaciones]\n    end\n    \n    subgraph K[Mantenimiento y evolución]\n        K1[Abordar defectos y<br>adaptarse a cambios]\n    end\n    \n    L[<b>RESULTADO</b><br>Sistemas complejos que gestionan<br>restricciones técnicas]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    K -.->|retroalimentación del ciclo de vida| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_de_sistemas",
+                "ingenieria",
+                "ciclo_de_vida",
+                "requisitos",
+                "gestion_de_riesgos"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

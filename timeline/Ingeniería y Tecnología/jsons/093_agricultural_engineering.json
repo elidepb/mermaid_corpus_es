@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "093",
+            "topic": "Ingeniería agrícola",
+            "category": "Ingeniería",
+            "description": "La ingeniería agrícola evolucionó de herramientas simples a sofisticados sistemas de precisión que transforman la producción de alimentos y el desarrollo rural. La agricultura temprana usó herramientas manuales y fuerza animal durante miles de años. La sembradora de Jethro Tull (1701) permitió la plantación sistemática en hileras. La segadora mecánica inventada por Cyrus McCormick (1831) revolucionó la cosecha de grano. Los tractores de vapor surgieron a finales del siglo XIX aportando potencia mecánica. El tractor de motor de combustión interna de John Froelich (1892) inició la mecanización agrícola moderna. La cosechadora combinada integró el corte y la trilla (principios del siglo XX). El sistema Ferguson (década de 1930) mejoró la integración tractor-implemento mediante el enganche de tres puntos. Los fertilizantes sintéticos y los plaguicidas aumentaron los rendimientos (décadas de 1940-1950). Los sistemas de riego de pivote central se desarrollaron (1948) permitiendo el riego a gran escala. La Revolución Verde (décadas de 1960-1970) combinó variedades mejoradas con mecanización aumentando drásticamente la productividad. La tecnología GPS se aplicó a la agricultura (década de 1990) permitiendo la agricultura de precisión. La tecnología de dosis variable permitió la aplicación de insumos específica del sitio. Los drones y la imagen satelital aportaron capacidades de monitoreo de cultivos (décadas de 2000-2010). Surgieron tractores autónomos y robots para diversas operaciones. La agricultura vertical y la agricultura en ambiente controlado se expandieron. La ingeniería agrícola actual integra IA para la predicción de cultivos, edición génica para la mejora de cultivos, blockchain para la trazabilidad y agricultura climáticamente inteligente que se adapta al cambio climático al tiempo que reduce las emisiones.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería agrícola\n    Ancient-1700s : Herramientas manuales y animales\n                  : Métodos agrícolas tradicionales\n    1701 : Sembradora de Tull\n         : Plantación sistemática en hileras\n    1831 : Segadora de McCormick\n         : Revolución de la cosecha de grano\n    Late 1800s : Tractores de vapor\n               : Potencia mecánica agrícola\n    1892 : Tractor de gasolina de Froelich\n         : Motor de combustión interna\n    Early 1900s : Cosechadora combinada\n                : Corte y trilla integrados\n    1930s : Enganche de tres puntos Ferguson\n          : Integración mejorada de implementos\n    1940s-1950s : Fertilizantes sintéticos\n                : Química de aumento del rendimiento\n    1948 : Riego de pivote central\n         : Distribución de agua a gran escala\n    1960s-1970s : Revolución Verde\n                : Mecanización y variedades\n    1990s : Agricultura de precisión GPS\n          : Gestión basada en la ubicación\n    2000s-2010s : Drones y satélites\n                : Capacidades de monitoreo de cultivos\n    2020s : IA y climáticamente inteligente\n          : Analítica predictiva y adaptación",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_agricola",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

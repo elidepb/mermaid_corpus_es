@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "135",
+            "topic": "Pedagogía",
+            "category": "Educación",
+            "description": "Esta cronología traza la evolución de la pedagogía desde los sabios antiguos hasta la ciencia educativa moderna. Hitos clave: la enseñanza filosófica antigua (mayéutica de Sócrates, cultivo moral de Confucio); la Didactica Magna de Comenius (1657), que defendía la educación universal; el Emilio de Rousseau (1762), que enfatizaba el desarrollo natural; los métodos centrados en el niño de Pestalozzi (principios del siglo XIX); la instrucción sistemática de Herbart (1806); el movimiento de la educación progresista (Dewey, 1897); la pedagogía científica de Montessori (1907); la teoría del desarrollo cognitivo de Piaget (1936) y la teoría sociocultural de Vygotsky (1934, traducida en la década de 1960); Pedagogía del oprimido de Freire (1968) y la pedagogía crítica; el auge de las pedagogías constructivistas y digitales (década de 1980-presente); e innovaciones del siglo XXI como las aulas invertidas, el aprendizaje personalizado y la educación inclusiva.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la pedagogía\n    section Fundamentos antiguos\n      5th c. BCE : Método socrático<br>(mayéutica)\n      6th–5th c. BCE : Confucio<br>Educación moral\n    section Edad Moderna\n      1657 : Comenius<br>Didactica Magna\n      1762 : Rousseau<br>Emilio (educación natural)\n    section Siglo XIX\n      1801 : Pestalozzi<br>Cómo enseña Gertrudis\n      1806 : Herbart<br>Instrucción sistemática\n    section Era progresista\n      1897 : Dewey<br>Mi credo pedagógico\n      1907 : Montessori<br>Primera Casa dei Bambini\n    section Cognitivo y sociocultural\n      1936 : Piaget<br>El nacimiento de la inteligencia\n      1934/1960s : Vygotsky<br>Pensamiento y lenguaje\n    section Pedagogía crítica\n      1968 : Freire<br>Pedagogía del oprimido\n    section Digital y siglo XXI\n      1980s‑90s : Integración constructivista y<br>tecnológica\n      2000s : Aprendizaje en línea,<br>aulas invertidas\n      2010s‑20s : Aprendizaje personalizado,<br>pedagogía inclusiva, IA en la educación",
+            "complexity": "high",
+            "tags": [
+                "pedagogia",
+                "historia",
+                "linea_de_tiempo",
+                "dewey",
+                "piaget",
+                "vygotsky",
+                "freire",
+                "montessori",
+                "pedagogia_digital"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

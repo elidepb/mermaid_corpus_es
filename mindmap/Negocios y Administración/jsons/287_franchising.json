@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "287",
+            "topic": "Franquicias",
+            "category": "Negocios",
+            "description": "Las franquicias abarcan modelos de negocio, estructuras legales y sistemas operativos para la expansión de marca a través de operadores independientes. Los tipos de franquicia incluyen franquicias de distribución de producto que licencian marca y productos, franquicias de formato de negocio que proporcionan sistemas operativos completos, franquicias maestras que otorgan derechos de desarrollo regional y franquicias de conversión que incorporan negocios independientes existentes. La estructura de cuotas de franquicia incluye cuotas iniciales de franquicia por derechos de entrada, regalías continuas típicamente del 4-8% de las ventas brutas, aportaciones al fondo publicitario para marketing nacional y cuotas tecnológicas por acceso a sistemas. Las responsabilidades del franquiciante proporcionan desarrollo y protección de la marca, actualizaciones del manual de operaciones, programas de capacitación, apoyo de marketing, sistemas de control de calidad e implementación de innovación. Las obligaciones del franquiciatario incluyen inversión inicial para costos de establecimiento, adhesión a estándares operativos, respeto de la exclusividad territorial, mantenimiento de la calidad, reportes oportunos y pago de cuotas. Los requisitos legales mandan documentos de revelación de franquicia bajo regulaciones de la FTC, registro estatal en ciertas jurisdicciones, leyes de relación que rigen la terminación y protección de la propiedad intelectual. Los sistemas de apoyo ofrecen representantes de campo, plataformas de aprendizaje en línea, redes de proveedores con precios negociados, infraestructura tecnológica y consejos asesores de franquiciatarios. El aseguramiento de la calidad emplea cliente misterioso, inspecciones regulares, sistemas de retroalimentación de clientes y auditorías de estándares de marca.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Franquicias</b>))\n    <b>Tipos de franquicia</b>\n      Distribución de producto\n      Formato de negocio\n      Franquicias maestras\n      Franquicias de conversión\n      Desarrollo de área\n    <b>Estructura de cuotas</b>\n      Cuotas iniciales de franquicia\n      Regalías continuas 4-8%\n      Aportaciones publicitarias\n      Cuotas tecnológicas\n      Cuotas de renovación\n    <b>Responsabilidades del franquiciante</b>\n      Desarrollo de marca\n      Manuales de operaciones\n      Programas de capacitación\n      Apoyo de marketing\n      Control de calidad\n      Innovación\n    <b>Obligaciones del franquiciatario</b>\n      Inversión inicial\n      Estándares operativos\n      Respeto territorial\n      Mantenimiento de la calidad\n      Cumplimiento de reportes\n      Pago de cuotas\n    <b>Requisitos legales</b>\n      Revelación FDD\n      Registro estatal\n      Leyes de relación\n      Protección de PI\n      Términos contractuales\n    <b>Sistemas de apoyo</b>\n      Representantes de campo\n      Plataformas de aprendizaje\n      Redes de proveedores\n      Infraestructura tecnológica\n      Consejos asesores\n    <b>Aseguramiento de la calidad</b>\n      Cliente misterioso\n      Inspecciones regulares\n      Retroalimentación de clientes\n      Auditorías de marca\n      Monitoreo de cumplimiento\n    <b>Estrategias de crecimiento</b>\n      Expansión geográfica\n      Desarrollo multiunidad\n      Franquiciamiento internacional\n      Cobranding",
+            "complexity": "high",
+            "tags": [
+                "franquicias",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

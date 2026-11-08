@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Psicología social",
+            "category": "Psicología",
+            "description": "Este mapa mental organiza el campo de la psicología social en torno a su concepto central. Las ramas cubren conceptos centrales (percepción social, actitudes, conformidad, obediencia, polarización grupal, prejuicio, comportamiento prosocial), teorías principales (teoría de la atribución, disonancia cognitiva, teoría de la identidad social, teoría del aprendizaje social, teoría del conflicto realista), estudios emblemáticos (conformidad de Asch, obediencia de Milgram, prisión de Zimbardo, cueva de los ladrones de Sherif, grupo mínimo de Tajfel), métodos de investigación (experimentos, encuestas, observación naturalista, análisis de archivo, test de asociación implícita), contribuyentes clave (Allport, Lewin, Festinger, Asch, Milgram, Bandura, Tajfel) y áreas aplicadas (psicología de la salud, comportamiento organizacional, psicología jurídica, psicología ambiental, psicología política).",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psicología social))\n    Conceptos_centrales\n      Cognición_social\n      Actitudes\n      Conformidad\n      Obediencia\n      Polarización_grupal\n      Prejuicio\n      Comportamiento_prosocial\n    Teorías_principales\n      Teoría_de_la_atribución\n      Disonancia_cognitiva\n      Teoría_de_la_identidad_social\n      Teoría_del_aprendizaje_social\n      Teoría_del_conflicto_realista\n    Estudios_emblemáticos\n      Asch_(1951)\n        Conformidad\n      Milgram_(1963)\n        Obediencia\n      Zimbardo_(1971)\n        Prisión_de_Stanford\n      Sherif_(1954)\n        Cueva_de_los_ladrones\n      Tajfel_(1970)\n        Grupo_mínimo\n    Métodos_de_investigación\n      Experimentos\n      Encuestas\n      Observación_naturalista\n      Análisis_de_archivo\n      Test_de_asociación_implícita\n    Contribuyentes_clave\n      Gordon_Allport\n      Kurt_Lewin\n      Leon_Festinger\n      Solomon_Asch\n      Stanley_Milgram\n      Albert_Bandura\n      Henri_Tajfel\n    Áreas_aplicadas\n      Salud\n      Organizaciones\n      Derecho\n      Ambiente\n      Política",
+            "complexity": "high",
+            "tags": [
+                "psicología_social",
+                "mapa_mental",
+                "influencia_social",
+                "conformidad",
+                "obediencia",
+                "identidad_social",
+                "atribución",
+                "milgram"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

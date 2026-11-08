@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Ingeniería biomédica",
+            "category": "Ingeniería",
+            "description": "La ingeniería biomédica abarca especializaciones y tecnologías diversas. Los dispositivos médicos incluyen herramientas de diagnóstico (ECG, EEG, monitores de glucosa en sangre), equipo terapéutico (marcapasos, desfibriladores, bombas de insulina, ventiladores) e instrumentos quirúrgicos (sistemas de cirugía robótica, herramientas laparoscópicas). Las modalidades de imagen cubren rayos X, TC, RM, ultrasonido, PET e imagen óptica. Los biomateriales incluyen metales (titanio, acero inoxidable), polímeros (PEEK, silicona), cerámicas (hidroxiapatita) y materiales naturales. La ingeniería de tejidos involucra cultivo celular, andamios, biorreactores y enfoques de medicina regenerativa. La biomecánica cubre análisis de la marcha, prótesis de extremidades, implantes ortopédicos y mecánica cardiaca. La ingeniería neural abarca interfaces cerebro-computadora, prótesis neurales y dispositivos de neuroestimulación. La bioinformática incluye genómica, proteómica, minería de datos médicos y sistemas de apoyo a la decisión clínica. Los aspectos regulatorios involucran procesos de aprobación de la FDA, normas ISO, ensayos clínicos y gestión de la calidad. Las tecnologías emergentes presentan nanomedicina, bioimpresión 3D, sensores vestibles, plataformas de telemedicina y enfoques de medicina personalizada.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>biomédica</b>))\n    <b>Dispositivos médicos</b>\n      Diagnóstico\n        ECG\n        EEG\n        Monitores de glucosa\n      Terapéutico\n        Marcapasos\n        Desfibriladores\n        Bombas de insulina\n        Ventiladores\n      Quirúrgico\n        Cirugía robótica\n        Herramientas laparoscópicas\n    <b>Imagen médica</b>\n      Rayos X\n      Tomografía computarizada\n      RM\n      Ultrasonido\n      PET\n      Imagen óptica\n    <b>Biomateriales</b>\n      Metales\n        Titanio\n        Acero inoxidable\n      Polímeros\n        PEEK\n        Silicona\n      Cerámicas\n      Materiales naturales\n    <b>Ingeniería de tejidos</b>\n      Cultivo celular\n      Andamios\n      Biorreactores\n      Medicina regenerativa\n    <b>Biomecánica</b>\n      Análisis de la marcha\n      Prótesis de extremidades\n      Implantes ortopédicos\n      Mecánica cardiaca\n    <b>Ingeniería neural</b>\n      Interfaces cerebro-computadora\n      Prótesis neurales\n      Neuroestimulación\n    <b>Bioinformática</b>\n      Genómica\n      Proteómica\n      Minería de datos médicos\n      Apoyo a la decisión clínica\n    <b>Regulatorio</b>\n      Aprobación FDA\n      Normas ISO\n      Ensayos clínicos\n      Gestión de la calidad\n    <b>Tecnologías emergentes</b>\n      Nanomedicina\n      Bioimpresión 3D\n      Sensores vestibles\n      Telemedicina\n      Medicina personalizada",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_biomédica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

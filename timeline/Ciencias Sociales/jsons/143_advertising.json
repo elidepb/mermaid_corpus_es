@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Publicidad",
+            "category": "Empresa y comunicación",
+            "description": "Esta cronología traza la evolución de la publicidad desde los tablones de anuncios antiguos hasta la personalización en tiempo real impulsada por IA. Hitos clave: papiros y letreros pintados antiguos (2000‑500 a. C.); la imprenta de Gutenberg y los primeros anuncios en periódicos (siglos XV‑XVII); la primera agencia de publicidad (Volney B. Palmer, 1842); los anuncios de radio (1922) y la edad de oro de la televisión (décadas de 1950‑60); la revolución creativa (Bernbach, Ogilvy, década de 1960); el nacimiento digital: el anuncio banner (1994) y los anuncios de búsqueda (Google AdWords, 2000); la publicidad en redes sociales (Facebook Ads, 2007); la publicidad programática y las pujas en tiempo real (década de 2010); el auge del marketing de influencers y lo mobile‑first; y la década de 2020 con creatividades generadas por IA, medición de la atención y segmentación sin cookies.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la publicidad\n    section Antigüedad y Edad Moderna\n      2000‑500 BCE : Carteles en papiro,<br>letreros pintados en Egipto y Roma\n      15th c. : Imprenta de Gutenberg<br>(folletos, hojas volanderas)\n      17th c. : Primeros anuncios en periódicos\n      (Gazette francesa, década de 1630)\n    section Agencia y radio\n      1842 : Primera agencia de publicidad<br>(Volney B. Palmer)\n      1922 : Primer anuncio de radio<br>(WEAF, Nueva York)\n    section Televisión y revolución creativa\n      1950s‑60s : Edad de oro de la TV,<br>radionovelas, jingles\n      1960s : Revolución creativa<br>(Bernbach, Ogilvy, Burnett)\n    section Amanecer digital\n      1994 : Primer anuncio banner<br>(AT&T en HotWired)\n      2000 : Google AdWords<br>(publicidad de búsqueda)\n    section Social y programática\n      2007 : Lanzamiento de Facebook Ads<br>segmentación social\n      2010s : Programática, RTB,<br>retargeting, anuncios móviles\n    section IA y modernidad\n      2016‑20s : Marketing de influencers<br>contenido nativo\n      2020s : Creatividades generadas por IA,<br>métricas de atención, era sin cookies",
+            "complexity": "high",
+            "tags": [
+                "publicidad",
+                "historia",
+                "linea_de_tiempo",
+                "anuncios_de_TV",
+                "publicidad_digital",
+                "programatica",
+                "redes_sociales",
+                "IA"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

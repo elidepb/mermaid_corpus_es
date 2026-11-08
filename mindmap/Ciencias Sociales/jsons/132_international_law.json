@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "132",
+            "topic": "Derecho Internacional",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el campo del Derecho Internacional en torno a su concepto central. Se ramifica en Fuentes (tratados, costumbre, principios generales, decisiones judiciales, doctrina), Sujetos (estados, organizaciones internacionales, individuos, ONG), Ramas (derecho internacional público, que cubre el derecho del mar, el derecho humanitario, los derechos humanos y el derecho ambiental; derecho internacional privado; derecho penal internacional; derecho económico internacional), Principios centrales (igualdad soberana, no intervención, pacta sunt servanda, solución pacífica de controversias) y Mecanismos de cumplimiento (Corte Internacional de Justicia, arbitraje, Consejo de Seguridad de la ONU, sanciones, diplomacia). El mapa captura la estructura fundacional y el amplio alcance de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Internacional))\n    Fuentes\n      Tratados\n      Costumbre\n      Principios_Generales\n      Decisiones_Judiciales\n      Doctrina\n    Sujetos\n      Estados\n      Organizaciones_Internacionales\n      Individuos\n      ONG\n    Ramas\n      Derecho_Internacional_Público\n        Derecho_del_Mar\n        Derecho_Humanitario\n        Derechos_Humanos\n        Derecho_Ambiental\n      Derecho_Internacional_Privado\n      Derecho_Penal_Internacional\n      Derecho_Económico_Internacional\n    Principios_Centrales\n      Igualdad_Soberana\n      No_Intervención\n      Pacta_Sunt_Servanda\n      Solución_Pacífica_de_Controversias\n    Mecanismos_de_Cumplimiento\n      Corte_Internacional_de_Justicia\n      Arbitraje\n      Consejo_de_Seguridad_de_la_ONU\n      Sanciones\n      Diplomacia",
+            "complexity": "high",
+            "tags": ["derecho_internacional", "mapa_mental", "fuentes", "sujetos", "ramas", "soberanía", "ICJ", "derechos_humanos"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "067",
+            "topic": "Ingeniería nuclear",
+            "category": "ingenieria",
+            "description": "La ingeniería nuclear es la disciplina que aplica principios de física nuclear y ciencia de la radiación para desarrollar tecnologías de producción de energía, aplicaciones médicas y procesos industriales. Su objetivo principal es aprovechar las reacciones nucleares de forma segura y eficiente para la generación de energía, los tratamientos médicos, la investigación y las aplicaciones de seguridad nacional. Los dominios centrales incluyen: diseño de reactores nucleares (reactores de fisión, física de reactores, diseño del núcleo, termohidráulica), protección radiológica (blindaje, dosimetría, física sanitaria, protocolos de seguridad), ciclo del combustible nuclear (enriquecimiento, fabricación, reprocesado, gestión de residuos), materiales nucleares (uranio, plutonio, materiales de control, materiales estructurales) y aplicaciones de la radiación (imagen médica, terapia del cáncer, radiografía industrial, análisis de materiales). El proceso de ingeniería involucra cálculos de física de reactores, análisis de seguridad, pruebas de materiales, cumplimiento normativo y gestión operativa. Estos elementos convergen mediante física de neutrones, termodinámica y ciencia de materiales para producir centrales nucleares, isótopos médicos, reactores de investigación y tecnologías basadas en radiación que proporcionan energía limpia y tratamientos médicos avanzados.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería nuclear</b><br>Aplicación de la física nuclear a<br>energía y aplicaciones médicas]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Aprovechar reacciones nucleares<br>de forma segura y eficiente]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Diseño de reactores nucleares]\n        D1[Reactores de fisión<br>Física de reactores<br>Termohidráulica]\n    end\n    \n    subgraph E[Protección radiológica]\n        E1[Blindaje y dosimetría<br>Física sanitaria<br>Protocolos de seguridad]\n    end\n    \n    subgraph F[Ciclo del combustible nuclear]\n        F1[Enriquecimiento<br>Fabricación<br>Gestión de residuos]\n    end\n    \n    subgraph G[Materiales nucleares]\n        G1[Uranio y plutonio<br>Materiales de control<br>Materiales estructurales]\n    end\n    \n    subgraph H[Aplicaciones de la radiación]\n        H1[Imagen médica<br>Terapia del cáncer<br>Usos industriales]\n    end\n    \n    I[<b>PROCESO DE INGENIERÍA</b><br>Cálculos de física, análisis de seguridad<br>Pruebas, cumplimiento normativo]:::process\n    \n    J[<b>PRODUCE</b><br>Energía nuclear, isótopos médicos<br>y tecnologías de radiación]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_nuclear",
+                "ingenieria",
+                "reactores_nucleares",
+                "fision_nuclear",
+                "seguridad_nuclear"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

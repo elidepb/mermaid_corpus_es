@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Estudios urbanos",
+            "category": "Ciencias sociales interdisciplinarias",
+            "description": "Esta cronología traza el desarrollo intelectual y práctico de los estudios urbanos. Comienza con la sociología urbana temprana: La metrópolis y la vida mental de Simmel (1903) y la ecología urbana de la Escuela de Chicago (década de 1920). A mediados del siglo XX, la crítica de Jane Jacobs a la planificación modernista en Muerte y vida de las grandes ciudades americanas (1961). Le Droit à la Ville de Henri Lefebvre (1968) introdujo el derecho a la ciudad. Social Justice and the City de David Harvey (1973) fundamentó la teoría urbana crítica. Las décadas de 1980‑90 trajeron la hipótesis de la ciudad mundial (Friedmann, Sassen), el urbanismo posmoderno y la Escuela de Los Ángeles. Las décadas de 2000‑2010 vieron el auge de la ciudad creativa (Florida), los ensamblajes, la urbanización planetaria (Brenner) y la ciudad inteligente habilitada por el teléfono. Los estudios urbanos contemporáneos enfatizan el urbanismo de la pandemia (2020), la resiliencia climática y el urbanismo decolonial.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de los estudios urbanos\n    section Sociología temprana\n      1903 : Georg Simmel<br>La metrópolis y la vida mental\n      1920s : Escuela de Chicago (Park, Burgess)<br>Ecología urbana\n    section Críticas al modernismo\n      1961 : Jane Jacobs<br>Muerte y vida de las grandes ciudades americanas\n      1968 : Henri Lefebvre<br>Le Droit à la Ville\n    section Economía política\n      1973 : David Harvey<br>Justicia social y la ciudad\n      1977 : Manuel Castells<br>La cuestión urbana\n    section Ciudades mundiales y posmodernismo\n      1986 : Friedmann – Hipótesis de la ciudad mundial\n      1990s : Saskia Sassen – Ciudades globales<br>Escuela de Los Ángeles (Soja, Dear)\n    section Giros creativo y planetario\n      2002 : Richard Florida<br>La clase creativa\n      2010s : Brenner y Schmid<br>Urbanización planetaria\n      2011 : IBM Smart City Challenge\n    section Contemporáneo\n      2020 : Urbanismo de la pandemia<br>calles para las personas\n      2022+ : Estudios urbanos decoloniales<br>resiliencia climática, ciudad de 15 minutos",
+            "complexity": "high",
+            "tags": [
+                "estudios_urbanos",
+                "linea_de_tiempo",
+                "Chicago_School",
+                "Lefebvre",
+                "Jacobs",
+                "Harvey",
+                "ciudades_globales",
+                "ciudades_inteligentes"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

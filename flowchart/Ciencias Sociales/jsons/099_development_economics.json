@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Economía del desarrollo",
+            "category": "Economía",
+            "description": "La economía del desarrollo se centra en comprender los mecanismos económicos, sociales e institucionales que permiten a los países de bajos ingresos lograr mejoras sostenibles en el bienestar humano. El diagrama de flujo comienza con el objetivo último del desarrollo inclusivo y sostenible. Luego presenta el marco analítico en un bucle cíclico: primero, identificar las causas profundas del subdesarrollo (trampas de pobreza, desigualdad, instituciones débiles). Estas causas se interpretan a través de teorías del desarrollo (como las etapas del crecimiento de Rostow o los modelos de cambio estructural). Las teorías informan el diseño de intervenciones de política en áreas como educación, salud, infraestructura y microfinanzas. Los resultados de estas intervenciones se miden con indicadores como el Índice de Desarrollo Humano, las tasas de pobreza y las métricas de desigualdad. Esta medición proporciona retroalimentación que puede llevar a una reevaluación de las causas y a políticas mejoradas, cerrando el ciclo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>ECONOMÍA DEL DESARROLLO</b><br>Estudio de la mejora del bienestar<br>en los países de bajos ingresos]:::title\n    B[<b>OBJETIVO ÚLTIMO</b><br>Desarrollo humano sostenible<br>e inclusivo]:::goal\n    C[<b>MARCO ANALÍTICO</b>]:::framework\n    subgraph framework [ ]\n        D[Causas del subdesarrollo<br>Trampas de pobreza, desigualdad,<br>instituciones débiles]\n        E[Teorías del desarrollo<br>Etapas del crecimiento,<br>cambio estructural]\n        F[Intervenciones de política<br>Educación, salud,<br>infraestructura, microfinanzas]\n        G[Medición de resultados<br>IDH, índices de pobreza,<br>métricas de desigualdad]\n    end\n    A -->|busca comprender| B\n    B -->|requiere el análisis de| C\n    C -->|identifica| D\n    D -->|explica| E\n    E -->|orienta el diseño de| F\n    F -->|se evalúa mediante| G\n    G -->|retroalimenta| D\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef framework fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    style framework fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "economia_del_desarrollo",
+                "pobreza",
+                "desarrollo_humano",
+                "politica",
+                "sostenibilidad"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

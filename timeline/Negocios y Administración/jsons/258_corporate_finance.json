@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "258",
+            "topic": "Finanzas corporativas",
+            "category": "Negocios",
+            "description": "Las finanzas corporativas evolucionaron de la gestión básica del capital a una ingeniería financiera sofisticada. Los teoremas de Modigliani-Miller de 1958 establecieron los principios fundacionales de la estructura de capital. El modelo de valoración de activos financieros surgió en 1964 y revolucionó el análisis riesgo-rentabilidad. La valoración de opciones de Black-Scholes en 1973 permitió valorar derivados. La década de 1980 vio cómo las compras apalancadas y los bonos basura reconfiguraban la financiación empresarial. La de 1990 trajo la teoría de opciones reales a las decisiones de inversión. La crisis financiera de 2008 puso de relieve la importancia de la gestión del riesgo sistémico. Las finanzas corporativas actuales integran fintech, consideraciones ESG y negociación algorítmica en los marcos tradicionales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de las finanzas corporativas\n    1958 : Teoremas de Modigliani-Miller\n         : Irrelevancia de la estructura de capital\n    1964 : Desarrollo del CAPM\n         : Modelo de relación riesgo-rentabilidad\n    1973 : Modelo de Black-Scholes\n         : Marco de valoración de opciones\n    1980s : Era de las LBO\n          : Compras apalancadas y bonos basura\n    1990s : Teoría de opciones reales\n          : Flexibilidad de la inversión estratégica\n    2000s : Gobierno corporativo\n          : Reformas posteriores a Enron\n    2008 : Crisis financiera\n         : Énfasis en la gestión de riesgos\n    2010s : Integración fintech\n          : Plataformas de finanzas digitales\n    2020s : ESG y sostenibilidad\n          : Enfoque en las finanzas ambientales",
+            "complexity": "high",
+            "tags": [
+                "finanzas_corporativas",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

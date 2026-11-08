@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "Negocios internacionales",
+            "category": "Negocios",
+            "description": "Los negocios internacionales evolucionaron junto a las olas de globalización y el avance tecnológico. La Era de los Descubrimientos (siglo XVI) estableció redes comerciales coloniales. La Revolución Industrial (siglo XIX) expandió las exportaciones manufactureras a escala mundial. La ventaja absoluta de Adam Smith (1776) y la ventaja comparativa de David Ricardo (1817) aportaron fundamentos teóricos. El sistema de Bretton Woods (1944) estableció el orden monetario internacional de posguerra. El Acuerdo General sobre Aranceles Aduaneros y Comercio (1947) redujo progresivamente las barreras comerciales. La teoría del ciclo de vida del producto de Raymond Vernon (1966) explicó los patrones de producción internacional. La Organización Mundial del Comercio sustituyó al GATT en 1995, fortaleciendo la gobernanza comercial mundial. El TLCAN (1994) y la ampliación de la UE promovieron la integración regional. La entrada de China en la OMC (2001) transformó la manufactura mundial. Los negocios internacionales actuales navegan el comercio digital, la resiliencia de la cadena de suministro, las tendencias proteccionistas y los imperativos de sostenibilidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de los negocios internacionales\n    1500s : Era de los Descubrimientos\n          : Redes comerciales coloniales\n    1776 : Ventaja absoluta\n         : Teoría de Adam Smith\n    1817 : Ventaja comparativa\n         : Marco de Ricardo\n    1944 : Sistema de Bretton Woods\n         : Orden monetario internacional\n    1947 : Establecimiento del GATT\n         : Reducción de barreras comerciales\n    1966 : Teoría del ciclo de vida del producto\n         : Producción internacional de Vernon\n    1994 : TLCAN y comercio regional\n         : Acuerdos de integración\n    1995 : Fundación de la OMC\n         : Gobernanza comercial mundial\n    2001 : China ingresa en la OMC\n         : Transformación manufacturera\n    2020s : Digital y resiliente\n          : Comercio electrónico y sostenibilidad",
+            "complexity": "high",
+            "tags": [
+                "negocios_internacionales",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

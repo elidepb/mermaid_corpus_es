@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Planificación estratégica",
+            "category": "Negocios",
+            "description": "La planificación estratégica evolucionó de la estrategia militar a una disciplina empresarial sofisticada. El arte de la guerra de Sun Tzu (500 a. C.) y la estrategia militar de Clausewitz (década de 1830) aportaron marcos tempranos de pensamiento estratégico. Strategy and Structure de Alfred Chandler (1962) estableció que la estructura organizacional debe seguir a la estrategia. Corporate Strategy de Igor Ansoff (1965) introdujo la planificación estratégica sistemática y la matriz de crecimiento. Boston Consulting Group desarrolló la matriz de crecimiento-participación (1970) para la gestión de carteras. El marco de estrategia competitiva de Michael Porter (1980) revolucionó el análisis sectorial y competitivo con las Cinco Fuerzas y las estrategias genéricas. El cuadro de mando integral surgió de Kaplan y Norton (1992) para traducir la estrategia en métricas operativas. La estrategia del océano azul de Kim y Mauborgne (2005) propuso crear espacios de mercado no disputados. La planificación estratégica ágil ganó protagonismo en la década de 2010, enfatizando enfoques iterativos frente a planes rígidos a largo plazo. La planificación estratégica actual integra transformación digital, pensamiento ecosistémico, imperativos de sostenibilidad y capacidades dinámicas para una adaptación rápida.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la planificación estratégica\n    500 BCE : El arte de la guerra de Sun Tzu\n            : Pensamiento estratégico temprano\n    1830s : Estrategia militar de Clausewitz\n          : Principios de estrategia bélica\n    1962 : Strategy and Structure de Chandler\n         : La estructura sigue a la estrategia\n    1965 : Estrategia corporativa de Ansoff\n         : Planificación sistemática y matriz de crecimiento\n    1970 : Matriz de crecimiento-participación de BCG\n         : Herramienta de gestión de cartera\n    1980 : Estrategia competitiva de Porter\n         : Cinco Fuerzas y estrategias genéricas\n    1992 : Cuadro de mando integral\n         : Marco de métricas de Kaplan y Norton\n    2005 : Estrategia del océano azul\n         : Enfoque de creación de mercados\n    2010s : Planificación estratégica ágil\n          : Enfoques iterativos adaptativos\n    2020s : Pensamiento digital y ecosistémico\n          : Capacidades dinámicas y sostenibilidad",
+            "complexity": "high",
+            "tags": [
+                "planificacion_estrategica",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Ingeniería aeroespacial",
+            "category": "Ingeniería",
+            "description": "La ingeniería aeroespacial abarca dos ramas principales y múltiples especializaciones. La ingeniería aeronáutica se centra en el vuelo atmosférico, incluidos aviones comerciales (Boeing, Airbus), aviones militares (cazas, bombarderos), helicópteros y UAV (drones). La ingeniería astronáutica cubre el diseño de naves espaciales, satélites, vehículos de lanzamiento, mecánica orbital y misiones de exploración espacial. Las áreas técnicas clave incluyen aerodinámica (flujo subsónico, transónico, supersónico, hipersónico), propulsión (turborreactores, turbofanes, estatorreactores, cohetes de combustible sólido y líquido), materiales (aleaciones de aluminio, titanio, composites de fibra de carbono, cerámicas) y análisis estructural (métodos de elementos finitos, fatiga, pandeo). Los sistemas de vuelo abarcan el control de vuelo (fly-by-wire), la navegación (GPS, INS) y los sistemas de comunicación. Las herramientas de análisis incluyen software de CFD (ANSYS Fluent, STAR-CCM+), sistemas CAD (CATIA, SolidWorks) y MATLAB/Simulink. Las aplicaciones cubren aviación comercial, exploración espacial, defensa militar y comunicaciones por satélite. Las consideraciones de diseño involucran optimización de peso, eficiencia de combustible, seguridad, fiabilidad y cumplimiento normativo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>aeroespacial</b>))\n    <b>Ingeniería aeronáutica</b>\n      Aeronaves comerciales\n        Boeing\n        Airbus\n      Aeronaves militares\n        Cazas\n        Bombarderos\n      Helicópteros\n      UAV/drones\n    <b>Ingeniería astronáutica</b>\n      Diseño de naves espaciales\n      Satélites\n      Vehículos de lanzamiento\n      Mecánica orbital\n      Exploración espacial\n    <b>Aerodinámica</b>\n      Flujo subsónico\n      Flujo transónico\n      Flujo supersónico\n      Flujo hipersónico\n      Sustentación y arrastre\n    <b>Propulsión</b>\n      Turbinas de gas\n        Turborreactores\n        Turbofanes\n      Estatorreactores\n      Motores cohete\n        Combustible sólido\n        Combustible líquido\n    <b>Materiales</b>\n      Aleaciones de aluminio\n      Titanio\n      Composites de fibra de carbono\n      Cerámicas\n    <b>Análisis estructural</b>\n      MEF\n      Análisis de fatiga\n      Pandeo\n      Tensión térmica\n    <b>Sistemas de vuelo</b>\n      Control de vuelo\n        Fly-by-wire\n      Navegación\n        GPS\n        INS\n      Comunicación\n    <b>Herramientas de análisis</b>\n      Software CFD\n        ANSYS Fluent\n        STAR-CCM+\n      CAD (CATIA)\n      MATLAB/Simulink\n    <b>Aplicaciones</b>\n      Aviación comercial\n      Exploración espacial\n      Defensa militar\n      Comunicaciones por satélite\n    <b>Consideraciones de diseño</b>\n      Optimización de peso\n      Eficiencia de combustible\n      Seguridad y fiabilidad\n      Cumplimiento normativo",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_aeroespacial",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Estudios culturales",
+            "category": "Ciencias sociales interdisciplinarias",
+            "description": "Los estudios culturales son un campo interdisciplinario que investiga cómo la cultura produce, disputa y transforma el poder, el significado y la identidad. Este diagrama de flujo traza su lógica crítica: el objetivo último es criticar las prácticas culturales y revelar el funcionamiento del poder en la vida cotidiana. El campo integra conceptos fundacionales —la cultura como forma de vida total, la hegemonía (Gramsci), la ideología, la representación, la identidad y la diferencia, las prácticas significantes— con linajes teóricos principales: marxismo occidental (Gramsci, Althusser), estructuralismo y semiótica, postestructuralismo y teoría del discurso (Foucault), teoría feminista y queer, y estudios de la raza crítica y poscoloniales. Estos se aplican a dominios clave de análisis (cultura popular, medios y comunicación, subculturas y vida cotidiana, género y sexualidad, raza y etnicidad, globalización). Métodos diversos (análisis textual, etnografía, análisis del discurso, investigación de archivo, estudios de recepción) sustentan el proceso de investigación. El ciclo crítico discurre desde la crítica cultural y la deconstrucción de los significados dominantes → la articulación de significados e identidades alternativas → la intervención social y política. Los resultados incluyen la conciencia crítica, la democracia cultural, el cuestionamiento de las ideologías hegemónicas y la justicia social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Estudios culturales</b><br>Estudio interdisciplinario de cómo la cultura<br>da forma al poder, al significado y a la identidad]:::title\n    B[<b>OBJETIVO</b><br>Criticar las prácticas culturales y<br>revelar el poder en la vida cotidiana]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Conceptos fundacionales]\n        D1[\"La cultura como forma de vida total<br>Hegemonía (Gramsci)<br>Ideología e interpelación<br>Representación y la mirada<br>Identidad y diferencia<br>Prácticas significantes\"]\n    end\n    subgraph E[Linajes teóricos]\n        E1[\"Marxismo occidental (Gramsci, Althusser)<br>Estructuralismo y semiótica (Barthes)<br>Postestructuralismo y discurso (Foucault)<br>Teoría feminista y queer<br>Estudios de la raza crítica y poscoloniales\"]\n    end\n    subgraph F[Dominios de análisis]\n        F1[Cultura popular y medios<br>Subculturas y vida cotidiana<br>Género y sexualidad<br>Raza y etnicidad<br>Globalización y diáspora]\n    end\n    G[<b>MÉTODOS</b><br>Análisis textual, análisis del discurso,<br>etnografía, investigación de archivo,<br>estudios de recepción]:::methods\n    H[<b>CICLO CRÍTICO</b><br>Crítica cultural → Deconstruir significados<br>dominantes → Articular identidades<br>alternativas → Intervención social<br>y política]:::process\n    I[<b>RESULTADOS</b><br>Conciencia crítica, democracia<br>cultural, cuestionamiento de las ideologías<br>hegemónicas, justicia social]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|investigado mediante| G\n    G -->|impulsa| H\n    H -->|logra| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "estudios_culturales",
+                "hegemonia",
+                "representacion",
+                "identidad",
+                "critica_cultural",
+                "Escuela_de_Birmingham",
+                "postestructuralismo"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

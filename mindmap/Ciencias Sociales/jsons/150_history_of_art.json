@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "150",
+            "topic": "Historia del Arte",
+            "category": "Historia y Arte",
+            "description": "Este mapa mental organiza el campo de la Historia del Arte en torno a su concepto central. Las ramas incluyen Grandes periodos (antiguo, medieval, Renacimiento, Barroco, moderno, contemporáneo), Conceptos clave (iconografía, estilo, mecenazgo, canon, procedencia, genio, mirada), Métodos y enfoques (formalismo, iconología, historia social del arte, historia del arte feminista, historias del arte poscoloniales y globales, historia técnica del arte), Grandes pensadores (Giorgio Vasari, Johann Joachim Winckelmann, Heinrich Wölfflin, Erwin Panofsky, Ernst Gombrich, Linda Nochlin) y Temas centrales (religión y arte, política y poder, identidad y representación, género y sexualidad, colonialismo y el objeto, materiales y técnicas). El mapa refleja la amplitud de la disciplina, desde la pericia artística tradicional hasta los estudios críticos globales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia del Arte))\n    Grandes_Periodos\n      Antiguo\n      Medieval\n      Renacimiento\n      Barroco\n      Moderno\n      Contemporáneo\n    Conceptos_Clave\n      Iconografía\n      Estilo\n      Mecenazgo\n      Canon\n      Procedencia\n      Genio\n      Mirada\n    Métodos_y_Enfoques\n      Formalismo\n      Iconología\n      Historia_Social_del_Arte\n      Historia_del_Arte_Feminista\n      Poscolonial_y_Global\n      Historia_Técnica_del_Arte\n    Grandes_Pensadores\n      Giorgio_Vasari\n      J.J._Winckelmann\n      Heinrich_Wölfflin\n      Erwin_Panofsky\n      Ernst_Gombrich\n      Linda_Nochlin\n    Temas_Centrales\n      Religión_y_Arte\n      Política_y_Poder\n      Identidad_y_Representación\n      Género_y_Sexualidad\n      Colonialismo_y_el_Objeto\n      Materiales_y_Técnicas",
+            "complexity": "high",
+            "tags": ["historia_del_arte", "mapa_mental", "periodos", "conceptos", "métodos", "teóricos", "temas"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

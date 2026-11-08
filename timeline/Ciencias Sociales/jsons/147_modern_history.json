@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Historia moderna",
+            "category": "Historia",
+            "description": "Esta cronología traza los hitos clave de la historia moderna, desde el Renacimiento hasta principios del siglo XXI. Las fechas principales incluyen la caída de Constantinopla (1453) y el viaje de Colón (1492); la Reforma protestante (1517); la guerra civil inglesa (1642‑1651); las revoluciones americana y francesa (1776, 1789); la Revolución Industrial en Gran Bretaña (c. 1780); el Congreso de Viena (1815); el Año de las Revoluciones (1848); la unificación de Alemania e Italia (1861‑1871); el reparto de África (década de 1880); la Primera Guerra Mundial (1914‑1918); la Revolución rusa (1917); la Gran Depresión (1929); la Segunda Guerra Mundial (1939‑1945); la fundación de las Naciones Unidas (1945); la descolonización y la independencia de la India (1947); la Revolución china (1949); la caída del Muro de Berlín (1989) y el fin de la Guerra Fría; el 9/11 (2001); y la crisis financiera mundial (2008).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Hitos clave de la historia moderna\n    section Transiciones de la Edad Moderna\n      1453 : Caída de Constantinopla\n      1492 : Colón llega a América\n      1517 : Comienza la Reforma protestante\n      1642‑1651 : Guerra civil inglesa\n    section Era de las revoluciones\n      1776 : Declaración de Independencia de Estados Unidos\n      1789 : Revolución francesa\n      c. 1780 : Revolución Industrial en Gran Bretaña\n      1815 : Congreso de Viena\n    section Largo siglo XIX\n      1848 : Año de las Revoluciones\n      1861‑1871 : Unificación de Italia y Alemania\n      1880s : Reparto de África\n    section Guerras mundiales y conflicto ideológico\n      1914‑1918 : Primera Guerra Mundial\n      1917 : Revolución rusa\n      1929 : Gran Depresión\n      1939‑1945 : Segunda Guerra Mundial\n      1945 : Fundación de las Naciones Unidas\n    section Descolonización y Guerra Fría\n      1947 : Independencia de la India y Pakistán\n      1949 : Revolución comunista china\n      1955‑1975 : Guerra de Vietnam\n      1989 : Caída del Muro de Berlín\n    section Era contemporánea\n      2001 : Atentados del 9/11\n      2008 : Crisis financiera mundial\n      2020 : Pandemia de COVID‑19",
+            "complexity": "high",
+            "tags": [
+                "historia_moderna",
+                "linea_de_tiempo",
+                "revoluciones",
+                "guerras_mundiales",
+                "guerra_fria",
+                "descolonizacion",
+                "globalizacion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

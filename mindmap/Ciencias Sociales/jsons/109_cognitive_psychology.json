@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Psicología cognitiva",
+            "category": "Psicología",
+            "description": "Este mapa mental organiza el campo de la psicología cognitiva. Se ramifica en dominios centrales (percepción, atención, memoria, lenguaje, resolución de problemas, toma de decisiones), teorías principales (procesamiento de la información, conexionismo, cognición corporeizada, modelos de doble proceso), métodos de investigación (experimentos de tiempo de reacción, neuroimagen, modelado computacional, estudios de caso), contribuyentes clave (Ulric Neisser, George Miller, Noam Chomsky, Endel Tulving, Alan Baddeley, Daniel Kahneman) y aplicaciones (educación, inteligencia artificial, neuropsicología clínica, diseño de experiencia de usuario). El mapa captura el carácter interdisciplinario de la ciencia cognitiva y los enfoques diversos para estudiar la mente.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psicología cognitiva))\n    Dominios_centrales\n      Percepción\n      Atención\n      Memoria\n        Memoria_de_trabajo\n        Memoria_a_largo_plazo\n      Lenguaje\n      Resolución_de_problemas\n      Toma_de_decisiones\n    Teorías_principales\n      Procesamiento_de_la_información\n      Conexionismo\n      Cognición_corporeizada\n      Modelos_de_doble_proceso\n    Métodos_de_investigación\n      Experimentos_de_tiempo_de_reacción\n      Neuroimagen\n        fMRI\n        EEG\n      Modelado_computacional\n      Estudios_de_caso\n    Contribuyentes_clave\n      Ulric_Neisser\n      George_Miller\n      Noam_Chomsky\n      Endel_Tulving\n      Alan_Baddeley\n      Daniel_Kahneman\n    Aplicaciones\n      Educación\n      Inteligencia_artificial\n      Neuropsicología_clínica\n      Diseño_de_experiencia_de_usuario",
+            "complexity": "high",
+            "tags": [
+                "psicología_cognitiva",
+                "mapa_mental",
+                "memoria",
+                "atención",
+                "lenguaje",
+                "neisser",
+                "kahneman",
+                "ciencia_cognitiva",
+                "neuroimagen"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

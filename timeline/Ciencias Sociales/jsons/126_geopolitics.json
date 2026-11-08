@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "126",
+            "topic": "Geopolítica",
+            "category": "Geografía/Política",
+            "description": "Una cronología que muestra la evolución de la geopolítica desde las teorías clásicas hasta el análisis estratégico moderno.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la geopolítica\n    1890 : Poder naval de Mahan\n          : Estrategia naval\n          : Dominio marítimo\n    1904 : Teoría del heartland de Mackinder\n          : \"Pivote geográfico\"\n          : Poder terrestre\n    1942 : Teoría del rimland de Spykman\n          : Regiones costeras\n          : Equilibrio de poder\n    1945 : Geopolítica de la Guerra Fría\n          : Mundo bipolar\n          : Competencia entre superpotencias\n    1970s : Geopolítica de los recursos\n          : Crisis del petróleo\n          : Seguridad energética\n    1990s : Posguerra Fría\n          : Momento unipolar\n          : Nuevo orden mundial\n    2001 : El 9/11 y la geopolítica\n          : Guerra contra el terror\n          : Enfoque en la seguridad\n    2010s : Potencias emergentes\n          : Mundo multipolar\n          : BRICS\n    2015 : Geopolítica del Ártico\n          : Cambio climático\n          : Competencia por recursos\n    2020s : Geopolítica de la tecnología\n          : Guerra cibernética\n          : Soberanía digital\n    2020s : Geopolítica climática\n          : Seguridad ambiental\n          : Conflictos por recursos",
+            "complexity": "high",
+            "tags": [
+                "geopolitica",
+                "geografia",
+                "politica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

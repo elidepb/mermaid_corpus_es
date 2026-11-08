@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "267",
+            "topic": "Comportamiento organizacional",
+            "category": "Negocios",
+            "description": "El comportamiento organizacional abarca marcos teóricos y aplicaciones prácticas que explican las dinámicas del lugar de trabajo. Las teorías de la motivación incluyen la jerarquía de necesidades de Maslow, la teoría de los dos factores de Herzberg, la teoría de la expectativa y los marcos de establecimiento de metas que impulsan el compromiso de los empleados. Los enfoques de liderazgo van desde el transformacional y transaccional hasta los estilos de liderazgo de servicio y auténtico. La cultura organizacional moldea valores, creencias, artefactos y normas de conducta mediante procesos de socialización. La efectividad de los equipos depende de la composición, la cohesión, los roles, la construcción de confianza y los mecanismos de colaboración. La gestión del cambio emplea el análisis de campo de fuerzas de Lewin, el proceso de ocho pasos de Kotter y estrategias de reducción de la resistencia. Los patrones de comunicación utilizan canales formales e informales, escucha activa y sistemas de retroalimentación. Los procesos de toma de decisiones aplican modelos racionales, de racionalidad limitada e intuitivos. Las iniciativas de equilibrio vida-trabajo promueven el bienestar, la interacción y la retención de los empleados.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Comportamiento<br>organizacional</b>))\n    <b>Teorías de la motivación</b>\n      Jerarquía de Maslow\n      Dos factores de Herzberg\n      Teoría de la expectativa\n      Teoría de establecimiento de metas\n      Autodeterminación\n    <b>Estilos de liderazgo</b>\n      Transformacional\n      Transaccional\n      Liderazgo de servicio\n      Liderazgo auténtico\n      Enfoque situacional\n    <b>Cultura organizacional</b>\n      Valores y creencias\n      Artefactos y símbolos\n      Normas de conducta\n      Procesos de socialización\n      Cambio cultural\n    <b>Efectividad de equipos</b>\n      Composición del equipo\n      Construcción de cohesión\n      Claridad de roles\n      Desarrollo de confianza\n      Dinámicas colaborativas\n    <b>Gestión del cambio</b>\n      Análisis de campo de fuerzas\n      8 pasos de Kotter\n      Reducción de resistencia\n      Estrategias de adopción\n      Apoyo a la transición\n    <b>Comunicación</b>\n      Canales formales\n      Redes informales\n      Escucha activa\n      Sistemas de retroalimentación\n      Señales no verbales\n    <b>Toma de decisiones</b>\n      Modelos racionales\n      Racionalidad limitada\n      Procesos intuitivos\n      Decisiones grupales\n      Sesgos cognitivos\n    <b>Equilibrio vida-trabajo</b>\n      Bienestar de los empleados\n      Programas de compromiso\n      Estrategias de retención\n      Opciones de flexibilidad",
+            "complexity": "high",
+            "tags": [
+                "comportamiento_organizacional",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

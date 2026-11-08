@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Geografía física",
+            "category": "Geografía",
+            "description": "Este mapa mental organiza el campo de la geografía física. Las ramas principales incluyen geomorfología (formas del relieve, procesos tectónicos y fluviales), climatología (clasificación climática, sistemas meteorológicos, cambio climático), biogeografía (ecosistemas, patrones de biodiversidad, biomas), hidrología (aguas superficiales, aguas subterráneas, ciclo del agua) y geografía de suelos (pedogénesis, clasificación de suelos). Los conceptos centrales abarcan teoría de sistemas, retroalimentación, equilibrio, evolución del paisaje y escala. Los métodos van del mapeo de campo y la teledetección al SIG y el modelado numérico. Figuras destacadas incluyen a Alexander von Humboldt, William Morris Davis y científicos contemporáneos del sistema terrestre. Las aplicaciones cubren la evaluación de peligros naturales, la conservación ambiental y la adaptación climática.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Geografía física))\n    Ramas\n      Geomorfología\n        Tectónica\n        Fluvial\n        Costera\n      Climatología\n        Tiempo atmosférico\n        Cambio_climático\n      Biogeografía\n        Ecosistemas\n        Biomas\n      Hidrología\n        Aguas_superficiales\n        Aguas_subterráneas\n      Geografía_de_suelos\n        Pedogénesis\n        Clasificación\n    Conceptos_centrales\n      Teoría_de_sistemas\n      Retroalimentación\n      Equilibrio\n      Evolución_del_paisaje\n      Escala\n    Métodos\n      Mapeo_de_campo\n      Teledetección\n      SIG\n      Modelado_numérico\n      Técnicas_de_datación\n    Figuras_destacadas\n      Alexander_von_Humboldt\n      William_Morris_Davis\n      G.K._Gilbert\n      John_McPhee\n    Aplicaciones\n      Evaluación_de_peligros_naturales\n      Conservación_ambiental\n      Adaptación_climática\n      Gestión_de_recursos",
+            "complexity": "high",
+            "tags": [
+                "geografía_física",
+                "mapa_mental",
+                "ramas",
+                "métodos",
+                "teoría_de_sistemas",
+                "formas_del_relieve",
+                "clima",
+                "sig"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

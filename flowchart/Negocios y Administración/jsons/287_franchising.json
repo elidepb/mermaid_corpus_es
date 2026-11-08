@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "287",
+            "topic": "Franquicias",
+            "category": "Negocios",
+            "description": "Las franquicias son el método de expansión empresarial en el que los franquiciadores licencian su marca, sistemas operativos y modelo de negocio a franquiciados independientes que pagan cuotas y regalías a cambio de marcos de negocio probados y apoyo continuo. Comienzan con el desarrollo del sistema de franquicia, creando manuales de operaciones estandarizados, programas de formación, directrices de marca e infraestructura de apoyo. La documentación legal establece los documentos de divulgación de franquicia y los contratos de franquicia que definen derechos, obligaciones, cuotas, territorios y términos de renovación bajo cumplimiento normativo. El reclutamiento de franquiciados identifica candidatos cualificados mediante marketing, cribiendo capacidad financiera, perspicacia empresarial y encaje cultural. La formación y la incorporación transfieren conocimiento mediante instrucción en aula, práctica directa y apoyo de campo durante el lanzamiento. La asistencia en selección de emplazamiento y puesta en marcha ayuda a los franquiciados a elegir ubicaciones, diseñar instalaciones y establecer operaciones que cumplan los estándares de marca. El apoyo continuo proporciona programas de marketing, orientación operativa, sistemas tecnológicos y aseguramiento de la calidad. El monitoreo del desempeño sigue ventas, satisfacción del cliente y cumplimiento mediante visitas de campo y sistemas de informe. El objetivo es una expansión geográfica rápida con menores requisitos de capital, manteniendo consistencia de marca y estándares de calidad mediante propietarios-operadores locales motivados.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Franquicias</b><br>Expansión empresarial mediante marca<br>y sistemas licenciados]:::title\n    B[<b>META PRINCIPAL</b><br>Expansión rápida con consistencia<br>de marca]:::goal\n    C[<b>PROCESO DE FRANQUICIA</b>]:::process\n    \n    subgraph D[Desarrollo del sistema]\n        D1[Crear manuales de operaciones,<br>formación y directrices de marca]\n    end\n    \n    subgraph E[Documentación legal]\n        E1[Establecer FDD y contratos<br>que definen derechos y cuotas]\n    end\n    \n    subgraph F[Reclutamiento de franquiciados]\n        F1[Identificar candidatos cualificados<br>mediante cribado]\n    end\n    \n    subgraph G[Formación e incorporación]\n        G1[Transferir conocimiento mediante<br>instrucción y práctica]\n    end\n    \n    subgraph H[Selección de emplazamiento y puesta en marcha]\n        H1[Asistir con ubicación,<br>diseño y operaciones]\n    end\n    \n    subgraph I[Apoyo continuo]\n        I1[Proporcionar marketing, orientación,<br>tecnología y AC]\n    end\n    \n    subgraph J[Monitoreo del desempeño]\n        J1[Seguir ventas, satisfacción<br>y cumplimiento]\n    end\n    \n    K[<b>RESULTADO</b><br>Alcance geográfico mediante<br>propietarios-operadores motivados]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|crecimiento continuo| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "franquicias",
+                "negocios",
+                "emprendimiento",
+                "contrato_de_franquicia",
+                "modelo_de_negocio"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Psicología del desarrollo",
+            "category": "Psicología",
+            "description": "La psicología del desarrollo es el estudio científico de cómo y por qué los seres humanos cambian a lo largo de su vida. Este diagrama de flujo muestra su marco: el objetivo último es describir, explicar y optimizar el crecimiento humano en los dominios físico, cognitivo y socioemocional. La investigación se apoya en las principales perspectivas teóricas —psicoanalítica (Freud, Erikson), del aprendizaje (Skinner, Bandura), cognitivo-evolutiva (Piaget, Vygotsky), etológica (Bowlby, Ainsworth) y ecológica (Bronfenbrenner). Estas orientan métodos diversos (longitudinales, transversales, secuenciales, observaciones) que revelan patrones de continuidad y discontinuidad, períodos críticos y sensibles, y la interacción entre naturaleza y crianza. El conocimiento resultante informa aplicaciones en educación, crianza, intervención clínica y política social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Psicología del desarrollo</b><br>Estudio del crecimiento y el cambio humanos<br>a lo largo de la vida]:::title\n    B[<b>OBJETIVO</b><br>Describir, explicar y optimizar<br>el desarrollo]:::goal\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    subgraph D[Desarrollo físico]\n        D1[Maduración cerebral, habilidades motoras,<br>pubertad, envejecimiento]\n    end\n    subgraph E[Desarrollo cognitivo]\n        E1[Pensamiento, lenguaje, memoria,<br>resolución de problemas]\n    end\n    subgraph F[Desarrollo socioemocional]\n        F1[Emociones, personalidad,<br>apego, relaciones sociales]\n    end\n    G[\"<b>TEORÍAS PRINCIPALES</b><br>Psicoanalítica (Freud, Erikson)<br>Aprendizaje (Skinner, Bandura)<br>Cognitivo-evolutiva (Piaget, Vygotsky)<br>Etológica (Bowlby, Ainsworth)<br>Ecológica (Bronfenbrenner)\"]:::theory\n    H[<b>MÉTODOS DE INVESTIGACIÓN</b><br>Estudios longitudinales, transversales,<br>secuenciales y observacionales]:::methods\n    I[<b>ANÁLISIS</b><br>Patrones de continuidad/discontinuidad,<br>períodos críticos/sensibles,<br>interacción naturaleza-crianza]:::analysis\n    J[<b>APLICACIONES</b><br>Educación, crianza, atención clínica,<br>política social]:::outcome\n\n    A -->|busca| B\n    B -->|se centra en| C\n    C -->|abarca| D\n    C -->|abarca| E\n    C -->|abarca| F\n    D & E & F -->|explicados por| G\n    G -->|se contrastan con| H\n    H -->|revela| I\n    I -->|informa| J\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef methods fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef analysis fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "psicologia_del_desarrollo",
+                "ciclo_vital",
+                "desarrollo_cognitivo",
+                "socioemocional",
+                "piaget",
+                "vygotsky",
+                "erikson",
+                "naturaleza_crianza",
+                "apego"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociología del trabajo",
+            "category": "Sociología y estudios laborales",
+            "description": "Este mapa mental organiza el campo de la sociología del trabajo en torno a un nodo central. Las ramas principales incluyen conceptos centrales (división del trabajo, proceso laboral, alienación, cualificación, flexibilidad, precariedad, trabajo emocional), perspectivas teóricas clave (marxismo y alienación, burocracia weberiana, solidaridad ocupacional durkheimiana, enfoques feministas, interaccionismo simbólico sobre la identidad en el trabajo, tesis de la descualificación de Braverman), áreas primarias de investigación (ocupaciones y profesiones, tecnología y automatización, trabajo de plataformas y gig, equilibrio trabajo-vida, desempleo, globalización y deslocalización, conflicto y control en el lugar de trabajo) y teóricos destacados (Marx, Weber, Durkheim, Braverman, Hochschild, Sennett, Standing). La estructura destaca la riqueza conceptual del campo y sus conexiones interdisciplinarias.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sociología del trabajo))\n    Conceptos_centrales\n      División del trabajo\n      Proceso laboral\n      Alienación\n      Cualificación y descualificación\n      Flexibilidad\n      Precariedad\n      Trabajo emocional\n    Perspectivas_teóricas\n      Marxismo\n        Alienación\n        Conflicto de clases\n      Weberiana\n        Burocracia\n        Racionalización\n      Durkheimiana\n        Solidaridad ocupacional\n      Feminismo\n        Trabajo generizado\n        Trabajo de cuidados\n      Interaccionismo simbólico\n        Identidad laboral\n      Braverman\n        Tesis de la descualificación\n    Áreas_de_investigación\n      Ocupaciones y profesiones\n      Tecnología y automatización\n      Trabajo gig y de plataformas\n      Equilibrio trabajo-vida\n      Desempleo\n      Globalización y deslocalización\n      Conflicto y control\n    Teóricos_destacados\n      Karl Marx\n      Max Weber\n      Émile Durkheim\n      Harry Braverman\n      Arlie Hochschild\n      Richard Sennett\n      Guy Standing",
+            "complexity": "high",
+            "tags": [
+                "sociología_del_trabajo",
+                "mapa_mental",
+                "división_del_trabajo",
+                "descualificación",
+                "trabajo_emocional",
+                "precariedad",
+                "economía_gig",
+                "marx",
+                "hochschild"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

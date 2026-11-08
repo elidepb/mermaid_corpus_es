@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "052",
+            "topic": "Sistemas operativos",
+            "category": "Ingeniería",
+            "description": "La historia de los sistemas operativos comenzó en la década de 1950 con sistemas de procesamiento por lotes que automatizaban secuencias de trabajos. La década de 1960 introdujo la multiprogramación y el tiempo compartido (CTSS, Multics), permitiendo varios usuarios de forma simultánea. 1969 marcó la creación de Unix en Bell Labs. La década de 1970 vio surgir los SO de microordenadores. 1981 trajo MS-DOS para los IBM PC. 1984 introdujo Macintosh con GUI. 1985 lanzó Windows 1.0. 1991 vio el debut de código abierto de Linux. 2001 introdujo macOS X con fundamentos Unix. 2007 revolucionó los SO móviles con iOS, seguido del Android de 2008. Los desarrollos modernos continúan con sistemas operativos integrados en la nube y potenciados por IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de los sistemas operativos</b>\n    \n    section 1950s\n        1950s : Sistemas de procesamiento por lotes\n              : Secuencias de trabajos automatizadas\n    \n    section 1960s\n        1960s : Multiprogramación y tiempo compartido\n              : CTSS, Multics\n        1969  : Unix creado en Bell Labs\n    \n    section 1970s-80s\n        1970s : Surgen los SO de microordenadores\n        1981  : MS-DOS para IBM PC\n        1984  : Macintosh con GUI\n        1985  : Lanzamiento de Windows 1.0\n    \n    section 1990s\n        1991  : Debut de código abierto de Linux\n        1995  : Revolución GUI de Windows 95\n    \n    section 2000s\n        2001  : macOS X con fundamento Unix\n        2007  : iOS revoluciona el SO móvil\n        2008  : Lanzamiento de Android\n    \n    section Era moderna\n        2010s-Present : Sistemas integrados en la nube\n                      : Funciones de SO potenciadas por IA",
+            "complexity": "high",
+            "tags": [
+                "sistemas_operativos",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

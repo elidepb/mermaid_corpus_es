@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "117",
+            "topic": "Arqueología",
+            "category": "Arqueología",
+            "description": "Este mapa mental organiza el campo de la arqueología. Se ramifica en conceptos centrales (estratigrafía, contexto, artefacto, ecofacto, rasgo, yacimiento, tafonomía), subcampos principales (prehistórica, histórica, clásica, subacuática, bioarqueología, zooarqueología, arqueología del paisaje), métodos (prospección, excavación, SIG, teledetección, métodos de datación, análisis de laboratorio), enfoques teóricos (historia cultural, procesual, posprocesual, agencia, materialidad, arqueología cognitiva), figuras destacadas (Flinders Petrie, Mortimer Wheeler, Gordon Childe, Lewis Binford, Ian Hodder) y áreas aplicadas (gestión de recursos culturales, preservación del patrimonio, arqueología pública, arqueología forense). Captura el carácter multidisciplinario de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Arqueología))\n    Conceptos_centrales\n      Estratigrafía\n      Contexto\n      Artefacto\n      Ecofacto\n      Rasgo\n      Yacimiento\n      Tafonomía\n    Subcampos\n      Arqueología_prehistórica\n      Arqueología_histórica\n      Arqueología_clásica\n      Arqueología_subacuática\n      Bioarqueología\n      Zooarqueología\n      Arqueología_del_paisaje\n    Métodos\n      Prospección\n      Excavación\n      SIG\n      Teledetección\n      Métodos_de_datación\n      Análisis_de_laboratorio\n    Enfoques_teóricos\n      Historia_cultural\n      Procesual\n      Posprocesual\n      Agencia\n      Materialidad\n      Arqueología_cognitiva\n    Figuras_destacadas\n      Flinders_Petrie\n      Mortimer_Wheeler\n      Gordon_Childe\n      Lewis_Binford\n      Ian_Hodder\n    Áreas_aplicadas\n      Gestión_de_recursos_culturales\n      Preservación_del_patrimonio\n      Arqueología_pública\n      Arqueología_forense",
+            "complexity": "high",
+            "tags": [
+                "arqueología",
+                "mapa_mental",
+                "estratigrafía",
+                "excavación",
+                "datación",
+                "procesual",
+                "posprocesual",
+                "patrimonio"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

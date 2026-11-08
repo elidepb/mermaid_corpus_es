@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Periodismo",
+            "category": "Comunicación y estudios de medios",
+            "description": "Esta cronología traza la historia del periodismo desde la primera difusión de noticias hasta la era digital. Hitos clave: las Acta Diurna romanas (59 a. C.) y el tipao chino; la imprenta de Gutenberg (1440); los primeros periódicos modernos del siglo XVII (Gazette de France 1631, Publick Occurrences 1690); la prensa de a centavo y el público de masas (década de 1830); el telégrafo y las agencias de noticias (AP, 1846); el periodismo amarillo y el auge del reportero (década de 1890); las noticias por radio (década de 1920) y por televisión (década de 1950); la edad de oro del periodismo de investigación (Watergate, 1972); las noticias por cable las 24 horas (CNN, 1980); el periodismo en internet (década de 1990); el auge del periodismo ciudadano y las redes sociales (década de 2000); la crisis de las noticias falsas y el movimiento de verificación de hechos (2016); y los desarrollos contemporáneos en periodismo automatizado e IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del periodismo\n    section Antigüedad y Edad Moderna\n      59 BCE : Acta Diurna (Roma)\n      8th‑15th c. : Tipao chino,<br>boletines manuscritos\n      1440 : Imprenta de Gutenberg\n    section Primeros periódicos\n      1631 : La Gazette (Francia)\n      1690 : Publick Occurrences (América)\n      1702 : Daily Courant (primer diario)\n    section Surgimiento de los medios de masas\n      1830s : Prensa de a centavo (Sun, Herald)\n      1846 : Fundación de Associated Press\n      1890s : Periodismo amarillo<br>(Pulitzer, Hearst)\n    section Era de la radiodifusión\n      1920 : Primera emisión de noticias por radio\n      1950s : Las noticias de TV se vuelven dominantes\n      1960 : Debates televisivos Kennedy‑Nixon\n    section Investigación y cable\n      1972 : Escándalo Watergate<br>(Washington Post)\n      1980 : Lanzamiento de CNN (noticias las 24 horas)\n    section Revolución digital\n      1990s : Noticias en internet, blogs\n      2006 : Twitter, periodismo ciudadano\n      2016 : Crisis de las noticias falsas,<br>movimiento de verificación de hechos\n    section Contemporáneo\n      2020s : Noticias generadas por IA,<br>evitación de noticias, regulación de plataformas",
+            "complexity": "high",
+            "tags": [
+                "periodismo",
+                "historia",
+                "linea_de_tiempo",
+                "prensa_de_a_centavo",
+                "watergate",
+                "periodismo_digital",
+                "noticias_falsas",
+                "IA"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

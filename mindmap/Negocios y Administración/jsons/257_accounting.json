@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Contabilidad",
+            "category": "Negocios",
+            "description": "La contabilidad abarca múltiples ramas especializadas que atienden distintas necesidades organizacionales. La contabilidad financiera elabora informes externos siguiendo principios estandarizados, mientras que la contabilidad gerencial proporciona datos internos para la planificación y el control. La contabilidad de costos rastrea los gastos de producción, la contabilidad fiscal asegura el cumplimiento normativo y la auditoría verifica la exactitud de los estados financieros. Cada rama aplica principios contables fundamentales —emparejamiento de ingresos con gastos, conservadurismo en las estimaciones, consistencia en los métodos y materialidad en la información— para cumplir su propósito específico dentro del sistema más amplio de información financiera.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Contabilidad</b>))\n    <b>Contabilidad financiera</b>\n      Información externa\n      Normas NIIF/PCGA\n      Balance general\n      Estado de resultados\n      Estado de flujos de efectivo\n    <b>Contabilidad gerencial</b>\n      Información interna\n      Elaboración de presupuestos\n      Análisis del desempeño\n      Apoyo a la decisión\n    <b>Contabilidad de costos</b>\n      Costeo de productos\n      Análisis de variaciones\n      Control de costos\n      Análisis de rentabilidad\n    <b>Contabilidad fiscal</b>\n      Cumplimiento tributario\n      Planificación fiscal\n      Deducciones y créditos\n      Declaraciones regulatorias\n    <b>Auditoría</b>\n      Verificación financiera\n      Controles internos\n      Revisión de cumplimiento\n      Evaluación de riesgos\n    <b>Principios fundamentales</b>\n      Principio de devengo\n      Conservadurismo\n      Consistencia\n      Materialidad",
+            "complexity": "high",
+            "tags": [
+                "contabilidad",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

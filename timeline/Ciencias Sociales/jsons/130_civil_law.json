@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Derecho civil",
+            "category": "Derecho",
+            "description": "Esta cronología traza la evolución del derecho civil desde el derecho romano hasta las codificaciones modernas. Hitos clave: las Doce Tablas (450 a. C.) como el primer derecho romano escrito; el Corpus Juris Civilis de Justiniano (529‑534 d. C.), que sistematizó la jurisprudencia romana; el redescubrimiento del derecho romano en las universidades medievales (Bolonia, siglo XI); la influencia del derecho canónico; el Código Civil francés (Code Napoléon, 1804), que marcó la codificación moderna; el ABGB austriaco (1811); el Bürgerliches Gesetzbuch alemán (BGB, 1900); el Código Civil suizo (1907); la difusión de los sistemas de derecho civil mediante la colonización y los transplantes jurídicos; y desarrollos contemporáneos como la armonización europea del derecho privado (PECL, DCFR).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho civil\n    section Fundamentos romanos\n      450 BCE : Doce Tablas\n      529‑534 CE : Corpus Juris Civilis<br>de Justiniano\n    section Renacimiento medieval\n      11th c. : Redescubrimiento del derecho<br>romano en Bolonia\n      12th‑13th c. : Glosadores y<br>comentaristas\n    section Edad Moderna\n      17th‑18th c. : Influencia del derecho natural<br>(Grotius, Pufendorf)\n      1756 : Codex Maximilianeus bávaro\n    section Era de la codificación\n      1804 : Código Civil francés<br>(Napoléon)\n      1811 : ABGB austriaco\n      1900 : BGB alemán\n      1907 : Código Civil suizo\n    section Difusión mundial\n      19th‑20th c. : Transplantes de derecho civil<br>en América Latina, Asia y África\n    section Contemporáneo\n      late 20th : Armonización del derecho privado<br>europeo (PECL)\n      2009 : Proyecto de Marco Común de<br>Referencia (DCFR)",
+            "complexity": "high",
+            "tags": [
+                "derecho_civil",
+                "historia",
+                "linea_de_tiempo",
+                "derecho_romano",
+                "codigo_napoleonico",
+                "bgb_aleman",
+                "codificacion",
+                "historia_juridica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

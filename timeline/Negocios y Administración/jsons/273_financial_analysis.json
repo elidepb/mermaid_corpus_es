@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "273",
+            "topic": "Análisis financiero",
+            "category": "Negocios",
+            "description": "El análisis financiero se desarrolló junto a las normas contables y la evolución de los mercados de capitales. La partida doble de Luca Pacioli (1494) sentó las bases de la teneduría de libros sistemática. La Ley de Valores (1933) y la Ley de Bolsa de Valores (1934) impusieron la información financiera estandarizada en Estados Unidos tras el crack bursátil. Los Principios de Contabilidad Generalmente Aceptados (GAAP), formalizados en las décadas de 1930-1950, crearon consistencia en los estados financieros. Security Analysis de Benjamin Graham y David Dodd (1934) estableció marcos de análisis fundamental. El Financial Accounting Standards Board se formó en 1973 para desarrollar las normas contables de Estados Unidos. Las Normas Internacionales de Información Financiera surgieron en 2001 para la armonización mundial. La Ley Sarbanes-Oxley (2002) reforzó la exactitud de la información financiera y el gobierno corporativo tras Enron. La contabilidad a valor razonable ganó protagonismo en la década de 2000. El análisis financiero actual integra analítica de big data, reconocimiento de patrones impulsado por IA y sistemas de información en tiempo real.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del análisis financiero\n    1494 : Partida doble\n         : Registros sistemáticos de Pacioli\n    1933-1934 : Leyes de valores\n              : Mandatos de información estandarizada\n    1930s-1950s : Formalización de los GAAP\n                : Consistencia contable\n    1934 : Security Analysis\n         : Marco fundamental de Graham-Dodd\n    1973 : Establecimiento del FASB\n         : Normas contables de Estados Unidos\n    2001 : Introducción de las NIIF\n         : Armonización contable mundial\n    2002 : Ley Sarbanes-Oxley\n         : Exactitud de la información reforzada\n    2000s : Contabilidad a valor razonable\n          : Medición basada en el mercado\n    2020s : Analítica de big data\n          : Análisis financiero impulsado por IA",
+            "complexity": "high",
+            "tags": [
+                "analisis_financiero",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

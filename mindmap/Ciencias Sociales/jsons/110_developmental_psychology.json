@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "110",
+            "topic": "Psicología del desarrollo",
+            "category": "Psicología",
+            "description": "Este mapa mental organiza el campo de la psicología del desarrollo. Las ramas centrales cubren dominios nucleares (físico, cognitivo, socioemocional), teorías principales (psicoanalítica: Freud, Erikson; aprendizaje: Skinner, Bandura; cognitiva: Piaget, Vygotsky; etológica: Bowlby, Ainsworth; ecológica: Bronfenbrenner), conceptos clave (naturaleza vs crianza, continuidad vs discontinuidad, períodos críticos, plasticidad), métodos de investigación (longitudinal, transversal, secuencial, estudios de caso, observaciones), etapas del ciclo vital (prenatal, infancia, niñez, adolescencia, adultez, envejecimiento), teóricos destacados (Piaget, Vygotsky, Erikson, Bowlby, Ainsworth, Bandura, Bronfenbrenner) y aplicaciones (educación, crianza, terapia clínica, política). La estructura ilustra la amplitud de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psicología del desarrollo))\n    Dominios_centrales\n      Desarrollo_físico\n      Desarrollo_cognitivo\n      Desarrollo_socioemocional\n    Teorías_principales\n      Psicoanalítica\n        Freud\n        Erikson\n      Aprendizaje\n        Skinner\n        Bandura\n      Cognitivo-evolutiva\n        Piaget\n        Vygotsky\n      Etológica\n        Bowlby\n        Ainsworth\n      Ecológica\n        Bronfenbrenner\n    Conceptos_clave\n      Naturaleza_vs_crianza\n      Continuidad_vs_discontinuidad\n      Períodos_críticos\n      Plasticidad\n    Métodos_de_investigación\n      Longitudinal\n      Transversal\n      Secuencial\n      Estudios_de_caso\n      Observaciones\n    Etapas_del_ciclo_vital\n      Prenatal\n      Infancia\n      Niñez\n      Adolescencia\n      Adultez\n      Envejecimiento\n    Teóricos_destacados\n      Jean_Piaget\n      Lev_Vygotsky\n      Erik_Erikson\n      John_Bowlby\n      Mary_Ainsworth\n      Albert_Bandura\n      Urie_Bronfenbrenner\n    Aplicaciones\n      Educación\n      Crianza\n      Terapia_clínica\n      Política_social",
+            "complexity": "high",
+            "tags": [
+                "psicología_del_desarrollo",
+                "mapa_mental",
+                "ciclo_vital",
+                "piaget",
+                "vygotsky",
+                "erikson",
+                "apego",
+                "naturaleza_crianza",
+                "teorías"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

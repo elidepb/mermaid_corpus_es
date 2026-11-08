@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditoría",
+            "category": "Negocios",
+            "description": "La auditoría abarca tipos, normas y metodologías especializadas para proporcionar aseguramiento. Los tipos de auditoría incluyen auditorías externas que examinan estados financieros para información pública, auditorías internas que evalúan la efectividad operativa y los controles, auditorías de cumplimiento que verifican la adhesión normativa, auditorías forenses que investigan fraude e irregularidades, y auditorías operativas que evalúan la eficiencia. Las normas de auditoría comprenden las Normas de Auditoría Generalmente Aceptadas (NAGA), las Normas Internacionales de Auditoría (NIA) y los requisitos de la Public Company Accounting Oversight Board (PCAOB). Los procedimientos de auditoría emplean inspección de documentos, observación de procesos, confirmación con terceros, recálculo de cómputos y revisión analítica. Los controles internos evalúan el entorno de control, los procesos de evaluación de riesgos, los sistemas de información, las actividades de control y los mecanismos de monitoreo. El escepticismo profesional mantiene una mentalidad cuestionadora y una evaluación crítica a lo largo del trabajo. La independencia asegura la objetividad mediante independencia organizacional y mental. La materialidad determina umbrales de significación para informar distorsiones.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Auditoría</b>))\n    <b>Tipos de auditoría</b>\n      Auditorías externas\n      Auditorías internas\n      Auditorías de cumplimiento\n      Auditorías forenses\n      Auditorías operativas\n      Auditorías de TI\n    <b>Normas de auditoría</b>\n      Principios NAGA\n      Marco NIA\n      Requisitos PCAOB\n      Ética profesional\n      Control de calidad\n    <b>Procedimientos de auditoría</b>\n      Inspección de documentos\n      Observación de procesos\n      Confirmación de terceros\n      Recálculo\n      Revisión analítica\n      Técnicas de indagación\n    <b>Controles internos</b>\n      Entorno de control\n      Evaluación de riesgos\n      Sistemas de información\n      Actividades de control\n      Mecanismos de monitoreo\n      Marco COSO\n    <b>Escepticismo profesional</b>\n      Mentalidad cuestionadora\n      Evaluación crítica\n      Valoración de evidencia\n      Conciencia de sesgos\n    <b>Independencia</b>\n      Separación organizacional\n      Independencia mental\n      Evitación de conflictos\n      Mantenimiento de objetividad\n    <b>Materialidad</b>\n      Umbrales de significación\n      Factores cuantitativos\n      Factores cualitativos\n      Niveles de información\n    <b>Opiniones de auditoría</b>\n      Opinión no modificada\n      Opinión con salvedades\n      Opinión adversa\n      Abstención de opinión",
+            "complexity": "high",
+            "tags": [
+                "auditoria",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

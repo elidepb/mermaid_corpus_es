@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "083",
+            "topic": "Procesamiento de señales",
+            "category": "Ingeniería",
+            "description": "El procesamiento de señales evolucionó de la teoría de circuitos analógicos a sofisticados algoritmos digitales que transforman la comunicación y la computación. El procesamiento de señales temprano usaba filtros y amplificadores analógicos (décadas de 1920-1930) para las telecomunicaciones. La teoría de la información de Shannon (1948) estableció los fundamentos teóricos de la transmisión de señales y la capacidad. El teorema de muestreo de Nyquist-Shannon formalizó los requisitos de la conversión analógico-digital. Los ordenadores digitales permitieron el procesamiento numérico de señales en las décadas de 1950-1960. El algoritmo de la transformada rápida de Fourier de Cooley y Tukey (1965) revolucionó el análisis de frecuencia haciéndolo computacionalmente práctico. Los procesadores digitales de señales surgieron en la década de 1970 como hardware especializado para el procesamiento en tiempo real. La transformada discreta del coseno (1974) permitió la compresión de imágenes JPEG. La teoría de ondículas se desarrolló en la década de 1980 aportando análisis tiempo-frecuencia de resolución múltiple. Las normas de compresión de audio y vídeo MPEG (década de 1990) permitieron la distribución de medios digitales. El filtrado adaptativo y la separación ciega de fuentes avanzaron en la década de 1990. La teoría de compressed sensing (2004) permitió la reconstrucción de señales a partir de mediciones dispersas. La radio definida por software surgió permitiendo sistemas flexibles reconfigurables. El aprendizaje profundo revolucionó el procesamiento de señales (2010s+) para el reconocimiento de voz, la clasificación de imágenes y más. El procesamiento de señales actual integra IA, computación en el borde para el procesamiento en tiempo real, comunicaciones 5G y exploraciones de procesamiento cuántico de señales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del procesamiento de señales\n    1920s-1930s : Filtros analógicos\n                : Circuitos de telecomunicaciones\n    1948 : Teoría de la información de Shannon\n         : Fundamentos de la transmisión\n    1950s-1960s : Computación digital\n                : Procesamiento numérico\n    1965 : Transformada rápida de Fourier\n         : Algoritmo de Cooley-Tukey\n    1970s : Procesadores digitales de señales\n          : Hardware especializado\n    1974 : Transformada discreta del coseno\n         : Habilitación de la compresión JPEG\n    1980s : Teoría de ondículas\n          : Análisis de resolución múltiple\n    1990s : Normas MPEG\n          : Compresión de medios digitales\n    2004 : Compressed sensing\n         : Teoría de reconstrucción dispersa\n    2010s : Radio definida por software\n          : Sistemas flexibles reconfigurables\n    2010s+ : Integración del aprendizaje profundo\n           : Procesamiento de señales con IA\n    2020s : IA en el borde y 5G\n          : Exploración cuántica en tiempo real",
+            "complexity": "high",
+            "tags": [
+                "procesamiento_de_senales",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

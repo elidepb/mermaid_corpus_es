@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Política comparada",
+            "category": "Ciencia política",
+            "description": "Este mapa mental organiza el subcampo de la política comparada. Se ramifica en conceptos centrales (Estado, nación, tipo de régimen, democracia, autoritarismo, cultura política, desarrollo), métodos (estudios de caso, análisis histórico comparativo, estadística de N grande, QCA, rastreo de procesos), teorías principales (modernización, estructuralismo, institucionalismo, elección racional, constructivismo, institucionalismo histórico), figuras clave (Aristóteles, Tocqueville, Moore, Huntington, Skocpol, Lijphart, Przeworski) y aplicaciones (estudios de democratización, construcción estatal, comparación de Estados de bienestar, diseño de sistemas electorales). El mapa captura la lógica comparativa del campo y su carácter multimétodo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Política comparada))\n    Conceptos_centrales\n      Estado\n      Nación\n      Tipo_de_régimen\n      Democracia\n      Autoritarismo\n      Cultura_política\n      Desarrollo\n    Métodos\n      Estudios_de_caso\n      Análisis_histórico_comparativo\n      Estadística_de_N_grande\n      QCA\n      Rastreo_de_procesos\n    Teorías_principales\n      Teoría_de_la_modernización\n      Estructuralismo\n      Institucionalismo\n      Elección_racional\n      Constructivismo\n      Institucionalismo_histórico\n    Figuras_clave\n      Aristóteles\n      Tocqueville\n      Barrington_Moore\n      Huntington\n      Skocpol\n      Lijphart\n      Przeworski\n    Aplicaciones\n      Democratización\n      Construcción_estatal\n      Estado_de_bienestar\n      Sistemas_electorales\n      Revolución",
+            "complexity": "high",
+            "tags": [
+                "política_comparada",
+                "mapa_mental",
+                "conceptos",
+                "métodos",
+                "teorías",
+                "tipo_de_régimen",
+                "democratización"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

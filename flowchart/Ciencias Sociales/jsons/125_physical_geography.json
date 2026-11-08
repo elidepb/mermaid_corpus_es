@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Geografía física",
+            "category": "Geografía",
+            "description": "La geografía física es el estudio científico de los procesos naturales y los patrones del entorno físico de la Tierra. Este diagrama de flujo describe su marco: el objetivo es comprender los sistemas físicos de la Tierra y sus interacciones con las actividades humanas. Integra ramas centrales —geomorfología (formas del relieve y su evolución), climatología (clima y patrones meteorológicos), biogeografía (distribución de organismos), hidrología (sistemas hídricos) y geografía de suelos. Estos se investigan mediante métodos diversos: observación de campo, teledetección, SIG y modelado numérico. Los fundamentos teóricos proceden de la teoría de sistemas, la ciencia del sistema terrestre y los modelos proceso-respuesta. La síntesis permite el análisis de peligros naturales, impactos del cambio climático y gestión de recursos, e informa en última instancia la planificación ambiental y la mitigación de riesgos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Geografía física</b><br>Estudio de los procesos naturales<br>y el entorno físico de la Tierra]:::title\n    B[<b>OBJETIVO</b><br>Comprender los sistemas físicos de la Tierra<br>y las interacciones humano-entorno]:::goal\n    C[<b>RAMAS CENTRALES</b>]:::branches\n    subgraph D[Geomorfología]\n        D1[Formas del relieve, meteorización,<br>tectónica, erosión]\n    end\n    subgraph E[Climatología]\n        E1[Sistemas climáticos, tiempo,<br>cambio climático]\n    end\n    subgraph F[Biogeografía]\n        F1[Distribución de especies,<br>ecosistemas, biomas]\n    end\n    subgraph G[Hidrología]\n        G1[Aguas superficiales y subterráneas,<br>ciclo del agua]\n    end\n    subgraph H[Geografía de suelos]\n        H1[Formación, clasificación<br>y erosión de suelos]\n    end\n    I[<b>MÉTODOS</b><br>Observación de campo, teledetección,<br>SIG, modelado numérico]:::methods\n    J[<b>FUNDAMENTOS TEÓRICOS</b><br>Teoría de sistemas, ciencia del sistema terrestre,<br>modelos proceso-respuesta]:::theory\n    K[<b>ANÁLISIS</b><br>Peligros naturales, impactos del<br>cambio climático, gestión de recursos]:::analysis\n    L[<b>APLICACIONES</b><br>Planificación ambiental, mitigación<br>de riesgos, conservación]:::outcome\n\n    A -->|busca| B\n    B -->|mediante el estudio de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|usando| I\n    I -->|guiados por| J\n    J -->|permite| K\n    K -->|informa| L\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef branches fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef theory fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef analysis fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "geografia_fisica",
+                "geomorfologia",
+                "climatologia",
+                "biogeografia",
+                "hidrologia",
+                "teledeteccion",
+                "ciencia_del_sistema_terrestre",
+                "peligros_naturales"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

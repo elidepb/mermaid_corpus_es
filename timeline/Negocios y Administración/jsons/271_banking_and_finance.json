@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banca y finanzas",
+            "category": "Negocios",
+            "description": "La banca y las finanzas evolucionaron del préstamo de dinero antiguo a complejos sistemas financieros mundiales. El Banco Medici (1397) fue pionero en la partida doble y en las redes bancarias internacionales. El Banco de Inglaterra (1694) estableció los conceptos de banca central. El patrón oro surgió en el siglo XIX, vinculando las monedas a las reservas de oro. La Reserva Federal se creó en 1913 para estabilizar el sistema bancario de Estados Unidos. La Gran Depresión (1929-1933) condujo al seguro de depósitos y a la separación Glass-Steagall entre banca comercial y de inversión. Bretton Woods (1944) creó el sistema monetario internacional de posguerra. El abandono del patrón oro (1971) introdujo las monedas fiduciarias. La desregulación financiera de las décadas de 1980-1990 amplió las actividades bancarias. La crisis financiera de 2008 impulsó las reformas de capital de Basilea III y una regulación reforzada. La banca actual integra criptomonedas, APIs de banca abierta e instituciones exclusivamente digitales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la banca y las finanzas\n    1397 : Banco Medici\n         : Redes bancarias internacionales\n    1694 : Banco de Inglaterra\n         : Fundación de la banca central\n    1800s : Era del patrón oro\n          : Vinculación moneda-oro\n    1913 : Creación de la Reserva Federal\n         : Estabilización bancaria de Estados Unidos\n    1929-1933 : Gran Depresión\n              : Reformas bancarias y FDIC\n    1944 : Bretton Woods\n         : Sistema monetario de posguerra\n    1971 : Abandono del patrón oro\n         : Comienza la era de la moneda fiduciaria\n    1980s-1990s : Desregulación financiera\n                : Expansión bancaria\n    2008 : Crisis financiera\n         : Basilea III y regulación reforzada\n    2020s : Era de la banca digital\n          : Cripto y banca abierta",
+            "complexity": "high",
+            "tags": [
+                "banca",
+                "finanzas",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

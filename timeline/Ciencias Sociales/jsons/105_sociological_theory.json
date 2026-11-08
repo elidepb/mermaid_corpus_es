@@ -1,0 +1,26 @@
+{
+    "diagrams": [
+        {
+            "id": "105",
+            "topic": "Teoría sociológica",
+            "category": "Sociología",
+            "description": "La cronología rastrea la evolución de la teoría sociológica. Comienza con precursores ilustrados (El espíritu de las leyes de Montesquieu, 1748; La riqueza de las naciones de Smith, 1776). El período clásico (1838-década de 1920) vio el positivismo de Comte, el materialismo histórico de Marx (1848), las reglas y El suicidio de Durkheim (1893-1897) y la sociología interpretativa de Weber (1904-1905). A mediados del siglo XX surgió el funcionalismo estructural (Parsons, 1937) y el resurgimiento de la teoría del conflicto (Mills, 1959). Las décadas de 1960-70 introdujeron el interaccionismo simbólico (Goffman, 1959), la teoría feminista y el posestructuralismo (Foucault). A finales del siglo XX aparecieron la teoría de la práctica de Bourdieu (1972), la globalización (Wallerstein) y la interseccionalidad (Crenshaw, 1989). Los desarrollos contemporáneos incluyen la teoría del actor-red (Latour) y la sociología digital.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la teoría sociológica\n    section Precursores ilustrados\n      1748 : Montesquieu<br>El espíritu de las leyes\n      1776 : Adam Smith<br>La riqueza de las naciones\n    section Fundamentos clásicos\n      1838 : Auguste Comte<br>Positivismo y física social\n      1848 : Marx y Engels<br>Manifiesto comunista\n      1893 : Durkheim<br>La división del trabajo\n      1895 : Durkheim<br>Las reglas del método sociológico\n      1897 : Durkheim<br>El suicidio\n      1904-05 : Max Weber<br>La ética protestante\n    section Mediados del siglo XX\n      1937 : Talcott Parsons<br>Funcionalismo estructural\n      1959 : C. Wright Mills<br>Conflicto y élite del poder\n    section Finales del siglo XX\n      1959 : Erving Goffman<br>Interaccionismo simbólico\n      1970s : Sociología feminista<br>Patriarcado y género\n      1972 : Pierre Bourdieu<br>Teoría de la práctica\n      1989 : Kimberlé Crenshaw<br>Interseccionalidad\n    section Contemporánea\n      1990s : Teoría del actor-red<br>Latour y Callon\n      2000s : Sociología digital<br>Globalización",
+            "complexity": "high",
+            "tags": [
+                "teoria_sociologica",
+                "historia",
+                "linea_de_tiempo",
+                "comte",
+                "marx",
+                "durkheim",
+                "weber",
+                "feminismo",
+                "interseccionalidad",
+                "actor_red"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

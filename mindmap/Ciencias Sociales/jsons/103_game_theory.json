@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Teoría de juegos",
+            "category": "Matemáticas y economía",
+            "description": "Este mapa mental esboza la estructura fundamental de la teoría de juegos. Desde la raíz central, las ramas cubren elementos clave (jugadores, estrategias, pagos, información), tipos de juego (cooperativo, no cooperativo, de suma cero, simultáneo, secuencial, información perfecta/imperfecta), conceptos de solución (estrategia dominante, equilibrio de Nash, perfecto en subjuegos, Nash bayesiano, evolutivamente estable) y aplicaciones (economía: oligopolio, subastas; ciencia política: votación, conflicto; biología: evolución; informática: IA, redes). Ofrece un mapa integral de los componentes de la teoría.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Teoría de juegos))\n    Elementos_clave\n      Jugadores\n      Estrategias\n      Pagos\n      Información\n    Tipos_de_juego\n      Cooperativo\n      No cooperativo\n      Suma cero\n      Simultáneo\n      Secuencial\n      Info_perfecta\n      Info_imperfecta\n    Conceptos_de_solución\n      Estrategia dominante\n      Equilibrio de Nash\n      Perfecto en subjuegos\n      Nash bayesiano\n      Evolutivamente estable\n    Aplicaciones\n      Economía\n        Oligopolio\n        Subastas\n      Ciencia política\n        Votación\n        Conflicto\n      Biología\n        Evolución\n      Informática\n        IA\n        Redes",
+            "complexity": "high",
+            "tags": [
+                "teoría_de_juegos",
+                "equilibrio_de_nash",
+                "mapa_mental",
+                "interacción_estratégica",
+                "aplicaciones",
+                "cooperativo",
+                "no_cooperativo",
+                "conceptos_de_solución"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Antropología lingüística",
+            "category": "Antropología",
+            "description": "La antropología lingüística es el estudio de cómo el lenguaje configura la vida social, la cultura y la identidad. Este diagrama de flujo describe el proceso: busca comprender el lenguaje como práctica social y recurso cultural. Los componentes centrales incluyen lenguaje y pensamiento (relatividad lingüística), socialización lingüística, comunidades de habla e ideología lingüística. Estos se investigan mediante trabajo de campo etnográfico y análisis del discurso, guiados por los principales marcos teóricos (indexicalidad, performatividad, ideologías lingüísticas). Los conocimientos resultantes se aplican a la política lingüística, la educación y la comunicación intercultural.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Antropología lingüística</b><br>Estudio de cómo el lenguaje configura<br>la vida social, la cultura y la identidad]:::title\n    B[<b>OBJETIVO</b><br>Comprender el lenguaje como<br>práctica social y recurso cultural]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::components\n    subgraph D[Lenguaje y pensamiento]\n        D1[Relatividad lingüística<br>Hipótesis de Sapir-Whorf<br>Lenguaje y cognición]\n    end\n    subgraph E[Socialización y uso]\n        E1[Socialización lingüística<br>Comunidades de habla<br>Ideologías lingüísticas]\n    end\n    F[<b>MÉTODOS Y TEORÍAS</b>]:::methods\n    subgraph G[Métodos de investigación]\n        G1[Trabajo de campo etnográfico<br>Observación participante<br>Análisis de la conversación<br>Análisis del discurso]\n    end\n    subgraph H[Marcos teóricos]\n        H1[Indexicalidad<br>Performatividad<br>Ideología lingüística<br>Metapragmática]\n    end\n    I[<b>APLICACIONES</b><br>Política lingüística, educación,<br>comunicación intercultural,<br>revitalización lingüística]:::outcome\n\n    A -->|busca| B\n    B -->|requiere la comprensión de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|investigados mediante| F\n    F -->|combina| G\n    F -->|combina| H\n    G & H -->|informan| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "antropologia_linguistica",
+                "lenguaje",
+                "cultura",
+                "sociolinguistica",
+                "relatividad_linguistica",
+                "etnografia",
+                "ideologia_linguistica",
+                "analisis_del_discurso"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

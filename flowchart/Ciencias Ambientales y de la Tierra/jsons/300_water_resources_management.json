@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "300",
+            "topic": "Gestión de recursos hídricos",
+            "category": "Ciencias ambientales",
+            "description": "La gestión de recursos hídricos es la planificación, el desarrollo, la distribución y la optimización integrados de los recursos hídricos para satisfacer de forma sostenible las necesidades humanas y ambientales actuales y futuras. Su objetivo principal es equilibrar las demandas de agua en competencia, asegurando a la vez la disponibilidad a largo plazo, la calidad y la salud de los ecosistemas mediante una asignación y gobernanza eficientes. Los dominios centrales incluyen: gestión del abastecimiento de agua (desarrollo de aguas superficiales y subterráneas, infraestructura de almacenamiento como embalses y acuíferos, sistemas de trasvase, ampliación de la oferta), gestión de la demanda de agua (reducción del consumo, mejoras de eficiencia, tarificación del agua, programas de conservación, reutilización y reciclaje), gestión de la calidad del agua (prevención de la contaminación, sistemas de tratamiento, protección de cuencas, monitoreo de la calidad del agua), gestión de inundaciones (medidas estructurales como diques y presas, enfoques no estructurales incluidos la zonificación de llanuras de inundación y sistemas de alerta temprana) y gobernanza integrada (participación de partes interesadas, marcos legales, cooperación transfronteriza, gestión adaptativa, resiliencia climática). El proceso de gestión implica evaluación e inventario de recursos, previsión de la demanda, planificación de la asignación, desarrollo de infraestructura, monitoreo y evaluación, e implementación de políticas. Estos elementos se integran mediante la hidrología, la ingeniería, la economía y la política para crear sistemas sostenibles de abastecimiento de agua, esquemas de riego, infraestructura de protección contra inundaciones, programas de gestión de cuencas y planes integrados de recursos hídricos que aseguren la seguridad hídrica para las personas y los ecosistemas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de recursos hídricos</b><br>Planificación y optimización integradas<br>de los recursos hídricos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Equilibrar demandas y asegurar<br>disponibilidad sostenible]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Gestión del abastecimiento de agua]\n        D1[Aguas superficiales y subterráneas<br>Infraestructura de almacenamiento<br>Sistemas de trasvase]\n    end\n    \n    subgraph E[Gestión de la demanda de agua]\n        E1[Mejoras de eficiencia<br>Programas de conservación<br>Reutilización y reciclaje]\n    end\n    \n    subgraph F[Gestión de la calidad del agua]\n        F1[Prevención de la contaminación<br>Sistemas de tratamiento<br>Protección de cuencas]\n    end\n    \n    subgraph G[Gestión de inundaciones]\n        G1[Medidas estructurales<br>Enfoques no estructurales<br>Sistemas de alerta temprana]\n    end\n    \n    subgraph H[Gobernanza integrada]\n        H1[Participación de partes interesadas<br>Marcos legales<br>Resiliencia climática]\n    end\n    \n    I[<b>PROCESO DE GESTIÓN</b><br>Evaluación, planificación<br>Infraestructura, monitoreo]:::process\n    \n    J[<b>CREA</b><br>Sistemas sostenibles que aseguran<br>la seguridad hídrica]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_recursos_hidricos",
+                "ciencias_ambientales",
+                "abastecimiento_de_agua",
+                "calidad_del_agua",
+                "girh",
+                "gobernanza"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

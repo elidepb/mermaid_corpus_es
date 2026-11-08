@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Estudios de Género",
+            "category": "Ciencias Sociales Interdisciplinarias",
+            "description": "Este mapa mental organiza el campo de los Estudios de Género en torno a su concepto central. Se ramifica en Conceptos clave (género, sexo, sexualidad, patriarcado, interseccionalidad, performatividad, masculinidad hegemónica), Olas del feminismo (primera ola: sufragio, segunda ola: igualdad social, tercera ola: diversidad e identidad, cuarta ola: activismo digital), Marcos teóricos (liberal, radical, marxista/socialista, posestructuralista/queer, raza crítica, poscolonial, transfeminismo), Temas clave (cuerpo y reproducción, trabajo y cuidados, representación y medios, violencia y seguridad, ciudadanía y derechos, globalización), Métodos (cualitativos, cuantitativos, análisis del discurso, etnografía, investigación-acción participativa) y Pensadores principales (Simone de Beauvoir, bell hooks, Judith Butler, Kimberlé Crenshaw, Gayatri Spivak, Raewyn Connell, Jack Halberstam). El mapa ilustra la diversidad teórica del campo y su anclaje tanto en el activismo como en la investigación.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Estudios de Género))\n    Conceptos_Clave\n      Género\n      Sexo\n      Sexualidad\n      Patriarcado\n      Interseccionalidad\n      Performatividad\n      Masculinidad_Hegemónica\n    Olas_del_Feminismo\n      Primera_Ola\n      Segunda_Ola\n      Tercera_Ola\n      Cuarta_Ola\n    Marcos_Teóricos\n      Liberal\n      Radical\n      Marxista_Socialista\n      Posestructuralista_Queer\n      Raza_Crítica\n      Poscolonial\n      Transfeminismo\n    Temas_Clave\n      Cuerpo_y_Reproducción\n      Trabajo_y_Cuidados\n      Representación_y_Medios\n      Violencia_y_Seguridad\n      Ciudadanía_y_Derechos\n      Globalización\n    Métodos\n      Cualitativos\n      Cuantitativos\n      Análisis_del_Discurso\n      Etnografía\n      Investigación_Acción_Participativa\n    Pensadores_Principales\n      Simone_de_Beauvoir\n      bell_hooks\n      Judith_Butler\n      Kimberlé_Crenshaw\n      Gayatri_Spivak\n      Raewyn_Connell\n      Jack_Halberstam",
+            "complexity": "high",
+            "tags": ["estudios_de_género", "mapa_mental", "feminismo", "interseccionalidad", "teoría_queer", "conceptos", "métodos"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

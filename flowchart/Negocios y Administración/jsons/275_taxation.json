@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Tributación",
+            "category": "Negocios",
+            "description": "La tributación es el proceso sistemático de establecer y recaudar pagos obligatorios de individuos y entidades para financiar las operaciones del gobierno y los servicios públicos. Comienza con la determinación de la jurisdicción fiscal, estableciendo dónde los contribuyentes tienen obligaciones según residencia, ciudadanía o fuente de ingresos. El cálculo de la renta mide la renta gravable agregando ingresos y aplicando deducciones y exenciones permitidas. El cómputo de la obligación tributaria aplica las tasas correspondientes a la renta gravable, considerando tramos progresivos, tasas fijas o sistemas híbridos. Los créditos e incentivos fiscales reducen la obligación mediante incentivos a la inversión, beneficios sociales y programas de desarrollo económico. El cumplimiento y la presentación someten declaraciones, documentación y pagos dentro de los plazos legales. La planificación fiscal optimiza estrategias para minimizar la obligación mediante estructuración legal, calendario y elecciones. La fiscalización y el cobro aseguran el cumplimiento mediante auditorías, sanciones y mecanismos de recaudación. El objetivo es la generación equitativa de ingresos, promoviendo a la vez la eficiencia económica y los objetivos sociales.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Tributación</b><br>Imposición sistemática de<br>pagos obligatorios]:::title\n    B[<b>META PRINCIPAL</b><br>Generación equitativa de ingresos<br>para servicios públicos]:::goal\n    C[<b>PROCESO TRIBUTARIO</b>]:::process\n    \n    subgraph D[Determinación de la jurisdicción]\n        D1[Establecer obligaciones tributarias<br>por residencia y fuente]\n    end\n    \n    subgraph E[Cálculo de la renta]\n        E1[Agregar ingresos y<br>aplicar deducciones]\n    end\n    \n    subgraph F[Cómputo de la obligación tributaria]\n        F1[Aplicar tasas a la<br>renta gravable]\n    end\n    \n    subgraph G[Créditos e incentivos]\n        G1[Reducir la obligación mediante<br>programas de inversión y sociales]\n    end\n    \n    subgraph H[Cumplimiento y presentación]\n        H1[Presentar declaraciones y<br>pagos en el plazo]\n    end\n    \n    subgraph I[Planificación fiscal]\n        I1[Optimizar estrategias para<br>minimizar la obligación]\n    end\n    \n    subgraph J[Fiscalización y cobro]\n        J1[Asegurar el cumplimiento mediante<br>auditorías y sanciones]\n    end\n    \n    K[<b>RESULTADO</b><br>Operaciones gubernamentales y<br>programas sociales financiados]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    I -.->|informa| E\n    H -->|requiere| J\n    J -->|logra| K\n    K -.->|ciclo continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "tributacion",
+                "finanzas",
+                "contabilidad",
+                "irs",
+                "declaracion_tributaria"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

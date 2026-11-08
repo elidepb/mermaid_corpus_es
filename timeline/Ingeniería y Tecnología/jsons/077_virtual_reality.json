@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "077",
+            "topic": "Realidad virtual",
+            "category": "Ingeniería",
+            "description": "La realidad virtual evolucionó de conceptos de ciencia ficción a una tecnología generalizada a través de décadas de innovación. Los primeros conceptos de RV aparecieron en la ciencia ficción y los simuladores de vuelo (décadas de 1950-1960). Ivan Sutherland creó el primer sistema de visor montado en la cabeza Sword of Damocles (1968) que demostró los principios básicos de la RV. VPL Research fundada por Jaron Lanier (1985) comercializó guantes y gafas de RV, popularizando el término realidad virtual. La NASA desarrolló sistemas de RV para el entrenamiento de astronautas (décadas de 1980-1990). Las máquinas recreativas Virtuality (1991) llevaron los videojuegos de RV a espacios públicos. El Virtual Boy de Nintendo (1995) fracasó comercialmente pero avanzó la conciencia de consumo. El ciclo de expectación de la RV se desplomó a mediados de la década de 1990 debido a limitaciones técnicas y costes elevados. El Kickstarter de Oculus Rift (2012) reavivó el interés por la RV con visores modernos asequibles. Facebook adquirió Oculus (2014) por 2000 millones de dólares, validando el potencial de la RV. HTC Vive (2016) introdujo la RV a escala de sala con seguimiento lighthouse. PlayStation VR (2016) llevó la RV a los videojuegos de consola. Los visores autónomos como Oculus Quest (2019) eliminaron los requisitos de PC. Half-Life: Alyx (2020) demostró el potencial de los videojuegos AAA de RV. La RV actual integra realidad mixta, contenido impulsado por IA, plataformas sociales de metaverso y soluciones de formación empresarial.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la realidad virtual\n    1950s-1960s : Primeros conceptos de RV\n                : Ciencia ficción y simuladores de vuelo\n    1968 : Sword of Damocles\n         : Primer visor HMD de Sutherland\n    1985 : VPL Research\n         : Lanier comercializa la RV\n    1980s-1990s : Entrenamiento de RV de la NASA\n                : Simulaciones de astronautas\n    1991 : Recreativos Virtuality\n         : Videojuegos públicos de RV\n    1995 : Nintendo Virtual Boy\n         : Intento de consumo fallido\n    Mid-1990s : Caída de la expectación de la RV\n              : Limitaciones técnicas\n    2012 : Kickstarter de Oculus Rift\n         : Renacimiento de la RV moderna\n    2014 : Facebook adquiere Oculus\n         : Validación de 2000 millones de dólares\n    2016 : HTC Vive y PSVR\n         : RV a escala de sala y de consola\n    2019 : Oculus Quest autónomo\n         : RV sin PC\n    2020 : Half-Life Alyx\n         : Hito de videojuegos AAA de RV\n    2020s : Realidad mixta y metaverso\n          : Plataformas sociales impulsadas por IA",
+            "complexity": "high",
+            "tags": [
+                "realidad_virtual",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Administración pública",
+            "category": "Ciencia política y gestión pública",
+            "description": "Esta cronología rastrea la evolución histórica de la administración pública como campo distinto. Comienza con el ensayo fundacional de Woodrow Wilson «El estudio de la administración» (1887), que estableció la dicotomía política-administración. A principios del siglo XX: la gestión científica (Taylor) influye en el sector público. Las décadas de 1930-40: el POSDCORB de Luther Gulick (1937) y el Comité Brownlow. El modelo burocrático de Weber gana protagonismo. Las décadas de 1960-70 vieron el movimiento de la Nueva Administración Pública (Conferencia de Minnowbrook, 1968), que enfatizó la equidad social, y la introducción del PPBS. Las décadas de 1980-90 trajeron la Nueva Gestión Pública (NGP) con reformas orientadas al mercado, medición del desempeño y privatización. A finales de la década de 1990 y en la de 2000 surgió el Nuevo Servicio Público, la gobernanza en red y el gobierno electrónico. Las décadas de 2010-2020 destacan el gobierno digital, la administración ágil y resiliente, y la gobernanza colaborativa.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la administración pública\n    section Fundación y dicotomía\n      1887 : Woodrow Wilson<br>El estudio de la administración\n      1900s : Gestión científica<br>en el gobierno (Taylor)\n    section Modelos clásicos\n      1937 : Luther Gulick<br>POSDCORB\n      1940s‑50s : Burocracia de Weber<br>tipo ideal\n    section Equidad social y reforma\n      1960s : PPBS y sistemas de<br>planificación racional\n      1968 : Conferencia de Minnowbrook<br>Nueva administración pública\n    section Nueva gestión pública\n      1980s : Reformas de la NGP<br>privatización, desempeño\n      1992 : Osborne y Gaebler<br>La reinvención del gobierno\n    section Pos-NGP y era digital\n      1990s‑2000s : Nuevo servicio público<br>gobernanza en red\n      2000s : Gobierno electrónico<br>servicios digitales\n    section Contemporánea\n      2010s : Gobierno digital<br>datos abiertos\n      2020s : Administración ágil y<br>resiliente",
+            "complexity": "high",
+            "tags": [
+                "administracion_publica",
+                "historia",
+                "linea_de_tiempo",
+                "wilson",
+                "POSDCORB",
+                "nueva_gestion_publica",
+                "gobierno_digital",
+                "minnowbrook"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

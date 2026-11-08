@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Tributación",
+            "category": "Negocios",
+            "description": "La tributación abarca diversos tipos de impuestos, principios y estrategias en distintas jurisdicciones. Los tipos de impuestos incluyen el impuesto sobre la renta de salarios y utilidades empresariales, el impuesto corporativo sobre las ganancias de las empresas, el impuesto al valor agregado sobre el consumo, el impuesto predial sobre bienes inmuebles, el impuesto a las ganancias de capital sobre utilidades de inversión, los impuestos a las herencias y donaciones sobre transferencias de riqueza, y los impuestos sobre la nómina que financian programas sociales. Los principios tributarios aplican equidad horizontal al tratar de forma igual a contribuyentes similares, equidad vertical al imponer mayores cargas a mayor capacidad de pago, eficiencia al minimizar distorsiones económicas, simplicidad en la administración y el cumplimiento, y certeza al proporcionar reglas claras. Las estrategias de planificación fiscal emplean el desplazamiento de ingresos entre periodos o entidades, la maximización de deducciones mediante gastos admisibles, la selección de entidad que optimiza el tratamiento fiscal, las aportaciones a cuentas de retiro y las donaciones benéficas. La tributación internacional aborda precios de transferencia, tratados fiscales, créditos por impuestos extranjeros y normas de sociedades extranjeras controladas. La administración tributaria involucra recaudación de ingresos, servicios al contribuyente, selección de auditorías y resolución de controversias.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Tributación</b>))\n    <b>Tipos de impuestos</b>\n      Impuesto sobre la renta\n      Impuesto corporativo\n      Impuesto al valor agregado\n      Impuesto predial\n      Impuesto a las ganancias de capital\n      Impuesto a herencias y donaciones\n      Impuesto sobre la nómina\n    <b>Principios tributarios</b>\n      Equidad horizontal\n      Equidad vertical\n      Eficiencia\n      Simplicidad\n      Certeza\n      Conveniencia\n    <b>Planificación fiscal</b>\n      Desplazamiento de ingresos\n      Maximización de deducciones\n      Selección de entidad\n      Aportaciones de retiro\n      Donaciones benéficas\n      Utilización de pérdidas\n    <b>Tributación internacional</b>\n      Precios de transferencia\n      Tratados fiscales\n      Créditos por impuestos extranjeros\n      Normas CFC\n      Iniciativas BEPS\n    <b>Administración tributaria</b>\n      Recaudación de ingresos\n      Servicios al contribuyente\n      Selección de auditorías\n      Resolución de controversias\n      Aplicación de sanciones\n    <b>Estructuras fiscales</b>\n      Tasas progresivas\n      Sistemas de tasa plana\n      Impuestos regresivos\n      Marginal frente a promedio\n    <b>Deducciones y créditos</b>\n      Gastos empresariales\n      Incentivos de inversión\n      Exenciones personales\n      Créditos educativos\n      Créditos por hijos\n    <b>Cumplimiento</b>\n      Elaboración de declaraciones\n      Documentación\n      Conservación de registros\n      Plazos de pago\n      Presentación electrónica",
+            "complexity": "high",
+            "tags": [
+                "tributacion",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

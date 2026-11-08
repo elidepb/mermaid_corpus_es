@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "290",
+            "topic": "Gestión de ingresos",
+            "category": "Negocios",
+            "description": "La gestión de ingresos es la optimización estratégica de la fijación de precios y la asignación de inventario para maximizar los ingresos vendiendo el producto correcto al cliente correcto en el momento correcto al precio correcto. Comienza con la previsión de la demanda, prediciendo patrones de demanda del cliente usando datos históricos, tendencias de mercado, curvas de reserva y factores externos. La segmentación de mercado divide a los clientes en grupos con distinta disposición a pagar, sensibilidad al precio y comportamientos de reserva. La optimización de precios determina estrategias de fijación de precios óptimas por segmentos, canales y períodos usando algoritmos de precios dinámicos. La asignación de inventario controla la disponibilidad por segmento y canal, protegiendo capacidad para clientes de alto valor al tiempo que se llena el inventario restante. La gestión de canales de distribución equilibra canales directos e indirectos considerando costos, alcance y preferencias del cliente. El monitoreo del desempeño sigue métricas clave, incluidos ingresos por unidad disponible, factores de ocupación/carga y tarifa media diaria. La inteligencia competitiva analiza precios, disponibilidad y posicionamiento de mercado de los competidores para informar ajustes estratégicos. El objetivo es maximizar los ingresos totales mediante una fijación de precios sofisticada basada en la demanda que capture el excedente del consumidor, optimizando a la vez la utilización de la capacidad en inventario perecedero.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de ingresos</b><br>Optimización estratégica de precios<br>e inventario]:::title\n    B[<b>META PRINCIPAL</b><br>Maximizar ingresos mediante<br>precios basados en la demanda]:::goal\n    C[<b>PROCESO DE GI</b>]:::process\n    \n    subgraph D[Previsión de la demanda]\n        D1[Predecir patrones usando<br>datos y tendencias]\n    end\n    \n    subgraph E[Segmentación de mercado]\n        E1[Dividir clientes por<br>disposición a pagar]\n    end\n    \n    subgraph F[Optimización de precios]\n        F1[Determinar precios óptimos<br>mediante algoritmos]\n    end\n    \n    subgraph G[Asignación de inventario]\n        G1[Controlar disponibilidad por<br>segmento y canal]\n    end\n    \n    subgraph H[Gestión de canales]\n        H1[Equilibrar distribución<br>directa e indirecta]\n    end\n    \n    subgraph I[Monitoreo del desempeño]\n        I1[Seguir métricas de ingresos,<br>ocupación y tarifas]\n    end\n    \n    subgraph J[Inteligencia competitiva]\n        J1[Analizar precios y posicionamiento<br>de competidores]\n    end\n    \n    K[<b>RESULTADO</b><br>Maximización de ingresos con<br>utilización óptima]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|optimización continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_ingresos",
+                "negocios",
+                "marketing",
+                "fijacion_de_precios",
+                "pronostico"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

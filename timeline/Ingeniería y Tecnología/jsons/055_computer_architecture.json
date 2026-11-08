@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "055",
+            "topic": "Arquitectura de computadoras",
+            "category": "Ingeniería",
+            "description": "La historia de la arquitectura de computadoras comenzó en la década de 1940 con ENIAC, el primer ordenador electrónico de propósito general, y el concepto de arquitectura de Von Neumann de 1945 que introdujo el diseño de programa almacenado. La década de 1950 vio cómo los ordenadores basados en transistores sustituían a los tubos de vacío. 1964 introdujo IBM System/360 con arquitectura de familia compatible. La década de 1970 trajo los microprocesadores (Intel 4004 en 1971, 8086 en 1978 estableciendo x86). La década de 1980 presenció el desarrollo de la arquitectura RISC y la proliferación del ordenador personal. 1993 introdujo Intel Pentium con arquitectura superescalar. La década de 2000 marcó la era de los procesadores multinúcleo y la adopción generalizada de la computación de 64 bits. La década de 2010 avanzó con el dominio de ARM en móviles, la computación en GPU y los aceleradores de IA. La de 2020 continúa con avances de la computación cuántica y el desarrollo de chips neuromórficos.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la arquitectura de computadoras</b>\n    \n    section 1940s-50s\n        1940s : ENIAC, primer ordenador electrónico\n              : Tecnología de tubos de vacío\n        1945  : Arquitectura de Von Neumann\n              : Concepto de programa almacenado\n        1950s : Ordenadores basados en transistores\n    \n    section 1960s-70s\n        1964  : IBM System/360\n              : Arquitectura de familia compatible\n        1971  : Microprocesador Intel 4004\n        1978  : Intel 8086\n              : Nace la arquitectura x86\n    \n    section 1980s-90s\n        1980s : Desarrollo de la arquitectura RISC\n              : Revolución del PC\n        1993  : Intel Pentium\n              : Diseño superescalar\n    \n    section 2000s\n        2000s : Era de los procesadores multinúcleo\n              : Computación de 64 bits generalizada\n              : Avances en optimización de caché\n    \n    section Era moderna\n        2010s : Dominio de ARM en móviles\n              : Auge de la computación en GPU\n              : Aceleradores de IA\n        2020s : Avances de la computación cuántica\n              : Chips neuromórficos\n              : Procesadores de IA especializados",
+            "complexity": "high",
+            "tags": [
+                "arquitectura_de_computadoras",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

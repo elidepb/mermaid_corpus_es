@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "086",
+            "topic": "Simulación por computadora",
+            "category": "Ingeniería",
+            "description": "La simulación por computadora evolucionó de los cálculos manuales a sofisticados modelos computacionales que transforman el descubrimiento científico y el diseño de ingeniería. Los primeros ordenadores analógicos simulaban sistemas físicos usando circuitos eléctricos (décadas de 1930-1940). El Proyecto Manhattan utilizó la simulación computacional para el diseño de armas nucleares (década de 1940). Los métodos de Monte Carlo desarrollados por Stanislaw Ulam y John von Neumann (década de 1940) permitieron la simulación estocástica. ENIAC realizó las primeras simulaciones de trayectorias balísticas (1946). Las simulaciones de previsión meteorológica comenzaron con la predicción numérica del tiempo (década de 1950). La metodología de dinámica de sistemas surgió del trabajo de Jay Forrester en el MIT (décadas de 1950-1960). El lenguaje de programación FORTRAN (1957) facilitó la computación científica. La simulación de eventos discretos se formalizó en la década de 1960 para la investigación de operaciones. Los métodos de elementos finitos avanzaron el análisis estructural (décadas de 1960-1970). Los simuladores de vuelo se convirtieron en sofisticadas herramientas de formación (década de 1970). La dinámica de fluidos computacional maduró permitiendo el diseño aeroespacial (década de 1980). El modelado basado en agentes ganó protagonismo estudiando sistemas adaptativos complejos (década de 1990). Las simulaciones de dinámica molecular permitieron el descubrimiento de fármacos y la ciencia de materiales. Los modelos climáticos se volvieron cada vez más sofisticados prediciendo el cambio global (década de 2000). La computación en GPU aceleró las simulaciones a gran escala (década de 2010). Los gemelos digitales surgieron combinando datos en tiempo real con modelos de simulación. La simulación actual integra sustitutos de aprendizaje automático, computación en la nube para escala masiva, exploraciones de simulación cuántica y visualización de realidad virtual.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la simulación por computadora\n    1930s-1940s : Ordenadores analógicos\n                : Simulación con circuitos eléctricos\n    1940s : Proyecto Manhattan y Monte Carlo\n          : Diseño nuclear y métodos estocásticos\n    1946 : Simulaciones de ENIAC\n         : Trayectorias balísticas\n    1950s : Previsión meteorológica\n          : Comienza la predicción numérica\n    1950s-1960s : Dinámica de sistemas\n                : Metodología de Forrester\n    1957 : Lenguaje FORTRAN\n         : Computación científica habilitada\n    1960s : Eventos discretos formalizados\n          : Aplicaciones de investigación de operaciones\n    1960s-1970s : Métodos de elementos finitos\n                : Avance del análisis estructural\n    1980s : Dinámica de fluidos computacional\n          : Maduración del diseño aeroespacial\n    1990s : Modelado basado en agentes\n          : Sistemas adaptativos complejos\n    2000s : Modelos climáticos\n          : Predicción del cambio global\n    2010s : Aceleración por GPU\n          : Aceleración de simulación a gran escala\n    2020s : Gemelos digitales y AA\n          : Integración en tiempo real y sustitutos",
+            "complexity": "high",
+            "tags": [
+                "simulacion_por_computadora",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

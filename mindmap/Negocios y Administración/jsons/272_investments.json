@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "272",
+            "topic": "Inversiones",
+            "category": "Negocios",
+            "description": "Las inversiones abarcan diversas clases de activos, estrategias y marcos analíticos para el despliegue de capital. Las clases de activos incluyen acciones que ofrecen propiedad y potencial de crecimiento, renta fija que proporciona flujos de ingresos estables, bienes raíces que generan rentas y plusvalía, materias primas que cubren la inflación e inversiones alternativas como capital privado y fondos de cobertura. Las estrategias de inversión van desde la inversión en valor que busca títulos infravalorados, la inversión en crecimiento orientada a empresas de alto potencial, la inversión en ingresos que prioriza dividendos e intereses, la inversión indexada que sigue benchmarks de mercado, hasta la gestión activa que intenta superar a los mercados. La teoría de carteras aplica la teoría moderna de carteras para la optimización, el análisis de la frontera eficiente, el modelo de valoración de activos de capital y los principios de diversificación. Las métricas de riesgo miden beta, alfa, ratio de Sharpe, desviación estándar y valor en riesgo. Las finanzas conductuales examinan sesgos cognitivos, mentalidad de rebaño e impactos de las decisiones emocionales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Inversiones</b>))\n    <b>Clases de activos</b>\n      Propiedad de acciones\n      Bonos de renta fija\n      Propiedades inmobiliarias\n      Materias primas\n      Inversiones alternativas\n      Equivalentes de efectivo\n    <b>Estrategias de inversión</b>\n      Inversión en valor\n      Inversión en crecimiento\n      Inversión en ingresos\n      Seguimiento de índices\n      Gestión activa\n      Trading de momentum\n    <b>Teoría de carteras</b>\n      Teoría moderna de carteras\n      Frontera eficiente\n      Modelo CAPM\n      Principios de diversificación\n      Técnicas de optimización\n    <b>Métricas de riesgo</b>\n      Medición de beta\n      Generación de alfa\n      Ratio de Sharpe\n      Desviación estándar\n      Valor en riesgo\n      Máxima pérdida acumulada\n    <b>Finanzas conductuales</b>\n      Sesgos cognitivos\n      Mentalidad de rebaño\n      Decisiones emocionales\n      Aversión a la pérdida\n      Exceso de confianza\n    <b>Métodos de análisis</b>\n      Análisis fundamental\n      Análisis técnico\n      Modelos cuantitativos\n      Factores macroeconómicos\n    <b>Vehículos de inversión</b>\n      Fondos mutuos\n      ETF\n      Títulos individuales\n      REIT\n      Derivados\n    <b>Estrategias fiscales</b>\n      Cosecha de pérdidas fiscales\n      Ubicación de activos\n      Cuentas con diferimiento fiscal\n      Gestión de plusvalías",
+            "complexity": "high",
+            "tags": [
+                "inversiones",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

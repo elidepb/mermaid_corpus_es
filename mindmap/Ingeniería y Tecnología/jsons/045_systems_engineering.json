@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "045",
+            "topic": "Ingeniería de sistemas",
+            "category": "Ingeniería",
+            "description": "La ingeniería de sistemas abarca procesos, técnicas de modelado y enfoques de gestión para el desarrollo de sistemas complejos. Los principios del pensamiento sistémico incluyen el holismo, que contempla los sistemas como totalidades integradas; la emergencia, donde las propiedades del sistema surgen de las interacciones entre componentes; la jerarquía, que organiza los sistemas en niveles anidados; los límites, que definen el alcance del sistema; y los bucles de realimentación, que permiten la autorregulación. La gestión de requisitos emplea la elicitación mediante entrevistas y talleres, el análisis de requisitos para comprobar consistencia y viabilidad, la especificación con documentación estructurada, la verificación que asegura la corrección, y la trazabilidad que vincula los requisitos con los elementos de diseño. El modelado y la simulación utilizan el lenguaje de modelado de sistemas (SysML) para representar la arquitectura, diagramas de flujo funcional que muestran procesos, máquinas de estados que capturan el comportamiento, documentos de control de interfaces que definen las conexiones, y gemelos digitales para pruebas virtuales. Las estrategias de integración aplican la integración incremental que construye de forma gradual, el enfoque descendente que parte del nivel superior, el enfoque ascendente desde los componentes, y la integración continua con pruebas automatizadas. Los modelos de ciclo de vida incluyen la cascada con fases secuenciales, el modelo en V que enfatiza la verificación, el espiral para el desarrollo iterativo y el ágil para enfoques adaptativos. La gestión de riesgos identifica riesgos técnicos, de plazo y de coste, evalúa probabilidad e impacto, elabora estrategias de mitigación y realiza un seguimiento a lo largo del ciclo de vida.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería de<br>sistemas</b>))\n    <b>Pensamiento sistémico</b>\n      Perspectiva holística\n      Propiedades emergentes\n      Organización jerárquica\n      Límites del sistema\n      Bucles de realimentación\n    <b>Gestión de requisitos</b>\n      Elicitación de requisitos\n      Análisis de requisitos\n      Especificación de requisitos\n      Verificación de requisitos\n      Matrices de trazabilidad\n    <b>Modelado y simulación</b>\n      Diagramas SysML\n      Flujos funcionales\n      Máquinas de estados\n      Control de interfaces\n      Gemelos digitales\n    <b>Estrategias de integración</b>\n      Integración incremental\n      Enfoque descendente\n      Enfoque ascendente\n      Integración continua\n      Pruebas de interfaces\n    <b>Modelos de ciclo de vida</b>\n      Cascada secuencial\n      Verificación modelo en V\n      Espiral iterativo\n      Ágil adaptativo\n      DevOps continuo\n    <b>Gestión de riesgos</b>\n      Riesgos técnicos\n      Riesgos de plazo\n      Riesgos de coste\n      Estrategias de mitigación\n      Seguimiento de riesgos\n    <b>Aseguramiento de la calidad</b>\n      Cumplimiento de normas\n      Gestión de configuración\n      Estrategias de prueba\n      Seguimiento de defectos\n      Métricas de calidad\n    <b>Gestión de interesados</b>\n      Análisis de necesidades\n      Planes de comunicación\n      Gestión del cambio\n      Criterios de aceptación\n      Formación de usuarios",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_de_sistemas",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

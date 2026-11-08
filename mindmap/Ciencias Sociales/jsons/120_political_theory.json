@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Teoría política",
+            "category": "Ciencia política",
+            "description": "Este mapa mental organiza la teoría política en torno a su concepto central. Se ramifica en tradiciones principales (clásica, liberal, conservadora, socialista/marxista, anarquista, feminista, poscolonial, verde), conceptos fundacionales (justicia, libertad, igualdad, derechos, poder, autoridad, legitimidad, democracia, ciudadanía), pensadores clave de Platón a Foucault, métodos nucleares (argumento normativo, análisis conceptual, historia intelectual, teoría crítica, deconstrucción) y áreas aplicadas (diseño constitucional, derechos humanos, justicia distributiva, ética ambiental, teoría democrática). La estructura destaca la riqueza conceptual del campo y su compromiso con problemas políticos históricos y contemporáneos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Teoría política))\n    Tradiciones_principales\n      Clásica\n      Liberal\n      Conservadora\n      Socialista_marxista\n      Anarquista\n      Feminista\n      Poscolonial\n      Verde\n    Conceptos_clave\n      Justicia\n      Libertad\n      Igualdad\n      Derechos\n      Poder\n      Autoridad\n      Legitimidad\n      Democracia\n      Ciudadanía\n    Pensadores_clave\n      Platón\n      Aristóteles\n      Maquiavelo\n      Hobbes\n      Locke\n      Rousseau\n      Kant\n      Marx\n      Mill\n      Rawls\n      Arendt\n      Foucault\n    Métodos\n      Argumento_normativo\n      Análisis_conceptual\n      Historia_intelectual\n      Teoría_crítica\n      Deconstrucción\n    Áreas_aplicadas\n      Diseño_constitucional\n      Derechos_humanos\n      Justicia_distributiva\n      Ética_ambiental\n      Teoría_democrática",
+            "complexity": "high",
+            "tags": [
+                "teoría_política",
+                "mapa_mental",
+                "tradiciones",
+                "conceptos",
+                "pensadores",
+                "justicia",
+                "liberalismo",
+                "métodos_normativos"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

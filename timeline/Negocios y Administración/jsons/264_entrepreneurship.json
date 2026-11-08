@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Emprendimiento",
+            "category": "Negocios",
+            "description": "La evolución del emprendimiento refleja los cambios de paradigmas económicos y de los motores de la innovación. La Revolución Industrial (décadas de 1760-1840) impulsó el emprendimiento manufacturero. La teoría de la destrucción creativa de Joseph Schumpeter (1942) formalizó la economía del emprendimiento. Silicon Valley surgió en las décadas de 1950-1960 como centro de emprendimiento tecnológico. La revolución del ordenador personal de las décadas de 1970-1980 democratizó las empresas tecnológicas. El auge de las puntocom (1995-2000) creó el emprendimiento de internet, seguido del colapso que enseñó lecciones de valoración. La metodología lean startup surgió en 2008, enfatizando la iteración rápida y la validación con el cliente. La era del smartphone (década de 2010) permitió negocios mobile-first y la economía gig. El emprendimiento actual integra IA, blockchain, enfoque en sostenibilidad y equipos remotos globales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del emprendimiento\n    1760s-1840s : Revolución Industrial\n                : Empresas manufactureras\n    1942 : Teoría de la destrucción creativa\n         : Marco de Schumpeter\n    1950s-1960s : Nacimiento de Silicon Valley\n                : Centro de emprendimiento tecnológico\n    1970s-1980s : Revolución del PC\n                : Democratización de la tecnología\n    1995-2000 : Auge y caída de las puntocom\n              : Emprendimiento de internet\n    2008 : Metodología lean startup\n         : Énfasis en la iteración rápida\n    2010s : Móvil y economía gig\n          : Empresas habilitadas por smartphone\n    2015 : Era unicornio\n         : Startups de mil millones de dólares\n    2020s : IA y sostenibilidad\n          : Empresas de impacto impulsadas por tecnología",
+            "complexity": "high",
+            "tags": [
+                "emprendimiento",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

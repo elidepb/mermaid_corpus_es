@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consultoría",
+            "category": "Negocios",
+            "description": "La consultoría abarca diversas especializaciones, metodologías y modelos de servicio para la resolución de problemas organizacionales. Los tipos de consultoría incluyen la consultoría estratégica centrada en la estrategia corporativa, el posicionamiento competitivo y los planes de crecimiento, la consultoría de gestión que aborda la eficiencia operativa y la efectividad organizacional, la consultoría de TI que implementa soluciones tecnológicas y transformación digital, la consultoría de recursos humanos que cubre gestión del talento y diseño organizacional, y la consultoría especializada en áreas como cadena de suministro, marketing y asesoría financiera. Las metodologías de consultoría emplean marcos de resolución de problemas como árboles de problemas y enfoques guiados por hipótesis, herramientas analíticas que incluyen benchmarking y analítica de datos, técnicas de gestión de proyectos que siguen fases estructuradas y modelos de gestión del cambio que aseguran la adopción. Los modelos de encargo ofrecen trabajo por proyecto con alcance y cronograma definidos, contratos de honorarios fijos que proporcionan asesoría continua, refuerzo de personal que complementa equipos del cliente y precios basados en valor que vinculan honorarios a resultados. Las habilidades del consultor requieren pensamiento analítico para la descomposición de problemas, excelencia comunicativa para la gestión de partes interesadas, experiencia sectorial que aporta contexto y capacidades de facilitación para guiar sesiones colaborativas. Los entregables producen informes estratégicos, planes de implementación, materiales de capacitación y tableros de desempeño.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Consultoría</b>))\n    <b>Tipos de consultoría</b>\n      Consultoría estratégica\n      Consultoría de gestión\n      Consultoría de TI\n      Consultoría de RR. HH.\n      Consultoría de operaciones\n      Asesoría financiera\n    <b>Metodologías</b>\n      Marcos de resolución de problemas\n      Árboles de problemas\n      Guiado por hipótesis\n      Herramientas analíticas\n      Benchmarking\n      Analítica de datos\n    <b>Modelos de encargo</b>\n      Trabajo por proyecto\n      Contratos de honorarios fijos\n      Refuerzo de personal\n      Precios basados en valor\n      Tiempo y materiales\n    <b>Habilidades del consultor</b>\n      Pensamiento analítico\n      Excelencia comunicativa\n      Experiencia sectorial\n      Capacidades de facilitación\n      Relación con el cliente\n      Maestría en presentaciones\n    <b>Entregables</b>\n      Informes estratégicos\n      Planes de implementación\n      Materiales de capacitación\n      Tableros de desempeño\n      Documentación de procesos\n    <b>Ofertas de servicio</b>\n      Desarrollo de estrategia\n      Mejora de procesos\n      Gestión del cambio\n      Implementación tecnológica\n      Gestión interina\n    <b>Sectores de clientes</b>\n      Salud\n      Servicios financieros\n      Manufactura\n      Tecnología\n      Sector público\n    <b>Tipos de firma</b>\n      Big Three MBB\n      Big Four de contabilidad\n      Especialistas boutique\n      Consultores independientes",
+            "complexity": "high",
+            "tags": [
+                "consultoria",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

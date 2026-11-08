@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Psicología social",
+            "category": "Psicología",
+            "description": "Esta cronología rastrea el surgimiento y la evolución de la psicología social. Comienza con el estudio de facilitación social de Norman Triplett en 1898, seguido de los primeros manuales de McDougall y Ross en 1908. Kurt Lewin, el «padre de la psicología social experimental», estableció la teoría de campo y la investigación-acción en las décadas de 1930-40. El período de posguerra produjo experimentos de referencia: la conformidad de Asch (1951), la disonancia cognitiva de Festinger (1957) y los estudios de obediencia de Milgram (1963). Las décadas de 1970-80 vieron el experimento de la prisión de Stanford (1971), la teoría de la identidad social de Tajfel y el auge de la cognición social y la investigación sobre la atribución. La década de 1990 trajo la psicología social evolutiva y las medidas implícitas (IAT, 1998). La psicología social contemporánea integra la neurociencia, las perspectivas transculturales y las reformas de replicación.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la psicología social\n    section Primeros orígenes\n      1898 : Norman Triplett<br>Estudio de facilitación social\n      1908 : Primeros manuales<br>McDougall y Ross\n    section Era fundacional\n      1930s-40s : Kurt Lewin<br>Teoría de campo e investigación-acción\n      1951 : Solomon Asch<br>Experimentos de conformidad\n    section Edad de oro\n      1957 : Leon Festinger<br>Teoría de la disonancia cognitiva\n      1963 : Stanley Milgram<br>Obediencia a la autoridad\n      1971 : Philip Zimbardo<br>Experimento de la prisión de Stanford\n    section Cognición e identidad social\n      1970s : Henri Tajfel<br>Teoría de la identidad social\n      1980s : Atribución y cognición social<br>(Heider, Kelley, Fiske)\n    section Desarrollos modernos\n      1990s : Psicología social evolutiva<br>Psicología cultural\n      1998 : Test de asociación implícita<br>(Greenwald y Banaji)\n      2000s : Neurociencia social<br>fMRI, TMS\n      2010s : Crisis de replicación y<br>reformas de ciencia abierta",
+            "complexity": "high",
+            "tags": [
+                "psicologia_social",
+                "historia",
+                "linea_de_tiempo",
+                "lewin",
+                "asch",
+                "milgram",
+                "festinger",
+                "tajfel",
+                "neurociencia_social"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

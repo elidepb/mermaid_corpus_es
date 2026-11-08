@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Ingeniería de materiales",
+            "category": "Ingeniería",
+            "description": "La ingeniería de materiales abarca tipos de materiales y aplicaciones diversas. Los metales incluyen aleaciones ferrosas (acero, fundición, acero inoxidable), aleaciones no ferrosas (aluminio, titanio, cobre, magnesio) y superaleaciones para aplicaciones de alta temperatura. Las cerámicas cubren cerámicas tradicionales (arcilla, porcelana), cerámicas avanzadas (alúmina, carburo de silicio, circonia) y materiales de vidrio. Los polímeros incluyen termoplásticos (polietileno, polipropileno, PVC, nailon), termoestables (epoxi, poliéster) y elastómeros (caucho). Los materiales compuestos presentan composites reforzados con fibra (fibra de carbono, fibra de vidrio), composites de matriz metálica y composites de matriz cerámica. Las técnicas de procesamiento involucran fundición, forja, laminación, extrusión, pulvimetalurgia, fabricación aditiva y depósito de películas delgadas. Las herramientas de caracterización incluyen SEM, TEM, XRD, XPS, AFM y diversos métodos de ensayo mecánico (tracción, dureza, fatiga, tenacidad a la fractura). Las propiedades de interés cubren mecánicas (resistencia, ductilidad, tenacidad), térmicas (conductividad, dilatación), eléctricas (conductividad, resistividad) y químicas (resistencia a la corrosión). Las aplicaciones cubren estructuras aeroespaciales, componentes automotrices, dispositivos electrónicos, sistemas de energía, implantes biomédicos y materiales de construcción.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería de<br>materiales</b>))\n    <b>Metales</b>\n      Aleaciones ferrosas\n        Acero\n        Fundición\n        Acero inoxidable\n      No ferrosos\n        Aluminio\n        Titanio\n        Cobre\n        Magnesio\n      Superaleaciones\n    <b>Cerámicas</b>\n      Tradicionales\n        Arcilla\n        Porcelana\n      Avanzadas\n        Alúmina\n        Carburo de silicio\n        Circonia\n      Vidrio\n    <b>Polímeros</b>\n      Termoplásticos\n        Polietileno\n        Polipropileno\n        PVC\n        Nailon\n      Termoestables\n        Epoxi\n        Poliéster\n      Elastómeros\n    <b>Composites</b>\n      Reforzados con fibra\n        Fibra de carbono\n        Fibra de vidrio\n      Matriz metálica\n      Matriz cerámica\n    <b>Técnicas de procesamiento</b>\n      Fundición\n      Forja\n      Laminación\n      Extrusión\n      Pulvimetalurgia\n      Fabricación aditiva\n      Depósito de películas delgadas\n    <b>Herramientas de caracterización</b>\n      SEM\n      TEM\n      XRD\n      XPS\n      AFM\n      Ensayos mecánicos\n    <b>Propiedades</b>\n      Mecánicas\n        Resistencia\n        Ductilidad\n        Tenacidad\n      Térmicas\n      Eléctricas\n      Químicas\n    <b>Aplicaciones</b>\n      Aeroespacial\n      Automotriz\n      Electrónica\n      Sistemas de energía\n      Biomédica\n      Construcción",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_de_materiales",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

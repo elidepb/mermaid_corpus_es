@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiografía",
+            "category": "Historia",
+            "description": "La historiografía examina cómo los historiadores han escrito, interpretado y conceptualizado el pasado. Este diagrama de flujo describe su lógica analítica: el objetivo es comprender los métodos, las teorías y los supuestos que dan forma al conocimiento histórico. Integra componentes centrales: las fuentes (primarias, secundarias, orales, visuales), los métodos y la crítica (crítica de fuentes, investigación de archivo, análisis cuantitativo, análisis textual) y las grandes escuelas teóricas (empirismo, historiografía marxista, Annales, poscolonial, feminista, historia digital). Estos se enmarcan en conceptos clave (objetividad, sesgo, periodización, narración, memoria) e impulsan el proceso de la escritura histórica: investigación → interpretación → construcción narrativa → crítica historiográfica → revisión continua. Los conocimientos resultantes revelan cómo se produce, se disputa y se reinterpreta la historia a través de culturas y periodos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historiografía</b><br>Estudio de cómo los historiadores escriben<br>e interpretan el pasado]:::title\n    B[<b>OBJETIVO</b><br>Comprender los métodos, las teorías<br>y los supuestos detrás del conocimiento<br>histórico]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Fuentes y evidencia]\n        D1[\"Fuentes primarias (documentos, artefactos)<br>Fuentes secundarias (historias, artículos)<br>Tradiciones orales y fuentes visuales\"]\n    end\n    subgraph E[Métodos y crítica]\n        E1[\"Crítica de fuentes (externa e interna)<br>Investigación de archivo y documental<br>Cuantitativa y cliometría<br>Análisis textual y del discurso\"]\n    end\n    subgraph F[Escuelas teóricas]\n        F1[Empirismo rankeano<br>Historiografía marxista<br>Escuela de Annales<br>Nueva historia social y cultural<br>Estudios poscoloniales y subalternos<br>Historia feminista y de género<br>Historia digital y global]\n    end\n    G[<b>CONCEPTOS CLAVE</b><br>Objetividad y sesgo<br>Periodización y teleología<br>Narración y puesta en trama<br>Memoria y patrimonio]:::concepts\n    H[<b>PROCESO DE ESCRITURA HISTÓRICA</b><br>Investigación → Interpretación →<br>Construcción narrativa →<br>Crítica historiográfica →<br>Revisión y nuevas preguntas]:::process\n    I[<b>RESULTADOS</b><br>Conciencia del carácter construido<br>de la historia, interpretaciones plurales,<br>conciencia histórica crítica]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el estudio de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|moldeado por| G\n    G -->|impulsa| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef concepts fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historiografia",
+                "metodo_historico",
+                "filosofia_de_la_historia",
+                "escuelas_historiograficas",
+                "critica_de_fuentes",
+                "narracion",
+                "objetividad"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Ingeniería hidráulica",
+            "category": "ingenieria",
+            "description": "La ingeniería hidráulica es la rama especializada de la ingeniería civil que trata el flujo, el transporte y el control del agua y otros fluidos en sistemas naturales y artificiales. Su objetivo principal es diseñar y gestionar infraestructura relacionada con el agua para la protección contra inundaciones, el abastecimiento, el riego y la generación de energía. Los dominios centrales incluyen: mecánica de fluidos (comportamiento del flujo, dinámica de presiones, perfiles de velocidad), hidráulica de canales abiertos (ríos, canales, sistemas de drenaje), sistemas de conductos cerrados (tuberías, redes de distribución de agua), estructuras hidráulicas (presas, vertederos, aliviaderos, compuertas) y gestión de recursos hídricos (operación de embalses, control de inundaciones, hidroelectricidad). El proceso de diseño involucra análisis hidrológico, modelado hidráulico, diseño de estructuras, optimización de sistemas y evaluación de impacto ambiental. Estos elementos se integran mediante ecuaciones de continuidad, principios de energía y leyes de cantidad de movimiento para crear sistemas eficientes de gestión del agua para el abastecimiento urbano, el riego agrícola, la mitigación de inundaciones y la generación de energía renovable.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería hidráulica</b><br>Flujo, transporte y control del agua<br>en sistemas naturales y artificiales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Diseñar infraestructura hídrica para<br>abastecimiento, riego y control de inundaciones]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Mecánica de fluidos]\n        D1[Comportamiento del flujo<br>Dinámica de presiones<br>Perfiles de velocidad]\n    end\n    \n    subgraph E[Hidráulica de canales abiertos]\n        E1[Ríos y canales<br>Sistemas de drenaje<br>Vías de agua naturales]\n    end\n    \n    subgraph F[Sistemas de conductos cerrados]\n        F1[Tuberías<br>Distribución de agua<br>Redes a presión]\n    end\n    \n    subgraph G[Estructuras hidráulicas]\n        G1[Presas y vertederos<br>Aliviaderos y compuertas<br>Estructuras de control]\n    end\n    \n    subgraph H[Gestión de recursos hídricos]\n        H1[Operación de embalses<br>Control de inundaciones<br>Hidroelectricidad]\n    end\n    \n    I[<b>PROCESO DE DISEÑO</b><br>Análisis hidrológico, modelado<br>Diseño de estructuras, optimización]:::process\n    \n    J[<b>CREA</b><br>Gestión eficiente del agua<br>para abastecimiento y protección contra inundaciones]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_hidraulica",
+                "ingenieria",
+                "ingenieria_civil",
+                "mecanica_de_fluidos",
+                "hidrologia"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

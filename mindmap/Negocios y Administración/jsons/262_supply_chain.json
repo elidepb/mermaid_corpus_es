@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Cadena de suministro",
+            "category": "Negocios",
+            "description": "La gestión de la cadena de suministro abarca dominios especializados que, en conjunto, crean ventaja competitiva. La gestión de relaciones con proveedores construye alianzas estratégicas mediante colaboración, monitoreo del desempeño y evaluación de riesgos. El diseño de redes optimiza ubicaciones de instalaciones, modos de transporte y canales de distribución. La optimización de inventarios equilibra costos de tenencia y niveles de servicio mediante cálculos de stock de seguridad y análisis ABC. La analítica de la cadena de suministro aprovecha el big data para la detección de demanda, el modelado predictivo y la planificación de escenarios. La gestión de riesgos identifica vulnerabilidades y desarrolla planes de contingencia ante interrupciones. Las iniciativas de sostenibilidad reducen el impacto ambiental mediante principios de economía circular y abastecimiento ético. La integración tecnológica emplea blockchain, sensores IoT e IA para la transparencia y la automatización.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de la<br>cadena de suministro</b>))\n    <b>Relaciones con proveedores</b>\n      Alianzas estratégicas\n      Monitoreo del desempeño\n      Plataformas de colaboración\n      Evaluación de riesgos\n      Gestión de contratos\n    <b>Diseño de redes</b>\n      Ubicación de instalaciones\n      Modos de transporte\n      Canales de distribución\n      Optimización de rutas\n      Planificación de capacidad\n    <b>Optimización de inventarios</b>\n      Stock de seguridad\n      Análisis ABC\n      Puntos de reorden\n      Costos de tenencia\n      Niveles de servicio\n    <b>Analítica</b>\n      Detección de demanda\n      Modelado predictivo\n      Análisis de macrodatos\n      Planificación de escenarios\n      Métricas de desempeño\n    <b>Gestión de riesgos</b>\n      Mapeo de vulnerabilidades\n      Planificación de contingencias\n      Respuesta a interrupciones\n      Diversificación de proveedores\n    <b>Sostenibilidad</b>\n      Economía circular\n      Abastecimiento ético\n      Huella de carbono\n      Logística verde\n    <b>Tecnología</b>\n      Trazabilidad con blockchain\n      Sensores IoT\n      Optimización con IA\n      Plataformas en la nube",
+            "complexity": "high",
+            "tags": [
+                "cadena_de_suministro",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

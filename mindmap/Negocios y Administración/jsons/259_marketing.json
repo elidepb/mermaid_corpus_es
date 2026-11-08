@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "259",
+            "topic": "Marketing",
+            "category": "Negocios",
+            "description": "El marketing comprende disciplinas interconectadas que impulsan la interacción del cliente y el crecimiento del negocio. El marketing digital aprovecha canales en línea, incluidos el SEO, las redes sociales y las campañas de correo electrónico. La gestión de marca construye identidad y valor de marca mediante una mensajería consistente. El análisis del comportamiento del consumidor revela los impulsores psicológicos y sociales de la compra. El desarrollo de productos alinea la oferta con las necesidades del mercado. La analítica de marketing transforma datos en conocimientos accionables. El marketing de contenidos educa y atrae a las audiencias. La gestión de relaciones con clientes cultiva conexiones a largo plazo mediante experiencias personalizadas y programas de fidelización.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Marketing</b>))\n    <b>Marketing digital</b>\n      SEO y SEM\n      Redes sociales\n      Campañas de correo\n      Marketing de influencers\n      Publicidad en línea\n    <b>Gestión de marca</b>\n      Identidad de marca\n      Valor de marca\n      Estrategia de posicionamiento\n      Consistencia del mensaje\n    <b>Comportamiento del consumidor</b>\n      Psicología de la compra\n      Proceso de decisión\n      Influencias sociales\n      Factores de motivación\n    <b>Desarrollo de productos</b>\n      Investigación de mercado\n      Innovación\n      Ciclo de vida del producto\n      Optimización de características\n    <b>Analítica de marketing</b>\n      Análisis de datos\n      Seguimiento de KPI\n      Medición del ROI\n      Modelado predictivo\n    <b>Marketing de contenidos</b>\n      Narrativa\n      Creación de valor\n      Interacción con la audiencia\n      Liderazgo de pensamiento\n    <b>CRM</b>\n      Retención de clientes\n      Programas de fidelización\n      Personalización\n      Construcción de relaciones",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

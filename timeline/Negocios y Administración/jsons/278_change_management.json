@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "278",
+            "topic": "Gestión del cambio",
+            "category": "Negocios",
+            "description": "La gestión del cambio evolucionó de la ingeniería industrial a una disciplina basada en las ciencias del comportamiento. La gestión científica temprana (década de 1910) se centró en cambios de procesos sin considerar los factores humanos. El análisis de campo de fuerzas y el modelo de tres etapas de Kurt Lewin (1947) introdujeron fundamentos psicológicos del cambio organizacional. El movimiento de relaciones humanas de las décadas de 1950-1960 enfatizó los aspectos humanos de la transformación. El desarrollo organizacional surgió como campo en la década de 1960, aplicando las ciencias del comportamiento al cambio planificado. La investigación de John Kotter sobre liderazgo y cambio comenzó en la década de 1980 y culminó en su modelo de ocho pasos (1996). La reingeniería de procesos de negocio en la década de 1990 impulsó iniciativas de transformación radical. El modelo ADKAR de Prosci (1998) aportó un marco de cambio individual. La ola de transformación digital de la década de 2010 exigió nuevos enfoques ágiles del cambio. La gestión del cambio actual integra diseño de experiencia del empleado, ideas de la neurociencia y metodologías de adaptación continua para una transformación rápida y permanente.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión del cambio\n    1910s : Gestión científica\n          : Enfoque en procesos, sin factores humanos\n    1947 : Análisis de campo de fuerzas de Lewin\n         : Fundamentos psicológicos\n    1950s-1960s : Movimiento de relaciones humanas\n                : Énfasis en las personas\n    1960s : Desarrollo organizacional\n          : Aplicación de las ciencias del comportamiento\n    1980s-1990s : Investigación de Kotter\n                : Enfoque en liderazgo y cambio\n    1990s : Reingeniería de procesos de negocio\n          : Transformación radical\n    1996 : Modelo de 8 pasos de Kotter\n         : Marco estructurado de cambio\n    1998 : Modelo ADKAR\n         : Enfoque en el cambio individual\n    2010s : Transformación digital\n          : Enfoques ágiles del cambio\n    2020s : Experiencia del empleado y neurociencia\n          : Adaptación continua",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_cambio",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

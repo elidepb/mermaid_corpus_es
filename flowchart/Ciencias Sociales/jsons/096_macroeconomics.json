@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomía",
+            "category": "Economía",
+            "description": "La macroeconomía busca alcanzar tres objetivos últimos: el crecimiento económico sostenible, el pleno empleo y la estabilidad de precios. El progreso se mide mediante el seguimiento de agregados clave: el PIB, el desempleo, la inflación y la balanza de pagos. Estos indicadores orientan la elección de instrumentos de política fiscal y monetaria, mientras que modelos analíticos como DA-OA, IS-LM y la curva de Phillips ayudan a explicar las relaciones entre variables y a validar las acciones de política. El diagrama de flujo captura este proceso cíclico: de los objetivos a la medición, a la intervención de política, y de vuelta a los objetivos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>MACROECONOMÍA</b><br>El estudio del comportamiento<br>económico agregado]:::title\n    B[<b>OBJETIVOS ÚLTIMOS</b><br>Crecimiento sostenible<br>Pleno empleo<br>Estabilidad de precios]:::goals\n    subgraph aggregates [<b>AGREGADOS CLAVE</b>]\n        C1[PIB y renta nacional]\n        C2[Tasa de desempleo]\n        C3[Tasa de inflación]\n        C4[Balanza de pagos]\n    end\n    subgraph policies [<b>INSTRUMENTOS DE POLÍTICA</b>]\n        D1[Política fiscal<br>Gasto público e impuestos]\n        D2[Política monetaria<br>Tasas de interés y oferta monetaria]\n    end\n    subgraph models [<b>MODELOS ANALÍTICOS</b>]\n        E1[Modelo DA-OA]\n        E2[Modelo IS-LM]\n        E3[Curva de Phillips]\n    end\n    A -->|busca| B\n    B -->|se mide por| aggregates\n    aggregates -->|orientan| policies\n    policies -->|apuntan a| B\n    aggregates -->|se explican mediante| models\n    models -->|validan| policies\n    classDef title fill:#E3F2FD,stroke:#1565C0,stroke-width:2px,color:#333\n    classDef goals fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px,color:#333\n    style aggregates fill:#FFF3E0,stroke:#EF6C00,stroke-width:1px,color:#333\n    style policies fill:#F3E5F5,stroke:#7B1FA2,stroke-width:1px,color:#333\n    style models fill:#FCE4EC,stroke:#C62828,stroke-width:1px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "macroeconomia",
+                "crecimiento_economico",
+                "inflacion",
+                "politica_fiscal",
+                "politica_monetaria",
+                "modelo_da_oa"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

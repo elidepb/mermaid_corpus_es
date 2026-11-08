@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsicología",
+            "category": "Psicología y neurociencia",
+            "description": "Esta cronología rastrea hitos clave en la historia de la neuropsicología. La frenología de Gall (1796) despertó el interés por la localización cerebral. La identificación del área del habla por Broca en 1861 y la descripción de la afasia receptiva por Wernicke en 1874 establecieron la correlación clínico-anatómica. A principios del siglo XX: la teoría del ensamblaje celular de Hebb (1949). Alexander Luria desarrolló un enfoque integral de evaluación neuropsicológica durante la Segunda Guerra Mundial y más tarde publicó El cerebro en acción (1973). Las décadas de 1970-80 vieron el auge de la neuropsicología clínica con baterías estandarizadas (Halstead-Reitan, Luria-Nebraska). Avances en neuroimagen: la TC (década de 1970), la RM (década de 1980) y la fMRI (década de 1990) revolucionaron la comprensión de las relaciones cerebro-conducta. Surgió la neuropsicología cognitiva (décadas de 1980-90) con modelos de lectura y memoria. La década de 2000 trajo la conectómica, la red neuronal por defecto y los enfoques computacionales. Los últimos años enfatizan el big data, el diagnóstico con IA y las intervenciones personalizadas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la neuropsicología\n    section Precursores\n      1796 : Franz Joseph Gall<br>Frenología\n    section Localización clásica\n      1861 : Paul Broca<br>Área de Broca\n      1874 : Carl Wernicke<br>Área de Wernicke\n    section Fundamentos de mediados de siglo\n      1949 : Donald Hebb<br>Teoría del ensamblaje celular\n      1940s-50s : Alexander Luria<br>Sistemas funcionales\n      1973 : \"El cerebro en acción\" de Luria\n    section Expansión clínica\n      1970s : Batería Halstead‑Reitan<br>Batería Luria‑Nebraska\n      1970s : Introducción de la tomografía computarizada\n      1980s : RM en uso clínico\n    section Era cognitiva y de redes\n      1980s-90s : Neuropsicología cognitiva<br>(modelos de lectura y memoria)\n      1990s : La fMRI se generaliza\n      2000s : Conectómica y red neuronal por defecto\n    section Contemporánea\n      2010s : Big data y aprendizaje automático\n      2020s : Diagnóstico asistido por IA<br>neurorrehabilitación personalizada",
+            "complexity": "high",
+            "tags": [
+                "neuropsicologia",
+                "historia",
+                "linea_de_tiempo",
+                "broca",
+                "wernicke",
+                "luria",
+                "hebb",
+                "neuroimagen",
+                "neuropsicologia_cognitiva"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

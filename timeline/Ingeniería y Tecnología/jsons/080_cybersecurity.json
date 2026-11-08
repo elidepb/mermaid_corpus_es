@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "080",
+            "topic": "Ciberseguridad",
+            "category": "Ingeniería",
+            "description": "La ciberseguridad evolucionó de la protección básica con contraseñas a una defensa sofisticada contra ataques de Estados nación y ecosistemas de ciberdelincuencia. La seguridad informática temprana se centró en el acceso físico y las contraseñas (décadas de 1960-1970). El primer virus informático, Creeper (1971), demostró amenazas autorreplicantes. El software antivirus surgió en la década de 1980 combatiendo el malware temprano. El gusano Morris (1988) infectó el 10 % de los ordenadores de internet, poniendo de relieve las vulnerabilidades de red. Los cortafuegos se convirtieron en defensa de red esencial en la década de 1990. El virus ILOVEYOU (2000) causó daños por miles de millones mediante propagación por correo electrónico. Los gusanos Code Red y Nimda (2001) explotaron vulnerabilidades web a gran escala. Las filtraciones de tarjetas de pago se aceleraron conduciendo a las normas PCI DSS (2004). El gusano Stuxnet (2010) demostró armas cibernéticas sofisticadas de origen estatal dirigidas a sistemas industriales. Anonymous y los grupos hacktivistas ganaron protagonismo (2010-2012). La filtración de datos de Target (2013) expuso 40 millones de tarjetas de crédito. El ransomware WannaCry y NotPetya (2017) causó interrupciones mundiales por miles de millones. La implementación del RGPD (2018) reforzó los requisitos de privacidad de datos. El ataque a la cadena de suministro de SolarWinds (2020) comprometió redes gubernamentales y empresariales. La ciberseguridad actual aborda ataques impulsados por IA, amenazas de la computación cuántica, ransomware como servicio y la seguridad de arquitecturas nativas de la nube, al tiempo que gestiona los riesgos de la fuerza de trabajo remota.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ciberseguridad\n    1960s-1970s : Seguridad básica con contraseñas\n                : Control de acceso físico\n    1971 : Virus Creeper\n         : Primer código autorreplicante\n    1980s : Software antivirus\n          : Defensa temprana contra el malware\n    1988 : Gusano Morris\n         : Infección del 10 % de internet\n    1990s : Despliegue de cortafuegos\n          : Norma de protección de red\n    2000 : Virus ILOVEYOU\n         : Daño mundial basado en correo\n    2001 : Code Red y Nimda\n         : Explotación de vulnerabilidades web\n    2004 : Normas PCI DSS\n         : Seguridad de tarjetas de pago\n    2010 : Arma cibernética Stuxnet\n         : Ataque industrial de origen estatal\n    2013 : Filtración de Target\n         : 40 millones de tarjetas de crédito expuestas\n    2017 : WannaCry y NotPetya\n         : Epidemias mundiales de ransomware\n    2018 : Implementación del RGPD\n         : Aplicación de la privacidad de datos\n    2020 : Ataque a SolarWinds\n         : Compromiso de la cadena de suministro\n    2020s : Amenazas de IA y cuánticas\n          : Vectores de ataque avanzados",
+            "complexity": "high",
+            "tags": [
+                "ciberseguridad",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

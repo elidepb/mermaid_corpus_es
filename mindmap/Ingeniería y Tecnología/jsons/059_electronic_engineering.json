@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Ingeniería electrónica",
+            "category": "Ingeniería",
+            "description": "La ingeniería electrónica abarca múltiples especializaciones técnicas y componentes. Los circuitos analógicos incluyen amplificadores operacionales, transistores (BJT, FET, MOSFET), diodos, reguladores de tensión y filtros analógicos. Los sistemas digitales presentan puertas lógicas (AND, OR, NOT), biestables, contadores, microprocesadores (Intel, ARM), FPGA y memoria (RAM, ROM, Flash). Los dispositivos semiconductores cubren diodos, transistores, LED, fotodiodos y tiristores. Los sistemas embebidos utilizan microcontroladores (Arduino, PIC, STM32), sistemas operativos en tiempo real y desarrollo de firmware. Las herramientas clave incluyen software de diseño de PCB (Altium, Eagle, KiCad), herramientas de simulación (SPICE, Proteus), osciloscopios y analizadores lógicos. Las aplicaciones cubren electrónica de consumo, telecomunicaciones, dispositivos médicos, electrónica automotriz, automatización industrial y tecnología vestible. Las consideraciones de diseño involucran consumo de potencia, integridad de señal, cumplimiento EMI/EMC y miniaturización.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>electrónica</b>))\n    <b>Circuitos analógicos</b>\n      Amplificadores operacionales\n      Transistores\n        BJT\n        FET\n        MOSFET\n      Diodos\n      Reguladores de tensión\n      Filtros\n    <b>Sistemas digitales</b>\n      Puertas lógicas\n      Biestables\n      Contadores\n      Microprocesadores\n        Intel\n        ARM\n      FPGA\n      Memoria\n        RAM\n        ROM\n        Flash\n    <b>Dispositivos semiconductores</b>\n      Diodos\n      Transistores\n      LED\n      Fotodiodos\n      Tiristores\n    <b>Sistemas embebidos</b>\n      Microcontroladores\n        Arduino\n        PIC\n        STM32\n      RTOS\n      Firmware\n    <b>Herramientas de diseño</b>\n      Diseño de PCB\n        Altium\n        Eagle\n        KiCad\n      Simulación\n        SPICE\n        Proteus\n      Osciloscopios\n      Analizadores lógicos\n    <b>Aplicaciones</b>\n      Electrónica de consumo\n      Telecomunicaciones\n      Dispositivos médicos\n      Automotriz\n      Automatización industrial\n      Wearables\n    <b>Consideraciones de diseño</b>\n      Consumo de potencia\n      Integridad de señal\n      EMI/EMC\n      Miniaturización",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_electrónica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

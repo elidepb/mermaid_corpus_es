@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Derecho laboral",
+            "category": "Derecho",
+            "description": "Esta cronología traza el desarrollo del derecho laboral desde las primeras regulaciones fabriles hasta las normas internacionales modernas. Hitos clave: las Factory Acts británicas (1802‑1833), que limitaron el trabajo infantil y la jornada; la legalización de los sindicatos (Reino Unido 1871, Francia 1884); la creación de la OIT (1919); la legislación laboral del New Deal en EE. UU. (National Labor Relations Act 1935, Fair Labor Standards Act 1938); la expansión de la protección social de la posguerra; la Declaración de la OIT relativa a los principios y derechos fundamentales en el trabajo (1998); las directivas de la UE sobre tiempo de trabajo y no discriminación (décadas de 1990‑2000); y el auge de las regulaciones del trabajo en plataformas y la economía gig en las décadas de 2010‑2020.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho laboral\n    section Primera regulación fabril\n      1802 : Factory Act del Reino Unido (primera)\n      1833 : Factory Act del Reino Unido (inspectores)\n      1842 : Mines Act (mujeres y niños)\n    section Reconocimiento sindical\n      1871 : Trade Union Act del Reino Unido\n      1884 : Francia legaliza los sindicatos\n    section OIT y normas internacionales\n      1919 : Fundación de la OIT\n      1930 : Convenio sobre el trabajo forzoso\n    section New Deal de EE. UU.\n      1935 : National Labor Relations Act\n      1938 : Fair Labor Standards Act\n    section Posguerra y UE\n      1951 : Convenio sobre igualdad de remuneración\n      1970s : Inicio de la política social de la UE\n      1993 : Directiva de la UE sobre tiempo de trabajo\n    section Principios fundamentales\n      1998 : Declaración de la OIT sobre los Principios\n      y Derechos Fundamentales en el Trabajo\n    section Contemporáneo\n      2010s : Auge del trabajo en plataformas<br>y la economía gig\n      2020s : Teletrabajo, IA en la<br>regulación laboral",
+            "complexity": "high",
+            "tags": [
+                "derecho_laboral",
+                "historia",
+                "linea_de_tiempo",
+                "leyes_de_fabricas",
+                "ILO",
+                "new_deal",
+                "sindicatos",
+                "economia_gig"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

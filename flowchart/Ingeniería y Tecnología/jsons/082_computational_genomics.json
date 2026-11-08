@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "082",
+            "topic": "Genómica computacional",
+            "category": "bioinformatica",
+            "description": "La genómica computacional es la aplicación de métodos computacionales, algoritmos y técnicas estadísticas para analizar, interpretar y comprender datos genómicos, revelando variaciones genéticas, relaciones evolutivas y funciones biológicas. Comienza con la adquisición de datos, obteniendo secuencias de ADN/ARN mediante plataformas de secuenciación de nueva generación que generan conjuntos de datos masivos. El control de calidad filtra lecturas de baja calidad, elimina adaptadores, recorta secuencias y evalúa la integridad de los datos usando métricas de calidad. El alineamiento de secuencias mapea las lecturas a genomas de referencia o ensambla genomas de novo usando algoritmos como BWA o SPAdes, identificando posiciones genómicas. La llamada de variantes detecta variaciones genéticas incluyendo SNP, inserciones, deleciones y variantes estructurales, comparando secuencias con referencias. La anotación identifica genes, elementos reguladores y dominios funcionales, y predice consecuencias biológicas usando bases de datos genómicas. La genómica comparada analiza relaciones evolutivas, regiones conservadas y diferencias entre especies mediante análisis filogenético. El análisis funcional integra datos de expresión, análisis de vías y redes reguladoras para comprender funciones e interacciones génicas. La validación estadística aplica métodos rigurosos que corrigen las pruebas múltiples y validan los hallazgos mediante replicación. El objetivo es extraer conocimientos biológicos de los datos genómicos, permitiendo la medicina personalizada, la investigación de enfermedades, los estudios evolutivos y las aplicaciones biotecnológicas mediante enfoques computacionales que unen la biología y la informática.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Genómica computacional</b><br>Análisis de datos genómicos mediante<br>métodos computacionales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Extraer conocimientos biológicos<br>para la medicina de precisión]:::goal\n    C[<b>FLUJO DE TRABAJO DE GENÓMICA</b>]:::process\n    \n    subgraph D[Adquisición de datos]\n        D1[Obtener secuencias de ADN/ARN<br>mediante plataformas NGS]\n    end\n    \n    subgraph E[Control de calidad]\n        E1[Filtrar lecturas, eliminar adaptadores<br>y evaluar integridad]\n    end\n    \n    subgraph F[Alineamiento de secuencias]\n        F1[Mapear a referencia o<br>ensamblar de novo]\n    end\n    \n    subgraph G[Llamada de variantes]\n        G1[Detectar SNP, indel<br>y variantes estructurales]\n    end\n    \n    subgraph H[Anotación]\n        H1[Identificar genes, elementos<br>reguladores y funciones]\n    end\n    \n    subgraph I[Genómica comparada]\n        I1[Analizar relaciones evolutivas<br>y conservación]\n    end\n    \n    subgraph J[Análisis funcional]\n        J1[Integrar expresión, vías<br>y redes reguladoras]\n    end\n    \n    subgraph K[Validación estadística]\n        K1[Aplicar métodos rigurosos<br>y validar hallazgos]\n    end\n    \n    L[<b>RESULTADO</b><br>Conocimientos biológicos que permiten<br>aplicaciones de precisión]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    L -.->|refinamiento iterativo| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "genomica_computacional",
+                "bioinformatica",
+                "genomica",
+                "secuenciacion_de_adn",
+                "analisis_de_genomas"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

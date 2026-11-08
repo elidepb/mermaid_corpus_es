@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "280",
+            "topic": "Responsabilidad social corporativa",
+            "category": "Negocios",
+            "description": "La responsabilidad social corporativa (RSC) es la integración estratégica de consideraciones sociales, ambientales y éticas en las operaciones empresariales y las relaciones con las partes interesadas, más allá del cumplimiento legal. Comienza con el mapeo de partes interesadas, identificando a todas las partes afectadas por las operaciones, incluidos empleados, comunidades, proveedores, clientes y el entorno. La evaluación de materialidad prioriza los temas según su importancia para las partes interesadas y el impacto en el negocio. El desarrollo de la estrategia de RSC alinea las iniciativas con los valores centrales, las capacidades y los objetivos estratégicos de la empresa. La implementación de programas ejecuta iniciativas de sostenibilidad ambiental, equidad social, gobernanza ética e inversión comunitaria. La medición de impacto cuantifica resultados con métricas como la reducción de la huella de carbono, la satisfacción de los empleados y los beneficios comunitarios. El informe transparente comunica el desempeño mediante reportes de sostenibilidad, revelaciones ASG y diálogo con las partes interesadas. La mejora continua refina los enfoques a partir de la retroalimentación y las expectativas en evolución. El objetivo es crear valor compartido equilibrando beneficio y propósito, construyendo reputación y contribuyendo al desarrollo sostenible.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Responsabilidad social corporativa</b><br>Integración de consideraciones sociales,<br>ambientales y éticas]:::title\n    B[<b>META PRINCIPAL</b><br>Equilibrar beneficio con propósito<br>y valor compartido]:::goal\n    C[<b>PROCESO DE RSC</b>]:::process\n    \n    subgraph D[Mapeo de partes interesadas]\n        D1[Identificar partes afectadas y<br>sus intereses]\n    end\n    \n    subgraph E[Evaluación de materialidad]\n        E1[Priorizar temas por<br>importancia e impacto]\n    end\n    \n    subgraph F[Desarrollo de la estrategia de RSC]\n        F1[Alinear iniciativas con<br>valores y objetivos]\n    end\n    \n    subgraph G[Implementación de programas]\n        G1[Ejecutar iniciativas ambientales,<br>sociales y de gobernanza]\n    end\n    \n    subgraph H[Medición de impacto]\n        H1[Cuantificar resultados mediante<br>métricas de sostenibilidad]\n    end\n    \n    subgraph I[Informe transparente]\n        I1[Comunicar el desempeño<br>mediante revelaciones ASG]\n    end\n    \n    subgraph J[Mejora continua]\n        J1[Refinar enfoques a partir<br>de la retroalimentación]\n    end\n    \n    K[<b>RESULTADO</b><br>Desarrollo sostenible y<br>construcción de reputación]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|expectativas en evolución| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "responsabilidad_social_corporativa",
+                "rsc",
+                "etica",
+                "sostenibilidad",
+                "negocios"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

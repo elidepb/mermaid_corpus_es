@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "145",
+            "topic": "Historia antigua",
+            "category": "Historia",
+            "description": "Esta cronología traza los grandes hitos y transiciones de la historia antigua, desde la invención de la escritura hasta la caída del Imperio romano de Occidente. Comienza con el surgimiento de las ciudades‑Estado sumerias (c. 3500‑3000 a. C.) y la unificación de Egipto (c. 3100 a. C.). La Edad del Bronce (c. 3000‑1200 a. C.) vio el Código de Hammurabi (c. 1754), a minoicos y micénicos, y la dinastía Shang en China. La Edad del Hierro y la Era Axial (c. 1200‑500 a. C.) trajeron el auge de Asiria, el alfabeto fenicio y pensadores fundacionales como Confucio y Buda. La Antigüedad clásica (c. 500‑323 a. C.) abarcó la democracia griega, las Guerras Médicas y la conquista de Alejandro. Los períodos helenístico y de la República romana (323‑27 a. C.) presenciaron la difusión de la cultura griega y la expansión de Roma. El Imperio romano y la Antigüedad tardía (27 a. C.‑476 d. C.) vieron la Pax Romana, la difusión del cristianismo y la división final y la caída de Occidente.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Hitos de la historia antigua\n    section Edad del Bronce temprana\n      c. 3500‑3000 BCE : Auge de las ciudades‑Estado sumerias,<br>invención de la escritura\n      c. 3100 BCE : Unificación de Egipto<br>(paleta de Narmer)\n    section Edad del Bronce media y tardía\n      c. 2000‑1600 BCE : Florecen las civilizaciones<br>minoica y micénica\n      c. 1754 BCE : Código de Hammurabi<br>(Babilonia)\n      c. 1600‑1046 BCE : Dinastía Shang<br>en China (huesos oraculares)\n    section Edad del Hierro y Era Axial\n      c. 1200 BCE : Colapso de la Edad del Bronce\n      c. 900‑600 BCE : Auge de Asiria,<br>alfabeto fenicio\n      c. 600‑400 BCE : Era Axial -<br>Confucio, Buda, filósofos griegos\n    section Antigüedad clásica\n      490‑479 BCE : Guerras Médicas\n      5th cent BCE : Democracia ateniense,<br>Siglo de Oro de Grecia\n      336‑323 BCE : Imperio de Alejandro Magno\n    section Helenismo y República romana\n      323‑146 BCE : Los reinos helenísticos<br>difunden la cultura griega\n      509‑27 BCE : Expansión de la República romana,<br>Guerras Púnicas\n    section Imperio romano y Antigüedad tardía\n      27 BCE : Establecimiento del Imperio romano<br>(Augusto)\n      1st‑2nd cent CE : Pax Romana\n      313 CE : Edicto de Milán<br>(tolerancia del cristianismo)\n      395 CE : División del Imperio romano\n      476 CE : Caída del Imperio romano de Occidente",
+            "complexity": "high",
+            "tags": [
+                "historia_antigua",
+                "linea_de_tiempo",
+                "edad_del_bronce",
+                "antiguedad_clasica",
+                "imperio_romano",
+                "era_axial",
+                "caida_de_roma"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

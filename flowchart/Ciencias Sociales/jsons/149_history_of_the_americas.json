@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "Historia de las Américas",
+            "category": "Historia",
+            "description": "La historia de las Américas estudia las sociedades, las culturas y las transformaciones de América del Norte y del Sur desde los primeros asentamientos humanos hasta el presente. Este diagrama de flujo describe la lógica de la disciplina: el objetivo es comprender el entrelazamiento de los legados indígenas, las potencias coloniales y las trayectorias poscoloniales en todo el hemisferio. Integra componentes centrales: las grandes zonas civilizatorias (sociedades precolombinas, imperios coloniales, naciones independientes), dominios temáticos clave (colonización y resistencia, esclavitud y trabajo forzado, independencia y construcción del Estado, dependencia económica y desarrollo, movimientos sociales e identidad, y relaciones hemisféricas) y diversas fuentes y métodos (arqueología y cultura material, archivos coloniales y códices indígenas, historia oral, estadísticas y humanidades digitales). Estos se interpretan mediante lentes teóricas (teoría de la dependencia, poscolonialismo, historia atlántica, borderlands, estudios subalternos) y se organizan en torno a un arco histórico: migraciones tempranas y civilizaciones precolombinas → conquista europea y dominio colonial → independencia y formación nacional → revoluciones y cambio social del siglo XX → globalización contemporánea y desafíos. Los conocimientos resultantes iluminan la diversidad cultural, las desigualdades persistentes y los vínculos hemisféricos compartidos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historia de las Américas</b><br>Estudio de las sociedades y transformaciones<br>desde el primer poblamiento hasta el presente]:::title\n    B[<b>OBJETIVO</b><br>Comprender el entrelazamiento de los legados<br>indígenas, las potencias coloniales y<br>las trayectorias poscoloniales]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Grandes zonas y civilizaciones]\n        D1[\"Sociedades precolombinas (maya, azteca, inca, etc.)<br>Imperios coloniales (español, portugués, británico, francés)<br>Naciones independientes (EE. UU., Canadá, Estados latinoamericanos)\"]\n    end\n    subgraph E[Temas clave]\n        E1[Colonización y resistencia<br>Esclavitud y trabajo forzado<br>Independencia y construcción del Estado<br>Dependencia económica y desarrollo<br>Movimientos sociales e identidad<br>Relaciones hemisféricas]\n    end\n    subgraph F[Fuentes y métodos]\n        F1[Arqueología y cultura material<br>Archivos coloniales y códices indígenas<br>Historia oral y testimonios<br>Estadísticas y humanidades digitales]\n    end\n    G[<b>LENTES TEÓRICAS</b><br>Teoría de la dependencia, poscolonialismo,<br>historia atlántica, borderlands,<br>estudios subalternos]:::theory\n    H[<b>ARCO HISTÓRICO</b><br>Migraciones tempranas y civilizaciones<br>precolombinas → Conquista y dominio<br>colonial → Independencia y construcción nacional<br>→ Revoluciones y cambio social<br>del s. XX → Globalización contemporánea<br>y desafíos]:::process\n    I[<b>RESULTADOS</b><br>Diversidad cultural, desigualdades<br>persistentes, vínculos hemisféricos<br>compartidos]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el análisis de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|interpretado mediante| G\n    G -->|organizado en torno a| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historia_de_las_americas",
+                "precolombino",
+                "colonialismo",
+                "independencia",
+                "esclavitud",
+                "historia_atlantica",
+                "teoria_de_la_dependencia",
+                "movimientos_sociales"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

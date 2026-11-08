@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Ingeniería de materiales",
+            "category": "Ingeniería",
+            "description": "La ingeniería de materiales tiene raíces antiguas: la Edad de Piedra, la Edad del Bronce y la Edad del Hierro marcaron grandes desarrollos de materiales en la civilización humana. La Revolución Industrial (siglos XVIII-XIX) trajo avances en la producción de acero (proceso Bessemer 1856) y la comprensión de las propiedades de los materiales. A principios del siglo XX se introdujeron el acero inoxidable (1913), las aleaciones de aluminio y el desarrollo temprano de polímeros (baquelita 1907). Las décadas de 1940-50 presenciaron la producción de titanio, la proliferación de polímeros sintéticos (nailon, poliéster) y los materiales semiconductores para la electrónica. La década de 1960 trajo el desarrollo de materiales compuestos para el aeroespacio y el comienzo de la ciencia de materiales como disciplina distinta. La década de 1970 introdujo las cerámicas avanzadas, los aceros de alta resistencia y los polímeros de ingeniería. Las décadas de 1980-90 vieron el surgimiento de los nanomateriales, las aleaciones con memoria de forma y el descubrimiento de superconductores de alta temperatura. La década de 2000 avanzó con los nanotubos de carbono, el aislamiento del grafeno (2004) y el desarrollo de metamateriales. Las de 2010-2020 continúan con materiales 2D, materiales autorreparables, materiales programables, materiales para fabricación aditiva, materiales biomiméticos y alternativas sostenibles de materiales como fronteras de investigación.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería de materiales</b>\n    \n    section Era antigua\n        Ancient Times : Edad de Piedra, Edad del Bronce\n                      : Desarrollos de la Edad del Hierro\n        1700s-1800s : Revolución Industrial\n                    : Proceso Bessemer (1856)\n    \n    section Materiales modernos\n        Early 1900s : Acero inoxidable (1913)\n                    : Aleaciones de aluminio\n                    : Baquelita (1907)\n        1940s-50s : Producción de titanio\n                  : Polímeros sintéticos\n                  : Materiales semiconductores\n    \n    section Era de la ciencia de materiales\n        1960s : Materiales compuestos\n              : Aplicaciones aeroespaciales\n              : Formalización de la disciplina\n        1970s : Cerámicas avanzadas\n              : Aceros de alta resistencia\n              : Polímeros de ingeniería\n    \n    section Era de la nanotecnología\n        1980s-90s : Surgen los nanomateriales\n                  : Aleaciones con memoria de forma\n                  : Superconductores\n        2000s : Nanotubos de carbono\n              : Grafeno aislado (2004)\n              : Metamateriales\n    \n    section Era avanzada\n        2010s-2020s : Materiales 2D\n                    : Materiales autorreparables\n                    : Materiales programables\n                    : Materiales de FA\n                    : Materiales biomiméticos\n                    : Alternativas sostenibles",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_de_materiales",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

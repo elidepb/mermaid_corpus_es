@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "261",
+            "topic": "Gestión de operaciones",
+            "category": "Negocios",
+            "description": "La gestión de operaciones comprende dominios interconectados que optimizan la producción y la prestación de servicios. La gestión de procesos diseña flujos de trabajo eficientes mediante métodos como el mapeo de procesos y el análisis de cuellos de botella. La gestión de la calidad implementa sistemas como TQM, normas ISO y control estadístico de procesos. Las operaciones de la cadena de suministro coordinan compras, logística, gestión de proveedores y redes de distribución. La planificación de capacidad equilibra la demanda con los recursos disponibles mediante pronósticos y decisiones sobre instalaciones. La manufactura esbelta elimina el desperdicio mediante producción justo a tiempo y mapeo de la cadena de valor. La gestión de proyectos aplica metodologías para ejecutar iniciativas a tiempo y dentro del presupuesto. La analítica de operaciones usa datos para impulsar la mejora del desempeño y el mantenimiento predictivo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>operaciones</b>))\n    <b>Gestión de procesos</b>\n      Diseño de flujos de trabajo\n      Mapeo de procesos\n      Análisis de cuellos de botella\n      Optimización de eficiencia\n      Estandarización\n    <b>Gestión de la calidad</b>\n      Principios TQM\n      Normas ISO\n      Seis Sigma\n      Control estadístico\n      Prevención de defectos\n    <b>Cadena de suministro</b>\n      Compras\n      Coordinación logística\n      Gestión de proveedores\n      Redes de distribución\n      Mitigación de riesgos\n    <b>Planificación de capacidad</b>\n      Pronóstico de demanda\n      Asignación de recursos\n      Decisiones sobre instalaciones\n      Tasas de utilización\n    <b>Manufactura esbelta</b>\n      Eliminación de desperdicios\n      Producción JIT\n      Mapeo de la cadena de valor\n      Mejora Kaizen\n    <b>Gestión de proyectos</b>\n      Metodologías ágiles\n      Planificación de cronogramas\n      Control presupuestario\n      Gestión de riesgos\n    <b>Analítica de operaciones</b>\n      Métricas de desempeño\n      Visualización de datos\n      Mantenimiento predictivo\n      Modelos de optimización",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_operaciones",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

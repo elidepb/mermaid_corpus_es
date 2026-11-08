@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "143",
+            "topic": "Publicidad",
+            "category": "Empresa y comunicación",
+            "description": "La publicidad es la práctica de elaborar y difundir mensajes persuasivos para promover productos, servicios o ideas. Este diagrama de flujo ilustra su proceso sistemático: el objetivo último es construir notoriedad de marca, moldear las actitudes del consumidor e impulsar la conducta de compra. Integra componentes centrales: estrategia y planificación (definición de objetivos, público objetivo, presupuesto y brief creativo), desarrollo creativo (redacción, dirección de arte, producción visual/sonora, branding) y planificación y compra de medios (selección de canales —TV, prensa, digital, social, exterior—; programática; programación). Estos se guían por fundamentos teóricos (AIDA, jerarquía de efectos, modelo de probabilidad de elaboración, principios de persuasión) y se despliegan en un ciclo de campaña (investigación → estrategia → creativo → medios → lanzamiento → evaluar → retroalimentación). Los resultados incluyen recuerdo de marca, engagement, ventas y lealtad a largo plazo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Publicidad</b><br>Elaboración y difusión de mensajes<br>persuasivos hacia públicos objetivo]:::title\n    B[<b>OBJETIVO</b><br>Construir notoriedad, moldear actitudes<br>e impulsar la conducta de compra]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Estrategia y planificación]\n        D1[\"Definición de objetivos (notoriedad, conversión)<br>Definición del público objetivo<br>Asignación de presupuesto<br>Elaboración del brief creativo\"]\n    end\n    subgraph E[Desarrollo creativo]\n        E1[Redacción y mensajería<br>Dirección de arte y diseño visual<br>Producción de audio y vídeo<br>Integración de la identidad de marca]\n    end\n    subgraph F[Planificación y compra de medios]\n        F1[\"Selección de canales (TV, radio, prensa,<br>exterior, digital, social, búsqueda)<br>Programática y pujas en tiempo real<br>Alcance, frecuencia, programación\"]\n    end\n    G[<b>FUNDAMENTOS TEÓRICOS</b><br>Modelo AIDA, jerarquía de efectos,<br>modelo de probabilidad de elaboración,<br>principios de persuasión,<br>posicionamiento de marca]:::theory\n    H[<b>CICLO DE CAMPAÑA</b><br>Investigación → Estrategia → Creativo →<br>Medios → Lanzamiento → Evaluar → Retroalimentación]:::process\n    I[<b>RESULTADOS</b><br>Recuerdo de marca, engagement,<br>conversiones, lealtad del cliente]:::outcome\n\n    A -->|pretende| B\n    B -->|requiere| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|fundamentado en| G\n    G -->|impulsa| H\n    H -->|logra| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "publicidad",
+                "marketing",
+                "estrategia_creativa",
+                "planificacion_de_medios",
+                "AIDA",
+                "persuasion",
+                "publicidad_digital"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomía",
+            "category": "Economía",
+            "description": "La evolución de la microeconomía abarca desde las ideas clásicas de Adam Smith (1776) y Ricardo, pasando por la revolución marginalista de la década de 1870 (Jevons, Menger, Walras) y los Principios de Marshall (1890). La teoría de juegos (von Neumann y Morgenstern, 1944; Nash, 1950) introdujo la interacción estratégica, mientras que la economía de la información (Akerlof, 1970) explicó las asimetrías de mercado. La economía del comportamiento (Kahneman y Tversky, 1979) cuestionó la elección racional y enriqueció la disciplina con realismo psicológico.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la microeconomía\n    1776 : La riqueza de las naciones de Adam Smith<br>Economía clásica\n    1817 : Principios de Ricardo<br>Ventaja comparativa\n    1870s : Revolución marginalista<br>Jevons, Menger, Walras\n    1890 : Principios de Marshall<br>Síntesis neoclásica\n    1944 : von Neumann y Morgenstern<br>Teoría de juegos\n    1950 : Equilibrio de Nash\n    1970 : El mercado de los limones de Akerlof<br>Asimetría de información\n    1979 : Kahneman y Tversky<br>Teoría de las perspectivas, economía del comportamiento",
+            "complexity": "medium",
+            "tags": [
+                "microeconomia",
+                "historia_de_la_economia",
+                "revolucion_marginalista",
+                "teoria_de_juegos",
+                "economia_del_comportamiento"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

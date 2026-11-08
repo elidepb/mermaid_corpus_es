@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Gestión de recursos humanos",
+            "category": "Negocios",
+            "description": "La gestión de recursos humanos abarca funciones especializadas que, en conjunto, optimizan el capital humano. La captación de talento busca y selecciona candidatos mediante reclutamiento estratégico y entrevistas. El aprendizaje y el desarrollo potencian las habilidades a través de programas de capacitación, desarrollo de carrera y coaching de liderazgo. La gestión de la compensación diseña estructuras salariales, incentivos y paquetes integrales de beneficios. Las relaciones laborales fomentan una cultura laboral positiva mediante la resolución de conflictos e iniciativas de compromiso. La analítica de RR. HH. aprovecha los datos para informar decisiones sobre la fuerza laboral y predecir tendencias. El cumplimiento asegura la adhesión a las leyes laborales y a las normas de seguridad en el trabajo. Los RR. HH. estratégicos alinean las prácticas de personas con los objetivos del negocio.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>recursos humanos</b>))\n    <b>Captación de talento</b>\n      Reclutamiento estratégico\n      Búsqueda de candidatos\n      Proceso de entrevista\n      Criterios de selección\n      Marca empleadora\n    <b>Aprendizaje y desarrollo</b>\n      Programas de capacitación\n      Desarrollo de carrera\n      Coaching de liderazgo\n      Evaluación de habilidades\n      Planificación de sucesión\n    <b>Compensación</b>\n      Estructuras salariales\n      Programas de incentivos\n      Paquetes de beneficios\n      Recompensas totales\n      Análisis de mercado\n    <b>Relaciones laborales</b>\n      Cultura laboral\n      Resolución de conflictos\n      Encuestas de compromiso\n      Programas de reconocimiento\n      Comunicación\n    <b>Analítica de RR. HH.</b>\n      Métricas de fuerza laboral\n      Análisis de rotación\n      Modelado predictivo\n      Decisiones basadas en datos\n    <b>Cumplimiento</b>\n      Leyes laborales\n      Seguridad en el trabajo\n      Igualdad de oportunidades\n      Aplicación de políticas\n    <b>RR. HH. estratégicos</b>\n      Alineación con el negocio\n      Diseño organizacional\n      Gestión del cambio\n      Planificación de la fuerza laboral",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_recursos_humanos",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

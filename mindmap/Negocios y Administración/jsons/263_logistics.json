@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logística",
+            "category": "Negocios",
+            "description": "La logística comprende funciones operativas especializadas que aseguran el flujo continuo de productos. La gestión del transporte selecciona transportistas, optimiza rutas, consolida envíos y negocia tarifas de flete en múltiples modos. Las operaciones de almacén diseñan layouts de instalaciones, implementan estrategias de preparación de pedidos, gestionan el cross-docking y mantienen la exactitud del inventario. La planificación de la distribución establece configuraciones de red, determina frecuencias de envío y equilibra costos con niveles de servicio. El manejo de materiales emplea tecnologías de automatización, transportadores, robótica y sistemas de empaque. Los proveedores de logística de terceros ofrecen experiencia subcontratada en servicios especializados. Los sistemas tecnológicos incluyen software de gestión de almacenes, plataformas de gestión del transporte, rastreo GPS y clasificación automatizada. Aduanas y cumplimiento aseguran la adhesión normativa de los envíos internacionales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Logística</b>))\n    <b>Transporte</b>\n      Selección de transportistas\n      Optimización de rutas\n      Consolidación de cargas\n      Negociación de fletes\n      Envío multimodal\n    <b>Almacenamiento</b>\n      Disposición de instalaciones\n      Estrategias de preparación de pedidos\n      Cross-docking\n      Exactitud de inventario\n      Utilización del espacio\n    <b>Distribución</b>\n      Configuración de la red\n      Frecuencia de envíos\n      Equilibrio del nivel de servicio\n      Gestión de hubs\n    <b>Manejo de materiales</b>\n      Sistemas de automatización\n      Tecnología de transportadores\n      Integración de robótica\n      Soluciones de empaque\n    <b>Servicios 3PL</b>\n      Operaciones subcontratadas\n      Experiencia especializada\n      Soluciones escalables\n      Servicios de valor añadido\n    <b>Sistemas tecnológicos</b>\n      Plataformas WMS\n      Software TMS\n      Rastreo GPS\n      Clasificación automatizada\n    <b>Aduanas y cumplimiento</b>\n      Adhesión normativa\n      Documentación\n      Acuerdos comerciales\n      Normas de importación y exportación",
+            "complexity": "high",
+            "tags": [
+                "logistica",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Estudios urbanos",
+            "category": "Ciencias sociales interdisciplinarias",
+            "description": "Los estudios urbanos son un campo interdisciplinario que investiga las dinámicas sociales, espaciales, económicas y políticas de las ciudades. Este diagrama de flujo traza su lógica analítica: el objetivo último es comprender la vida urbana, las desigualdades y la búsqueda de ciudades justas y sostenibles. Integra conceptos fundacionales (urbanización, urbanismo, región metropolitana, gentrificación, justicia espacial, el derecho a la ciudad) con marcos teóricos principales: la Escuela de Chicago (ecología urbana), la economía política (Lefebvre, Harvey), el urbanismo feminista y poscolonial (interseccionalidad, informalidad) y los enfoques de ensamblaje y actor-red. Estos se aplican a dominios clave de análisis (planificación y gobernanza urbanas, vivienda y barrios, movilidad e infraestructura, ecología urbana y medio ambiente, cultura y vida cotidiana, inmigración y diversidad). Métodos diversos —cualitativos (etnografía, entrevistas), cuantitativos (SIG, estadística espacial), investigación de archivo e investigación-acción participativa— sustentan el proceso de investigación. El ciclo crítico discurre desde el análisis de las estructuras espaciales → la crítica del poder y la desigualdad → la visión de futuros urbanos alternativos → las intervenciones de política y planificación. Los resultados incluyen un desarrollo equitativo, ciudades sostenibles y resilientes, el empoderamiento comunitario y un conocimiento urbano más profundo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Estudios urbanos</b><br>Estudio interdisciplinario de las ciudades<br>y de la vida urbana]:::title\n    B[<b>OBJETIVO</b><br>Comprender las dinámicas urbanas,<br>las desigualdades y la búsqueda<br>de ciudades justas y sostenibles]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Conceptos fundacionales]\n        D1[Urbanización y urbanismo<br>Región metropolitana<br>Gentrificación y desplazamiento<br>Justicia espacial<br>El derecho a la ciudad]\n    end\n    subgraph E[Marcos teóricos]\n        E1[\"Escuela de Chicago (ecología urbana)<br>Economía política (Lefebvre, Harvey)<br>Urbanismo feminista y poscolonial<br>Teoría del ensamblaje y del actor-red\"]\n    end\n    subgraph F[Dominios de análisis]\n        F1[Planificación y gobernanza urbanas<br>Vivienda y barrios<br>Movilidad e infraestructura<br>Ecología urbana y medio ambiente<br>Cultura y vida cotidiana<br>Inmigración y diversidad]\n    end\n    G[\"<b>MÉTODOS</b><br>Cualitativos (etnografía, entrevistas)<br>Cuantitativos (SIG, estadística espacial)<br>Investigación de archivo<br>Investigación-acción participativa\"]:::methods\n    H[<b>CICLO CRÍTICO</b><br>Analizar las estructuras espaciales →<br>Criticar el poder y la desigualdad →<br>Visión de futuros alternativos →<br>Intervenciones de política y planificación]:::process\n    I[<b>RESULTADOS</b><br>Desarrollo equitativo, ciudades<br>sostenibles, empoderamiento comunitario,<br>conocimiento urbano más profundo]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|investigado mediante| G\n    G -->|impulsa| H\n    H -->|logra| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "estudios_urbanos",
+                "ciudades",
+                "gentrificacion",
+                "justicia_espacial",
+                "derecho_a_la_ciudad",
+                "planificacion_urbana",
+                "sostenibilidad"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

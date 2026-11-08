@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "094",
+            "topic": "Topografía",
+            "category": "Ingeniería",
+            "description": "La topografía evolucionó de las técnicas antiguas de medición a los sistemas modernos de posicionamiento por satélite que sustentan el desarrollo de infraestructura mundial. Las civilizaciones antiguas emplearon la topografía para la división de tierras y la construcción, con la alineación de las pirámides egipcias y las redes de calzadas romanas. El teorema de Pitágoras y los principios geométricos formalizaron las mediciones. El teodolito inventado en el siglo XVI permitió la medición precisa de ángulos. Las redes de triangulación establecidas por Snellius (1615) aportaron marcos precisos de cartografía a gran escala. El telescopio de tránsito mejoró las mediciones angulares (siglo XVIII). El US Public Land Survey System (1785) creó una división sistemática de tierras. Los instrumentos de nivelación precisa se desarrollaron en el siglo XIX para la construcción de canales y ferrocarriles. La fotogrametría surgió a finales del siglo XIX extrayendo mediciones de fotografías. La medición electrónica de distancias revolucionó la topografía (década de 1950) sustituyendo las mediciones con cinta. Los primeros satélites GPS se lanzaron (1978) iniciando el posicionamiento espacial. Las estaciones totales integraron MED y medición de ángulos (década de 1980). El GPS diferencial logró precisión centimétrica (década de 1990). El GPS cinemático en tiempo real permitió el posicionamiento instantáneo. La tecnología LiDAR aportó cartografía rápida y detallada del terreno (década de 2000). Los vehículos aéreos no tripulados democratizaron la topografía aérea. El modelado de información de edificios integró datos topográficos con el diseño. La topografía actual emplea sistemas robóticos autónomos, constelaciones de satélites como Galileo y BeiDou que complementan el GPS, aprendizaje automático para el procesamiento de nubes de puntos y realidad aumentada para la visualización de campo.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la topografía\n    Ancient Times : Medición básica de tierras\n                  : Técnicas egipcias y romanas\n    1500s : Invención del teodolito\n          : Medición precisa de ángulos\n    1615 : Triangulación de Snellius\n         : Redes de cartografía a gran escala\n    1700s : Telescopio de tránsito\n          : Mediciones angulares mejoradas\n    1785 : US Public Land Survey\n         : División sistemática de tierras\n    1800s : Nivelación precisa\n          : Construcción de canales y ferrocarriles\n    Late 1800s : Fotogrametría\n               : Extracción de mediciones fotográficas\n    1950s : Medición electrónica de distancias\n          : La MED sustituye a la cinta\n    1978 : Lanzamiento de satélites GPS\n         : Comienza el posicionamiento espacial\n    1980s : Estaciones totales\n          : MED y ángulos integrados\n    1990s : GPS diferencial\n          : Precisión centimétrica lograda\n    2000s : Tecnología LiDAR\n          : Cartografía rápida del terreno\n    2020s : Sistemas autónomos y AA\n          : Topografía robótica y visualización RA",
+            "complexity": "high",
+            "tags": [
+                "topografia",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

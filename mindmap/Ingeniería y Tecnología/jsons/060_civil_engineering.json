@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Ingeniería civil",
+            "category": "Ingeniería",
+            "description": "La ingeniería civil abarca especializaciones y áreas técnicas diversas. La ingeniería estructural cubre estructuras de acero, diseño de hormigón, construcción en madera y análisis de cargas. La ingeniería del transporte incluye diseño de carreteras, ingeniería de tráfico, diseño de pavimentos y sistemas de tránsito. Los recursos hídricos involucran hidráulica, hidrología, sistemas de drenaje, riego e ingeniería costera. La ingeniería geotécnica aborda la investigación de suelos, el diseño de cimentaciones (superficiales y profundas), muros de contención y estabilidad de taludes. La ingeniería ambiental se centra en el tratamiento de agua, sistemas de aguas residuales, gestión de residuos sólidos y calidad del aire. La gestión de la construcción abarca planificación de proyectos, programación (CPM, PERT), estimación de costes y control de calidad. Las herramientas clave incluyen software CAD (AutoCAD Civil 3D), programas de análisis estructural (SAP2000, ETABS) y BIM (modelado de información de construcción). Los materiales utilizados cubren hormigón, acero, asfalto, madera y geosintéticos. Las responsabilidades profesionales incluyen cumplimiento de seguridad, códigos de edificación, prácticas de sostenibilidad y consideraciones de bienestar público.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>civil</b>))\n    <b>Ingeniería estructural</b>\n      Estructuras de acero\n      Diseño de hormigón\n      Construcción en madera\n      Análisis de cargas\n    <b>Transporte</b>\n      Diseño de carreteras\n      Ingeniería de tráfico\n      Diseño de pavimentos\n      Sistemas de tránsito\n      Planificación de aeropuertos\n    <b>Recursos hídricos</b>\n      Hidráulica\n      Hidrología\n      Sistemas de drenaje\n      Riego\n      Ingeniería costera\n    <b>Geotecnia</b>\n      Investigación de suelos\n      Diseño de cimentaciones\n        Cimentaciones superficiales\n        Cimentaciones profundas\n      Muros de contención\n      Estabilidad de taludes\n    <b>Ambiental</b>\n      Tratamiento de agua\n      Sistemas de aguas residuales\n      Residuos sólidos\n      Calidad del aire\n    <b>Gestión de la construcción</b>\n      Planificación de proyectos\n      Programación\n        CPM\n        PERT\n      Estimación de costes\n      Control de calidad\n    <b>Herramientas y software</b>\n      AutoCAD Civil 3D\n      SAP2000\n      ETABS\n      BIM\n    <b>Materiales</b>\n      Hormigón\n      Acero\n      Asfalto\n      Madera\n      Geosintéticos\n    <b>Deberes profesionales</b>\n      Cumplimiento de seguridad\n      Códigos de edificación\n      Sostenibilidad\n      Bienestar público",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_civil",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

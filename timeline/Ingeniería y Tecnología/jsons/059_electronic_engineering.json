@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Ingeniería electrónica",
+            "category": "Ingeniería",
+            "description": "La ingeniería electrónica surgió a principios del siglo XX con el desarrollo del tubo de vacío (triodo de Lee De Forest, 1906) que permitió la amplificación y la comunicación por radio. Las décadas de 1920-30 vieron la expansión de la radiodifusión y el desarrollo temprano de la televisión. 1947 revolucionó el campo con la invención del transistor en Bell Labs (Bardeen, Brattain, Shockley), que sustituyó a los tubos de vacío. La década de 1950 trajo las radios de transistores y los primeros ordenadores. 1958 marcó la invención del circuito integrado (Jack Kilby en Texas Instruments, Robert Noyce en Fairchild), lanzando la era de la microelectrónica. Las décadas de 1960-70 presenciaron la ley de Moore en acción, el desarrollo de microprocesadores (Intel 4004 en 1971) y la proliferación de la electrónica digital. Las de 1980-90 avanzaron con los ordenadores personales, los teléfonos móviles y la tecnología de montaje superficial. La década de 2000 trajo los teléfonos inteligentes, los dispositivos IoT y la nanotecnología. Las de 2010-2020 continúan con la electrónica vestible, la tecnología 5G, los componentes de computación cuántica y las arquitecturas de chips optimizadas por IA que se vuelven estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería electrónica</b>\n    \n    section Era del tubo de vacío\n        1906  : Triodo de Lee De Forest\n              : Amplificación habilitada\n        1920s-30s : Radiodifusión\n                  : Televisión temprana\n    \n    section Revolución del transistor\n        1947  : Invención del transistor\n              : Avance de Bell Labs\n        1950s : Radios de transistores\n              : Primeros ordenadores\n    \n    section Circuitos integrados\n        1958  : Invención del CI\n              : Kilby y Noyce\n        1960s-70s : Era de la ley de Moore\n                  : Surgen los microprocesadores\n        1971  : Intel 4004\n              : Primer microprocesador\n    \n    section Era digital\n        1980s-90s : Ordenadores personales\n                  : Teléfonos móviles\n                  : Tecnología SMT\n    \n    section Electrónica moderna\n        2000s : Revolución de los teléfonos inteligentes\n              : Dispositivos IoT\n              : Nanotecnología\n        2010s-2020s : Electrónica vestible\n                    : Tecnología 5G\n                    : Componentes cuánticos\n                    : Chips optimizados por IA",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_electronica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

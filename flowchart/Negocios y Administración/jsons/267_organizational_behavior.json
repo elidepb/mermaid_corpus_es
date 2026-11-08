@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "267",
+            "topic": "Comportamiento organizacional",
+            "category": "Negocios",
+            "description": "El comportamiento organizacional es el estudio sistemático de cómo los individuos, los grupos y las estructuras afectan y son afectados por la conducta dentro de las organizaciones para mejorar la eficacia. Comienza con el análisis individual, examinando personalidad, percepción, motivación y actitudes que impulsan las acciones de los empleados. La dinámica de grupos explora la formación de equipos, los patrones de comunicación, la resolución de conflictos y los procesos colaborativos. El análisis de la estructura organizacional evalúa jerarquías, cultura, distribución del poder y sistemas de toma de decisiones. La investigación del liderazgo estudia estilos, mecanismos de influencia y enfoques de gestión del cambio. Los resultados de desempeño miden productividad, satisfacción y compromiso. Las estrategias de intervención implementan formación, desarrollo y rediseño organizacional. El objetivo es comprender y optimizar el comportamiento humano para mejorar el desempeño organizacional, el bienestar de los empleados y la adaptabilidad.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Comportamiento organizacional</b><br>Estudio del comportamiento dentro<br>de las organizaciones]:::title\n    B[<b>META PRINCIPAL</b><br>Optimizar el comportamiento humano<br>para el desempeño]:::goal\n    C[<b>NIVELES DE ANÁLISIS DEL CO</b>]:::levels\n    \n    subgraph D[Nivel individual]\n        D1[Personalidad, motivación<br>percepción y actitudes]\n    end\n    \n    subgraph E[Dinámica de grupos]\n        E1[Formación de equipos,<br>comunicación y conflicto]\n    end\n    \n    subgraph F[Estructura organizacional]\n        F1[Jerarquía, cultura<br>y sistemas de decisión]\n    end\n    \n    subgraph G[Liderazgo]\n        G1[Estilos, influencia<br>y gestión del cambio]\n    end\n    \n    subgraph H[Resultados de desempeño]\n        H1[Productividad, satisfacción<br>y compromiso]\n    end\n    \n    subgraph I[Estrategias de intervención]\n        I1[Formación, desarrollo<br>y rediseño]\n    end\n    \n    J[<b>RESULTADO</b><br>Mayor desempeño,<br>bienestar y adaptabilidad]:::outcome\n    \n    A -->|busca| B\n    B -->|analiza| C\n    C -->|nivel 1| D\n    C -->|nivel 2| E\n    C -->|nivel 3| F\n    D & E & F -->|moldeados por| G\n    G -->|produce| H\n    H -->|informa| I\n    I -->|logra| J\n    J -.->|retroalimentación continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef levels fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "comportamiento_organizacional",
+                "gestion",
+                "psicologia",
+                "liderazgo",
+                "cultura"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

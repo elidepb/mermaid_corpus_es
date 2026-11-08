@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiografía",
+            "category": "Historia",
+            "description": "Este mapa mental organiza el campo de la Historiografía en torno a su concepto central. Las ramas principales incluyen Conceptos clave (objetividad, sesgo, periodización, narrativa, memoria, historicismo, presentismo), Grandes escuelas de pensamiento (empirismo rankeano, historiografía marxista, Escuela de los Annales, nueva historia social, giro cultural, estudios poscoloniales, historia feminista y de género, historia global y digital), Métodos (crítica de fuentes, investigación de archivo, análisis cuantitativo, historia oral, análisis del discurso, prosopografía), Pensadores clave (Heródoto, Tucídides, Sima Qian, Leopold von Ranke, Karl Marx, Marc Bloch, Fernand Braudel, E.H. Carr, Michel Foucault, Hayden White, Joan Scott) y Problemas centrales (hecho vs. interpretación, causalidad, estructura vs. agencia, cánones y silencios, el rol del historiador). El mapa captura las dimensiones filosófica y práctica de la escritura de la historia.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historiografía))\n    Conceptos_Clave\n      Objetividad\n      Sesgo\n      Periodización\n      Narrativa\n      Memoria\n      Historicismo\n      Presentismo\n    Grandes_Escuelas\n      Empirismo_Rankeano\n      Historiografía_Marxista\n      Escuela_de_los_Annales\n      Nueva_Historia_Social\n      Giro_Cultural\n      Estudios_Poscoloniales\n      Historia_Feminista_y_de_Género\n      Historia_Global_y_Digital\n    Métodos\n      Crítica_de_Fuentes\n      Investigación_de_Archivo\n      Análisis_Cuantitativo\n      Historia_Oral\n      Análisis_del_Discurso\n      Prosopografía\n    Pensadores_Clave\n      Heródoto\n      Tucídides\n      Sima_Qian\n      Leopold_von_Ranke\n      Karl_Marx\n      Marc_Bloch\n      Fernand_Braudel\n      E.H._Carr\n      Michel_Foucault\n      Hayden_White\n      Joan_Scott\n    Problemas_Centrales\n      Hecho_vs_Interpretación\n      Causalidad\n      Estructura_vs_Agencia\n      Cánones_y_Silencios\n      Rol_del_Historiador",
+            "complexity": "high",
+            "tags": ["historiografía", "mapa_mental", "escuelas", "métodos", "pensadores", "filosofía_de_la_historia", "narrativa"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "089",
+            "topic": "Ingeniería acústica",
+            "category": "Ingeniería",
+            "description": "La ingeniería acústica evolucionó de la intuición arquitectónica antigua a una ciencia cuantitativa que permite un control acústico preciso. Los antiguos griegos diseñaron anfiteatros con acústica notable mediante observación empírica (500 a. C.). Marin Mersenne estudió las cuerdas vibrantes estableciendo las relaciones frecuencia-tono (1636). Ernst Chladni visualizó patrones de vibración usando arena sobre placas (1787). Hermann von Helmholtz explicó la resonancia y el timbre en On the Sensations of Tone (1863). Wallace Clement Sabine fundó la acústica arquitectónica derivando la fórmula de reverberación (1900) que permitió el diseño científico de salas. La invención del teléfono (1876) y del fonógrafo (1877) impulsó el desarrollo electroacústico. Los instrumentos de medición acústica se estandarizaron a principios del siglo XX. Los sistemas de refuerzo sonoro surgieron para recintos de gran aforo (décadas de 1920-1930). Los coeficientes de absorción acústica se estandarizaron permitiendo la selección de materiales (década de 1930). El control del ruido se volvió prioritario durante la II Guerra Mundial para aplicaciones militares. El libro de texto Acoustics de Leo Beranek (1954) codificó los principios de ingeniería. La acústica de salas de conciertos avanzó con la Ópera de Sídney (1973) y otros recintos icónicos. El modelado por computadora revolucionó la predicción acústica (décadas de 1980-1990) usando métodos de elementos finitos y trazado de rayos. La cancelación activa de ruido se comercializó en auriculares (décadas de 1990-2000). Las técnicas de auralización permitieron experiencias acústicas virtuales. La ingeniería acústica actual integra métodos computacionales, metamateriales con propiedades exóticas, aprendizaje automático para la optimización y tecnologías de audio espacial inmersivo.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería acústica\n    500 BCE : Anfiteatros griegos\n            : Diseño acústico empírico\n    1636 : Estudios de cuerdas de Mersenne\n         : Relaciones frecuencia-tono\n    1787 : Patrones de vibración de Chladni\n         : Técnica de visualización con arena\n    1863 : Teoría de la resonancia de Helmholtz\n         : Explicación del timbre y el tono\n    1900 : Fórmula de reverberación de Sabine\n         : Fundación de la acústica arquitectónica\n    1876-1877 : Teléfono y fonógrafo\n              : Desarrollo electroacústico\n    1920s-1930s : Refuerzo sonoro\n                : Sistemas para grandes recintos\n    1930s : Estandarización de la absorción\n          : Selección de materiales habilitada\n    1954 : Acoustics de Beranek\n         : Principios de ingeniería codificados\n    1973 : Ópera de Sídney\n         : Acústica avanzada de salas\n    1980s-1990s : Modelado por computadora\n                : Predicción por MEF y trazado de rayos\n    1990s-2000s : Cancelación activa de ruido\n                : Auriculares comerciales\n    2020s : Metamateriales y AA\n          : Propiedades exóticas y optimización",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_acustica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

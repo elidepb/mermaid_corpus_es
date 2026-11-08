@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Gestión de marca",
+            "category": "Negocios",
+            "description": "La gestión de marca es el proceso estratégico de construir, mantener y potenciar el capital de marca mediante posicionamiento, mensajería y experiencias del cliente consistentes que crean diferenciación y lealtad. Comienza con el desarrollo de la estrategia de marca, definiendo propósito, valores, personalidad y posicionamiento que diferencian de los competidores y resuenan con las audiencias objetivo. El diseño de la identidad de marca crea elementos visuales y verbales, incluidos logotipos, paletas de color, tipografía, tono de voz y marcos de mensajería. La arquitectura de marca establece relaciones entre marcas madre, submarcas y líneas de producto mediante estructuras de casa de marca, casa de marcas o híbridas. La ejecución del lanzamiento de marca introduce las marcas mediante campañas integradas que coordinan publicidad, relaciones públicas, digital y puntos de contacto experienciales. La gestión de la experiencia de marca asegura una entrega consistente en todas las interacciones con el cliente, incluidos productos, servicios, entornos y comunicaciones. La medición del desempeño de marca sigue notoriedad, percepción, preferencia, lealtad y valor financiero mediante estudios de tracking y métricas de capital. La evolución de marca adapta el posicionamiento, refresca la identidad y se extiende a nuevas categorías, protegiendo a la vez el capital central. El objetivo es crear asociaciones de marca fuertes que justifiquen precios premium, generen lealtad del cliente y construyan ventaja competitiva sostenible.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de marca</b><br>Construcción y potenciación estratégicas<br>del capital de marca]:::title\n    B[<b>META PRINCIPAL</b><br>Asociaciones fuertes que crean<br>lealtad y precios premium]:::goal\n    C[<b>PROCESO DE MARCA</b>]:::process\n    \n    subgraph D[Estrategia de marca]\n        D1[Definir propósito, valores<br>y posicionamiento]\n    end\n    \n    subgraph E[Diseño de la identidad de marca]\n        E1[Crear elementos visuales<br>y verbales]\n    end\n    \n    subgraph F[Arquitectura de marca]\n        F1[Establecer relaciones entre<br>marca madre y submarcas]\n    end\n    \n    subgraph G[Lanzamiento de marca]\n        G1[Introducir mediante campañas<br>integradas]\n    end\n    \n    subgraph H[Experiencia de marca]\n        H1[Asegurar una entrega consistente<br>en todos los puntos de contacto]\n    end\n    \n    subgraph I[Medición del desempeño]\n        I1[Seguir notoriedad, percepción<br>y métricas de capital]\n    end\n    \n    subgraph J[Evolución de marca]\n        J1[Adaptar el posicionamiento y<br>refrescar la identidad]\n    end\n    \n    K[<b>RESULTADO</b><br>Ventaja competitiva mediante<br>diferenciación de marca]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|refinamiento continuo| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_marca",
+                "marketing",
+                "branding",
+                "capital_de_marca",
+                "posicionamiento_de_marca"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Antropología física",
+            "category": "Antropología",
+            "description": "Esta cronología rastrea la historia de la antropología física. La clasificación temprana comenzó con Linneo (1735) y la tipología racial de Blumenbach (1775). El siglo XIX vio El origen de las especies de Darwin (1859) y El lugar del hombre en la naturaleza de Huxley (1863). A principios del siglo XX llegaron el descubrimiento del Pithecanthropus por Dubois (1891) y el Australopithecus de Dart (1925). A mediados de siglo se produjo la síntesis moderna (Huxley, 1942), los hallazgos de Leakey en Olduvai (1959) y la «nueva antropología física» de Washburn (1951). Las décadas de 1960-70 introdujeron la antropología molecular (Sarich y Wilson, 1967) y la investigación de Goodall sobre el comportamiento de los chimpancés. A finales del siglo XX se refinó la hipótesis «fuera de África» con la Eva mitocondrial (1987). Las últimas décadas han desvelado el genoma neandertal (Pääbo, 2010) y los descubrimientos denisovanos, integrando la genómica y la bioinformática en el estudio de la evolución humana.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la antropología física\n    section Siglos XVIII-XIX\n      1735 : Linneo<br>Systema Naturae (clasifica a los humanos)\n      1775 : Blumenbach<br>Clasificación racial\n      1859 : Darwin<br>El origen de las especies\n      1863 : Huxley<br>El lugar del hombre en la naturaleza\n    section Principios del siglo XX\n      1891 : Dubois<br>Pithecanthropus erectus\n      1925 : Dart<br>Australopithecus africanus\n      1942 : Síntesis moderna<br>(Huxley)\n    section Mediados del siglo XX\n      1951 : Washburn<br>La nueva antropología física\n      1959 : Mary Leakey<br>Zinjanthropus (Olduvai)\n      1960s : Goodall inicia<br>estudios de campo con chimpancés\n    section Era molecular\n      1967 : Sarich y Wilson<br>Reloj molecular\n      1987 : Cann, Stoneking y Wilson<br>Eva mitocondrial\n    section Revolución genómica\n      2010 : Pääbo<br>Borrador del genoma neandertal\n      2010s : Descubrimientos denisovanos<br>genómica antigua\n      2020s : Paleoproteómica<br>e IA en el análisis de fósiles",
+            "complexity": "high",
+            "tags": [
+                "antropologia_fisica",
+                "historia",
+                "linea_de_tiempo",
+                "darwin",
+                "dart",
+                "leakey",
+                "neandertal",
+                "eva_mitocondrial",
+                "adn_antiguo",
+                "paleoantropologia"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

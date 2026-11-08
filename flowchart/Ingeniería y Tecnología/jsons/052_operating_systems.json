@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "052",
+            "topic": "Sistemas operativos",
+            "category": "ciencias_de_la_computacion",
+            "description": "Un sistema operativo (SO) es el software de sistema que gestiona los recursos de hardware y software de una computadora, al tiempo que proporciona servicios comunes para los programas. Actúa como intermediario entre los usuarios y el hardware, manejando funciones centrales: gestión de procesos (planificación y ejecución de programas), gestión de memoria (asignación eficiente de RAM), gestión del sistema de archivos (organización y almacenamiento de datos) y gestión de E/S (control de dispositivos periféricos). El SO asegura la optimización de recursos, la seguridad y la interacción amigable con el usuario a través de interfaces.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sistema operativo</b><br>Software de sistema que gestiona recursos<br>de hardware y software]:::title\n    B[<b>FUNCIÓN PRINCIPAL</b><br>Intermediario entre<br>usuarios y hardware]:::role\n    C[<b>FUNCIONES CENTRALES</b>]:::functions\n    \n    subgraph D[Gestión de procesos]\n        D1[Planificación y<br>ejecución de programas]\n    end\n    \n    subgraph E[Gestión de memoria]\n        E1[Asignación eficiente<br>de RAM]\n    end\n    \n    subgraph F[Gestión del sistema de archivos]\n        F1[Organización y<br>almacenamiento de datos]\n    end\n    \n    subgraph G[Gestión de E/S]\n        G1[Control de<br>dispositivos periféricos]\n    end\n    \n    H[<b>LOGRA</b><br>Optimización de recursos,<br>seguridad e interacción con el usuario]:::goal\n    \n    A -->|actúa como| B\n    B -->|implementa| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|en conjunto entregan| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef role fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef functions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef goal fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "sistemas_operativos",
+                "ciencias_de_la_computacion",
+                "nucleo",
+                "gestion_de_memoria",
+                "gestion_de_procesos"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

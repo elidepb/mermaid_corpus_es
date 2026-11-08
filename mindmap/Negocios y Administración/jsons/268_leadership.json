@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "268",
+            "topic": "Liderazgo",
+            "category": "Negocios",
+            "description": "El liderazgo abarca diversas teorías, estilos y competencias que impulsan el éxito organizacional. Las teorías del liderazgo incluyen enfoques de rasgos que identifican características innatas, modelos conductuales centrados en las acciones, marcos de contingencia que enfatizan la adaptación situacional y perspectivas transformacionales que inspiran el cambio. Los estilos de liderazgo van desde el autocrático y democrático hasta el laissez-faire y las orientaciones de coaching. La inteligencia emocional integra autoconciencia, autorregulación, empatía y habilidades sociales esenciales para la efectividad interpersonal. El pensamiento estratégico implica perspectiva de sistemas, orientación al futuro, reconocimiento de patrones y planificación de escenarios. La excelencia comunicativa emplea escucha activa, narrativa, persuasión y transparencia. El liderazgo ético sostiene la integridad, la rendición de cuentas, la equidad y el coraje moral. El poder y la influencia utilizan autoridad posicional, credibilidad de experto, relaciones de referente y construcción de coaliciones.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Liderazgo</b>))\n    <b>Teorías del liderazgo</b>\n      Enfoque de rasgos\n      Modelos conductuales\n      Marcos de contingencia\n      Teoría transformacional\n      Liderazgo de servicio\n    <b>Estilos de liderazgo</b>\n      Autocrático\n      Democrático\n      Laissez-faire\n      Orientación de coaching\n      Adaptación situacional\n    <b>Inteligencia emocional</b>\n      Autoconciencia\n      Autorregulación\n      Desarrollo de empatía\n      Habilidades sociales\n      Gestión de relaciones\n    <b>Pensamiento estratégico</b>\n      Perspectiva de sistemas\n      Orientación al futuro\n      Reconocimiento de patrones\n      Planificación de escenarios\n      Articulación de la visión\n    <b>Comunicación</b>\n      Escucha activa\n      Narrativa\n      Técnicas de persuasión\n      Transparencia\n      Conciencia no verbal\n    <b>Liderazgo ético</b>\n      Compromiso con la integridad\n      Rendición de cuentas\n      Principios de equidad\n      Coraje moral\n      Alineación de valores\n    <b>Poder e influencia</b>\n      Autoridad posicional\n      Credibilidad de experto\n      Relaciones de referente\n      Construcción de coaliciones\n      Habilidades de negociación\n    <b>Desarrollo de equipos</b>\n      Cultivo del talento\n      Maestría en la delegación\n      Resolución de conflictos\n      Prácticas de empoderamiento",
+            "complexity": "high",
+            "tags": [
+                "liderazgo",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

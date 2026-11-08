@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didáctica",
+            "category": "Educación",
+            "description": "Esta cronología traza los hitos clave en el desarrollo de la didáctica. Comienza con la Didactica Magna de Comenius (1657), que estableció el campo como disciplina sistemática. En el siglo XIX, la Allgemeine Pädagogik de Herbart (1806) introdujo un método de instrucción estructurado. A principios del siglo XX surgieron la educación progresista (Dewey, 1897) y la pedagogía científica de Montessori (1907). A mediados del siglo XX: la taxonomía de objetivos educativos de Bloom (1956) y el surgimiento de la didáctica crítica (Klafki, década de 1960). Las décadas de 1980‑90 trajeron la didáctica constructivista y la integración de modelos de diseño instruccional. La década de 2000 vio la didáctica digital con el aprendizaje en línea y las plataformas. Desde la década de 2010 cobraron protagonismo el aprendizaje personalizado, las aulas invertidas y la didáctica inclusiva.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la didáctica\n    section Primeros fundamentos\n      1657 : Comenius<br>Didactica Magna\n    section Siglo XIX\n      1806 : Herbart<br>Allgemeine Pädagogik\n    section Era progresista\n      1897 : John Dewey<br>Mi credo pedagógico\n      1907 : Maria Montessori<br>Pedagogía científica\n    section Mediados del siglo XX\n      1956 : Benjamin Bloom<br>Taxonomía de objetivos\n      1960s : Wolfgang Klafki<br>Didaktik crítico‑constructiva\n    section Finales del siglo XX\n      1980s‑90s : Didáctica constructivista<br>Modelos de diseño instruccional\n    section Era digital\n      2000s : Surgimiento del e‑learning y la<br>didáctica digital\n    section Contemporáneo\n      2010s‑20s : Aprendizaje personalizado,<br>aula invertida, didáctica<br>inclusiva, IA en la educación",
+            "complexity": "high",
+            "tags": [
+                "didactica",
+                "historia",
+                "linea_de_tiempo",
+                "comenius",
+                "herbart",
+                "dewey",
+                "bloom",
+                "didactica_digital"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

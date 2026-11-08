@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Gestión de riesgos",
+            "category": "Negocios",
+            "description": "La gestión de riesgos es la identificación, evaluación y mitigación sistemáticas de incertidumbres que podrían afectar de forma adversa los objetivos, activos u operaciones de la organización. Comienza con la identificación de riesgos, descubriendo amenazas potenciales en los ámbitos estratégico, operativo, financiero y de cumplimiento mediante talleres, listas de verificación y análisis histórico. La evaluación de riesgos valora la probabilidad y el impacto de los riesgos identificados usando escalas cualitativas o distribuciones de probabilidad cuantitativas. La priorización de riesgos clasifica las amenazas según gravedad, urgencia y apetito de riesgo organizacional para enfocar los recursos de forma eficaz. La planificación de la respuesta al riesgo desarrolla estrategias que incluyen evitación, reducción, transferencia mediante seguros o contratos, y aceptación con planes de contingencia. La implementación de controles despliega medidas preventivas y de detección, incluidas políticas, procedimientos, controles tecnológicos y sistemas de monitoreo. El monitoreo de riesgos sigue indicadores, revisa la eficacia de los controles e identifica amenazas emergentes mediante vigilancia continua. La comunicación y el informe informan a las partes interesadas sobre exposiciones al riesgo, esfuerzos de mitigación y riesgos residuales. El objetivo es minimizar pérdidas, proteger activos, asegurar la continuidad del negocio y permitir la toma de riesgos informada que respalde los objetivos estratégicos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de riesgos</b><br>Identificación y mitigación sistemáticas<br>de incertidumbres]:::title\n    B[<b>META PRINCIPAL</b><br>Minimizar pérdidas y permitir<br>la toma de riesgos informada]:::goal\n    C[<b>PROCESO DE RIESGOS</b>]:::process\n    \n    subgraph D[Identificación de riesgos]\n        D1[Descubrir amenazas en ámbitos<br>estratégicos y operativos]\n    end\n    \n    subgraph E[Evaluación de riesgos]\n        E1[Evaluar probabilidad<br>e impacto]\n    end\n    \n    subgraph F[Priorización de riesgos]\n        F1[Clasificar según gravedad,<br>urgencia y apetito]\n    end\n    \n    subgraph G[Planificación de la respuesta al riesgo]\n        G1[Desarrollar estrategias de evitación, reducción,<br>transferencia y aceptación]\n    end\n    \n    subgraph H[Implementación de controles]\n        H1[Desplegar medidas preventivas<br>y de detección]\n    end\n    \n    subgraph I[Monitoreo de riesgos]\n        I1[Seguir indicadores y<br>amenazas emergentes]\n    end\n    \n    subgraph J[Comunicación e informe]\n        J1[Informar a las partes interesadas sobre<br>exposiciones y mitigación]\n    end\n    \n    K[<b>RESULTADO</b><br>Protección de activos y<br>continuidad del negocio]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|ciclo continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_riesgos",
+                "negocios",
+                "finanzas",
+                "analisis_de_riesgos",
+                "tratamiento_del_riesgo"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

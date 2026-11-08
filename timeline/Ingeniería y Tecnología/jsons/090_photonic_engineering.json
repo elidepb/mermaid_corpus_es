@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "090",
+            "topic": "Ingeniería fotónica",
+            "category": "Ingeniería",
+            "description": "La ingeniería fotónica evolucionó de la óptica básica a sofisticadas tecnologías cuánticas que transforman las comunicaciones y la computación mundiales. La ciencia óptica temprana estudió las propiedades de la luz a través de lentes y prismas (siglos XVII-XIX). El láser inventado por Theodore Maiman (1960) usando cristal de rubí revolucionó la generación de luz coherente. Los láseres de semiconductor desarrollados en la década de 1960 permitieron fuentes compactas y eficientes. Charles Kao propuso las comunicaciones por fibra óptica (1966) demostrando el potencial de transmisión de bajas pérdidas. Los primeros sistemas de fibra óptica se desplegaron comercialmente (1977) iniciando la revolución de las telecomunicaciones. Los amplificadores de fibra dopada con erbio (1987) permitieron la transmisión a larga distancia sin regeneración electrónica. La multiplexación por división de longitud de onda (década de 1990) multiplicó la capacidad de la fibra transmitiendo múltiples canales de forma simultánea. Los sistemas DWDM lograron tasas de transmisión de terabits. Las fibras de cristal fotónico (1996) aportaron un control sin precedentes de la dispersión y la no linealidad. La fotónica de silicio surgió (década de 2000) integrando óptica y electrónica en plataformas CMOS. La tomografía de coherencia óptica avanzó la imagen médica (década de 2000). Los láseres de puntos cuánticos se comercializaron ofreciendo estabilidad térmica. Los circuitos fotónicos integrados miniaturizaron funciones ópticas complejas (década de 2010). La fotónica cuántica demostró operaciones de computación cuántica y comunicaciones seguras. El LiDAR se volvió esencial para los vehículos autónomos. La fotónica actual integra la computación fotónica neuromórfica, peines de frecuencia en chip, fotónica topológica y fuentes de luz cuántica a temperatura ambiente.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería fotónica\n    1600s-1800s : Ciencia óptica temprana\n                : Estudios de lentes y prismas\n    1960 : Invención del láser\n         : Láser de rubí de Maiman\n    1960s : Láseres de semiconductor\n          : Fuentes compactas y eficientes\n    1966 : Propuesta de fibra de Kao\n         : Potencial de transmisión de bajas pérdidas\n    1977 : Primeros sistemas de fibra óptica\n         : Despliegue comercial\n    1987 : Amplificadores dopados con erbio\n         : Transmisión a larga distancia\n    1990s : Multiplexación por división de longitud de onda\n          : Multiplicación de capacidad a terabits\n    1996 : Fibras de cristal fotónico\n         : Avance del control de la dispersión\n    2000s : Fotónica de silicio\n          : Integración en plataforma CMOS\n    2000s : Imagen médica OCT\n          : Diagnósticos avanzados\n    2010s : Circuitos fotónicos integrados\n          : Miniaturización de funciones complejas\n    2020s : Cuántica y neuromórfica\n          : Computación y peines en chip",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_fotonica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

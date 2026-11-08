@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "134",
+            "topic": "Criminología",
+            "category": "Ciencias sociales y derecho",
+            "description": "Esta cronología traza la historia intelectual e institucional de la criminología. Comienza con la escuela clásica (De los delitos y las penas de Beccaria, 1764) y pasa a la escuela positivista con El hombre delincuente de Lombroso (1876). A principios del siglo XX surgieron la Escuela de Chicago y la teoría de la desorganización social (décadas de 1920‑30). Edwin Sutherland introdujo la asociación diferencial (1939) y acuñó el término «delito de cuello blanco». A mediados del siglo XX surgieron la teoría de la tensión (Merton, 1938), la teoría del control social (Hirschi, 1969) y la teoría del etiquetado (Becker, 1963). A finales del siglo XX aparecieron la criminología crítica, el realismo de izquierdas y la criminología feminista. Las décadas recientes enfatizan la criminología del desarrollo y del curso de vida, la criminología ambiental y las políticas basadas en evidencia.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la criminología\n    section Inicios clásicos y positivistas\n      1764 : Beccaria<br>De los delitos y las penas\n      1876 : Lombroso<br>El hombre delincuente\n    section Escuela de Chicago y teorías sociales\n      1920s‑30s : Escuela de Chicago<br>Desorganización social\n      1938 : Robert Merton<br>Teoría de la tensión\n      1939 : Edwin Sutherland<br>Asociación diferencial\n    section Desarrollos de mediados de siglo\n      1963 : Howard Becker<br>Teoría del etiquetado\n      1969 : Travis Hirschi<br>Teoría del control social\n    section Crítica y nuevas direcciones\n      1970s : Criminología crítica<br>Criminología feminista\n      1980s : Realismo de izquierdas<br>Criminología ambiental\n      1990s : Criminología del curso de vida<br>Enfoques del desarrollo\n    section Contemporáneo\n      2000s : Política criminal<br>basada en evidencia\n      2010s‑20s : Cibercriminología,<br>justicia restaurativa,<br>analítica de macrodatos",
+            "complexity": "high",
+            "tags": [
+                "criminologia",
+                "historia",
+                "linea_de_tiempo",
+                "beccaria",
+                "lombroso",
+                "sutherland",
+                "escuela_de_chicago",
+                "teoria_del_etiquetado"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

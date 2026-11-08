@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "154",
+            "topic": "Estudios Urbanos",
+            "category": "Ciencias Sociales Interdisciplinarias",
+            "description": "Este mapa mental organiza el campo de los Estudios Urbanos en torno a su concepto central. Se ramifica en Conceptos centrales (urbanización, gentrificación, justicia espacial, derecho a la ciudad, expansión urbana, segregación, ciudad creativa), Perspectivas teóricas (Escuela de Chicago, economía política, urbanismo feminista, urbanismo poscolonial, teoría del ensamblaje, urbanización planetaria), Métodos de investigación (etnografía, GIS, entrevistas, estadísticas, investigación de archivo, cartografía participativa), Pensadores clave (Georg Simmel, Henri Lefebvre, Jane Jacobs, David Harvey, Saskia Sassen, Manuel Castells) y Temas principales (vivienda y desigualdad, movilidad y transporte, ecología urbana, ciudades inteligentes, migración, espacio público). El mapa ilustra el carácter interdisciplinario y crítico de la indagación urbana.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Estudios Urbanos))\n    Conceptos_Centrales\n      Urbanización\n      Gentrificación\n      Justicia_Espacial\n      Derecho_a_la_Ciudad\n      Expansión_Urbana\n      Segregación\n      Ciudad_Creativa\n    Perspectivas_Teóricas\n      Escuela_de_Chicago\n      Economía_Política\n      Urbanismo_Feminista\n      Urbanismo_Poscolonial\n      Teoría_del_Ensamblaje\n      Urbanización_Planetaria\n    Métodos_de_Investigación\n      Etnografía\n      GIS\n      Entrevistas\n      Estadísticas\n      Investigación_de_Archivo\n      Cartografía_Participativa\n    Pensadores_Clave\n      Georg_Simmel\n      Henri_Lefebvre\n      Jane_Jacobs\n      David_Harvey\n      Saskia_Sassen\n      Manuel_Castells\n    Temas_Principales\n      Vivienda_y_Desigualdad\n      Movilidad_y_Transporte\n      Ecología_Urbana\n      Ciudades_Inteligentes\n      Migración\n      Espacio_Público",
+            "complexity": "high",
+            "tags": ["estudios_urbanos", "mapa_mental", "ciudades", "conceptos", "pensadores", "métodos", "temas"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

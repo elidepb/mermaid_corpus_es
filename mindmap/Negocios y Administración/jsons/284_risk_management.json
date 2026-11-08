@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "284",
+            "topic": "Gestión de riesgos",
+            "category": "Negocios",
+            "description": "La gestión de riesgos abarca diversas categorías de riesgo, metodologías de evaluación y estrategias de mitigación. Las categorías de riesgo incluyen riesgos estratégicos derivados de dinámicas competitivas y cambios de mercado, riesgos operacionales por fallas de proceso y errores humanos, riesgos financieros que incluyen exposiciones de mercado, crédito y liquidez, riesgos de cumplimiento por violaciones regulatorias y riesgos reputacionales que amenazan el valor de la marca. Los métodos de evaluación de riesgos aplican técnicas cualitativas usando matrices de riesgo y juicio experto, enfoques cuantitativos que emplean modelos estadísticos y simulación de Monte Carlo, análisis de escenarios que exploran múltiples futuros y pruebas de estrés que examinan condiciones extremas. Las estrategias de respuesta al riesgo incluyen la evitación que elimina por completo la exposición, la reducción que implementa controles para bajar probabilidad o impacto, la transferencia que desplaza el riesgo mediante seguros o coberturas, y la aceptación que retiene el riesgo con reservas de contingencia. La Gestión Integral de Riesgos integra la supervisión del riesgo en toda la organización mediante marcos de apetito de riesgo, comités de riesgo y liderazgo del director de riesgos. La planificación de continuidad del negocio asegura la resiliencia operativa mediante recuperación ante desastres, gestión de crisis y sistemas de respaldo. Las métricas de riesgo miden el Valor en Riesgo, el déficit esperado, los indicadores clave de riesgo y las distribuciones de pérdidas para cuantificar exposiciones.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>riesgos</b>))\n    <b>Categorías de riesgo</b>\n      Riesgos estratégicos\n      Riesgos operacionales\n      Riesgos financieros\n      Riesgos de cumplimiento\n      Riesgos reputacionales\n      Riesgos de ciberseguridad\n    <b>Métodos de evaluación</b>\n      Análisis cualitativo\n      Modelos cuantitativos\n      Análisis de escenarios\n      Pruebas de estrés\n      Matrices de riesgo\n      Simulación de Monte Carlo\n    <b>Estrategias de respuesta</b>\n      Evitación del riesgo\n      Reducción del riesgo\n      Transferencia del riesgo\n      Aceptación del riesgo\n      Compartir el riesgo\n    <b>Gestión integral de riesgos</b>\n      Marco de apetito de riesgo\n      Gobernanza del riesgo\n      Director de Riesgos\n      Comités de riesgo\n      Supervisión integrada\n    <b>Continuidad del negocio</b>\n      Recuperación ante desastres\n      Gestión de crisis\n      Sistemas de respaldo\n      Respuesta de emergencia\n      Planificación de resiliencia\n    <b>Métricas de riesgo</b>\n      Valor en Riesgo\n      Déficit esperado\n      Indicadores clave de riesgo\n      Distribuciones de pérdidas\n      Límites de exposición\n    <b>Controles internos</b>\n      Controles preventivos\n      Controles detectivos\n      Controles correctivos\n      Segregación de funciones\n    <b>Cultura de riesgo</b>\n      Conciencia del riesgo\n      Rendición de cuentas\n      Conducta ética\n      Mecanismos de reporte",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_riesgos",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

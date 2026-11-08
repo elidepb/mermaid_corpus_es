@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Aprendizaje automático",
+            "category": "Ingeniería",
+            "description": "El aprendizaje automático evolucionó de la teoría estadística al fundamento de los sistemas modernos de IA. El reconocimiento de patrones temprano y la teoría del aprendizaje estadístico se desarrollaron en las décadas de 1950-1960. El algoritmo del perceptrón (1957) de Frank Rosenbaum introdujo el aprendizaje neuronal. Arthur Samuel acuñó aprendizaje automático (1959) mientras desarrollaba programas de damas. El artículo sobre las limitaciones del perceptrón (1969) de Minsky y Papert provocó el declive de las redes neuronales. Los sistemas expertos dominaron las décadas de 1970-1980 con enfoques basados en reglas. El algoritmo de retropropagación se redescubrió (1986) y permitió el entrenamiento de redes neuronales multicapa. Las máquinas de vectores de soporte surgieron (década de 1990) aportando sólidos fundamentos teóricos. Los bosques aleatorios (2001) impulsaron los métodos de conjunto. El renacimiento del aprendizaje profundo comenzó con el preentrenamiento no supervisado (2006) y la aceleración por GPU. La competición ImageNet (2012) con AlexNet demostró la superioridad del aprendizaje profundo en el reconocimiento de imágenes. Las incrustaciones de palabras como Word2Vec (2013) revolucionaron el PLN. Las redes generativas antagónicas (2014) permitieron la generación realista de datos. Los mecanismos de atención y los transformers (2017) transformaron el modelado de secuencias. El aprendizaje automático actual integra modelos fundacionales, aprendizaje few-shot, aprendizaje federado y aprendizaje automático automatizado (AutoML).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del aprendizaje automático\n    1950s-1960s : Reconocimiento de patrones temprano\n                : Teoría del aprendizaje estadístico\n    1957 : Algoritmo del perceptrón\n         : Aprendizaje neuronal de Rosenbaum\n    1959 : Término aprendizaje automático\n         : Programa de damas de Samuel\n    1969 : Limitaciones del perceptrón\n         : Análisis de Minsky y Papert\n    1986 : Retropropagación redescubierta\n         : Entrenamiento multicapa habilitado\n    1990s : Máquinas de vectores de soporte\n          : Fundamentos teóricos\n    2001 : Bosques aleatorios\n         : Avance de los métodos de conjunto\n    2006 : Renacimiento del aprendizaje profundo\n         : Preentrenamiento no supervisado\n    2012 : Victoria de AlexNet en ImageNet\n         : Superioridad del aprendizaje profundo\n    2013 : Incrustaciones Word2Vec\n         : Comienza la revolución del PLN\n    2014 : Introducción de las GAN\n         : Modelos generativos\n    2017 : Atención y transformers\n         : Modelado de secuencias transformado\n    2020s : Modelos fundacionales\n          : Integración few-shot y AutoML",
+            "complexity": "high",
+            "tags": [
+                "aprendizaje_automatico",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

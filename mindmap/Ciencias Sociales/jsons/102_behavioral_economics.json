@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Economía del comportamiento",
+            "category": "Economía y psicología",
+            "description": "Este mapa mental organiza los componentes centrales de la economía del comportamiento en torno a un concepto nuclear. Se ramifica en supuestos centrales (racionalidad limitada, fuerza de voluntad limitada, preferencias sociales), teorías clave (teoría de las perspectivas con aversión a la pérdida y dependencia de la referencia, contabilidad mental, descuento hiperbólico), sesgos cognitivos (anclaje, disponibilidad, confirmación, exceso de confianza, sesgo del statu quo), teoría del nudge (opciones por defecto, efectos de encuadre, normas sociales) y aplicaciones (política pública, finanzas del comportamiento, decisiones de salud, marketing). La estructura revela los factores psicológicos interconectados que dan forma al comportamiento económico.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Economía del comportamiento))\n    Supuestos_centrales\n      Racionalidad limitada\n      Fuerza de voluntad limitada\n      Preferencias sociales\n    Teorías_clave\n      Teoría de las perspectivas\n        Aversión a la pérdida\n        Dependencia de la referencia\n      Contabilidad mental\n      Descuento hiperbólico\n    Sesgos_cognitivos\n      Anclaje\n      Disponibilidad\n      Confirmación\n      Exceso de confianza\n      Sesgo del statu quo\n    Teoría_nudge\n      Opciones por defecto\n      Efectos de encuadre\n      Normas sociales\n    Aplicaciones\n      Política pública\n      Finanzas del comportamiento\n      Decisiones de salud\n      Marketing",
+            "complexity": "high",
+            "tags": [
+                "economía_del_comportamiento",
+                "mapa_mental",
+                "heurísticas",
+                "nudge",
+                "teoría_de_las_perspectivas",
+                "racionalidad_limitada",
+                "sesgos_cognitivos",
+                "encuadre"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "118",
+            "topic": "Antropología lingüística",
+            "category": "Antropología",
+            "description": "Este mapa mental organiza el campo de la antropología lingüística. Se ramifica en conceptos clave (relatividad lingüística, indexicalidad, socialización lingüística, comunidad de habla, ideologías lingüísticas), subcampos (etnografía de la comunicación, sociolingüística, lingüística histórica, contacto lingüístico, documentación lingüística), métodos (observación participante, registro, análisis de la conversación, análisis del discurso), figuras destacadas (Franz Boas, Edward Sapir, Benjamin Lee Whorf, Dell Hymes, Michael Silverstein, Elinor Ochs) y aplicaciones (política lingüística, educación, ámbitos jurídicos, medios). El mapa captura la integración de lengua y cultura propia de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Antropología lingüística))\n    Conceptos_clave\n      Relatividad_lingüística\n      Indexicalidad\n      Socialización_lingüística\n      Comunidad_de_habla\n      Ideologías_lingüísticas\n      Performatividad\n    Subcampos\n      Etnografía_de_la_comunicación\n      Sociolingüística\n      Lingüística_histórica\n      Contacto_lingüístico\n      Documentación_lingüística\n    Métodos\n      Observación_participante\n      Registro_audio-video\n      Análisis_de_la_conversación\n      Análisis_del_discurso\n    Figuras_destacadas\n      Franz_Boas\n      Edward_Sapir\n      Benjamin_Whorf\n      Dell_Hymes\n      Michael_Silverstein\n      Elinor_Ochs\n    Aplicaciones\n      Política_lingüística\n      Educación\n      Ámbitos_jurídicos\n      Medios_y_comunicación_digital\n      Revitalización_lingüística",
+            "complexity": "high",
+            "tags": [
+                "antropología_lingüística",
+                "mapa_mental",
+                "lenguaje",
+                "cultura",
+                "etnografía",
+                "sociolingüística",
+                "boas",
+                "sapir_whorf"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

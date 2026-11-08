@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "095",
+            "topic": "Cartografía",
+            "category": "Ingeniería",
+            "description": "La cartografía evolucionó de antiguas tablillas de arcilla a mapas digitales interactivos que transforman la comprensión espacial y la navegación. Los primeros mapas aparecieron en la antigua Babilonia en tablillas de arcilla y pinturas rupestres (prehistoria hasta 600 a. C.). Los cartógrafos griegos, incluido Ptolomeo, crearon mapamundis usando sistemas de coordenadas (150 d. C.). Los cartógrafos chinos e islámicos avanzaron durante los períodos medievales. La Era de los Descubrimientos (siglos XV-XVII) impulsó el desarrollo de cartas náuticas y la cartografía mundial. La proyección de Gerardus Mercator (1569) revolucionó la navegación preservando los ángulos para la navegación a vela. La cartografía topográfica con curvas de nivel surgió (siglo XVIII) representando el relieve del terreno. La litografía permitió la impresión en color de mapas (siglo XIX) mejorando la comunicación visual. El US Geological Survey se estableció (1879) creando una cobertura topográfica sistemática. La fotografía aérea permitió la cartografía precisa (principios del siglo XX). La cartografía temática avanzó con la cartografía estadística (siglo XX). La imagen satelital de Landsat (1972) aportó observación mundial de la Tierra. Los sistemas de información geográfica surgieron (décadas de 1960-1980) permitiendo el análisis espacial y la cartografía digital. El GPS aportó posicionamiento preciso para la cartografía (década de 1990). Google Maps se lanzó (2005) popularizando la cartografía web y las indicaciones. OpenStreetMap (2004) creó cartografía colaborativa. El LiDAR aportó datos detallados de elevación. La cartografía actual integra datos en tiempo real, superposiciones de realidad aumentada, modelos 3D de ciudades, elementos de mapa generados por IA y mapas adaptativos personalizados que responden al contexto y las preferencias del usuario.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la cartografía\n    Prehistoric-600 BCE : Primeros mapas\n                       : Tablillas de arcilla y pinturas\n    150 CE : Mapamundis de Ptolomeo\n           : Sistemas de coordenadas\n    1400s-1600s : Era de los Descubrimientos\n                : Desarrollo de cartas náuticas\n    1569 : Proyección de Mercator\n         : Preservación de ángulos de navegación\n    1700s : Curvas de nivel\n          : Representación del relieve del terreno\n    1800s : Impresión en color por litografía\n          : Comunicación visual mejorada\n    1879 : Establecimiento del USGS\n         : Cobertura topográfica sistemática\n    Early 1900s : Fotografía aérea\n                : Cartografía precisa habilitada\n    1972 : Satélite Landsat\n         : Observación mundial de la Tierra\n    1960s-1980s : Surgimiento de los SIG\n                : Análisis espacial digital\n    2004-2005 : OpenStreetMap y Google Maps\n              : Cartografía colaborativa y web\n    2020s : Tiempo real y RA\n          : Mapas adaptativos generados por IA",
+            "complexity": "high",
+            "tags": [
+                "cartografia",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

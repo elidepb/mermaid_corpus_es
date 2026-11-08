@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "068",
+            "topic": "Ingeniería ambiental",
+            "category": "ingenieria",
+            "description": "La ingeniería ambiental es la disciplina que aplica principios científicos y de ingeniería para proteger y mejorar el entorno natural, centrándose en la calidad del aire, el agua y el suelo. Su objetivo principal es desarrollar soluciones sostenibles para el control de la contaminación, la gestión de residuos y la protección ambiental, promoviendo al mismo tiempo la salud pública y el equilibrio ecológico. Los dominios centrales incluyen: tratamiento de agua y aguas residuales (procesos de purificación, tratamiento biológico, oxidación avanzada), gestión de la calidad del aire (control de emisiones, monitorización de la contaminación atmosférica, modelado atmosférico), gestión de residuos sólidos y peligrosos (recolección, reciclaje, disposición, remediación), evaluación de impacto ambiental (análisis de sostenibilidad, evaluación de riesgo ecológico) y recuperación de recursos (residuos a energía, reciclaje de materiales, economía circular). El enfoque de ingeniería involucra monitorización ambiental, diseño de sistemas, optimización de procesos, cumplimiento normativo y evaluación de sostenibilidad. Estos elementos se integran mediante química, biología e hidráulica para crear instalaciones de tratamiento, sistemas de control de la contaminación, tecnologías de remediación e infraestructura sostenible que protegen los ecosistemas y la salud humana.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería ambiental</b><br>Protección y mejora de la calidad<br>del entorno natural]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Desarrollar soluciones sostenibles<br>de control de la contaminación y protección]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Tratamiento de agua y aguas residuales]\n        D1[Procesos de purificación<br>Tratamiento biológico<br>Oxidación avanzada]\n    end\n    \n    subgraph E[Gestión de la calidad del aire]\n        E1[Control de emisiones<br>Monitorización de la contaminación<br>Modelado atmosférico]\n    end\n    \n    subgraph F[Residuos sólidos y peligrosos]\n        F1[Recolección y reciclaje<br>Disposición<br>Remediación]\n    end\n    \n    subgraph G[Evaluación de impacto ambiental]\n        G1[Análisis de sostenibilidad<br>Riesgo ecológico<br>Evaluación]\n    end\n    \n    subgraph H[Recuperación de recursos]\n        H1[Residuos a energía<br>Reciclaje de materiales<br>Economía circular]\n    end\n    \n    I[<b>ENFOQUE DE INGENIERÍA</b><br>Monitorización, diseño<br>Optimización, cumplimiento]:::approach\n    \n    J[<b>CREA</b><br>Sistemas de tratamiento y tecnologías<br>que protegen ecosistemas y salud]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef approach fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_ambiental",
+                "ingenieria",
+                "tratamiento_de_agua",
+                "contaminacion_atmosferica",
+                "sostenibilidad"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

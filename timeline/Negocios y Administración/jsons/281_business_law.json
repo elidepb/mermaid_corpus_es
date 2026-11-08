@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Derecho empresarial",
+            "category": "Negocios",
+            "description": "El derecho empresarial evolucionó de las costumbres mercantiles a marcos regulatorios integrales. El derecho romano y los tribunales mercantiles medievales (siglos XI-XVI) establecieron principios jurídicos comerciales tempranos. El common law inglés desarrolló doctrinas de contratos y propiedad mediante precedente judicial. La Revolución Industrial (siglo XIX) hizo necesaria la evolución del derecho societario para las sociedades de responsabilidad limitada. La Sherman Antitrust Act (1890) inició el derecho de la competencia de Estados Unidos para prevenir monopolios. El Uniform Commercial Code, desarrollado en la década de 1950, estandarizó las transacciones comerciales entre los estados de Estados Unidos. La regulación de valores surgió tras el crack de 1929 con la Ley de Valores (1933) y la Ley de Bolsa de Valores (1934). El derecho laboral se expandió de forma significativa en las décadas de 1960-1970 con la Ley de Derechos Civiles, OSHA y ERISA. La protección de la propiedad intelectual se reforzó con la Copyright Act (1976) y disposiciones digitales. Sarbanes-Oxley (2002) reforzó el gobierno corporativo tras Enron. El RGPD (2018) revolucionó la regulación de la privacidad de datos. El derecho empresarial actual aborda criptomonedas, responsabilidad de la IA, clasificación de la economía gig y requisitos de revelación ESG.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del derecho empresarial\n    1000s-1500s : Derecho mercantil\n                : Comercio romano y medieval\n    1800s : Revolución Industrial\n          : Desarrollo del derecho societario\n    1890 : Sherman Antitrust Act\n         : Comienza el derecho de la competencia de Estados Unidos\n    1950s : Uniform Commercial Code\n          : Estandarización de transacciones\n    1933-1934 : Regulación de valores\n              : Protección del inversor posterior al crack\n    1960s-1970s : Expansión del derecho laboral\n                : Derechos Civiles, OSHA, ERISA\n    1976 : Copyright Act\n         : Protección de PI reforzada\n    2002 : Sarbanes-Oxley\n         : Reformas de gobierno corporativo\n    2018 : RGPD\n         : Revolución de la privacidad de datos\n    2020s : Tecnologías emergentes\n          : Derecho de cripto, IA y economía gig",
+            "complexity": "high",
+            "tags": [
+                "derecho_empresarial",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

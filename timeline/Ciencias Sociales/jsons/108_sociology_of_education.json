@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociología de la educación",
+            "category": "Sociología",
+            "description": "Esta cronología rastrea el desarrollo histórico de la sociología de la educación. Los primeros fundamentos incluyen Educación y sociología de Durkheim (1922) y la visión de Parsons de la clase escolar como sistema social (1959). Las décadas de 1960-70 se desplazaron hacia la desigualdad: el informe Coleman sobre la igualdad de oportunidades educativas (1966), la teoría de la reproducción cultural de Bourdieu y Passeron (1970) y el principio de correspondencia de Bowles y Gintis (1976). Las perspectivas críticas y de resistencia surgieron con Aprendiendo a trabajar de Willis (1977) e Ideología y currículo de Apple (1979). Las décadas de 1980-90 vieron críticas feministas y el trabajo de Lareau sobre clase y crianza. A partir de la década de 2000, las comparaciones mundiales (PISA, TIMSS) y los debates sobre la elección escolar dominaron. El trabajo contemporáneo aborda la brecha digital y el impacto de la pandemia en la desigualdad educativa.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la sociología de la educación\n    section Primeros fundamentos\n      1922 : Émile Durkheim<br>Educación y sociología\n      1959 : Talcott Parsons<br>La clase escolar como sistema social\n    section Igualdad y reproducción\n      1966 : James Coleman<br>Igualdad de oportunidades educativas\n      1970 : Bourdieu y Passeron<br>La Reproduction\n      1976 : Bowles y Gintis<br>La escolarización en la América capitalista\n    section Crítica y resistencia\n      1977 : Paul Willis<br>Aprendiendo a trabajar\n      1979 : Michael Apple<br>Ideología y currículo\n    section Expansión y política\n      1980s : Críticas feministas<br>currículo generizado\n      1989 : Annette Lareau<br>La ventaja del hogar\n      2000s : Comparaciones mundiales<br>PISA y TIMSS\n    section Contemporánea\n      2010s : Debates sobre la elección escolar<br>brecha digital\n      2020 : Impactos de la pandemia<br>desigualdad y aprendizaje en línea",
+            "complexity": "high",
+            "tags": [
+                "sociologia_de_la_educacion",
+                "historia",
+                "linea_de_tiempo",
+                "informe_Coleman",
+                "bourdieu",
+                "bowles_gintis",
+                "willis",
+                "desigualdad_educativa",
+                "brecha_digital"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

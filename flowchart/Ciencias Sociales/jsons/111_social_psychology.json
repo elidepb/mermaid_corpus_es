@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "111",
+            "topic": "Psicología social",
+            "category": "Psicología",
+            "description": "La psicología social investiga cómo los pensamientos, sentimientos y comportamientos de las personas están influidos por la presencia real, imaginada o implícita de otros. Este diagrama de flujo ilustra su proceso analítico: el objetivo último es comprender y predecir el comportamiento social examinando fenómenos intrapersonales centrales (cognición social, autoconcepto, actitudes) y procesos interpersonales (influencia social, dinámica de grupos, prejuicio, agresión, ayuda). Estos fenómenos se investigan a través de las principales perspectivas teóricas —sociocultural, evolutiva, del aprendizaje social y sociocognitiva— con métodos rigurosos (experimentos, encuestas, observación naturalista). Los conocimientos resultantes se aplican a ámbitos del mundo real como la promoción de la salud, la toma de decisiones jurídicas, el comportamiento organizacional y la acción ambiental.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Psicología social</b><br>Estudio científico de cómo las personas<br>se influyen y se relacionan entre sí]:::title\n    B[<b>OBJETIVO</b><br>Comprender, predecir e<br>influir en el comportamiento social]:::goal\n    C[<b>FENÓMENOS CENTRALES</b>]:::phenomena\n    subgraph D[Procesos intrapersonales]\n        D1[Cognición social<br>Autoconcepto e identidad<br>Actitudes y persuasión<br>Atribución y explicación]\n    end\n    subgraph E[Procesos interpersonales y grupales]\n        E1[Conformidad y obediencia<br>Dinámica de grupos y toma de decisiones<br>Prejuicio y discriminación<br>Agresión y comportamiento prosocial]\n    end\n    F[<b>PERSPECTIVAS TEÓRICAS</b><br>Sociocultural, evolutiva,<br>aprendizaje social, sociocognitiva]:::theory\n    G[<b>MÉTODOS</b><br>Experimentos, encuestas,<br>observación naturalista,<br>medidas implícitas]:::methods\n    H[<b>APLICACIONES</b><br>Salud, derecho, empresa,<br>educación, medio ambiente]:::outcome\n\n    A -->|busca| B\n    B -->|mediante el análisis de| C\n    C -->|abarca| D\n    C -->|abarca| E\n    D & E -->|enmarcados por| F\n    F -->|se contrastan mediante| G\n    G -->|genera conocimientos para| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef phenomena fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef methods fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "psicologia_social",
+                "influencia_social",
+                "cognicion_social",
+                "actitudes",
+                "conformidad",
+                "obediencia",
+                "prejuicio",
+                "dinamica_de_grupos"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

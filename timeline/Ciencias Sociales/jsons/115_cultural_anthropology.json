@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Antropología cultural",
+            "category": "Antropología",
+            "description": "Esta cronología rastrea el desarrollo de la antropología cultural. Comienza con precursores ilustrados (el pluralismo cultural de Herder, siglo XVIII). El siglo XIX vio el evolucionismo unilineal (Cultura primitiva de Tylor, 1871; La sociedad antigua de Morgan, 1877). Franz Boas estableció el relativismo cultural y el particularismo histórico a principios del siglo XX. Bronisław Malinowski fue pionero de la observación participante con Los argonautas del Pacífico occidental (1922). Adolescencia en Samoa de Margaret Mead (1928) popularizó el determinismo cultural. El estructuralismo cobró auge con Lévi-Strauss (décadas de 1940-1960). La interpretación de las culturas de Clifford Geertz (1973) inauguró la antropología interpretativa y simbólica. La década de 1980 trajo críticas reflexivas y posmodernas (Marcus y Fischer, 1986). La antropología cultural contemporánea aborda la globalización, la cultura digital y la etnografía multilocal (décadas de 2000-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la antropología cultural\n    section Ilustración y siglo XIX\n      18th century : Pluralismo cultural de Herder\n      1871 : Edward Tylor<br>Cultura primitiva\n      1877 : Lewis Henry Morgan<br>La sociedad antigua\n    section Principios del siglo XX\n      1911 : Franz Boas<br>La mente del hombre primitivo\n      1922 : Bronisław Malinowski<br>Los argonautas del Pacífico occidental\n      1928 : Margaret Mead<br>Adolescencia en Samoa\n    section Transformaciones de mediados de siglo\n      1940s‑60s : Claude Lévi‑Strauss<br>Antropología estructural\n    section Giro interpretativo y reflexivo\n      1973 : Clifford Geertz<br>La interpretación de las culturas\n      1986 : Marcus y Fischer<br>La antropología como crítica cultural\n    section Contemporánea\n      1990s‑2000s : Globalización y<br>etnografía multilocal\n      2010s‑20s : Antropología digital<br>enfoques decoloniales y activistas",
+            "complexity": "high",
+            "tags": [
+                "antropologia_cultural",
+                "historia",
+                "linea_de_tiempo",
+                "boas",
+                "malinowski",
+                "mead",
+                "geertz",
+                "levi_strauss",
+                "antropologia_interpretativa"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

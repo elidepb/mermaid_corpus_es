@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Teoría política",
+            "category": "Ciencia política",
+            "description": "La teoría política es el estudio normativo y conceptual de las ideas e ideales políticos. Este diagrama de flujo ilustra su lógica analítica: el objetivo último es comprender, criticar y construir normas e instituciones políticas. Integra las grandes tradiciones de pensamiento (clásica, liberal, conservadora, socialista, feminista, poscolonial) con conceptos fundacionales (justicia, libertad, igualdad, autoridad, democracia, derechos). Estos se examinan mediante métodos específicos (análisis normativo, análisis conceptual, interpretación textual, teoría crítica) que generan marcos evaluativos. Los conocimientos resultantes informan tanto la crítica de los arreglos políticos existentes como el diseño de prácticas e instituciones políticas más justas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Teoría política</b><br>Estudio normativo de las ideas,<br>ideales y principios políticos]:::title\n    B[<b>OBJETIVO</b><br>Comprender, criticar y construir<br>normas e instituciones políticas]:::goal\n    C[<b>ELEMENTOS CENTRALES</b>]:::elements\n    subgraph D[Tradiciones de pensamiento]\n        D1[Clásica<br>Liberal, conservadora<br>Socialista, marxista<br>Feminista, poscolonial]\n    end\n    subgraph E[Conceptos clave]\n        E1[Justicia, libertad, igualdad<br>Autoridad, soberanía<br>Democracia, derechos, poder]\n    end\n    subgraph F[Métodos]\n        F1[Análisis normativo<br>Análisis conceptual<br>Interpretación textual<br>Teoría crítica]\n    end\n    G[<b>MARCOS EVALUATIVOS</b><br>Crítica normativa de<br>las instituciones existentes]:::evaluation\n    H[<b>APLICACIONES</b><br>Orientar el diseño institucional,<br>la política pública y la acción política]:::outcome\n\n    A -->|busca| B\n    B -->|al abordar| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|producen| G\n    G -->|informan| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef evaluation fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "teoria_politica",
+                "filosofia_politica",
+                "analisis_normativo",
+                "justicia",
+                "liberalismo",
+                "democracia",
+                "teoria_critica"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

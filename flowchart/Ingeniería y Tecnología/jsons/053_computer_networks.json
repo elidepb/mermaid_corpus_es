@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "053",
+            "topic": "Redes de computadoras",
+            "category": "ciencias_de_la_computacion",
+            "description": "Una red de computadoras es un sistema interconectado de dispositivos que comparten recursos y se comunican a través de medios de transmisión. Su propósito principal es permitir el intercambio de datos y el uso compartido de recursos en ubicaciones distribuidas. Los componentes centrales incluyen: topología de red (disposición física o lógica como estrella, malla o bus), protocolos (reglas que rigen la comunicación, como TCP/IP y HTTP), hardware (enrutadores, conmutadores, cables) y medios de transmisión (cableados o inalámbricos). Las redes se clasifican por escala (LAN, MAN, WAN) y facilitan servicios como el uso compartido de archivos, el correo electrónico, el acceso web y la colaboración remota, logrando en última instancia conectividad y eficiencia.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Redes de computadoras</b><br>Sistema interconectado de dispositivos<br>que comparten recursos]:::title\n    B[<b>PROPÓSITO PRINCIPAL</b><br>Permitir intercambio de datos y<br>uso compartido de recursos]:::purpose\n    C[<b>COMPONENTES CENTRALES</b>]:::components\n    \n    subgraph D[Topología de red]\n        D1[Disposición física o lógica<br>Estrella, malla, bus]\n    end\n    \n    subgraph E[Protocolos]\n        E1[Reglas de comunicación<br>TCP/IP, HTTP, FTP]\n    end\n    \n    subgraph F[Hardware]\n        F1[Enrutadores, conmutadores<br>Cables, NIC]\n    end\n    \n    subgraph G[Medios de transmisión]\n        G1[Cableado: Ethernet<br>Inalámbrico: Wi-Fi]\n    end\n    \n    H[<b>TIPOS DE RED</b><br>LAN, MAN, WAN]:::types\n    I[<b>ENTREGA</b><br>Conectividad, uso compartido de archivos,<br>comunicación y eficiencia]:::goal\n    \n    A -->|busca| B\n    B -->|requiere| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|se organiza como| H\n    H -->|en última instancia logra| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef purpose fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef types fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#333\n    classDef goal fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "redes_de_computadoras",
+                "ciencias_de_la_computacion",
+                "modelo_osi",
+                "tcp_ip",
+                "protocolos"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

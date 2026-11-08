@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "142",
+            "topic": "Marketing",
+            "category": "Empresa y Gestión",
+            "description": "Este mapa mental organiza el campo del Marketing en torno a su concepto central. Las ramas principales incluyen Conceptos centrales (mix de marketing, segmentación, targeting, posicionamiento, marca, comportamiento del consumidor, gestión de la relación con el cliente), Subcampos (marketing digital, marketing de contenidos, marketing en redes sociales, marketing B2B, marketing internacional, marketing de servicios), Marcos clásicos (4Ps, 7Ps, STP, AIDA, jerarquía de Maslow, cinco fuerzas de Porter, matriz BCG), Pensadores clave (Philip Kotler, Peter Drucker, David Ogilvy, Seth Godin) y Tendencias actuales (personalización con IA, marketing sostenible, marketing de influencers, omnicanal, privacidad de datos). El mapa captura la amplitud de la disciplina, desde los fundamentos clásicos hasta la práctica de vanguardia.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Marketing))\n    Conceptos_Centrales\n      Mix_de_Marketing\n      Segmentación\n      Targeting\n      Posicionamiento\n      Marca\n      Comportamiento_del_Consumidor\n      CRM\n    Subcampos\n      Marketing_Digital\n      Marketing_de_Contenidos\n      Marketing_en_Redes_Sociales\n      Marketing_B2B\n      Marketing_Internacional\n      Marketing_de_Servicios\n    Marcos_Clásicos\n      4Ps_7Ps\n      STP\n      AIDA\n      Jerarquía_de_Maslow\n      Cinco_Fuerzas_de_Porter\n      Matriz_BCG\n    Pensadores_Clave\n      Philip_Kotler\n      Peter_Drucker\n      David_Ogilvy\n      Seth_Godin\n    Tendencias_Actuales\n      Personalización_con_IA\n      Marketing_Sostenible\n      Marketing_de_Influencers\n      Omnicanal\n      Privacidad_de_Datos",
+            "complexity": "high",
+            "tags": ["marketing", "mapa_mental", "conceptos", "marcos", "pensadores", "marketing_digital", "tendencias"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "133",
+            "topic": "Derecho laboral",
+            "category": "Derecho",
+            "description": "El derecho laboral (también conocido como derecho del trabajo) regula la relación entre empleadores, trabajadores y sindicatos. Este diagrama de flujo describe su marco: el objetivo último es equilibrar las necesidades del empleador con la protección de los trabajadores y la justicia social. Integra el derecho individual del trabajo (contratos, condiciones, extinción, discriminación) y el derecho colectivo del trabajo (sindicatos, negociación, huelgas). Estos se regulan mediante principios centrales (estándares mínimos, no discriminación, libertad de asociación, negociación colectiva) y se hacen valer a través de organismos administrativos, tribunales laborales y mecanismos de resolución de conflictos. El sistema produce resultados como salarios justos, seguridad en el trabajo, paz industrial y diálogo social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Derecho laboral</b><br>Cuerpo jurídico que regula la<br>relación de empleo]:::title\n    B[<b>OBJETIVO</b><br>Equilibrar las necesidades del empleador con<br>la protección de los trabajadores y la justicia social]:::goal\n    C[<b>ÁREAS CENTRALES</b>]:::areas\n    subgraph D[Derecho individual del trabajo]\n        D1[Contratos de trabajo<br>Tiempo de trabajo, salarios<br>Salud y seguridad<br>Protección frente a la discriminación<br>Extinción y despido]\n    end\n    subgraph E[Derecho colectivo del trabajo]\n        E1[\"Sindicatos y asociaciones de empleadores<br>Negociación colectiva<br>Acción industrial (huelgas, cierres patronales)<br>Participación de los trabajadores\"]\n    end\n    F[\"<b>MARCO REGULATORIO</b><br>Normas internacionales del trabajo (OIT)<br>Legislación nacional, reglamentos,<br>precedentes judiciales\"]:::framework\n    G[<b>EJECUCIÓN</b><br>Inspecciones laborales, tribunales<br>administrativos, juzgados laborales,<br>mediación y arbitraje]:::enforcement\n    H[<b>RESULTADOS</b><br>Trabajo decente, protección social,<br>paz industrial, competencia leal]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|configurado por| F\n    F -->|aplicado mediante| G\n    G -->|logra| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef areas fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef framework fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef enforcement fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "derecho_laboral",
+                "derecho_del_trabajo",
+                "negociacion_colectiva",
+                "proteccion_de_trabajadores",
+                "relaciones_industriales",
+                "OIT",
+                "discriminacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

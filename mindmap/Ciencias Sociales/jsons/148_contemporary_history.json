@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "148",
+            "topic": "Historia Contemporánea",
+            "category": "Historia",
+            "description": "Un mapa mental que muestra los conceptos fundamentales y la estructura de la Historia Contemporánea.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia Contemporánea))\n    Siglo XX\n      Primera Guerra Mundial\n      Periodo de Entreguerras\n      Segunda Guerra Mundial\n      Guerra Fría\n    Descolonización\n      Independencia Africana\n      Independencia Asiática\n      Estados Poscoloniales\n    Décadas Recientes\n      Globalización\n      Fin de la Guerra Fría\n      Era Digital\n      Cambio Climático\n    Temas\n      Derechos Humanos\n      Terrorismo\n      Crisis Económicas\n      Movimientos Sociales",
+            "complexity": "high",
+            "tags": [
+                "historia_contemporánea",
+                "historia"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

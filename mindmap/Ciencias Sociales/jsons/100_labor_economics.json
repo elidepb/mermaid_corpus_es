@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "100",
+            "topic": "Economía laboral",
+            "category": "Economía",
+            "description": "El mapa mental de la economía laboral se ramifica desde el concepto central hacia cinco áreas clave. La oferta de trabajo cubre la participación, las horas, el capital humano y la migración. La demanda de trabajo se centra en la productividad marginal, la demanda derivada y la elasticidad. La determinación salarial explora el equilibrio competitivo, el monopsonio, los salarios de eficiencia y la negociación colectiva. Las instituciones incluyen sindicatos, leyes de salario mínimo, seguro de desempleo y legislación de protección del empleo. Por último, los resultados abarcan el empleo, el desempleo, la desigualdad salarial y la discriminación. Esta estructura ofrece una visión de conjunto de los componentes principales del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Economía laboral))\n    Oferta de trabajo\n      Tasa de participación\n      Horas trabajadas\n      Capital humano\n      Migración\n    Demanda de trabajo\n      Productividad marginal\n      Demanda derivada\n      Elasticidad\n    Determinación salarial\n      Equilibrio competitivo\n      Monopsonio\n      Salarios de eficiencia\n      Negociación\n    Instituciones\n      Sindicatos\n      Salario mínimo\n      Seguro de desempleo\n      Protección del empleo\n    Resultados\n      Empleo\n      Desempleo\n      Desigualdad salarial\n      Discriminación",
+            "complexity": "medium",
+            "tags": [
+                "economía_laboral",
+                "mapa_mental",
+                "salarios",
+                "desempleo",
+                "capital_humano"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

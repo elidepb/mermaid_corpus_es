@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Emprendimiento",
+            "category": "Negocios",
+            "description": "El emprendimiento es el proceso de identificar oportunidades, movilizar recursos y crear valor mediante iniciativas innovadoras. Comienza con el reconocimiento de oportunidades, en el que los emprendedores identifican vacíos de mercado o necesidades no cubiertas. La validación de la idea pone a prueba las hipótesis mediante investigación de mercado y retroalimentación de clientes. La planificación de negocio desarrolla la hoja de ruta, incluyendo el modelo de negocio, las proyecciones financieras y la estrategia de salida al mercado. La adquisición de recursos asegura financiación, talento e infraestructura. La ejecución del lanzamiento lleva la iniciativa al mercado. El escalamiento del crecimiento expande las operaciones y el alcance de mercado. La iteración continua se adapta a partir de la retroalimentación y la dinámica del mercado. El objetivo es construir iniciativas sostenibles que resuelvan problemas, creen empleo y generen valor económico, navegando la incertidumbre y el riesgo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Emprendimiento</b><br>Crear valor mediante<br>iniciativas innovadoras]:::title\n    B[<b>META PRINCIPAL</b><br>Construir iniciativas sostenibles<br>que creen valor económico]:::goal\n    C[<b>PROCESO EMPRENDEDOR</b>]:::process\n    \n    subgraph D[Reconocimiento de oportunidades]\n        D1[Identificar vacíos de mercado<br>y necesidades no cubiertas]\n    end\n    \n    subgraph E[Validación de la idea]\n        E1[Probar hipótesis<br>y recoger retroalimentación]\n    end\n    \n    subgraph F[Planificación de negocio]\n        F1[Desarrollar modelo, finanzas<br>y estrategia]\n    end\n    \n    subgraph G[Adquisición de recursos]\n        G1[Asegurar financiación, talento<br>e infraestructura]\n    end\n    \n    subgraph H[Ejecución del lanzamiento]\n        H1[Llevar la iniciativa<br>al mercado]\n    end\n    \n    subgraph I[Escalamiento del crecimiento]\n        I1[Expandir operaciones<br>y alcance de mercado]\n    end\n    \n    subgraph J[Iteración continua]\n        J1[Adaptarse según<br>retroalimentación y dinámica]\n    end\n    \n    K[<b>RESULTADO</b><br>Negocio sostenible que resuelve<br>problemas y crea empleo]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|bucle de retroalimentación| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "emprendimiento",
+                "negocios",
+                "startup",
+                "plan_de_negocio",
+                "capital_de_riesgo"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

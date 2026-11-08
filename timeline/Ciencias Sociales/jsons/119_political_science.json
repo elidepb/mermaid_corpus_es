@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Ciencia política",
+            "category": "Ciencias sociales",
+            "description": "Esta cronología rastrea el desarrollo de la ciencia política como disciplina. Comienza con el pensamiento político antiguo (La República de Platón, La Política de Aristóteles, siglo IV a. C.). Las contribuciones medievales incluyen a Agustín y Tomás de Aquino. El Renacimiento vio El príncipe de Maquiavelo (1513). La Ilustración trajo el Leviatán de Hobbes (1651), los Dos tratados de Locke (1689) y El contrato social de Rousseau (1762). El siglo XIX introdujo La democracia en América de Tocqueville (1835) y la crítica del capitalismo de Marx. A principios del siglo XX aparecieron La política como vocación de Weber (1919) y la revolución conductista (décadas de 1920-50). Tras la Segunda Guerra Mundial surgieron la teoría de sistemas (Easton, 1953), la elección racional y la teoría política feminista. La ciencia política contemporánea integra la globalización, la política digital y las perspectivas críticas (décadas de 2000-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la ciencia política\n    section Antigua y medieval\n      4th cent BCE : La República de Platón<br>La Política de Aristóteles\n      5th-13th c : Agustín y Tomás de Aquino\n    section Renacimiento e Ilustración\n      1513 : El príncipe de Maquiavelo\n      1651 : Leviatán de Hobbes\n      1689 : Dos tratados de Locke\n      1762 : El contrato social de Rousseau\n    section Siglo XIX\n      1835 : La democracia en América de Tocqueville\n      1848 : Manifiesto comunista de Marx y Engels\n      1861 : El gobierno representativo de J.S. Mill\n    section Principios del siglo XX\n      1919 : \"La política como vocación\" de Weber\n      1920s‑50s : Revolución conductista<br>(Merriam, Lasswell)\n    section Posguerra\n      1953 : Teoría de sistemas de Easton\n      1960s‑70s : Teoría de la elección racional<br>Teoría política feminista\n    section Contemporánea\n      1990s : Globalización y gobernanza\n      2000s : Política digital y big data\n      2020s : Populismo, identidad,<br>estudios críticos de seguridad",
+            "complexity": "high",
+            "tags": [
+                "ciencia_politica",
+                "historia",
+                "linea_de_tiempo",
+                "plato",
+                "machiavelli",
+                "hobbes",
+                "tocqueville",
+                "revolucion_conductista",
+                "eleccion_racional"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

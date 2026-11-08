@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "259",
+            "topic": "Marketing",
+            "category": "Negocios",
+            "description": "La evolución del marketing refleja los cambios de paradigmas empresariales y de la tecnología. La era de la producción (décadas de 1860-1920) se centró en la eficiencia manufacturera. La era de las ventas (décadas de 1920-1950) enfatizó técnicas de venta agresivas. El concepto de marketing surgió en la década de 1950, priorizando las necesidades del cliente. El marco de las 4P fue formalizado por McCarthy en 1960. El marketing relacional ganó protagonismo en la década de 1980. La revolución de internet de la década de 1990 dio origen al marketing digital. Las redes sociales transformaron el engagement en la década de 2000. El marketing actual integra IA, personalización y estrategias omnicanal para crear experiencias de cliente fluidas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del marketing\n    1860s-1920s : Era de la producción\n                : Enfoque en la eficiencia manufacturera\n    1920s-1950s : Era de las ventas\n                : Técnicas de venta agresivas\n    1950s : Concepto de marketing\n          : Prioridad de las necesidades del cliente\n    1960 : Marco de las 4P\n         : Mix de marketing de McCarthy\n    1980s : Marketing relacional\n          : Enfoque en el cliente a largo plazo\n    1990s : Revolución digital\n          : Surgen internet y el comercio electrónico\n    2000s : Era de las redes sociales\n          : Engagement basado en plataformas\n    2010s : Contenido y inbound\n          : Marketing impulsado por el valor\n    2020s : IA y personalización\n          : Omnicanal basado en datos",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

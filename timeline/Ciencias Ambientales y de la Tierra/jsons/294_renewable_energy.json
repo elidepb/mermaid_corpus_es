@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "294",
+            "topic": "Energía renovable",
+            "category": "Ciencias ambientales",
+            "description": "Las energías renovables evolucionaron de aplicaciones de nicho a fuentes de energía convencionales que transforman los sistemas energéticos mundiales y las estrategias climáticas. Molinos de viento y ruedas hidráulicas aportaron potencia mecánica durante siglos (antigüedad hasta el siglo XIX). La primera central hidroeléctrica se inauguró en las cataratas del Niágara (1881). Las turbinas eólicas generaron electricidad en Dinamarca (década de 1890). Las centrales geotérmicas comenzaron en Italia (1904). El efecto fotovoltaico, descubierto por Becquerel (1839), permaneció como curiosidad de laboratorio hasta que Bell Labs creó células solares de silicio prácticas (1954). Las crisis del petróleo (década de 1970) impulsaron la investigación en energías renovables y los primeros parques eólicos. Las turbinas eólicas modernas surgieron con aerodinámica y materiales mejorados (década de 1980). La tarifa de alimentación de Alemania (1990) fue pionera en el apoyo político a las renovables. Los sistemas solares conectados a red proliferaron a medida que bajaban los costes. Dinamarca alcanzó una alta penetración eólica, demostrando la integración en red (década de 2000). China se convirtió en potencia manufacturera que impulsó reducciones de costes (décadas de 2000-2010). Los parques eólicos marinos se expandieron en Europa. La solar y la eólica se convirtieron en las fuentes de electricidad más baratas en muchos mercados. Los costes del almacenamiento en baterías se desplomaron, permitiendo la integración de renovables variables. El Acuerdo de París (2015) aceleró los compromisos de despliegue. Avanzaron la eólica marina flotante, el hidrógeno verde y las tecnologías de almacenamiento de larga duración. Las energías renovables actuales alcanzan instalaciones récord, acuerdos corporativos de compra de energía e integración con vehículos eléctricos, a la vez que abordan la intermitencia mediante redes inteligentes, acoplamiento sectorial y carteras renovables diversas que respaldan las metas de cero emisiones netas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de las energías renovables\n    Ancient-1800s : Molinos de viento y ruedas hidráulicas\n                  : Provisión de potencia mecánica\n    1839 : Efecto fotovoltaico\n         : Descubrimiento de Becquerel\n    1881 : Hidroeléctrica del Niágara\n         : Primera central eléctrica\n    1890s-1904 : Eólica y geotérmica\n               : Pioneros de Dinamarca e Italia\n    1954 : Células solares de Bell Labs\n         : FV de silicio práctica\n    1970s : Crisis del petróleo\n          : Impulso a la investigación en renovables\n    1980s : Turbinas eólicas modernas\n          : Aerodinámica mejorada\n    1990 : Tarifa de alimentación de Alemania\n         : Apoyo político pionero\n    2000s : Manufactura china y eólica danesa\n          : Reducción de costes e integración en red\n    2010s : Competitividad de costes\n          : Solar y eólica, fuentes más baratas\n    2015 : Acuerdo de París\n         : Despliegue acelerado\n    2020s : Instalaciones récord y almacenamiento\n          : Metas de cero emisiones netas y redes inteligentes",
+            "complexity": "high",
+            "tags": [
+                "energia_renovable",
+                "ciencias_ambientales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

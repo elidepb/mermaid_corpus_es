@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Cadena de suministro",
+            "category": "Negocios",
+            "description": "La gestión de la cadena de suministro es la coordinación integrada de todas las actividades implicadas en mover productos desde los proveedores de materias primas hasta los clientes finales. Comienza con el abastecimiento estratégico para seleccionar proveedores y negociar contratos, seguido de la procuración para adquirir materiales. La manufactura transforma insumos en bienes terminados, mientras que la gestión de inventarios equilibra las existencias en toda la red. La distribución mueve los productos a través de almacenes hasta los puntos de venta, y la planificación de la demanda pronostica las necesidades del cliente. Los sistemas de información permiten visibilidad y coordinación en tiempo real entre los socios. El objetivo es optimizar toda la red en eficiencia de costos, rapidez y satisfacción del cliente, gestionando riesgos y manteniendo flexibilidad.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de la cadena de suministro</b><br>Coordinación integrada desde<br>proveedores hasta clientes]:::title\n    B[<b>META PRINCIPAL</b><br>Optimizar la red en costo,<br>rapidez y satisfacción]:::goal\n    C[<b>FLUJO DE LA CADENA DE SUMINISTRO</b>]:::flow\n    \n    subgraph D[Abastecimiento estratégico]\n        D1[Selección de proveedores<br>y negociación de contratos]\n    end\n    \n    subgraph E[Procuración]\n        E1[Adquisición de materiales<br>y gestión de proveedores]\n    end\n    \n    subgraph F[Manufactura]\n        F1[Producción y transformación<br>de insumos en productos]\n    end\n    \n    subgraph G[Gestión de inventarios]\n        G1[Optimización de existencias<br>en toda la red]\n    end\n    \n    subgraph H[Distribución]\n        H1[Almacenamiento y entrega<br>a puntos de venta]\n    end\n    \n    subgraph I[Planificación de la demanda]\n        I1[Pronosticar necesidades del cliente<br>y alinear la oferta]\n    end\n    \n    subgraph J[Sistemas de información]\n        J1[Visibilidad en tiempo real<br>y coordinación]\n    end\n    \n    K[<b>RESULTADO</b><br>Red de extremo a extremo<br>eficiente y resiliente]:::outcome\n    \n    A -->|busca| B\n    B -->|requiere| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I & J -->|logran juntos| K\n    J -.->|habilita todo| C\n    K -.->|retroalimentación continua| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef flow fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "cadena_de_suministro",
+                "logistica",
+                "operaciones",
+                "abastecimiento",
+                "gestion_de_inventarios"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

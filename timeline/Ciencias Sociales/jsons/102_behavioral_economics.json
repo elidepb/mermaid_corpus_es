@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Economía del comportamiento",
+            "category": "Economía y psicología",
+            "description": "Esta cronología rastrea la evolución histórica de la economía del comportamiento, desde la economía psicológica temprana hasta las aplicaciones modernas. Los hitos clave incluyen: raíces tempranas en las décadas de 1890-1940 (los sentimientos morales de Adam Smith, la utilidad de Irving Fisher, George Katona); el surgimiento en 1955 con la racionalidad limitada de Herbert Simon; los heurísticos y sesgos de Tversky y Kahneman en 1974; la teoría de las perspectivas en 1979; la contabilidad mental y el encuadre de Thaler en la década de 1980; las finanzas del comportamiento de la década de 1990 (Shiller, Thaler); las aplicaciones de política de la década de 2000 con el nudge y el Behavioural Insights Team; y la culminación en el Premio Nobel de Thaler en 2017. Los avances recientes se extienden a la IA y la salud.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la economía del comportamiento\n    section Primeros orígenes\n      1890s : Sentimientos morales de Adam Smith<br>Teoría de la utilidad de Irving Fisher\n      1940s : Economía psicológica<br>George Katona\n    section Surgimiento\n      1955 : Herbert Simon<br>\"Racionalidad limitada\"\n      1974 : Tversky y Kahneman<br>\"Heurísticos y sesgos\"\n      1979 : Teoría de las perspectivas<br>(Kahneman y Tversky)\n    section Desarrollo\n      1980 : Richard Thaler<br>\"Hacia una teoría positiva\"\n      1985 : Contabilidad mental<br>Efectos de encuadre\n      1990s : Finanzas del comportamiento<br>Shiller, Thaler\n    section Maduración y política\n      2000 : Concepto de nudge<br>Thaler y Sunstein\n      2008 : Behavioural Insights<br>Team (Reino Unido)\n      2017 : Premio Nobel<br>(Thaler)\n    section Avances recientes\n      2020s : Economía del comportamiento<br>en IA y salud",
+            "complexity": "high",
+            "tags": [
+                "economia_del_comportamiento",
+                "historia",
+                "teoria_de_las_perspectivas",
+                "nudge",
+                "racionalidad_limitada",
+                "kahneman",
+                "thaler",
+                "linea_de_tiempo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

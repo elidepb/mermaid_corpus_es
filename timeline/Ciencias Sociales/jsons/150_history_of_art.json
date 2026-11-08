@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "150",
+            "topic": "Historia del arte",
+            "category": "Historia y arte",
+            "description": "Esta cronología traza el desarrollo de la historia del arte como disciplina junto con los grandes períodos artístico-históricos. Comienza con el arte antiguo: pinturas rupestres (c. 40 000 a. C.), la escultura griega clásica (siglos V‑IV a. C.) y el arte romano (siglos I‑IV d. C.). El arte medieval y renacentista (mosaicos bizantinos, Giotto, Leonardo, Miguel Ángel) floreció antes de las Vidas de los artistas de Giorgio Vasari (1550), a menudo considerada el primer texto de historia del arte. El siglo XVIII vio la Historia del arte de la Antigüedad de Johann Joachim Winckelmann (1764) y el auge del neoclasicismo. El siglo XIX introdujo el romanticismo, el realismo, el impresionismo y los métodos formalistas de Heinrich Wölfflin. El siglo XX trajo las vanguardias (cubismo, surrealismo, expresionismo abstracto), el método iconográfico (Estudios de iconología de Panofsky, 1939) y la historia del arte feminista («¿Por qué no ha habido grandes mujeres artistas?» de Linda Nochlin, 1971). En las últimas décadas, las historias del arte poscoloniales y globales, el auge del arte contemporáneo (globalización, bienales, arte digital) y la historia técnica del arte han reconfigurado el campo.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del arte y de la historia del arte\n    section Antigüedad y periodo clásico\n      c. 40,000 BCE : Pinturas rupestres<br>(Lascaux, Altamira)\n      5th‑4th cent. BCE : Escultura y arquitectura<br>griegas clásicas\n      1st‑4th cent. CE : Frescos, mosaicos<br>y retratos romanos\n    section Edad Media y Renacimiento\n      6th‑14th cent. : Iconos bizantinos,<br>catedrales góticas\n      14th‑16th cent. : Renacimiento (Giotto,<br>Leonardo, Miguel Ángel)\n      1550 : Giorgio Vasari publica<br>Vidas de los artistas\n    section Siglos XVII‑XVIII\n      17th cent. : Barroco (Caravaggio,<br>Rubens, Velázquez)\n      1764 : Historia del arte de la Antigüedad<br>de Winckelmann (neoclasicismo)\n    section Siglo XIX\n      1800‑80s : Romanticismo, realismo,<br>impresionismo\n      1890s : Posimpresionismo,<br>simbolismo, inicios de la fotografía\n    section Siglo XX\n      1907‑14 : Cubismo (Picasso, Braque)\n      1915 : Principios de historia del arte<br>de Wölfflin (formalismo)\n      1939 : Estudios de iconología<br>de Panofsky\n      1971 : «¿Por qué no ha habido<br>grandes mujeres artistas?» de Nochlin\n      1980s‑90s : Surgen las historias del arte<br>poscoloniales y globales\n    section Siglo XXI\n      2000s‑present : Arte contemporáneo global,<br>bienales, arte digital,<br>historia técnica del arte",
+            "complexity": "high",
+            "tags": [
+                "historia_del_arte",
+                "linea_de_tiempo",
+                "periodos",
+                "historiografia",
+                "vasari",
+                "winckelmann",
+                "panofsky",
+                "arte_contemporaneo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

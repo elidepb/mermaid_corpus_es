@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "291",
+            "topic": "Cambio climático",
+            "category": "Ciencias ambientales",
+            "description": "El cambio climático se refiere a los desplazamientos a largo plazo de los patrones climáticos globales o regionales, impulsados principalmente por el aumento de las concentraciones atmosféricas de gases de efecto invernadero procedentes de actividades humanas. Su preocupación principal es comprender las causas, los impactos y las estrategias de mitigación para abordar el aumento de las temperaturas globales y los cambios ambientales asociados. Los aspectos centrales incluyen: emisiones de gases de efecto invernadero (dióxido de carbono de combustibles fósiles, metano de la agricultura y los vertederos, óxido nitroso, gases fluorados), impulsores climáticos (intensificación del efecto invernadero, forzamiento radiativo, mecanismos de retroalimentación como el albedo del hielo y el vapor de agua), impactos observados (aumento de temperaturas, elevación del nivel del mar, eventos meteorológicos extremos, acidificación oceánica, disrupción de ecosistemas), estrategias de mitigación (transición a energías renovables, eficiencia energética, captura y almacenamiento de carbono, reforestación, prácticas sostenibles) y medidas de adaptación (infraestructura resiliente al clima, adaptación agrícola, protección costera, gestión de recursos hídricos). El proceso de respuesta implica evaluación y monitoreo científicos, implementación de reducción de emisiones, planificación de la adaptación, cooperación internacional y aplicación de políticas. Estos elementos se integran mediante la ciencia atmosférica, la ecología y la política para abordar el desafío a través de reducciones de emisiones, despliegue de energías renovables, secuestro de carbono, proyectos de adaptación climática y acuerdos globales que buscan limitar el calentamiento y construir resiliencia.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cambio climático</b><br>Desplazamientos a largo plazo de los patrones climáticos<br>impulsados por actividades humanas]:::title\n    B[<b>PREOCUPACIÓN PRINCIPAL</b><br>Comprender causas e impactos<br>para desarrollar estrategias de respuesta]:::concern\n    C[<b>ASPECTOS CENTRALES</b>]:::aspects\n    \n    subgraph D[Emisiones de gases de efecto invernadero]\n        D1[CO2 de combustibles fósiles<br>Metano de la agricultura<br>N2O y gases fluorados]\n    end\n    \n    subgraph E[Impulsores climáticos]\n        E1[Efecto invernadero<br>Forzamiento radiativo<br>Mecanismos de retroalimentación]\n    end\n    \n    subgraph F[Impactos observados]\n        F1[Aumento de temperaturas<br>Elevación del nivel del mar<br>Eventos meteorológicos extremos]\n    end\n    \n    subgraph G[Estrategias de mitigación]\n        G1[Energías renovables<br>Captura de carbono<br>Reforestación]\n    end\n    \n    subgraph H[Medidas de adaptación]\n        H1[Infraestructura resiliente<br>Adaptación agrícola<br>Protección costera]\n    end\n    \n    I[<b>PROCESO DE RESPUESTA</b><br>Evaluación, reducción de emisiones<br>Adaptación, cooperación]:::process\n    \n    J[<b>ABORDA</b><br>El desafío climático mediante mitigación,<br>adaptación y acción global]:::outcome\n    \n    A -->|plantea| B\n    B -->|mediante la comprensión| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|permite| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "cambio_climatico",
+                "ciencias_ambientales",
+                "calentamiento_global",
+                "gas_de_efecto_invernadero",
+                "mitigacion",
+                "adaptacion",
+                "sostenibilidad"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

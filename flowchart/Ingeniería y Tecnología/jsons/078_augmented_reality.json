@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Realidad aumentada",
+            "category": "tecnologia",
+            "description": "La realidad aumentada es la tecnología que superpone información digital, gráficos y elementos interactivos sobre el entorno del mundo real en tiempo real, mejorando la percepción mediante entrada sensorial generada por computadora. Comienza con la detección del entorno, usando cámaras, sensores de profundidad e IMU para capturar y comprender el mundo físico. La comprensión de la escena procesa datos visuales para detectar superficies, objetos y características espaciales mediante algoritmos de visión por computadora y aprendizaje automático. El seguimiento y el registro mantienen un alineamiento exacto entre el contenido digital y el mundo físico usando SLAM (localización y mapeo simultáneos) y seguimiento basado en marcadores o sin marcadores. La creación de contenido desarrolla modelos 3D, animaciones, superposiciones de información y elementos interactivos adaptados a las experiencias de RA. El renderizado y la visualización proyectan el contenido digital sobre el mundo real a través de pantallas de teléfonos inteligentes, gafas de RA o pantallas de visualización frontal con oclusión e iluminación adecuadas. El diseño de interacción permite la entrada del usuario mediante gestos, comandos de voz, seguimiento de la mirada e interfaces táctiles para manipular objetos virtuales. El desarrollo de aplicaciones construye experiencias en los dominios de juego, navegación, comercio minorista, educación, mantenimiento industrial y atención sanitaria. La optimización del rendimiento asegura tasas de fotogramas fluidas, baja latencia y consumo mínimo de batería. El objetivo es fusionar de forma fluida los mundos digital y físico para mejorar la productividad, el entretenimiento, el aprendizaje y la toma de decisiones mediante información contextual y visualización interactiva.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Realidad aumentada</b><br>Superposición de contenido digital<br>sobre el mundo real]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Fusionar de forma fluida lo digital y lo físico<br>para una experiencia mejorada]:::goal\n    C[<b>PROCESO DE DESARROLLO DE RA</b>]:::process\n    \n    subgraph D[Detección del entorno]\n        D1[Capturar el mundo físico mediante<br>cámaras y sensores de profundidad]\n    end\n    \n    subgraph E[Comprensión de la escena]\n        E1[Detectar superficies, objetos<br>y características espaciales]\n    end\n    \n    subgraph F[Seguimiento y registro]\n        F1[Mantener alineamiento usando<br>SLAM y métodos de seguimiento]\n    end\n    \n    subgraph G[Creación de contenido]\n        G1[Desarrollar modelos 3D, superposiciones<br>y elementos interactivos]\n    end\n    \n    subgraph H[Renderizado y visualización]\n        H1[Proyectar en pantallas o<br>gafas de RA con oclusión]\n    end\n    \n    subgraph I[Diseño de interacción]\n        I1[Permitir gestos, voz,<br>mirada y entrada táctil]\n    end\n    \n    subgraph J[Desarrollo de aplicaciones]\n        J1[Construir experiencias de juego, navegación,<br>comercio y formación]\n    end\n    \n    subgraph K[Optimización del rendimiento]\n        K1[Asegurar tasas de fotogramas fluidas<br>y bajo uso de batería]\n    end\n    \n    L[<b>RESULTADO</b><br>Mayor productividad e<br>información contextual]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    L -.->|refinamiento continuo| E\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "realidad_aumentada",
+                "tecnologia",
+                "ra",
+                "arkit",
+                "arcore"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

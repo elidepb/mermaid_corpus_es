@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "097",
+            "topic": "Microeconomía",
+            "category": "Economía",
+            "description": "La microeconomía examina cómo los hogares y las empresas individuales toman decisiones para asignar recursos escasos. Su objetivo central es comprender la maximización de la utilidad del consumidor y la maximización del beneficio del productor. Estos principios de comportamiento se estudian en distintas estructuras de mercado —competencia perfecta, monopolio y oligopolio— y conducen a resultados que se evalúan en términos de eficiencia, equidad y posibles fallos de mercado. Cuando los mercados fallan, la intervención gubernamental puede estar justificada. Juntos, estos tres pilares —comportamiento, estructuras de mercado y bienestar— conducen a la asignación óptima de los recursos escasos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>MICROECONOMÍA</b><br>Estudio de los agentes individuales<br>y la asignación de recursos]:::title\n    B[<b>OBJETIVO CENTRAL</b><br>Comprender las decisiones de<br>hogares y empresas]:::objective\n    C[<b>TRES PILARES</b>]:::pillars\n    subgraph principles [Principios de comportamiento]\n        C1[Maximización de la<br>utilidad del consumidor]\n        C2[Maximización del<br>beneficio del productor]\n    end\n    subgraph structures [Estructuras de mercado]\n        C3[Competencia perfecta<br>Monopolio<br>Oligopolio]\n    end\n    subgraph welfare [Bienestar y política]\n        C4[Eficiencia y equidad<br>Fallos de mercado<br>Intervención gubernamental]\n    end\n    D[<b>RESULTADO</b><br>Asignación óptima<br>de recursos escasos]:::outcome\n    A -->|busca| B\n    B -->|se basa en| C\n    C -->|incluye| principles\n    C -->|incluye| structures\n    C -->|incluye| welfare\n    principles & structures & welfare -->|conducen colectivamente a| D\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef pillars fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333\n    style principles fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style structures fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333\n    style welfare fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "microeconomia",
+                "eleccion_del_consumidor",
+                "maximizacion_del_beneficio",
+                "estructuras_de_mercado",
+                "bienestar"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

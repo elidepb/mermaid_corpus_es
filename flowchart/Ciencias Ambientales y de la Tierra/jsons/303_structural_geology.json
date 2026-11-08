@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "303",
+            "topic": "Geología estructural",
+            "category": "Ciencias de la Tierra",
+            "description": "La geología estructural es la rama de la geología que estudia la distribución tridimensional de las unidades rocosas y su historia deformacional, centrándose en cómo las rocas responden a las fuerzas tectónicas. Su objetivo principal es comprender la geometría, la cinemática (movimiento) y la dinámica (fuerzas) de la deformación de las rocas para reconstruir la historia geológica y localizar recursos naturales. Los dominios centrales incluyen: deformación frágil (fallas, fracturas, diaclasas, terremotos, transición frágil-dúctil), deformación dúctil (pliegues, foliación, lineación, zonas de cizalla, fábricas metamórficas), elementos estructurales (planos de estratificación, discordancias, intrusiones, vetas, mediciones de rumbo y buzamiento), marcos tectónicos (límites convergentes con formación de montañas, límites divergentes con rifting, límites transformantes, deformación intraplacas) y análisis de esfuerzo y deformación (campos de esfuerzo, mediciones de deformación, reología, mecanismos de deformación). El proceso de investigación implica observaciones de campo y cartografía, mediciones estructurales (recolección de datos de orientación), análisis cinemático (determinación de la dirección de movimiento), análisis de esfuerzo-deformación e interpretación tectónica. Estos elementos se integran mediante la mecánica, la geofísica y la geología de campo para posibilitar la cartografía geológica, la evaluación de peligros sísmicos, la exploración de petróleo y minerales, las aplicaciones de geología de ingeniería y la reconstrucción de la historia tectónica que revela los procesos dinámicos de la Tierra y orienta la exploración de recursos y la mitigación de peligros.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Geología estructural</b><br>Estudio de la deformación de las rocas<br>y las fuerzas tectónicas]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Comprender geometría, cinemática<br>y dinámica de la deformación]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Deformación frágil]\n        D1[Fallas y fracturas<br>Diaclasas<br>Terremotos]\n    end\n    \n    subgraph E[Deformación dúctil]\n        E1[Pliegues y foliación<br>Zonas de cizalla<br>Fábricas metamórficas]\n    end\n    \n    subgraph F[Elementos estructurales]\n        F1[Planos de estratificación<br>Discordancias<br>Rumbo y buzamiento]\n    end\n    \n    subgraph G[Marcos tectónicos]\n        G1[Límites convergentes<br>Límites divergentes<br>Límites transformantes]\n    end\n    \n    subgraph H[Análisis de esfuerzo y deformación]\n        H1[Campos de esfuerzo<br>Mediciones de deformación<br>Mecanismos de deformación]\n    end\n    \n    I[<b>PROCESO DE INVESTIGACIÓN</b><br>Cartografía de campo, mediciones<br>Análisis, interpretación]:::process\n    \n    J[<b>POSIBILITA</b><br>Cartografía geológica, evaluación de peligros<br>y exploración de recursos]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante el estudio| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "geologia_estructural",
+                "ciencias_de_la_tierra",
+                "geologia",
+                "pliegues",
+                "fallas",
+                "esfuerzo",
+                "deformacion",
+                "tectonica"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

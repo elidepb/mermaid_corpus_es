@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditoría",
+            "category": "Negocios",
+            "description": "La auditoría es el examen sistemático e independiente de registros financieros, operaciones y controles para proporcionar aseguramiento sobre la exactitud, el cumplimiento y la eficacia. Comienza con la planificación del encargo, definiendo el alcance de la auditoría, los objetivos y la asignación de recursos. La evaluación de riesgos identifica riesgos de incorrección material y debilidades de control que requieren atención. La evaluación del control interno prueba el diseño y la eficacia operativa de los sistemas de control. Las pruebas sustantivas examinan transacciones, saldos de cuentas y revelaciones mediante muestreo y procedimientos analíticos. La recopilación de evidencia reúne documentación suficiente y adecuada para respaldar las conclusiones de auditoría. Los hallazgos de auditoría documentan incidencias identificadas, deficiencias y áreas de preocupación. El informe comunica los resultados mediante dictámenes de auditoría, cartas a la dirección y recomendaciones. El objetivo es proporcionar a las partes interesadas aseguramiento independiente de que los estados financieros están libres de incorrección material y de que los controles son eficaces.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Auditoría</b><br>Examen independiente de<br>registros y controles]:::title\n    B[<b>META PRINCIPAL</b><br>Proporcionar aseguramiento sobre<br>exactitud y cumplimiento]:::goal\n    C[<b>PROCESO DE AUDITORÍA</b>]:::process\n    \n    subgraph D[Planificación del encargo]\n        D1[Definir alcance, objetivos<br>y recursos]\n    end\n    \n    subgraph E[Evaluación de riesgos]\n        E1[Identificar riesgos de incorrección<br>y debilidades de control]\n    end\n    \n    subgraph F[Evaluación de controles]\n        F1[Probar el diseño y la eficacia<br>de los sistemas de control]\n    end\n    \n    subgraph G[Pruebas sustantivas]\n        G1[Examinar transacciones<br>y saldos de cuentas]\n    end\n    \n    subgraph H[Recopilación de evidencia]\n        H1[Recoger documentación<br>suficiente]\n    end\n    \n    subgraph I[Hallazgos de auditoría]\n        I1[Documentar incidencias<br>y deficiencias]\n    end\n    \n    subgraph J[Informe]\n        J1[Comunicar dictámenes<br>y recomendaciones]\n    end\n    \n    K[<b>RESULTADO</b><br>Aseguramiento independiente para<br>la confianza de las partes interesadas]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|informa el siguiente| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "auditoria",
+                "contabilidad",
+                "finanzas",
+                "control_interno",
+                "dictamen_de_auditoria"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

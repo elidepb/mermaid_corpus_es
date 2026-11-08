@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "270",
+            "topic": "Comercio exterior",
+            "category": "Negocios",
+            "description": "El comercio exterior abarca áreas de conocimiento especializadas esenciales para el comercio internacional. Los marcos de política comercial incluyen filosofías de proteccionismo frente a libre comercio, sistemas de cuotas, restricciones a la importación y esquemas de promoción de exportaciones. Los procedimientos aduaneros involucran la clasificación del sistema armonizado, la documentación de certificados de origen, los métodos de valoración y los protocolos de inspección. Los Incoterms definen responsabilidades de entrega mediante términos FOB, CIF, EXW y DDP que asignan costos y riesgos entre las partes. Los instrumentos de financiamiento comercial utilizan cartas de crédito, cobranzas documentarias, términos de cuenta abierta y seguro de crédito a la exportación. Las zonas francas ofrecen incentivos fiscales, exenciones arancelarias y aduanas simplificadas en áreas económicas especiales. Los remedios comerciales aplican medidas antidumping, derechos compensatorios y salvaguardias para proteger a las industrias nacionales. El comercio electrónico navega aduanas digitales, flujos transfronterizos de datos y regulaciones de mercados en línea.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Comercio<br>exterior</b>))\n    <b>Política comercial</b>\n      Proteccionismo frente a libre comercio\n      Sistemas de cuotas\n      Restricciones a la importación\n      Promoción de exportaciones\n      Acuerdos comerciales\n    <b>Procedimientos aduaneros</b>\n      Clasificación SA\n      Certificado de origen\n      Métodos de valoración\n      Protocolos de inspección\n      Proceso de despacho\n    <b>Incoterms</b>\n      Términos FOB\n      Términos CIF\n      Entrega EXW\n      Obligaciones DDP\n      Asignación de riesgos\n    <b>Financiamiento comercial</b>\n      Cartas de crédito\n      Cobranzas documentarias\n      Cuenta abierta\n      Seguro de crédito a la exportación\n      Forfaiting\n    <b>Zonas francas</b>\n      Incentivos fiscales\n      Exenciones arancelarias\n      Áreas económicas especiales\n      Aduanas simplificadas\n      Beneficios de inversión\n    <b>Remedios comerciales</b>\n      Medidas antidumping\n      Derechos compensatorios\n      Acciones de salvaguardia\n      Protección industrial\n    <b>Comercio electrónico</b>\n      Aduanas digitales\n      Datos transfronterizos\n      Mercados en línea\n      Umbrales de minimis\n    <b>Documentación de exportación</b>\n      Factura comercial\n      Lista de empaque\n      Conocimiento de embarque\n      Certificado de seguro",
+            "complexity": "high",
+            "tags": [
+                "comercio_exterior",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

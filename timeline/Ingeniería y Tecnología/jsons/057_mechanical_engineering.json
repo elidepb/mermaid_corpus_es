@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "057",
+            "topic": "Ingeniería mecánica",
+            "category": "Ingeniería",
+            "description": "Los fundamentos de la ingeniería mecánica se remontan a las civilizaciones antiguas con máquinas simples (palancas, ruedas, poleas) y molinos de agua y viento. El Renacimiento (siglos XV-XVI) trajo los diseños mecánicos de Leonardo da Vinci y el análisis científico. La Revolución Industrial (1760-1840) revolucionó el campo con la máquina de vapor de James Watt (1776), la manufactura mecanizada y el establecimiento de la ingeniería mecánica como disciplina formal. A finales del siglo XIX se vieron los motores de combustión interna y las técnicas de producción en masa. El siglo XX presenció la fabricación en cadena de montaje (Ford 1913), los motores a reacción (década de 1930) y el surgimiento del diseño asistido por computadora (década de 1960). Las décadas de 1980-90 introdujeron la automatización del mecanizado CNC y la integración CAD/CAM. La década de 2000 avanzó con la impresión 3D, la nanotecnología y los materiales inteligentes. Las décadas de 2010-2020 continúan con la ingeniería sostenible, la integración de la Industria 4.0 y el diseño asistido por IA como práctica estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería mecánica</b>\n    \n    section De la Antigüedad al Renacimiento\n        Ancient Era : Máquinas simples\n                    : Palancas, ruedas, poleas\n                    : Molinos de agua y viento\n        1500s-1600s : Innovaciones del Renacimiento\n                    : Diseños de Leonardo da Vinci\n                    : Comienza el análisis científico\n    \n    section Revolución Industrial\n        1760-1840 : Revolución Industrial\n                  : Máquina de vapor de James Watt\n                  : Manufactura mecanizada\n                  : Disciplina formal establecida\n        Late 1800s : Motores de combustión interna\n                   : Técnicas de producción en masa\n    \n    section Siglo XX\n        1913  : Cadena de montaje de Ford\n        1930s : Desarrollo de motores a reacción\n        1960s : Diseño asistido por computadora (CAD)\n        1980s-90s : Automatización CNC\n                  : Integración CAD/CAM\n    \n    section Era moderna\n        2000s : Revolución de la impresión 3D\n              : Nanotecnología\n              : Materiales inteligentes\n        2010s-2020s : Ingeniería sostenible\n                    : Integración de la Industria 4.0\n                    : Diseño asistido por IA\n                    : Gemelos digitales",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_mecanica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

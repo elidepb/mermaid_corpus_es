@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "081",
+            "topic": "Ingeniería de software",
+            "category": "Ingeniería",
+            "description": "La ingeniería de software surgió de la crisis del software al reconocer la necesidad de enfoques disciplinados para el desarrollo de sistemas complejos. La programación temprana usaba métodos ad hoc sin procesos formales (décadas de 1940-1950). El término ingeniería de software se acuñó en la conferencia de la OTAN (1968) para abordar la crisis del software de proyectos tardíos y por encima del presupuesto. La programación estructurada surgió (década de 1970) promoviendo la modularidad y reduciendo las sentencias goto. El modelo en cascada formalizado por Royce (1970) estableció fases de desarrollo secuenciales. La programación orientada a objetos ganó protagonismo con Smalltalk y C++ (década de 1980). El Capability Maturity Model (1991) aportó un marco de mejora de procesos. Rational Unified Process introdujo el desarrollo iterativo (1996). Extreme Programming surgió (1996) enfatizando prácticas ágiles. El Manifiesto Ágil (2001) revolucionó el desarrollo de software con un enfoque iterativo centrado en el cliente. El marco Scrum ganó adopción generalizada para equipos ágiles. El movimiento DevOps (2009) integró las prácticas de desarrollo y operaciones. La arquitectura de microservicios se popularizó (2011+) para sistemas distribuidos escalables. La entrega y el despliegue continuos automatizaron las publicaciones de software. La ingeniería de fiabilidad de sitios de Google formalizó la excelencia operativa. La ingeniería de software actual integra la codificación asistida por IA, la infraestructura como código, los flujos de trabajo GitOps y los enfoques de ingeniería de plataformas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería de software\n    1940s-1950s : Programación ad hoc\n                : Métodos de desarrollo informales\n    1968 : Se acuña ingeniería de software\n         : Crisis del software en conferencia de la OTAN\n    1970 : Modelo en cascada\n         : Fases secuenciales de Royce\n    1970s : Programación estructurada\n          : Modularidad y reducción de goto\n    1980s : Programación orientada a objetos\n          : Protagonismo de Smalltalk y C++\n    1991 : Marco CMM\n         : Modelo de mejora de procesos\n    1996 : Surgimiento de RUP y XP\n         : Prácticas iterativas y ágiles\n    2001 : Manifiesto Ágil\n         : Cambio de metodología de desarrollo\n    2009 : Movimiento DevOps\n         : Integración desarrollo-operaciones\n    2011+ : Arquitectura de microservicios\n          : Sistemas distribuidos escalables\n    2010s : Entrega continua\n          : Canalizaciones de publicación automatizadas\n    2020s : Codificación asistida por IA\n          : GitOps e ingeniería de plataformas",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_de_software",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

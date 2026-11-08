@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "298",
+            "topic": "Ecología del paisaje",
+            "category": "Ciencias ambientales",
+            "description": "La ecología del paisaje es la ciencia interdisciplinaria que estudia los patrones espaciales de los ecosistemas, sus interacciones y cómo la estructura del paisaje influye en los procesos ecológicos a múltiples escalas. Su objetivo principal es comprender las relaciones entre los patrones del paisaje y los procesos ecológicos para informar la conservación, la gestión del territorio y la planificación de la sostenibilidad. Los conceptos centrales incluyen: estructura del paisaje (configuración espacial, modelo parche-corredor-matriz, heterogeneidad del paisaje, patrones de fragmentación), función del paisaje (flujos ecológicos, conectividad, movimiento de especies, ciclado de nutrientes, regímenes de perturbación), cambio del paisaje (conversión del uso del suelo, urbanización, sucesión, impactos climáticos), escala y jerarquía (escalas espaciales y temporales, relaciones de escala, dinámica jerárquica de parches) y métricas del paisaje (cuantificación de patrones, índices de diversidad, medidas de conectividad, análisis de fragmentación). El proceso de investigación implica recolección de datos espaciales (teledetección, SIG), análisis de patrones, modelado de procesos, desarrollo de escenarios y recomendaciones de gestión. Estos elementos se integran mediante la ecología espacial, la biología de la conservación y la ciencia de la información geográfica para abordar la conservación de hábitats, el diseño de corredores, la protección de servicios ecosistémicos, la planificación sostenible del uso del suelo y la preservación de la biodiversidad a través de los paisajes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ecología del paisaje</b><br>Estudio de patrones espaciales de ecosistemas<br>y sus procesos ecológicos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Comprender las relaciones patrón-proceso<br>para la conservación]:::objective\n    C[<b>CONCEPTOS CENTRALES</b>]:::concepts\n    \n    subgraph D[Estructura del paisaje]\n        D1[Configuración espacial<br>Parche-corredor-matriz<br>Patrones de fragmentación]\n    end\n    \n    subgraph E[Función del paisaje]\n        E1[Flujos ecológicos<br>Conectividad<br>Movimiento de especies]\n    end\n    \n    subgraph F[Cambio del paisaje]\n        F1[Conversión del uso del suelo<br>Urbanización<br>Impactos climáticos]\n    end\n    \n    subgraph G[Escala y jerarquía]\n        G1[Escalas espaciales y temporales<br>Relaciones de escala<br>Dinámica jerárquica]\n    end\n    \n    subgraph H[Métricas del paisaje]\n        H1[Cuantificación de patrones<br>Índices de diversidad<br>Medidas de conectividad]\n    end\n    \n    I[<b>PROCESO DE INVESTIGACIÓN</b><br>Recolección de datos, análisis de patrones<br>Modelado, gestión]:::process\n    \n    J[<b>ABORDA</b><br>Conservación, planificación y<br>preservación de la biodiversidad]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante el estudio| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|permite| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef concepts fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "ecologia_del_paisaje",
+                "ciencias_ambientales",
+                "ecologia",
+                "patrones_espaciales",
+                "fragmentacion",
+                "conectividad"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

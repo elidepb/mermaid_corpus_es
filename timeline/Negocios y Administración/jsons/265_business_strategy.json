@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "265",
+            "topic": "Estrategia empresarial",
+            "category": "Negocios",
+            "description": "La estrategia empresarial evolucionó de conceptos militares a una disciplina de gestión sofisticada. El pensamiento estratégico temprano se inspiró en El arte de la guerra de Sun Tzu (500 a. C.) y en la estrategia militar. Strategy and Structure de Alfred Chandler (1962) estableció que la estructura sigue a la estrategia. El marco de estrategia corporativa de Igor Ansoff (1965) introdujo las matrices de crecimiento. Boston Consulting Group desarrolló la matriz de crecimiento-participación en 1970. El marco de estrategia competitiva de Michael Porter (1980) revolucionó el análisis sectorial con las Cinco Fuerzas y las estrategias genéricas. La visión basada en recursos surgió en la década de 1990, enfatizando las capacidades internas. La estrategia del océano azul (2005) propuso la innovación en valor en mercados no disputados. La agilidad estratégica y los modelos de negocio de plataforma dominaron la década de 2010. La estrategia actual integra transformación digital, sostenibilidad y pensamiento ecosistémico.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la estrategia empresarial\n    500 BCE : El arte de la guerra de Sun Tzu\n            : Pensamiento estratégico militar\n    1962 : Strategy and Structure\n         : Obra fundacional de Chandler\n    1965 : Matriz de Ansoff\n         : Marco de crecimiento corporativo\n    1970 : Matriz de crecimiento-participación de BCG\n         : Herramienta de gestión de cartera\n    1980 : Cinco Fuerzas de Porter\n         : Marco de estrategia competitiva\n    1990s : Visión basada en recursos\n          : Enfoque en capacidades internas\n    2005 : Estrategia del océano azul\n         : Concepto de innovación en valor\n    2010s : Modelos de negocio de plataforma\n          : Estrategias de ecosistema\n    2020s : Integración digital y ESG\n          : Transformación sostenible",
+            "complexity": "high",
+            "tags": [
+                "estrategia_empresarial",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

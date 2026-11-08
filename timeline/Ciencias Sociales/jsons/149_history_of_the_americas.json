@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "Historia de las Américas",
+            "category": "Historia",
+            "description": "Esta cronología traza los hitos clave de la historia de las Américas, desde las primeras migraciones humanas hasta tiempos recientes. Las fechas principales incluyen: c. 20 000 a. C., primer poblamiento vía Beringia; c. 1500 a. C.‑300 d. C., civilización olmeca; 1492, llegada de Colón; 1519‑1521, conquista de México; 1532, conquista del Perú; 1607, fundación de Jamestown; 1776, Declaración de Independencia de los Estados Unidos; 1804, independencia de Haití; 1810‑1825, independencias hispanoamericanas; 1861‑1865, Guerra de Secesión y abolición de la esclavitud; 1888, abolición de la esclavitud en Brasil; 1910‑1920, Revolución mexicana; 1959, Revolución cubana; décadas de 1960‑70, movimientos por los derechos civiles; décadas de 1970‑80, dictaduras militares en América del Sur; 2006, elección de Evo Morales en Bolivia; y 2020, debates sobre migración y equidad en la era de la pandemia.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Hitos clave de la historia de las Américas\n    section Primeras migraciones y período precolombino\n      c. 20,000 BCE : Primeras migraciones humanas<br>vía Beringia\n      c. 1500‑300 BCE : Civilización olmeca\n      250‑900 CE : Período clásico maya\n      1325 : Fundación de Tenochtitlan (azteca)\n      1438‑1533 : Expansión del Imperio inca\n    section Conquista y colonización\n      1492 : Colón llega al Caribe\n      1519‑1521 : Cortés conquista el Imperio azteca\n      1532 : Pizarro conquista el Imperio inca\n      1607 : Jamestown (primer asentamiento inglés permanente)\n    section Independencia y construcción nacional\n      1776 : Declaración de Independencia de EE. UU.\n      1804 : Independencia de Haití\n      1810‑1825 : Guerras de independencia hispanoamericanas\n      1823 : Doctrina Monroe\n      1861‑1865 : Guerra de Secesión, abolición de la esclavitud en EE. UU.\n      1888 : Abolición de la esclavitud en Brasil\n    section Revoluciones y cambio social\n      1910‑1920 : Revolución mexicana\n      1917 : Constitución mexicana\n      1959 : Revolución cubana\n      1960s‑70s : Movimientos por los derechos civiles, activismo indígena\n      1970s‑80s : Dictaduras militares en América del Sur\n    section Era contemporánea\n      1994 : TLCAN, levantamiento zapatista (México)\n      2006 : Evo Morales es elegido en Bolivia\n      2020 : Pandemia, protestas renovadas por la equidad racial<br>en todo el hemisferio",
+            "complexity": "high",
+            "tags": [
+                "historia_de_las_americas",
+                "linea_de_tiempo",
+                "precolombino",
+                "conquista",
+                "independencia",
+                "revolucion",
+                "movimientos_sociales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

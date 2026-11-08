@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Estudios Culturales",
+            "category": "Ciencias Sociales Interdisciplinarias",
+            "description": "Este mapa mental organiza el campo de los Estudios Culturales en torno a su concepto central. Se ramifica en Conceptos centrales (hegemonía, ideología, representación, cultura como vida cotidiana, identidad, discurso, lo popular), Influencias teóricas (marxismo, estructuralismo y semiótica, posestructuralismo, feminismo y teoría queer, poscolonialismo, teoría crítica de la raza), Pensadores clave (Raymond Williams, Stuart Hall, Antonio Gramsci, Michel Foucault, Roland Barthes, Judith Butler, bell hooks, Paul Gilroy), Métodos (análisis textual y del discurso, etnografía, análisis de la recepción, genealogía, arqueología de los medios), Subcampos (medios y comunicación, estudios de subculturas, estudios culturales poscoloniales, género y sexualidad, cultura digital) y Aplicaciones (pedagogía crítica, política cultural, activismo, patrimonio y museos). El mapa refleja el carácter político e interdisciplinario del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Estudios Culturales))\n    Conceptos_Centrales\n      Hegemonía\n      Ideología\n      Representación\n      Cultura_como_Vida_Cotidiana\n      Identidad\n      Discurso\n      Lo_Popular\n    Influencias_Teóricas\n      Marxismo\n      Estructuralismo_Semiótica\n      Posestructuralismo\n      Feminismo_Teoría_Queer\n      Poscolonialismo\n      Teoría_Crítica_de_la_Raza\n    Pensadores_Clave\n      Raymond_Williams\n      Stuart_Hall\n      Antonio_Gramsci\n      Michel_Foucault\n      Roland_Barthes\n      Judith_Butler\n      bell_hooks\n      Paul_Gilroy\n    Métodos\n      Análisis_Textual_y_del_Discurso\n      Etnografía\n      Análisis_de_la_Recepción\n      Genealogía\n      Arqueología_de_los_Medios\n    Subcampos\n      Medios_y_Comunicación\n      Estudios_de_Subculturas\n      Estudios_Culturales_Poscoloniales\n      Género_y_Sexualidad\n      Cultura_Digital\n    Aplicaciones\n      Pedagogía_Crítica\n      Política_Cultural\n      Activismo\n      Patrimonio_y_Museos",
+            "complexity": "high",
+            "tags": ["estudios_culturales", "mapa_mental", "hegemonía", "representación", "Stuart_Hall", "Raymond_Williams", "métodos"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

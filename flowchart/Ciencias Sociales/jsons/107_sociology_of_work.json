@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "107",
+            "topic": "Sociología del trabajo",
+            "category": "Sociología y estudios laborales",
+            "description": "La sociología del trabajo examina la organización social, el significado y las consecuencias del trabajo. Este diagrama de flujo ilustra su proceso analítico: partiendo del objetivo último de comprender cómo se estructura y se experimenta el trabajo, integra dimensiones centrales (organización del trabajo, división del trabajo, proceso laboral, relaciones de empleo, ocupaciones, tecnología, cultura laboral). Luego se aplican las principales lentes teóricas (alienación marxista, racionalización weberiana, solidaridad durkheimiana, teoría feminista, interaccionismo, institucionalismo). A través de ellas, el campo analiza cuestiones contemporáneas como la precariedad, el trabajo emocional, la descualificación y la economía gig, y en última instancia produce resultados como políticas del mercado laboral, estrategias sindicales y mejoras en la calidad de vida laboral.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociología del trabajo</b><br>Estudio de la organización social,<br>el significado y las consecuencias del trabajo]:::title\n    B[<b>OBJETIVO</b><br>Comprender cómo el trabajo se estructura,<br>se experimenta y se disputa]:::goal\n    C[<b>DIMENSIONES CENTRALES</b>]:::dimensions\n    subgraph D[Áreas fundamentales]\n        D1[Organización del trabajo<br>División del trabajo<br>Proceso laboral<br>Relaciones de empleo<br>Ocupaciones y profesiones<br>Tecnología y descualificación<br>Cultura laboral]\n    end\n    subgraph E[Lentes teóricas]\n        E1[Alienación marxista<br>Racionalización weberiana<br>Solidaridad durkheimiana<br>Teoría feminista<br>Interaccionismo simbólico<br>Institucionalismo]\n    end\n    F[<b>ANÁLISIS CONTEMPORÁNEO</b><br>Precariedad, trabajo emocional,<br>economía gig, automatización]:::analysis\n    G[<b>RESULTADOS</b><br>Política del mercado laboral,<br>estrategias sindicales,<br>calidad de vida laboral]:::outcome\n\n    A -->|persigue| B\n    B -->|requiere el examen de| C\n    C -->|cubre| D\n    C -->|aplica| E\n    D & E -->|informan| F\n    F -->|conduce a| G\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "sociologia_del_trabajo",
+                "proceso_laboral",
+                "division_del_trabajo",
+                "descualificacion",
+                "trabajo_emocional",
+                "precariedad",
+                "economia_gig",
+                "cultura_laboral"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

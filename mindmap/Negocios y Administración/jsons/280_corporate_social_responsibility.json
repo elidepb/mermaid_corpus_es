@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "280",
+            "topic": "Responsabilidad social corporativa",
+            "category": "Negocios",
+            "description": "La responsabilidad social corporativa abarca compromisos y prácticas multidimensionales para una conducta empresarial responsable. La responsabilidad ambiental aborda la mitigación del cambio climático mediante la reducción de carbono, la adopción de energías renovables y principios de economía circular, incluida la minimización de residuos y el reciclaje. La responsabilidad social promueve derechos laborales, seguridad en el trabajo, diversidad e inclusión, salarios justos y desarrollo comunitario a través del apoyo a la educación, la salud y la infraestructura. La gobernanza ética establece supervisión del consejo, políticas anticorrupción, toma de decisiones transparente y mecanismos de rendición de cuentas ante las partes interesadas. Las cadenas de suministro sostenibles aseguran un abastecimiento responsable, estándares de proveedores, evitación de minerales de conflicto y prácticas de comercio justo. El compromiso de los empleados construye una cultura orientada al propósito mediante programas de voluntariado, donación basada en habilidades e integración de la sostenibilidad. Los marcos de RSE aplican las normas de la Global Reporting Initiative, la alineación con los Objetivos de Desarrollo Sostenible de la ONU, la guía ISO 26000 y la certificación B Corporation. La inversión de impacto dirige capital hacia emprendimientos que generan beneficios sociales y ambientales medibles junto con retornos financieros.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Responsabilidad social<br>corporativa</b>))\n    <b>Responsabilidad ambiental</b>\n      Mitigación del cambio climático\n      Reducción de carbono\n      Energía renovable\n      Economía circular\n      Minimización de residuos\n      Protección de la biodiversidad\n    <b>Responsabilidad social</b>\n      Derechos laborales\n      Seguridad en el trabajo\n      Diversidad e inclusión\n      Salarios justos\n      Desarrollo comunitario\n      Apoyo a educación y salud\n    <b>Gobernanza ética</b>\n      Supervisión del consejo\n      Políticas anticorrupción\n      Decisiones transparentes\n      Rendición de cuentas a partes interesadas\n      Cadenas de suministro éticas\n    <b>Cadenas de suministro sostenibles</b>\n      Abastecimiento responsable\n      Estándares de proveedores\n      Minerales de conflicto\n      Prácticas de comercio justo\n      Sistemas de trazabilidad\n    <b>Compromiso de los empleados</b>\n      Cultura orientada al propósito\n      Programas de voluntariado\n      Donación basada en habilidades\n      Integración de la sostenibilidad\n      Bienestar de los empleados\n    <b>Marcos de RSE</b>\n      Normas GRI\n      Alineación con ODS de la ONU\n      ISO 26000\n      Certificación B Corp\n      Normas SASB\n    <b>Inversión de impacto</b>\n      Emprendimientos sociales\n      Beneficios ambientales\n      Resultados medibles\n      Valor combinado\n    <b>Participación de las partes interesadas</b>\n      Diálogo comunitario\n      Retroalimentación de clientes\n      Relaciones con inversionistas\n      Alianzas con ONG",
+            "complexity": "high",
+            "tags": [
+                "responsabilidad_social_corporativa",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

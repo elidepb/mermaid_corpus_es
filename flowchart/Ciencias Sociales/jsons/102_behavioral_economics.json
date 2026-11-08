@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "102",
+            "topic": "Economía del comportamiento",
+            "category": "Economía y psicología",
+            "description": "La economía del comportamiento integra conocimientos psicológicos en la teoría económica para explicar la toma de decisiones humana real. Este diagrama de flujo ilustra el proceso: partiendo del objetivo último de comprender y mejorar las decisiones del mundo real, destaca el papel de los impulsores psicológicos, incluidos los sesgos cognitivos (disponibilidad, anclaje) y los efectos de encuadre, que se formalizan en teorías clave como la teoría de las perspectivas, la racionalidad limitada y la contabilidad mental. Estos impulsores conducen a resultados subóptimos como el subahorro y el pánico. El diagrama muestra luego cómo la teoría del nudge (arquitectura de la elección) interviene para mitigar estos sesgos, logrando en última instancia un mejor bienestar individual y social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Economía del comportamiento</b><br>Integrar la psicología en la economía<br>para comprender las decisiones reales]:::titulo\n    B[<b>OBJETIVO ÚLTIMO</b><br>Comprender y mejorar<br>las decisiones del mundo real]:::goal\n    C[<b>IMPULSORES PSICOLÓGICOS</b>]:::drivers\n    subgraph D[Sesgos cognitivos y heurísticas]\n        D1[Disponibilidad, anclaje,<br>representatividad, exceso de confianza]\n    end\n    subgraph E[Encuadre y contexto]\n        E1[Cómo se presentan las opciones<br>afecta las decisiones]\n    end\n    subgraph F[Teorías clave]\n        F1[Teoría de las perspectivas<br>Aversión a la pérdida, dependencia de la referencia<br>Racionalidad limitada<br>Contabilidad mental]\n    end\n    G[<b>RESULTADOS</b><br>Elecciones subóptimas:<br>subahorro, pánico,<br>consumo excesivo]:::outcomes\n    H[<b>INTERVENCIÓN</b><br>Teoría del nudge:<br>Arquitectura de la elección para<br>mejorar las decisiones]:::intervention\n    I[<b>RESULTADO</b><br>Mejor bienestar individual<br>y social]:::result\n\n    A -->|busca| B\n    B -->|mediante el análisis de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|se formaliza en| F\n    D & E -->|conducen a| G\n    G -->|pueden mitigarse con| H\n    H -->|logrando| I\n\n    classDef titulo fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef drivers fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef outcomes fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333\n    classDef intervention fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef result fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "economia_del_comportamiento",
+                "sesgos_cognitivos",
+                "teoria_de_las_perspectivas",
+                "nudge",
+                "racionalidad_limitada",
+                "heuristicas",
+                "encuadre",
+                "aversion_a_la_perdida"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

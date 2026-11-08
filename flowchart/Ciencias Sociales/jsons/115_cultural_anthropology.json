@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "115",
+            "topic": "Antropología cultural",
+            "category": "Antropología",
+            "description": "La antropología cultural es el estudio científico de las culturas humanas, las creencias, las prácticas y la organización social. Este diagrama de flujo ilustra su enfoque sistemático: el objetivo último es comprender la diversidad cultural y la experiencia humana. Integra conceptos centrales (cultura, relativismo cultural, holismo, etnocentrismo, comparación) con métodos etnográficos rigurosos (observación participante, entrevistas, notas de campo). Estos métodos se aplican dentro de los principales marcos teóricos (funcionalismo estructural, antropología simbólica e interpretativa, materialismo cultural, enfoques feministas y posestructuralistas) para analizar fenómenos culturales. La síntesis produce conocimientos sobre cómo la cultura configura el comportamiento, la identidad y el cambio social, y en última instancia promueve la comprensión intercultural y cuestiona el sesgo etnocéntrico.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Antropología cultural</b><br>Estudio científico de las culturas humanas,<br>creencias y prácticas]:::title\n    B[<b>OBJETIVO</b><br>Comprender la diversidad cultural<br>y la experiencia humana]:::goal\n    C[<b>CONCEPTOS CENTRALES</b>]:::concepts\n    subgraph D[Cultura y cosmovisión]\n        D1[Cultura como aprendida y compartida<br>Relativismo cultural frente a etnocentrismo<br>Holismo y comparación]\n    end\n    subgraph E[Metodología]\n        E1[Etnografía<br>Observación participante<br>Entrevistas y notas de campo]\n    end\n    subgraph F[Marcos teóricos]\n        F1[\"Funcionalismo estructural<br>Simbólica e interpretativa (Geertz)<br>Materialismo cultural<br>Feminista y posestructuralista\"]\n    end\n    G[<b>ANÁLISIS</b><br>Cómo la cultura configura el comportamiento,<br>la identidad y el cambio social]:::analysis\n    H[<b>RESULTADOS</b><br>Comprensión intercultural<br>y cuestionamiento del etnocentrismo]:::outcome\n\n    A -->|busca| B\n    B -->|integra| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|orientan| G\n    G -->|conduce a| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef concepts fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef analysis fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "antropologia_cultural",
+                "etnografia",
+                "relativismo_cultural",
+                "holismo",
+                "observacion_participante",
+                "antropologia_interpretativa",
+                "cultura",
+                "intercultural"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

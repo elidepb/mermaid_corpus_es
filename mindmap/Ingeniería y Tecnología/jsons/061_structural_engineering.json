@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Ingeniería estructural",
+            "category": "Ingeniería",
+            "description": "La ingeniería estructural abarca diversos métodos analíticos y enfoques de diseño. Los tipos de carga incluyen cargas muertas (permanentes), cargas vivas (ocupación), cargas ambientales (viento, sísmicas, nieve) y cargas especiales (impacto, térmicas). Los materiales estructurales cubren hormigón armado, acero estructural, hormigón pretensado, madera, mampostería y materiales compuestos. Los sistemas estructurales presentan pórticos a momento, pórticos arriostrados, muros de cortante, cerchas, arcos, cúpulas, sistemas de suspensión y estructuras de cables. Los métodos de análisis incluyen estática, dinámica estructural, análisis de elementos finitos (FEA), métodos matriciales y análisis de trayectorias de carga. Los códigos de diseño abarcan ACI (hormigón), AISC (acero), IBC (edificación internacional) y normas Eurocódigo. Las herramientas de software clave son SAP2000, ETABS, STAAD.Pro, RISA y Tekla Structures. Las aplicaciones cubren edificios en altura, puentes (viga, arco, suspensión, atirantados), estadios, torres, instalaciones industriales y estructuras marinas. Las consideraciones de diseño involucran resistencia, servicio, ductilidad, redundancia, durabilidad y constructibilidad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>estructural</b>))\n    <b>Tipos de carga</b>\n      Cargas muertas\n      Cargas vivas\n      Cargas de viento\n      Cargas sísmicas\n      Cargas de nieve\n      Cargas de impacto\n      Cargas térmicas\n    <b>Materiales</b>\n      Hormigón armado\n      Acero estructural\n      Hormigón pretensado\n      Madera\n      Mampostería\n      Composites\n    <b>Sistemas estructurales</b>\n      Pórticos a momento\n      Pórticos arriostrados\n      Muros de cortante\n      Cerchas\n      Arcos\n      Cúpulas\n      Sistemas de suspensión\n      Estructuras de cables\n    <b>Métodos de análisis</b>\n      Estática\n      Dinámica estructural\n      FEA\n      Métodos matriciales\n      Análisis de trayectorias de carga\n    <b>Códigos de diseño</b>\n      ACI (hormigón)\n      AISC (acero)\n      IBC\n      Eurocódigo\n    <b>Herramientas de software</b>\n      SAP2000\n      ETABS\n      STAAD.Pro\n      RISA\n      Tekla Structures\n    <b>Aplicaciones</b>\n      Edificios en altura\n      Puentes\n        Viga\n        Arco\n        Suspensión\n        Atirantados\n      Estadios\n      Torres\n      Instalaciones industriales\n      Estructuras marinas\n    <b>Consideraciones de diseño</b>\n      Resistencia\n      Servicio\n      Ductilidad\n      Redundancia\n      Durabilidad\n      Constructibilidad",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_estructural",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

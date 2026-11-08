@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "289",
+            "topic": "Gestión de marca",
+            "category": "Negocios",
+            "description": "La gestión de marca evolucionó de la simple identificación de producto a una disciplina estratégica sofisticada. El branding temprano comenzó con las marcas gremiales medievales y el marcado de ganado para identificar la propiedad. La Revolución Industrial (siglo XIX) trajo bienes envasados que requerían diferenciación de marca al pasar los productos de mercados locales a nacionales. Procter & Gamble fue pionera en los sistemas de gestión de marca en 1931, creando el rol de brand manager para un foco dedicado al producto. La filosofía publicitaria de David Ogilvy (décadas de 1950-1960) enfatizó la imagen de marca por encima de las características del producto. La teoría del posicionamiento de Al Ries y Jack Trout (década de 1970) revolucionó la diferenciación estratégica. Los conceptos de brand equity se formalizaron en las décadas de 1980-1990 mediante el marco de David Aaker, que cuantificaba el valor de marca. El Brand Asset Valuator, desarrollado por Young & Rubicam (1993), aportó una medición sistemática del capital de marca. El branding digital surgió con la adopción de internet a finales de la década de 1990 y en la de 2000. Las redes sociales transformaron las relaciones marca-cliente en las décadas de 2000-2010, exigiendo engagement en tiempo real. El branding impulsado por el propósito ganó protagonismo en la década de 2010, enfatizando la responsabilidad social. La gestión de marca actual integra alianzas con influencers, contenido generado por usuarios, personalización a escala y credenciales de sostenibilidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de marca\n    Medieval Era : Marcas gremiales\n                 : Identificación de propiedad\n    1800s : Revolución Industrial\n          : Branding de bienes envasados\n    1931 : Sistema de brand manager de P&G\n         : Rol de foco dedicado al producto\n    1950s-1960s : Imagen de marca de Ogilvy\n                : Imagen por encima de características\n    1970s : Teoría del posicionamiento\n          : Diferenciación de Ries y Trout\n    1980s-1990s : Formalización del brand equity\n                : Marco de Aaker\n    1993 : Brand Asset Valuator\n         : Medición sistemática del capital de marca\n    Late 1990s-2000s : Branding digital\n                     : Adopción de internet\n    2000s-2010s : Transformación de las redes sociales\n                : Engagement en tiempo real\n    2010s : Branding impulsado por el propósito\n          : Énfasis en la responsabilidad social\n    2020s : Personalización y sostenibilidad\n          : Customización a escala y enfoque ESG",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_marca",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

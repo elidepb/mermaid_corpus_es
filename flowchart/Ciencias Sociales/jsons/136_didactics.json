@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didáctica",
+            "category": "Educación",
+            "description": "La didáctica es la ciencia de la enseñanza y el aprendizaje, centrada en la planificación, la implementación y la evaluación de la instrucción. Este diagrama de flujo traza su enfoque sistemático: el objetivo último es posibilitar un aprendizaje eficaz y significativo. Integra componentes centrales: planificación instructiva (análisis curricular, secuenciación de contenidos, objetivos de aprendizaje), decisiones metodológicas (métodos de enseñanza, medios, formas sociales) y evaluación (diagnóstica, formativa, sumativa). Estos se informan por fundamentos teóricos (didáctica constructivista, didáctica crítico-comunicativa, teorías centradas en la Bildung) y se ponen en práctica mediante el ciclo de enseñanza planificar-implementar-evaluar-reflexionar-adaptar. El proceso produce aprendices competentes y con pensamiento crítico, así como resultados educativos significativos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Didáctica</b><br>Ciencia de la enseñanza y el aprendizaje,<br>centrada en la planificación instructiva<br>y en la selección de contenidos y métodos]:::title\n    B[<b>OBJETIVO</b><br>Posibilitar un aprendizaje eficaz y significativo<br>mediante una instrucción bien diseñada]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::components\n    subgraph D[Planificación instructiva]\n        D1[Análisis curricular<br>Selección y secuenciación de contenidos<br>Objetivos de aprendizaje]\n    end\n    subgraph E[Decisiones metodológicas]\n        E1[\"Métodos de enseñanza<br>Medios y materiales<br>Formas sociales (individual, grupal)\"]\n    end\n    subgraph F[Evaluación y valoración]\n        F1[Diagnóstica, formativa, sumativa<br>Retroalimentación y calificación]\n    end\n    G[<b>FUNDAMENTOS TEÓRICOS</b><br>Didáctica constructivista, didáctica<br>crítico-comunicativa, teorías centradas en la Bildung]:::theory\n    H[<b>CICLO DE ENSEÑANZA</b><br>Planificar → Implementar → Evaluar → Reflexionar<br>→ Adaptar]:::cycle\n    I[<b>RESULTADOS</b><br>Desarrollo de la competencia del alumnado,<br>aprendizaje significativo, pensamiento crítico]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|informado por| G\n    G -->|guía| H\n    H -->|produce| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef components fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef cycle fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "didactica",
+                "diseno_instructivo",
+                "metodos_de_ensenanza",
+                "curriculo",
+                "evaluacion",
+                "constructivismo",
+                "bildung"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

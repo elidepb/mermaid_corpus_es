@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "273",
+            "topic": "Análisis financiero",
+            "category": "Negocios",
+            "description": "El análisis financiero abarca herramientas y metodologías integrales para evaluar la salud financiera de las empresas. Los ratios financieros incluyen ratios de liquidez que miden el ratio corriente y el ratio rápido, ratios de rentabilidad que calculan ROE, ROA y márgenes de beneficio, ratios de eficiencia que evalúan la rotación de activos y la gestión de inventarios, y ratios de apalancamiento que valoran la deuda sobre patrimonio y la cobertura de intereses. Los estados financieros comprenden el balance general que muestra activos, pasivos y patrimonio, el estado de resultados que detalla ingresos y gastos, el estado de flujos de efectivo que rastrea movimientos de caja y el estado de patrimonio de los accionistas. Los métodos de valoración aplican modelos de flujo de caja descontado, múltiplos de empresas comparables, análisis de transacciones precedentes y enfoques basados en activos. El análisis DuPont descompone el ROE en margen de beneficio, rotación de activos y componentes de apalancamiento financiero. El análisis crediticio evalúa el riesgo de impago, las calificaciones crediticias y la capacidad de servicio de la deuda. El análisis de tendencias identifica patrones, variaciones estacionales y movimientos cíclicos que afectan el desempeño.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Análisis<br>financiero</b>))\n    <b>Ratios de liquidez</b>\n      Ratio corriente\n      Ratio rápido\n      Ratio de efectivo\n      Capital de trabajo\n      Flujo de caja operativo\n    <b>Ratios de rentabilidad</b>\n      Cálculo del ROE\n      Medición del ROA\n      Márgenes de beneficio\n      Margen EBITDA\n      Ratio de beneficio bruto\n    <b>Ratios de eficiencia</b>\n      Rotación de activos\n      Rotación de inventarios\n      Rotación de cuentas por cobrar\n      Periodo de cuentas por pagar\n      Ciclo de conversión de efectivo\n    <b>Ratios de apalancamiento</b>\n      Deuda sobre patrimonio\n      Cobertura de intereses\n      Ratio de endeudamiento\n      Multiplicador de patrimonio\n      Cobertura de cargos fijos\n    <b>Estados financieros</b>\n      Balance general\n      Estado de resultados\n      Estado de flujos de efectivo\n      Patrimonio de los accionistas\n      Notas y revelaciones\n    <b>Métodos de valoración</b>\n      Modelos DCF\n      Empresas comparables\n      Transacciones precedentes\n      Valoración basada en activos\n      Modelo de descuento de dividendos\n    <b>Análisis DuPont</b>\n      Descomposición del ROE\n      Margen de beneficio\n      Rotación de activos\n      Apalancamiento financiero\n      Impulsores del desempeño\n    <b>Análisis crediticio</b>\n      Riesgo de impago\n      Calificaciones crediticias\n      Capacidad de servicio de la deuda\n      Cumplimiento de covenants",
+            "complexity": "high",
+            "tags": [
+                "analisis_financiero",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "114",
+            "topic": "Psicología organizacional",
+            "category": "Psicología y empresa",
+            "description": "Este mapa mental organiza el campo de la psicología organizacional en torno a su concepto central. Se ramifica en temas nucleares (satisfacción laboral, motivación, liderazgo, trabajo en equipo, cultura organizacional, estrés, equilibrio trabajo-vida), teorías principales (jerarquía de Maslow, bifactorial de Herzberg, establecimiento de metas, expectativa, equidad, modelo de características del puesto), métodos de investigación (encuestas, experimentos, entrevistas, observaciones, analítica de grandes datos), aplicaciones clave (gestión del talento, capacitación y desarrollo, evaluación del desempeño, cambio organizacional, diversidad e inclusión) y figuras destacadas (Hugo Münsterberg, Frederick Taylor, Elton Mayo, Edwin Locke, Adam Grant). La estructura ilustra la amplitud de la disciplina para comprender y mejorar el comportamiento en el trabajo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psicología organizacional))\n    Temas_centrales\n      Satisfacción_laboral\n      Motivación\n      Liderazgo\n      Trabajo_en_equipo\n      Cultura_organizacional\n      Estrés\n      Equilibrio_trabajo-vida\n    Teorías_clave\n      Jerarquía_de_Maslow\n      Bifactorial_de_Herzberg\n      Establecimiento_de_metas\n      Expectativa\n      Equidad\n      Características_del_puesto\n    Métodos\n      Encuestas\n      Experimentos\n      Entrevistas\n      Observaciones\n      Analítica_de_grandes_datos\n    Aplicaciones\n      Gestión_del_talento\n      Capacitación_y_desarrollo\n      Evaluación_del_desempeño\n      Cambio_organizacional\n      Diversidad_e_inclusión\n    Figuras_destacadas\n      Hugo_Münsterberg\n      Frederick_Taylor\n      Elton_Mayo\n      Edwin_Locke\n      Adam_Grant",
+            "complexity": "high",
+            "tags": [
+                "psicología_organizacional",
+                "mapa_mental",
+                "motivación",
+                "liderazgo",
+                "satisfacción_laboral",
+                "teorías",
+                "gestión_del_talento",
+                "cultura_organizacional"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

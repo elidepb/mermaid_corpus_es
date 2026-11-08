@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "264",
+            "topic": "Emprendimiento",
+            "category": "Negocios",
+            "description": "El emprendimiento abarca capacidades y actividades multifacéticas que impulsan la creación de empresas. La gestión de la innovación genera soluciones novedosas mediante design thinking, tecnologías disruptivas y desarrollo de productos. Las estrategias de financiamiento incluyen bootstrapping, inversionistas ángeles, capital de riesgo y plataformas de crowdfunding. Las tácticas de entrada al mercado establecen posicionamiento competitivo, canales de captación de clientes y modelos de precios. La construcción de equipos recluta cofundadores, desarrolla la cultura organizacional y gestiona el crecimiento del talento. La gestión de riesgos identifica incertidumbres, elabora planes de contingencia y toma decisiones de pivote. La innovación del modelo de negocio diseña propuestas de valor, flujos de ingresos y vías de escalabilidad. El networking cultiva relaciones de mentoría, alianzas estratégicas y conexiones sectoriales que aceleran el crecimiento.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Emprendimiento</b>))\n    <b>Innovación</b>\n      Design thinking\n      Tecnología disruptiva\n      Desarrollo de productos\n      Resolución creativa de problemas\n      Inversión en I+D\n    <b>Estrategias de financiamiento</b>\n      Bootstrapping\n      Inversionistas ángeles\n      Capital de riesgo\n      Crowdfunding\n      Inversionistas estratégicos\n    <b>Entrada al mercado</b>\n      Posicionamiento competitivo\n      Captación de clientes\n      Modelos de precios\n      Estrategia de salida al mercado\n      Adoptadores tempranos\n    <b>Construcción de equipos</b>\n      Reclutamiento de cofundadores\n      Desarrollo de cultura\n      Captación de talento\n      Habilidades de liderazgo\n      Distribución de capital\n    <b>Gestión de riesgos</b>\n      Análisis de incertidumbre\n      Planificación de contingencias\n      Decisiones de pivote\n      Recuperación ante el fracaso\n    <b>Modelos de negocio</b>\n      Propuesta de valor\n      Flujos de ingresos\n      Diseño de escalabilidad\n      Economía unitaria\n    <b>Networking</b>\n      Relaciones de mentoría\n      Alianzas estratégicas\n      Conexiones sectoriales\n      Programas de aceleración",
+            "complexity": "high",
+            "tags": [
+                "emprendimiento",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

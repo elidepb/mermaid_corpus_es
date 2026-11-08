@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Trabajo social",
+            "category": "Ciencias sociales y práctica",
+            "description": "Esta cronología traza el desarrollo del trabajo social, desde el socorro caritativo hasta una profesión mundial. Los hitos clave incluyen el establecimiento de la Charity Organization Society (Londres, 1869) y Hull House (Jane Addams, 1889), que marcaron el movimiento de settlements; Social Diagnosis de Mary Richmond (1917), fundamento del casework profesional; las primeras escuelas de trabajo social (Ámsterdam 1899, Columbia 1898, Chicago 1920); la Gran Depresión y la expansión del welfare público del New Deal (década de 1930); el auge de los enfoques psicoanalíticos (décadas de 1940‑50), seguidos de los giros sistémico y ecológico (décadas de 1960‑70); el surgimiento de las prácticas antiopresivas y de empoderamiento (décadas de 1980‑90); la introducción de la práctica basada en evidencia (décadas de 1990‑2000); y el enfoque contemporáneo en el trabajo social global, la práctica digital y la decolonización (décadas de 2010‑2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del trabajo social\n    section Caridad y settlement\n      1869 : Charity Organization Society<br>(Londres)\n      1889 : Jane Addams funda Hull House\n      1898 : Primera escuela de trabajo social de EE. UU.<br>(Columbia)\n      1899 : Primera escuela europea<br>(Ámsterdam)\n    section Profesionalización\n      1917 : Mary Richmond<br>Diagnóstico social (trabajo de casos)\n      1920s : Clínicas de orientación infantil,<br>trabajo social psiquiátrico\n    section Depresión y New Deal\n      1930s : Gran Depresión – expansión<br>del socorro público\n      1935 : Social Security Act de EE. UU.<br>Conferencia de Milford (genérico vs. especialista)\n    section Sistemas y giro radical\n      1960s : Derechos civiles, Guerra contra la Pobreza\n      1970s : Teoría de sistemas, perspectiva<br>ecológica (Germain, Gitterman)\n    section Empoderamiento y evidencia\n      1980s : Práctica antiopresiva,<br>enfoques de empoderamiento\n      1990s : Práctica basada en evidencia<br>(Gibbs, Gambrill)\n    section Global y contemporáneo\n      2000s : Federación Internacional de<br>Trabajadores Sociales – definición mundial\n      2010s : Práctica digital,<br>atención informada por el trauma\n      2020s : Decolonizar el trabajo social,<br>justicia climática, resiliencia comunitaria",
+            "complexity": "high",
+            "tags": [
+                "trabajo_social",
+                "historia",
+                "linea_de_tiempo",
+                "charity_organization_society",
+                "hull_house",
+                "mary_richmond",
+                "new_deal",
+                "practica_basada_en_evidencia"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "125",
+            "topic": "Geografía física",
+            "category": "Geografía",
+            "description": "Esta cronología destaca desarrollos clave de la geografía física. Los primeros fundamentos incluyen la ciencia de la Tierra holística de Humboldt (principios del siglo XIX). A finales del siglo XIX, William Morris Davis propuso el ciclo de erosión (1889) y G.K. Gilbert impulsó la geomorfología de procesos. A principios del siglo XX surgieron los métodos cuantitativos y la clasificación climática de Thornthwaite (1948). A mediados de siglo llegaron la revolución cuantitativa (décadas de 1950-60) y la teoría de sistemas. La teledetección satelital (Landsat, 1972) y el SIG revolucionaron la recolección de datos. A finales del siglo XX surgió la ciencia del sistema Tierra (Comité de Ciencia del Sistema Tierra de la NASA, 1988). El siglo XXI enfatiza la investigación sobre el cambio climático, las redes de sensores en tiempo real y la analítica de big data.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la geografía física\n    section Primeros fundamentos\n      early 1800s : Alexander von Humboldt<br>Ciencia de la Tierra holística\n    section Finales del siglo XIX\n      1889 : W.M. Davis<br>Ciclo de erosión\n      1890s : G.K. Gilbert<br>Geomorfología de procesos\n    section Principios del siglo XX\n      1948 : C.W. Thornthwaite<br>Clasificación climática\n    section Revolución cuantitativa\n      1950s‑60s : Métodos cuantitativos<br>teoría de sistemas en geografía\n    section Teledetección y SIG\n      1972 : Lanzamiento de Landsat 1<br>teledetección satelital\n      1980s : El SIG se generaliza\n    section Ciencia del sistema Tierra\n      1988 : Comité de Ciencia del Sistema<br>Tierra de la NASA\n      1990s : Modelos climáticos globales<br>integración interdisciplinaria\n    section Contemporánea\n      2000s : Redes de sensores en tiempo real<br>cartografía con UAV y LiDAR\n      2010s‑20s : Big data, IA,<br>adaptación al cambio climático",
+            "complexity": "high",
+            "tags": [
+                "geografia_fisica",
+                "historia",
+                "linea_de_tiempo",
+                "davis",
+                "teledeteccion",
+                "GIS",
+                "ciencia_del_sistema_tierra",
+                "cambio_climatico"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

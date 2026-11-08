@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "286",
+            "topic": "Capital de riesgo",
+            "category": "Negocios",
+            "description": "El capital de riesgo es la financiación especializada de startups y empresas en etapas tempranas con alto potencial de crecimiento a cambio de participación accionaria, aportando capital, expertise y redes para acelerar el crecimiento. Comienza con la captación de operaciones, identificando oportunidades de inversión mediante redes, eventos de presentación, aceleradoras y contacto proactivo. La diligencia debida realiza una evaluación integral de la calidad del equipo, la oportunidad de mercado, la viabilidad tecnológica, el posicionamiento competitivo y las proyecciones financieras. La decisión de inversión implica consenso de los socios, negociación de la valoración y preparación de la hoja de términos que define participaciones, asientos en el consejo y disposiciones de protección. El despliegue de capital estructura las inversiones en rondas semilla, Serie A, B y C con financiación por etapas ligada al logro de hitos. La creación de valor proporciona orientación estratégica, apoyo operativo, presentaciones a clientes, reclutamiento de talento y coordinación de financiación posterior. El monitoreo de la cartera sigue indicadores clave de desempeño, tasa de quema, métricas de crecimiento y amenazas competitivas mediante participación en el consejo. La ejecución de la estrategia de salida busca liquidez mediante ofertas públicas iniciales, adquisiciones estratégicas o ventas secundarias para realizar rendimientos. El objetivo es generar rendimientos superiores respaldando a emprendedores excepcionales que construyen negocios escalables en mercados de gran tamaño.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Capital de riesgo</b><br>Financiación de startups de alto crecimiento<br>a cambio de participación]:::title\n    B[<b>META PRINCIPAL</b><br>Generar rendimientos superiores mediante<br>negocios escalables]:::goal\n    C[<b>PROCESO DE CR</b>]:::process\n    \n    subgraph D[Captación de operaciones]\n        D1[Identificar oportunidades mediante<br>redes y eventos de presentación]\n    end\n    \n    subgraph E[Diligencia debida]\n        E1[Evaluar equipo, mercado,<br>tecnología y finanzas]\n    end\n    \n    subgraph F[Decisión de inversión]\n        F1[Negociar valoración y<br>hoja de términos]\n    end\n    \n    subgraph G[Despliegue de capital]\n        G1[Estructurar semilla, Serie A-C<br>con financiación por etapas]\n    end\n    \n    subgraph H[Creación de valor]\n        H1[Proporcionar orientación, apoyo,<br>presentaciones y talento]\n    end\n    \n    subgraph I[Monitoreo de la cartera]\n        I1[Seguir KPI, tasa de quema<br>y métricas de crecimiento]\n    end\n    \n    subgraph J[Estrategia de salida]\n        J1[Buscar OPI, adquisición<br>o ventas secundarias]\n    end\n    \n    K[<b>RESULTADO</b><br>Rendimientos excepcionales de<br>salidas exitosas]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|reciclaje de fondos| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "capital_de_riesgo",
+                "finanzas",
+                "startups",
+                "capital_privado",
+                "diligencia_debida"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

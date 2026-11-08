@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Gestión de la calidad",
+            "category": "Negocios",
+            "description": "La gestión de la calidad abarca filosofías, herramientas y sistemas para la excelencia organizacional. Las filosofías de la calidad incluyen la Gestión de la Calidad Total, que enfatiza el compromiso de toda la organización, los 14 puntos de Deming para la transformación, la trilogía de la calidad de Juran de planificación-control-mejora y el concepto de cero defectos de Crosby. Las herramientas de calidad emplean gráficos de control para el monitoreo, análisis de Pareto para la priorización, diagramas de causa-efecto para el análisis de causa raíz, flujogramas para el mapeo de procesos y hojas de verificación para la recolección de datos. La metodología Seis Sigma reduce la variación mediante el marco DMAIC (Definir-Medir-Analizar-Mejorar-Controlar) y el rigor estadístico. Las normas ISO proporcionan marcos de certificación, incluida ISO 9001 para sistemas de gestión de la calidad. Los principios lean eliminan el desperdicio mediante el mapeo de la cadena de valor, la producción justo a tiempo y el flujo continuo. Los costos de la calidad incluyen costos de prevención, costos de evaluación, costos de fallas internas y costos de fallas externas. El enfoque en el cliente impulsa el análisis de la voz del cliente, la medición de la satisfacción y la traducción de requisitos.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>la calidad</b>))\n    <b>Filosofías de la calidad</b>\n      Gestión de la Calidad Total\n      14 puntos de Deming\n      Trilogía de Juran\n      Cero defectos de Crosby\n      Enfoque de Feigenbaum\n    <b>Herramientas de calidad</b>\n      Gráficos de control\n      Análisis de Pareto\n      Diagramas de Ishikawa\n      Flujogramas\n      Hojas de verificación\n      Histogramas\n      Diagramas de dispersión\n    <b>Seis Sigma</b>\n      Marco DMAIC\n      Rigor estadístico\n      Sistema de cinturones\n      Reducción de variación\n      Capacidad del proceso\n    <b>Normas ISO</b>\n      Certificación ISO 9001\n      Sistemas de gestión de la calidad\n      Requisitos de documentación\n      Procesos de auditoría\n      Mejora continua\n    <b>Principios lean</b>\n      Eliminación de desperdicios\n      Mapeo de la cadena de valor\n      Justo a tiempo\n      Flujo continuo\n      Metodología 5S\n    <b>Costos de la calidad</b>\n      Costos de prevención\n      Costos de evaluación\n      Fallas internas\n      Fallas externas\n      Optimización de costos\n    <b>Enfoque en el cliente</b>\n      Voz del cliente\n      Medición de satisfacción\n      Traducción de requisitos\n      Bucles de retroalimentación\n    <b>Mejora de procesos</b>\n      Eventos Kaizen\n      Ciclo PHVA\n      Análisis de causa raíz\n      Benchmarking",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_la_calidad",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

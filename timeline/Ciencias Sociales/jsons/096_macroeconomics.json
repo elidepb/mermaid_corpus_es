@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "096",
+            "topic": "Macroeconomía",
+            "category": "Economía",
+            "description": "La historia de la macroeconomía se despliega a través de obras y acontecimientos seminales: La riqueza de las naciones de Adam Smith (1776) sentó los cimientos clásicos; la Gran Depresión impulsó la Teoría general de Keynes (1936), que marca el nacimiento de la macro moderna. Las décadas de 1950-60 trajeron el desafío monetarista (Friedman y Schwartz); la de 1970 vio las expectativas racionales (crítica de Lucas) y la estanflación, mientras que las de 1980-90 forjaron la síntesis neokeynesiana. La crisis financiera mundial de 2008 impulsó la regulación macroprudencial y un renovado énfasis en la estabilidad financiera.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la macroeconomía\n    1776 : Adam Smith publica<br>La riqueza de las naciones\n    1936 : Teoría general de Keynes<br>Nacimiento de la macro moderna\n    1950s-60s : Contrarrevolución monetarista<br>Friedman y Schwartz\n    1958 : Se introduce la curva de Phillips\n    1970s : Expectativas racionales<br>Crítica de Lucas\n    1980s-90s : Síntesis neokeynesiana<br>Modelos del ciclo económico real\n    2008-09 : Crisis financiera mundial<br>Regulación macroprudencial",
+            "complexity": "medium",
+            "tags": [
+                "macroeconomia",
+                "historia_de_la_economia",
+                "Keynes",
+                "Friedman",
+                "critica_de_Lucas",
+                "gran_recesion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

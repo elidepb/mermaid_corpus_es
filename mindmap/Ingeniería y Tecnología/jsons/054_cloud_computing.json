@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "054",
+            "topic": "Computación en la nube",
+            "category": "Ciencias de la computación",
+            "description": "La computación en la nube abarca múltiples dimensiones y componentes. Los modelos de servicio incluyen IaaS (AWS EC2, Azure VMs), PaaS (Google App Engine, Heroku) y SaaS (Gmail, Salesforce, Office 365). Los proveedores principales son AWS, Microsoft Azure, Google Cloud e IBM Cloud. Los tipos de despliegue cubren entornos públicos, privados, híbridos y multinube. Las características esenciales incluyen elasticidad, escalabilidad, tarificación de pago por uso y agrupación de recursos. Las tecnologías implican virtualización, contenedorización (Docker, Kubernetes) y computación serverless. Los beneficios incluyen ahorro de costes, flexibilidad, recuperación ante desastres y actualizaciones automáticas, mientras que los retos abarcan preocupaciones de seguridad, dependencia del proveedor, problemas de cumplimiento y riesgos de indisponibilidad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Computación en<br>la nube</b>))\n    <b>Modelos de servicio</b>\n      IaaS\n        AWS EC2\n        Azure VMs\n      PaaS\n        Google App Engine\n        Heroku\n      SaaS\n        Gmail\n        Salesforce\n        Office 365\n    <b>Proveedores principales</b>\n      AWS\n      Microsoft Azure\n      Google Cloud\n      IBM Cloud\n    <b>Tipos de despliegue</b>\n      Nube pública\n      Nube privada\n      Nube híbrida\n      Multinube\n    <b>Características clave</b>\n      Elasticidad\n      Escalabilidad\n      Pago por uso\n      Agrupación de recursos\n      Bajo demanda\n    <b>Tecnologías</b>\n      Virtualización\n      Contenedorización\n        Docker\n        Kubernetes\n      Serverless\n    <b>Beneficios</b>\n      Ahorro de costes\n      Flexibilidad\n      Recuperación ante desastres\n      Actualizaciones automáticas\n    <b>Retos</b>\n      Preocupaciones de seguridad\n      Dependencia del proveedor\n      Cumplimiento\n      Riesgos de indisponibilidad",
+            "complexity": "high",
+            "tags": [
+                "computación_en_la_nube",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

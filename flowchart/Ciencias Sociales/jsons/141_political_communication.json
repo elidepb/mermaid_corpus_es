@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Comunicación política",
+            "category": "Comunicación y ciencia política",
+            "description": "La comunicación política estudia el intercambio de mensajes entre actores políticos, medios y público. Este diagrama de flujo describe el proceso: el objetivo último es comprender y explicar cómo la comunicación da forma al poder político y a la opinión pública. Integra componentes centrales: actores políticos (candidatos, partidos, gobiernos) que elaboran mensajes y campañas; sistemas y canales mediáticos (medios de masas tradicionales, plataformas digitales, redes interpersonales) que los filtran y transmiten; y audiencias (ciudadanos, votantes, grupos de interés) que reciben, interpretan y responden. Estos componentes se analizan mediante marcos teóricos principales —establecimiento de la agenda, encuadre, priming, espiral del silencio, usos y gratificaciones, y teoría del cultivo— que explican las vías de influencia. El ciclo de la comunicación política (los actores codifican → los medios filtran → las audiencias decodifican → retroalimentación) configura de forma continua resultados como la participación política, la polarización, la legitimación y el cambio de políticas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Comunicación política</b><br>Intercambio de mensajes entre actores<br>políticos, medios y público]:::title\n    B[<b>OBJETIVO</b><br>Comprender cómo la comunicación<br>da forma al poder y a la opinión pública]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Actores políticos y mensajes]\n        D1[Candidatos, partidos, gobiernos<br>Estrategias de campaña, discursos<br>Anuncios, propaganda, debates]\n    end\n    subgraph E[Sistemas y canales mediáticos]\n        E1[\"Medios de masas tradicionales (TV, radio, prensa)<br>Plataformas digitales y redes sociales<br>Redes interpersonales\"]\n    end\n    subgraph F[Audiencias y efectos]\n        F1[Ciudadanos, votantes, grupos de interés<br>Interpretación, formación de opinión<br>Conducta política y retroalimentación]\n    end\n    G[<b>LENTES TEÓRICAS</b><br>Establecimiento de la agenda, encuadre, priming<br>Espiral del silencio, usos y gratificaciones<br>Teoría del cultivo]:::theory\n    H[<b>CICLO DE COMUNICACIÓN</b><br>Los actores codifican → Los medios hacen gatekeeping →<br>Las audiencias decodifican → Retroalimentación]:::process\n    I[<b>RESULTADOS</b><br>Participación política, polarización,<br>legitimación, cambio de políticas]:::outcome\n\n    A -->|pretende| B\n    B -->|examina| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|analizado mediante| G\n    G -->|explica| H\n    H -->|produce| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "comunicacion_politica",
+                "establecimiento_de_la_agenda",
+                "encuadre",
+                "opinion_publica",
+                "medios",
+                "campanas_politicas",
+                "persuasion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

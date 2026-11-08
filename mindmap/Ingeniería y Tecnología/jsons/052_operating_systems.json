@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "052",
+            "topic": "Sistemas operativos",
+            "category": "Ciencias de la computación",
+            "description": "Los sistemas operativos abarcan múltiples componentes y conceptos interconectados. En el nivel de hardware, gestionan la CPU, la memoria, el almacenamiento y los dispositivos de E/S. Los tipos clave de SO incluyen Windows, Linux, macOS y Unix. Los servicios críticos comprenden la planificación de procesos (multitarea), la asignación de memoria (memoria virtual, paginación), los sistemas de archivos (NTFS, ext4, FAT), los controladores de dispositivos y los mecanismos de seguridad (autenticación, control de acceso). La interfaz de usuario puede ser gráfica o de línea de comandos, mientras que las arquitecturas de núcleo varían entre diseños monolíticos y de micronúcleo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Sistemas<br>operativos</b>))\n    <b>Capa de hardware</b>\n      CPU\n      Memoria\n      Almacenamiento\n      Dispositivos de E/S\n    <b>Tipos de SO</b>\n      Windows\n      Linux\n      macOS\n      Unix\n    <b>Gestión de procesos</b>\n      Planificación\n      Multitarea\n      Control de hilos\n      Cambio de contexto\n    <b>Gestión de memoria</b>\n      Memoria virtual\n      Paginación\n      Segmentación\n      Asignación\n    <b>Sistemas de archivos</b>\n      NTFS\n      ext4\n      FAT32\n      HFS+\n    <b>Gestión de E/S</b>\n      Controladores de dispositivos\n      Buffering\n      Spooling\n    <b>Seguridad</b>\n      Autenticación\n      Control de acceso\n      Cifrado\n    <b>Interfaz de usuario</b>\n      GUI\n      CLI\n    <b>Arquitectura del núcleo</b>\n      Monolítico\n      Micronúcleo\n      Híbrido",
+            "complexity": "high",
+            "tags": [
+                "sistemas_operativos",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

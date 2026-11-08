@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometría",
+            "category": "Economía",
+            "description": "La historia de la econometría rastrea la evolución de los métodos empíricos en economía. Comienza en 1930 con la fundación de la Econometric Society, seguida en 1933 por el trabajo de la Cowles Commission sobre modelos de ecuaciones estructurales. El tratado de Trygve Haavelmo de 1944 sentó los fundamentos probabilísticos de la econometría moderna. Clive Granger introdujo el concepto de causalidad en series temporales en 1969, mientras que Box y Jenkins popularizaron los modelos ARIMA en 1970. El modelo ARCH de Robert Engle (1982) abrió la puerta a la modelización de la volatilidad en finanzas. El Premio Nobel de 2000 otorgado a James Heckman y Daniel McFadden reconoció avances en microeconometría, selección muestral y modelos de elección discreta, consolidando el papel de la econometría en la economía aplicada.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la econometría\n    1930 : Fundación de la Econometric Society\n    1933 : Cowles Commission<br>Modelos de ecuaciones estructurales\n    1944 : Enfoque probabilístico de Haavelmo<br>Fundamentos probabilísticos\n    1969 : Causalidad de Granger<br>Econometría de series temporales\n    1970 : Box y Jenkins<br>Modelos ARIMA\n    1982 : Modelo ARCH de Engle<br>Modelización de la volatilidad\n    2000 : Premio Nobel<br>Heckman y McFadden (microeconometría)",
+            "complexity": "medium",
+            "tags": [
+                "econometria",
+                "historia",
+                "Haavelmo",
+                "Granger",
+                "ARCH",
+                "premio_Nobel"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

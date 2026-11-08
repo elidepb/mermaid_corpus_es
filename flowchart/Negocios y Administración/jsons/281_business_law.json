@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "281",
+            "topic": "Derecho empresarial",
+            "category": "Negocios/Derecho",
+            "description": "El derecho empresarial es el conjunto integral de normas y regulaciones legales que rigen las actividades comerciales, la constitución de empresas, las transacciones y los conflictos. Comienza con la selección de la forma jurídica, eligiendo estructuras como empresa unipersonal, sociedad, corporación o LLC según responsabilidad, tributación y necesidades operativas. La formación de contratos establece acuerdos jurídicamente vinculantes mediante oferta, aceptación, contraprestación y consentimiento mutuo. El cumplimiento normativo asegura la adhesión a leyes específicas del sector, regulaciones laborales, protección al consumidor y estándares ambientales. La protección de la propiedad intelectual asegura marcas, patentes, derechos de autor y secretos comerciales mediante registro y ejecución. La ejecución de transacciones implementa fusiones, adquisiciones, financiación y acuerdos comerciales con la documentación adecuada. La resolución de conflictos aborda desacuerdos mediante negociación, mediación, arbitraje o litigio. La gestión de riesgos identifica exposiciones legales e implementa estrategias de mitigación, incluidos seguros y programas de cumplimiento. El objetivo es operar dentro de los límites legales, protegiendo activos, minimizando pasivos y facilitando los objetivos comerciales.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Derecho empresarial</b><br>Normas legales que rigen<br>las actividades comerciales]:::title\n    B[<b>META PRINCIPAL</b><br>Operar dentro de los límites legales<br>y proteger los activos]:::goal\n    C[<b>PROCESO LEGAL</b>]:::process\n    \n    subgraph D[Selección de la entidad]\n        D1[Elegir estructura según<br>responsabilidad y tributación]\n    end\n    \n    subgraph E[Formación de contratos]\n        E1[Establecer acuerdos vinculantes<br>mediante oferta y aceptación]\n    end\n    \n    subgraph F[Cumplimiento normativo]\n        F1[Adherirse a leyes sectoriales,<br>laborales y de consumo]\n    end\n    \n    subgraph G[Protección de PI]\n        G1[Asegurar marcas, patentes<br>y derechos de autor]\n    end\n    \n    subgraph H[Ejecución de transacciones]\n        H1[Implementar F&A, financiación<br>y acuerdos comerciales]\n    end\n    \n    subgraph I[Resolución de conflictos]\n        I1[Abordar conflictos mediante<br>negociación o litigio]\n    end\n    \n    subgraph J[Gestión de riesgos]\n        J1[Identificar exposiciones e<br>implementar mitigación]\n    end\n    \n    K[<b>RESULTADO</b><br>Cumplimiento legal y<br>protección de activos]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|puede requerir| I\n    F & G & H -->|respaldados por| J\n    J -->|logra| K\n    K -.->|requisitos continuos| F\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "derecho_empresarial",
+                "derecho",
+                "contratos",
+                "responsabilidad_civil",
+                "derecho_societario"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

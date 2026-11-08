@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "088",
+            "topic": "Ingeniería ferroviaria",
+            "category": "Ingeniería",
+            "description": "La ingeniería ferroviaria evolucionó de primitivos caminos de vagones a sofisticadas redes de alta velocidad que transforman el transporte y el comercio. Los primeros caminos de vagones tirados por caballos transportaban carbón en Inglaterra (siglos XVII-XVIII). La locomotora de vapor de Richard Trevithick (1804) demostró la tracción mecánica. El ferrocarril de Stockton y Darlington (1825) operó el primer ferrocarril de vapor público. La locomotora Rocket de George Stephenson (1829) estableció principios de diseño. La fiebre ferroviaria (década de 1840) vio una rápida expansión en Gran Bretaña y en el mundo. Los ferrocarriles transcontinentales conectaron continentes, incluido el First Transcontinental de EE. UU. (1869). Los frenos de aire inventados por George Westinghouse (1869) mejoraron la seguridad. La tracción eléctrica surgió con la demostración de Werner von Siemens (1879). El Orient Express (1883) ejemplificó el viaje ferroviario de lujo. Las locomotoras diésel-eléctricas se desarrollaron a principios del siglo XX. El Shinkansen de Japón (1964) fue pionero del ferrocarril de alta velocidad a 210 km/h. El TGV de Francia estableció récords de velocidad alcanzando 574,8 km/h (2007). Los sistemas de protección automática de trenes se volvieron obligatorios en Europa (décadas de 1990-2000). China construyó la mayor red de alta velocidad del mundo (décadas de 2000-2010). Los trenes maglev lograron operación comercial en Shanghái (2004). La ingeniería ferroviaria actual integra gemelos digitales, mantenimiento predictivo usando IA, operación autónoma de trenes y electrificación sostenible que reduce las emisiones de carbono.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ingeniería ferroviaria\n    1600s-1700s : Caminos de vagones tirados por caballos\n                : Transporte temprano de carbón\n    1804 : Locomotora de vapor de Trevithick\n         : Tracción mecánica demostrada\n    1825 : Ferrocarril de Stockton y Darlington\n         : Primer ferrocarril de vapor público\n    1829 : Rocket de Stephenson\n         : Principios de diseño establecidos\n    1840s : Fiebre ferroviaria\n          : Rápida expansión mundial\n    1869 : Transcontinental y frenos de aire\n         : Conexión continental y seguridad\n    1879 : Tracción eléctrica\n         : Demostración de Siemens\n    1883 : Orient Express\n         : Viaje ferroviario de lujo\n    Early 1900s : Locomotoras diésel-eléctricas\n                : Tracción alternativa\n    1964 : Alta velocidad Shinkansen\n         : Pionero a 210 km/h\n    2007 : Récord de velocidad del TGV\n         : Logro de 574,8 km/h\n    2004 : Maglev de Shanghái\n         : Levitación magnética comercial\n    2000s-2010s : Red de AV de China\n                : Mayor expansión del mundo\n    2020s : Gemelos digitales e IA\n          : Operación autónoma predictiva",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_ferroviaria",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

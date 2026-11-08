@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Gestión de recursos humanos",
+            "category": "Negocios",
+            "description": "La gestión de recursos humanos evolucionó de funciones administrativas de personal a una asociación estratégica de negocio. La era industrial (décadas de 1900-1920) se centró en programas de bienestar y relaciones laborales. La gestión científica introdujo el análisis sistemático de puestos. Los estudios de Hawthorne de la década de 1930 revelaron la importancia de los factores humanos en la productividad. El Título VII de la Ley de Derechos Civiles (1964) estableció la igualdad de oportunidades en el empleo. La GRH estratégica surgió en la década de 1980, vinculando las prácticas de personas a la estrategia empresarial. La década de 1990 trajo la gestión por competencias y el concepto de guerra por el talento. La de 2000 introdujo la analítica de RR. HH. y las prácticas basadas en evidencia. La GRH actual integra reclutamiento con IA, plataformas de experiencia del empleado e iniciativas de diversidad, equidad e inclusión.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de recursos humanos\n    1900s-1920s : Era del bienestar\n                : Relaciones laborales y prestaciones\n    1920s : Gestión científica\n          : Análisis de puestos y eficiencia\n    1930s : Estudios de Hawthorne\n          : Factores humanos en la productividad\n    1964 : Ley de Derechos Civiles\n         : Igualdad de oportunidades en el empleo\n    1980s : GRH estratégica\n          : Modelo de asociación de negocio\n    1990s : Gestión del talento\n          : Enfoque basado en competencias\n    2000s : Analítica de RR. HH.\n          : Decisiones basadas en datos\n    2010s : Experiencia del empleado\n          : Plataformas de engagement\n    2020s : Enfoque en IA y DEI\n          : RR. HH. inclusivos habilitados por tecnología",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_recursos_humanos",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometría",
+            "category": "Economía",
+            "description": "La econometría aplica métodos estadísticos y matemáticos a datos económicos para dar contenido empírico a las teorías económicas y verificarlas o refutarlas. El diagrama de flujo ilustra el proceso secuencial del análisis econométrico. Comienza con una teoría o hipótesis económica, seguida de la recopilación de datos pertinentes (transversales, de series temporales o de panel). A continuación se formula un modelo específico y se estiman sus parámetros. El modelo estimado se somete a contrastes de hipótesis y comprobaciones diagnósticas para evaluar su validez. Por último, el modelo se utiliza para la predicción o la evaluación de políticas. Si el modelo no supera los diagnósticos, el proceso vuelve a la especificación del modelo, creando un bucle de retroalimentación que asegura conclusiones empíricas sólidas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>ECONOMETRÍA</b><br>Análisis estadístico de<br>datos económicos]:::title\n    B[<b>PROPÓSITO ÚLTIMO</b><br>Contrastar teorías, estimar relaciones,<br>predecir y evaluar políticas]:::purpose\n    C[<b>PASOS CENTRALES</b>]:::steps\n    subgraph steps [ ]\n        D[Teoría económica<br>o hipótesis]\n        E[Recopilación de datos<br>Transversal, series temporales, panel]\n        F[Especificación del modelo<br>y estimación]\n        G[Contraste de hipótesis<br>y diagnósticos]\n        H[Predicción y<br>evaluación de políticas]\n    end\n    A -->|busca| B\n    B -->|se logra mediante| C\n    C --> D\n    D --> E\n    E --> F\n    F --> G\n    G --> H\n    H -->|retroalimentación si el modelo falla| F\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef purpose fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef steps fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    style steps fill:#f9f9f9,stroke:#888,stroke-width:1px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "econometria",
+                "analisis_de_datos",
+                "regresion",
+                "contraste_de_hipotesis",
+                "prediccion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

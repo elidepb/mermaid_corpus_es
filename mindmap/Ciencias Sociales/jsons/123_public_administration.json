@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Administración pública",
+            "category": "Ciencia política y gestión pública",
+            "description": "Este mapa mental organiza el campo de la administración pública en torno a su concepto central. Se ramifica en conceptos nucleares (interés público, rendición de cuentas, burocracia, trámites, descentralización, gobernanza), teorías principales (dicotomía política-administración de Wilson, burocracia ideal de Weber, toma de decisiones de Simon, nueva gestión pública, nuevo servicio público, gobernanza de la era digital), funciones clave (POSDCORB, implementación de políticas, presupuestación pública, gestión de recursos humanos, medición del desempeño), subcampos (AP comparada, análisis de políticas, gestión financiera pública, gobierno electrónico, gobierno local), pensadores clave (Woodrow Wilson, Max Weber, Luther Gulick, Herbert Simon, Elinor Ostrom) y desafíos contemporáneos (corrupción, innovación, gestión de crisis, transformación digital). El mapa ilustra la amplitud de la disciplina, de las ideas fundacionales a las aplicaciones modernas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Administración pública))\n    Conceptos_centrales\n      Interés_público\n      Rendición_de_cuentas\n      Burocracia\n      Trámites\n      Descentralización\n      Gobernanza\n    Teorías_principales\n      Dicotomía_de_Wilson\n      Burocracia_de_Weber\n      Toma_de_decisiones_de_Simon\n      Nueva_gestión_pública\n      Nuevo_servicio_público\n      Gobernanza_de_la_era_digital\n    Funciones_clave\n      POSDCORB\n      Implementación_de_políticas\n      Presupuestación_pública\n      Gestión_de_recursos_humanos\n      Medición_del_desempeño\n    Subcampos\n      AP_comparada\n      Análisis_de_políticas\n      Gestión_financiera_pública\n      Gobierno_electrónico\n      Gobierno_local\n    Pensadores_clave\n      Woodrow_Wilson\n      Max_Weber\n      Luther_Gulick\n      Herbert_Simon\n      Elinor_Ostrom\n    Desafíos_contemporáneos\n      Corrupción\n      Innovación\n      Gestión_de_crisis\n      Transformación_digital",
+            "complexity": "high",
+            "tags": [
+                "administración_pública",
+                "mapa_mental",
+                "gobernanza",
+                "burocracia",
+                "nueva_gestión_pública",
+                "gobierno_digital",
+                "rendición_de_cuentas"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "068",
+            "topic": "Ingeniería ambiental",
+            "category": "Ingeniería",
+            "description": "Los fundamentos de la ingeniería ambiental surgieron en el siglo XIX con las preocupaciones de salud pública que impulsaron mejoras de saneamiento y las primeras plantas de tratamiento de agua (Londres, 1829). A principios del siglo XX se trajo la cloración para la desinfección del agua (1908) y el desarrollo de plantas de tratamiento de aguas residuales. Las décadas de 1940-50 presenciaron el aumento de las preocupaciones por la contaminación industrial y las primeras regulaciones de calidad del aire. La década de 1960 marcó un decenio decisivo con Primavera silenciosa de Rachel Carson (1962) que elevó la conciencia ambiental y el comienzo de la legislación mayor. La década de 1970 vio leyes ambientales históricas: Clean Air Act (1970), Clean Water Act (1972), Safe Drinking Water Act (1974) y el establecimiento de la EPA (1970). La década de 1980 abordó los residuos peligrosos con la legislación RCRA y Superfund (CERCLA), además del desarrollo de tecnologías avanzadas de tratamiento. La década de 1990 trajo los conceptos de sostenibilidad, las metodologías de análisis de ciclo de vida y los principios de la química verde. La década de 2000 avanzó con mejoras de la tecnología de membranas, procesos de oxidación avanzada y consideraciones de cambio climático. Las de 2010-2020 continúan con los principios de economía circular, la investigación de microplásticos, las tecnologías de tratamiento de PFAS, la infraestructura verde, los sistemas de captura de carbono y las soluciones basadas en la naturaleza que se vuelven enfoques habituales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería ambiental</b>\n    \n    section Desarrollos iniciales\n        1800s : Saneamiento de salud pública\n              : Primer tratamiento de agua (1829)\n        Early 1900s : Cloración (1908)\n                    : Plantas de tratamiento de aguas residuales\n        1940s-50s : Preocupaciones por la contaminación industrial\n                  : Primeras regulaciones de calidad del aire\n    \n    section Conciencia ambiental\n        1962  : Publicación de Primavera silenciosa\n              : Rachel Carson\n        1960s : Comienza el movimiento ambiental\n              : Se inicia la legislación mayor\n    \n    section Era regulatoria\n        1970  : Establecimiento de la EPA\n              : Clean Air Act\n        1972  : Clean Water Act\n        1974  : Safe Drinking Water Act\n        1980s : RCRA y Superfund\n              : Enfoque en residuos peligrosos\n              : Tecnología avanzada de tratamiento\n    \n    section Enfoque en la sostenibilidad\n        1990s : Conceptos de sostenibilidad\n              : Análisis de ciclo de vida\n              : Química verde\n        2000s : Tecnología de membranas\n              : Oxidación avanzada\n              : Consideraciones climáticas\n    \n    section Era moderna\n        2010s-2020s : Economía circular\n                    : Investigación de microplásticos\n                    : Tratamiento de PFAS\n                    : Infraestructura verde\n                    : Captura de carbono\n                    : Soluciones basadas en la naturaleza",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_ambiental",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

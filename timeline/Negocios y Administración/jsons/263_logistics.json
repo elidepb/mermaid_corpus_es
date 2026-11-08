@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logística",
+            "category": "Negocios",
+            "description": "La logística ha evolucionado del transporte básico a sofisticadas redes mundiales. Rutas comerciales antiguas como la Ruta de la Seda (200 a. C.) establecieron conceptos logísticos tempranos. La expansión ferroviaria en el siglo XIX revolucionó el movimiento de mercancías. La contenerización, pionera de Malcolm McLean en 1956, estandarizó el manejo de carga y permitió el comercio mundial. El ejército de Estados Unidos desarrolló doctrina logística formal durante la Segunda Guerra Mundial y Corea. La desregulación del transporte por carretera y aéreo en la década de 1980 aumentó la competencia y la eficiencia. El auge de internet de la década de 1990 creó demandas de logística de comercio electrónico. La red de fulfillment de Amazon transformó la automatización de almacenes en la década de 2000. Uber Freight y los brókers de flete digitales alteraron los modelos tradicionales en la década de 2010. La logística actual integra vehículos autónomos, entrega con drones y optimización de rutas impulsada por IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la logística\n    200 BCE : Rutas comerciales antiguas\n            : Logística de la Ruta de la Seda\n    1800s : Expansión ferroviaria\n          : Revolución del flete\n    1956 : Contenerización\n         : Innovación de Malcolm McLean\n    1940s-1950s : Logística militar\n                : Desarrollo de doctrina formal\n    1980s : Desregulación del transporte\n          : Mayor competencia\n    1990s : Surgimiento del comercio electrónico\n          : Nuevas demandas de entrega\n    2000s : Fulfillment de Amazon\n          : Automatización de almacenes\n    2010s : Flete digital\n          : Disrupción de plataformas\n    2020s : Autonomía y drones\n          : Optimización impulsada por IA",
+            "complexity": "high",
+            "tags": [
+                "logistica",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

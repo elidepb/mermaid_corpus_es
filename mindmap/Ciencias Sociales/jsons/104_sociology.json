@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "104",
+            "topic": "Sociología",
+            "category": "Ciencias sociales",
+            "description": "Este mapa mental organiza el campo multidisciplinario de la sociología en torno a su concepto central. Se ramifica en conceptos centrales (estructura social, cultura, socialización, desigualdad, instituciones), grandes perspectivas teóricas (funcionalismo – Durkheim, teoría del conflicto – Marx, interaccionismo simbólico – Mead, teoría feminista, posmodernismo), métodos de investigación (cuantitativos: encuestas/estadística; cualitativos: etnografía/entrevistas; métodos mixtos), pensadores clave (Comte, Marx, Durkheim, Weber, Du Bois) y subcampos clave (estratificación, raza y etnicidad, género, urbana, médica, educación, sociología política). La estructura ilustra la amplitud de la indagación sociológica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sociología))\n    Conceptos_centrales\n      Estructura social\n      Cultura\n      Socialización\n      Desigualdad\n      Instituciones\n    Perspectivas_teóricas\n      Funcionalismo\n        Durkheim\n      Teoría del conflicto\n        Marx\n      Interaccionismo simbólico\n        Mead\n      Teoría feminista\n      Posmodernismo\n    Métodos_de_investigación\n      Cuantitativos\n        Encuestas\n        Estadística\n      Cualitativos\n        Etnografía\n        Entrevistas\n      Métodos mixtos\n    Pensadores_clave\n      Auguste Comte\n      Karl Marx\n      Émile Durkheim\n      Max Weber\n      W.E.B. Du Bois\n    Subcampos_clave\n      Estratificación\n      Raza y etnicidad\n      Género\n      Urbana\n      Médica\n      Educación\n      Política",
+            "complexity": "high",
+            "tags": [
+                "sociología",
+                "mapa_mental",
+                "teoría_social",
+                "durkheim",
+                "marx",
+                "weber",
+                "métodos_de_investigación",
+                "subcampos"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

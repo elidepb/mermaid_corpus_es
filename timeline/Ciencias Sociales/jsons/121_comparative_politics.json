@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Política comparada",
+            "category": "Ciencia política",
+            "description": "Esta cronología rastrea la historia intelectual de la política comparada. Comienza con tipologías clásicas (la clasificación de las constituciones de Aristóteles, siglo IV a. C.). El siglo XIX vio comparaciones sistemáticas (La democracia en América de Tocqueville, 1835; el análisis de clase comparado de Marx). A principios del siglo XX: la burocracia comparada de Weber y la revolución conductista (Merriam, Lasswell, décadas de 1920-50). Posguerra: el funcionalismo estructural (Almond y Coleman, 1960) y la teoría de la modernización. La década de 1970 trajo la teoría de la dependencia y el paradigma centrado en el Estado (Los Estados y las revoluciones sociales de Skocpol, 1979). Las décadas de 1980-90 vieron la tercera ola de democratización (Huntington, 1991) y el auge del institucionalismo. Las últimas décadas destacan los métodos mixtos, los conjuntos de datos comparativos mundiales y la atención a la resiliencia autoritaria (décadas de 2000-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la política comparada\n    section Clásica y moderna temprana\n      4th cent BCE : Aristóteles<br>Clasificación de las constituciones\n      1513 : Maquiavelo<br>Arte de gobernar comparado\n    section Siglo XIX\n      1835 : Tocqueville<br>La democracia en América\n      1848 : Marx y Engels<br>Análisis de clase comparado\n    section Principios del siglo XX\n      1919 : Weber<br>Burocracia comparada\n      1920s‑50s : Revolución conductista<br>(Merriam, Lasswell)\n    section Posguerra\n      1960 : Almond y Coleman<br>Funcionalismo estructural\n      1966 : Barrington Moore<br>Orígenes sociales de la dictadura y la democracia\n    section Estado y democracia\n      1979 : Skocpol<br>Los Estados y las revoluciones sociales\n      1991 : Huntington<br>La tercera ola\n      1990s : Giro institucionalista\n    section Contemporánea\n      2000s : Métodos mixtos y<br>conjuntos de datos mundiales (V‑Dem, Polity)\n      2010s‑20s : Resiliencia autoritaria<br>populismo y retroceso democrático",
+            "complexity": "high",
+            "tags": [
+                "politica_comparada",
+                "historia",
+                "linea_de_tiempo",
+                "aristotle",
+                "tocqueville",
+                "skocpol",
+                "huntington",
+                "institucionalismo",
+                "democratizacion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

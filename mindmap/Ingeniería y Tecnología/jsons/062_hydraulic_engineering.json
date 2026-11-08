@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "062",
+            "topic": "Ingeniería hidráulica",
+            "category": "Ingeniería",
+            "description": "La ingeniería hidráulica abarca múltiples áreas técnicas y aplicaciones. Los principios fundamentales incluyen la ecuación de continuidad, la ecuación de Bernoulli, la ecuación de Manning y las ecuaciones de momento. Los tipos de flujo cubren flujo laminar y turbulento, flujo permanente y no permanente, flujo uniforme y no uniforme. Los sistemas de canal abierto involucran ingeniería fluvial, diseño de canales, drenaje pluvial, transporte de sedimentos y control de la erosión. Los sistemas de conductos cerrados presentan redes de tuberías, estaciones de bombeo, transitorios de presión (golpe de ariete) y sistemas de distribución. Las estructuras hidráulicas incluyen presas de gravedad, presas de arco, presas de terraplén, aliviaderos, compuertas, vertederos, canales aforadores y esclusas. Las herramientas de análisis abarcan HEC-RAS, SWMM, EPANET y software de CFD. Las aplicaciones cubren sistemas de abastecimiento de agua, esquemas de riego, protección contra inundaciones, energía hidroeléctrica, conducción de aguas residuales e ingeniería costera. Las consideraciones de diseño involucran capacidad de caudal, disipación de energía, prevención de cavitación, estabilidad estructural e impactos ambientales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>hidráulica</b>))\n    <b>Principios fundamentales</b>\n      Ecuación de continuidad\n      Ecuación de Bernoulli\n      Ecuación de Manning\n      Ecuaciones de momento\n    <b>Tipos de flujo</b>\n      Laminar y turbulento\n      Permanente y no permanente\n      Uniforme y no uniforme\n      Subcrítico y supercrítico\n    <b>Sistemas de canal abierto</b>\n      Ingeniería fluvial\n      Diseño de canales\n      Drenaje pluvial\n      Transporte de sedimentos\n      Control de la erosión\n    <b>Conductos cerrados</b>\n      Redes de tuberías\n      Estaciones de bombeo\n      Golpe de ariete\n      Sistemas de distribución\n    <b>Estructuras hidráulicas</b>\n      Presas\n        Gravedad\n        Arco\n        Terraplén\n      Aliviaderos\n      Compuertas\n      Vertederos\n      Canales aforadores\n      Esclusas\n    <b>Herramientas de análisis</b>\n      HEC-RAS\n      SWMM\n      EPANET\n      Software CFD\n    <b>Aplicaciones</b>\n      Abastecimiento de agua\n      Riego\n      Protección contra inundaciones\n      Energía hidroeléctrica\n      Conducción de aguas residuales\n      Ingeniería costera\n    <b>Consideraciones de diseño</b>\n      Capacidad de caudal\n      Disipación de energía\n      Prevención de cavitación\n      Estabilidad estructural\n      Impacto ambiental",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_hidráulica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

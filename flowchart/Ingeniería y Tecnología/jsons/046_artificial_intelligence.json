@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "046",
+            "topic": "Inteligencia artificial",
+            "category": "ciencias_de_la_computacion",
+            "description": "La inteligencia artificial es la creación de sistemas computacionales capaces de realizar tareas que normalmente requieren inteligencia humana, incluyendo el aprendizaje, el razonamiento, la resolución de problemas, la percepción y la comprensión del lenguaje natural. Comienza con la definición del problema, identificando la tarea, las métricas de éxito, las restricciones y los datos o el conocimiento disponibles. La representación del conocimiento estructura la información mediante sistemas simbólicos, redes semánticas, ontologías o incrustaciones neuronales. La selección de algoritmos elige técnicas adecuadas, incluyendo algoritmos de búsqueda, razonamiento basado en lógica, métodos probabilísticos o enfoques de aprendizaje. El desarrollo del modelo implementa y entrena sistemas de IA usando datos de entrenamiento, conocimiento del dominio o refuerzo mediante la interacción con el entorno. Las pruebas y la validación evalúan el rendimiento en conjuntos de datos de referencia, casos extremos y escenarios del mundo real, valorando exactitud, robustez y equidad. El despliegue y la integración incorporan los sistemas de IA en las aplicaciones, asegurando escalabilidad, fiabilidad y diseño de la interfaz de usuario. La monitorización y el mantenimiento rastrean la degradación del rendimiento, la deriva de datos y los sesgos emergentes, actualizando los modelos con nuevos datos. El objetivo es crear sistemas inteligentes que aumenten las capacidades humanas, automaticen tareas complejas y generen conocimientos a partir de los datos, asegurando al mismo tiempo resultados éticos, seguros y beneficiosos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Inteligencia artificial</b><br>Sistemas computacionales que realizan<br>tareas de tipo humano]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Aumentar capacidades y<br>automatizar tareas complejas]:::goal\n    C[<b>PROCESO DE DESARROLLO DE IA</b>]:::process\n    \n    subgraph D[Definición del problema]\n        D1[Identificar tarea, métricas<br>y restricciones]\n    end\n    \n    subgraph E[Representación del conocimiento]\n        E1[Estructurar información mediante<br>sistemas simbólicos o neuronales]\n    end\n    \n    subgraph F[Selección de algoritmos]\n        F1[Elegir métodos de búsqueda, lógica,<br>probabilísticos o de aprendizaje]\n    end\n    \n    subgraph G[Desarrollo del modelo]\n        G1[Implementar y entrenar usando<br>datos o refuerzo]\n    end\n    \n    subgraph H[Pruebas y validación]\n        H1[Evaluar exactitud,<br>robustez y equidad]\n    end\n    \n    subgraph I[Despliegue e integración]\n        I1[Incorporar en aplicaciones<br>con escalabilidad]\n    end\n    \n    subgraph J[Monitorización y mantenimiento]\n        J1[Rastrear rendimiento y<br>actualizar modelos]\n    end\n    \n    K[<b>RESULTADO</b><br>Sistemas inteligentes con<br>resultados éticos y beneficiosos]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|mejora continua| G\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "inteligencia_artificial",
+                "ciencias_de_la_computacion",
+                "aprendizaje_automatico",
+                "aprendizaje_profundo",
+                "pln"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

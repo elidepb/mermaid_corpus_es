@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "059",
+            "topic": "Ingeniería electrónica",
+            "category": "ingenieria",
+            "description": "La ingeniería electrónica es la disciplina centrada en el diseño, desarrollo y prueba de circuitos, dispositivos y sistemas electrónicos que procesan y controlan señales eléctricas. Su propósito principal es crear soluciones electrónicas inteligentes para aplicaciones de comunicación, cómputo y control. Los dominios centrales incluyen: electrónica analógica (amplificadores, osciladores, filtros, acondicionamiento de señales analógicas), electrónica digital (puertas lógicas, microprocesadores, sistemas de memoria, procesamiento digital de señales), microelectrónica (circuitos integrados, dispositivos semiconductores, diseño de chips) y sistemas embebidos (microcontroladores, firmware, dispositivos IoT). La metodología de diseño involucra diseño de circuitos, diseño de PCB, simulación (SPICE), prototipado y pruebas. Estos elementos convergen mediante la física del estado sólido, la teoría de circuitos y la programación para producir productos electrónicos compactos, eficientes y sofisticados para dispositivos de consumo, telecomunicaciones, cómputo y sistemas de automatización.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería electrónica</b><br>Diseño de circuitos y sistemas electrónicos<br>que procesan señales eléctricas]:::title\n    B[<b>PROPÓSITO PRINCIPAL</b><br>Crear soluciones inteligentes para<br>comunicación y cómputo]:::purpose\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Electrónica analógica]\n        D1[Amplificadores<br>Osciladores<br>Filtros y acondicionamiento]\n    end\n    \n    subgraph E[Electrónica digital]\n        E1[Puertas lógicas<br>Microprocesadores<br>DSP y memoria]\n    end\n    \n    subgraph F[Microelectrónica]\n        F1[Circuitos integrados<br>Semiconductores<br>Diseño de chips]\n    end\n    \n    subgraph G[Sistemas embebidos]\n        G1[Microcontroladores<br>Firmware<br>Dispositivos IoT]\n    end\n    \n    H[<b>METODOLOGÍA DE DISEÑO</b><br>Diseño de circuitos, diseño de PCB<br>Simulación, pruebas]:::methodology\n    \n    I[<b>PRODUCE</b><br>Productos electrónicos compactos,<br>eficientes y sofisticados]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|unificado por| H\n    H -->|produce| I\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef purpose fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methodology fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_electronica",
+                "ingenieria",
+                "semiconductores",
+                "circuitos_analogicos",
+                "circuitos_digitales"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

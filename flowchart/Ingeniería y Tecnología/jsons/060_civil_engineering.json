@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Ingeniería civil",
+            "category": "ingenieria",
+            "description": "La ingeniería civil es la disciplina profesional que planifica, diseña, construye y mantiene la infraestructura y las instalaciones esenciales para la sociedad moderna. Su objetivo principal es desarrollar infraestructura segura, sostenible y funcional que sirva a las necesidades públicas. Los dominios centrales incluyen: ingeniería estructural (edificios, puentes, marcos), ingeniería de transporte (carreteras, autovías, ferrocarriles, aeropuertos), recursos hídricos (presas, canales, control de inundaciones, abastecimiento de agua), ingeniería geotécnica (cimentaciones, mecánica de suelos, movimientos de tierra) e ingeniería ambiental (gestión de residuos, control de la contaminación). El proceso de diseño involucra análisis del sitio, diseño conceptual, ingeniería detallada, gestión de la construcción y planificación del mantenimiento. Estos elementos se integran mediante principios, códigos y normas de ingeniería para crear infraestructura duradera para el transporte, los sistemas de agua, los edificios y el desarrollo urbano que apoya el crecimiento económico y la calidad de vida.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería civil</b><br>Planificación, diseño y mantenimiento<br>de infraestructura para la sociedad]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Desarrollar infraestructura segura,<br>sostenible y funcional]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Ingeniería estructural]\n        D1[Edificios<br>Puentes<br>Marcos]\n    end\n    \n    subgraph E[Ingeniería de transporte]\n        E1[Carreteras y autovías<br>Ferrocarriles<br>Aeropuertos]\n    end\n    \n    subgraph F[Recursos hídricos]\n        F1[Presas y canales<br>Control de inundaciones<br>Abastecimiento de agua]\n    end\n    \n    subgraph G[Ingeniería geotécnica]\n        G1[Cimentaciones<br>Mecánica de suelos<br>Movimientos de tierra]\n    end\n    \n    subgraph H[Ingeniería ambiental]\n        H1[Gestión de residuos<br>Control de la contaminación<br>Sostenibilidad]\n    end\n    \n    I[<b>PROCESO DE DISEÑO</b><br>Análisis, diseño, construcción<br>Gestión, mantenimiento]:::process\n    \n    J[<b>CREA</b><br>Infraestructura duradera que apoya<br>la sociedad y el crecimiento económico]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_civil",
+                "ingenieria",
+                "estructural",
+                "geotecnica",
+                "transporte"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

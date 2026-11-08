@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "148",
+            "topic": "Historia contemporánea",
+            "category": "Historia",
+            "description": "Un diagrama de flujo que muestra los conceptos fundamentales de la historia contemporánea.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    CH[Historia contemporánea] --> WWI[Primera Guerra Mundial]\n    CH --> WWII[Segunda Guerra Mundial]\n    CH --> CW[Guerra Fría]\n    CH --> PCW[Era posterior a la Guerra Fría]\n\n    PCW --> G[Globalización]\n    PCW --> T[Guerra contra el terror]\n    PCW --> IT[Era de la información]",
+            "complexity": "medium",
+            "tags": [
+                "historia_contemporanea",
+                "historia"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

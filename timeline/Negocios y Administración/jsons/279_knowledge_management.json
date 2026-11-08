@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Gestión del conocimiento",
+            "category": "Negocios",
+            "description": "La gestión del conocimiento surgió de la investigación en ciencias de la información y aprendizaje organizacional. Las prácticas tempranas de biblioteconomía y gestión de la información (décadas de 1950-1960) sentaron las bases de la organización sistemática del conocimiento. Peter Drucker acuñó los conceptos de trabajador del conocimiento (1959) y economía del conocimiento, reconociendo la importancia del capital intelectual. El trabajo de Polanyi sobre el conocimiento tácito (1966) distinguió el saber codificado del experiencial. La investigación sobre aprendizaje organizacional de Argyris y Schön (1978) introdujo los conceptos de aprendizaje de bucle simple y doble. El término gestión del conocimiento ganó protagonismo en la década de 1990, cuando las organizaciones reconocieron las ventajas competitivas de los activos de conocimiento. El modelo SECI de Nonaka y Takeuchi (1995) explicó la creación de conocimiento en empresas japonesas. Los sistemas de gestión de contenidos empresariales proliferaron a finales de la década de 1990 y en la de 2000. Las tecnologías Web 2.0 (mediados de la década de 2000) permitieron wikis colaborativos y el intercambio social de conocimiento. La IA y el aprendizaje automático (década de 2010) transformaron el descubrimiento y la recuperación de conocimiento. La gestión del conocimiento actual integra IA conversacional, grafos de conocimiento y experiencias de aprendizaje personalizadas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión del conocimiento\n    1950s-1960s : Biblioteconomía y ciencias de la información\n                : Fundamentos de organización sistemática\n    1959 : Concepto de trabajador del conocimiento\n         : Capital intelectual de Drucker\n    1966 : Teoría del conocimiento tácito\n         : Saber experiencial de Polanyi\n    1978 : Aprendizaje organizacional\n         : Aprendizaje en bucle de Argyris y Schön\n    1990s : Protagonismo del término GC\n          : Activos de conocimiento competitivos\n    1995 : Modelo SECI\n         : Marco de Nonaka y Takeuchi\n    Late 1990s-2000s : Gestión de contenidos empresariales\n                     : Proliferación de sistemas\n    Mid-2000s : Tecnologías Web 2.0\n              : Wikis colaborativos\n    2010s : IA y aprendizaje automático\n          : Transformación del descubrimiento de conocimiento\n    2020s : IA conversacional y grafos\n          : Experiencias de aprendizaje personalizadas",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_conocimiento",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

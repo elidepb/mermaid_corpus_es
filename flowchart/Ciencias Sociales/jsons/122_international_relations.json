@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "Relaciones internacionales",
+            "category": "Ciencia política",
+            "description": "Las relaciones internacionales (RI) son el estudio de las interacciones entre Estados, organizaciones internacionales y actores no estatales. Este diagrama de flujo ilustra la lógica central de la disciplina: el objetivo general es comprender y explicar los resultados internacionales. El análisis integra tres niveles de análisis (sistema, Estado, individuo) con los principales paradigmas teóricos —realismo (poder y seguridad), liberalismo (cooperación e instituciones), constructivismo (normas e identidad) y enfoques críticos (marxismo, feminismo, poscolonialismo). Estas teorías emplean métodos diversos (estudios de caso cualitativos, análisis cuantitativo, modelado formal) para investigar cuestiones centrales como la guerra y la paz, la economía política internacional, la gobernanza global y los derechos humanos. Los conocimientos resultantes informan la política exterior, la diplomacia y la resolución de problemas globales.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Relaciones internacionales</b><br>Estudio de las interacciones entre Estados,<br>organizaciones internacionales y actores]:::title\n    B[<b>OBJETIVO</b><br>Comprender y explicar<br>los resultados internacionales]:::goal\n    C[<b>MARCOS CENTRALES</b>]:::frameworks\n    subgraph D[Niveles de análisis]\n        D1[Sistema, Estado,<br>individuo]\n    end\n    subgraph E[Paradigmas teóricos]\n        E1[Realismo: poder y seguridad<br>Liberalismo: cooperación e instituciones<br>Constructivismo: normas e identidad<br>Críticos: marxismo, feminismo, poscolonial]\n    end\n    F[<b>MÉTODOS</b><br>Estudios de caso cualitativos<br>Análisis cuantitativo<br>Modelado formal]:::methods\n    G[<b>CUESTIONES CENTRALES</b><br>Guerra y paz, economía política<br>internacional, gobernanza global,<br>derechos humanos]:::issues\n    H[<b>RESULTADOS</b><br>Informa la política exterior, la diplomacia<br>y la cooperación global]:::outcome\n\n    A -->|busca| B\n    B -->|mediante la integración de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|combinados con| F\n    F -->|examina| G\n    G -->|conduce a| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef frameworks fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef issues fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "relaciones_internacionales",
+                "niveles_de_analisis",
+                "realismo",
+                "liberalismo",
+                "constructivismo",
+                "gobernanza_global",
+                "politica_exterior"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

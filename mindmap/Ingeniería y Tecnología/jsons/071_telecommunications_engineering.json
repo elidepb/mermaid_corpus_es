@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "071",
+            "topic": "Ingeniería de telecomunicaciones",
+            "category": "Ingeniería",
+            "description": "La ingeniería de telecomunicaciones abarca tecnologías de transmisión y arquitecturas de red diversas. Los medios de transmisión incluyen fibra óptica (monomodo, multimodo), cables de cobre (par trenzado, coaxial) y canales inalámbricos (ondas de radio, microondas, ondas milimétricas). Las técnicas de modulación cubren modulación de amplitud (AM), modulación de frecuencia (FM), modulación de fase (PM) y modulaciones digitales (QAM, PSK, FSK, OFDM). Las tecnologías de red presentan conmutación de circuitos, conmutación de paquetes, ATM, MPLS y redes definidas por software (SDN). Los sistemas inalámbricos incluyen generaciones celulares (2G GSM, 3G UMTS, 4G LTE, 5G NR), normas Wi-Fi (802.11a/b/g/n/ac/ax), Bluetooth, comunicaciones por satélite (GEO, LEO, MEO) y enlaces de microondas. El procesamiento de señales involucra codificación de fuente, codificación de canal (FEC, códigos turbo, LDPC), multiplexación (TDM, FDM, WDM, CDMA) y cifrado. Los protocolos de red abarcan capa física, capa de enlace de datos (Ethernet, PPP), capa de red (IP, ICMP), capa de transporte (TCP, UDP) y capa de aplicación (HTTP, FTP, DNS). El equipo incluye enrutadores, conmutadores, estaciones base, antenas, transceptores ópticos y analizadores de red. Las aplicaciones cubren comunicación de voz, servicios de internet, streaming de vídeo, banda ancha móvil, conectividad IoT y redes empresariales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ingeniería de telecomunicaciones))\n    Teoría de la señal\n      Señales analógicas\n      Señales digitales\n      Modulación\n      Multiplexación\n    Sistemas de transmisión\n      Transmisión cableada\n      Transmisión inalámbrica\n      Fibra óptica\n      Comunicaciones por satélite\n    Arquitectura de red\n      Topología de red\n      Protocolos\n      Conmutación\n      Enrutamiento\n    Comunicaciones móviles\n      Redes celulares\n      Tecnología 5G\n      Dispositivos móviles\n      Traspaso\n    Comunicaciones de datos\n      Detección de errores\n      Corrección de errores\n      Compresión\n      Cifrado\n    Radiodifusión\n      Radiodifusión sonora\n      Televisión\n      Radiodifusión digital\n      Streaming\n    Sistemas de antenas\n      Diseño de antenas\n      Propagación\n      Agrupaciones de antenas\n      Antenas de microondas\n    Gestión de red\n      Monitorización del rendimiento\n      Calidad de servicio\n      Gestión del tráfico\n      Seguridad de red",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_de_telecomunicaciones",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "060",
+            "topic": "Ingeniería civil",
+            "category": "Ingeniería",
+            "description": "La ingeniería civil se remonta a las civilizaciones antiguas con estructuras monumentales como las pirámides egipcias, los acueductos romanos y las calzadas que demostraban los primeros principios de ingeniería. La Edad Media trajo las catedrales góticas y las fortificaciones. El siglo XVIII vio formalizarse la profesión con el establecimiento de sociedades de ingeniería civil y a John Smeaton considerado el primer ingeniero civil autoproclamado (década de 1750). La Revolución Industrial (siglo XIX) revolucionó el campo con estructuras de hierro y acero, puentes colgantes y sistemas ferroviarios. 1883 completó el puente de Brooklyn, mostrando la ingeniería de puentes moderna. A principios del siglo XX se introdujeron el hormigón armado, los rascacielos y los sistemas de carreteras modernas. Las décadas de 1950-60 presenciaron el desarrollo de autopistas interestatales y grandes proyectos de presas. Las de 1970-80 trajeron el diseño asistido por computadora y el análisis de elementos finitos. Las de 1990-2000 avanzaron con el hormigón pretensado, las mejoras del diseño sísmico y las prácticas de construcción sostenible. Las de 2010-2020 continúan con la tecnología BIM, la infraestructura inteligente, las normas de edificación ecológica y el diseño resiliente para la adaptación climática.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería civil</b>\n    \n    section Era antigua\n        Ancient Times : Pirámides egipcias\n                      : Acueductos y calzadas romanas\n        Middle Ages : Catedrales góticas\n                    : Fortificaciones\n    \n    section Nacimiento de la profesión\n        1750s : John Smeaton\n              : Primer título de ingeniero civil\n        1800s : Revolución Industrial\n              : Estructuras de hierro y acero\n              : Sistemas ferroviarios\n    \n    section Era moderna\n        1883  : Finalización del puente de Brooklyn\n        Early 1900s : Hormigón armado\n                    : Surgen los rascacielos\n                    : Sistemas de carreteras\n    \n    section Mediados del siglo XX\n        1950s-60s : Autopistas interestatales\n                  : Grandes proyectos de presas\n        1970s-80s : Diseño asistido por computadora\n                  : Análisis de elementos finitos\n    \n    section Contemporánea\n        1990s-2000s : Hormigón pretensado\n                    : Avances del diseño sísmico\n                    : Prácticas sostenibles\n        2010s-2020s : Tecnología BIM\n                    : Infraestructura inteligente\n                    : Normas de edificación ecológica\n                    : Resiliencia climática",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_civil",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

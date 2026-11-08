@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "058",
+            "topic": "Ingeniería eléctrica",
+            "category": "Ingeniería",
+            "description": "Los fundamentos de la ingeniería eléctrica comenzaron en el siglo XVII con los estudios de William Gilbert sobre la electricidad y el magnetismo. El siglo XIX marcó un avance rápido: Alessandro Volta inventó la pila (1800), Michael Faraday descubrió la inducción electromagnética (1831) y James Clerk Maxwell formuló la teoría electromagnética (1865). 1879 trajo la bombilla incandescente práctica de Edison. La década de 1880 vio la Guerra de las corrientes entre los sistemas de CC de Edison y de CA de Tesla, con la CA prevaleciendo al final. 1888 introdujo el motor de inducción de Nikola Tesla y las innovaciones en transformadores. A principios del siglo XX se establecieron las redes eléctricas y la transmisión a larga distancia. 1947 presenció la invención del transistor, tendiendo un puente entre lo eléctrico y la electrónica. Las décadas de 1960-70 trajeron los circuitos integrados y los sistemas digitales. Las de 1980-90 vieron el avance de la electrónica de potencia y la integración de energías renovables. Las de 2000-2020 continúan con redes inteligentes, sistemas de almacenamiento de energía, vehículos eléctricos y soluciones de energía sostenible que se vuelven habituales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería eléctrica</b>\n    \n    section Fundamentos iniciales\n        1600s : Estudios de William Gilbert\n              : Electricidad y magnetismo\n        1800  : Volta inventa la pila\n        1831  : Inducción electromagnética de Faraday\n        1865  : Teoría electromagnética de Maxwell\n    \n    section Nacimiento de la era de la potencia\n        1879  : Bombilla incandescente de Edison\n        1880s : Guerra de las corrientes (CA frente a CC)\n              : Prevalece el sistema de CA\n        1888  : Motor de inducción de Tesla\n              : Innovaciones en transformadores\n    \n    section Desarrollo de la red\n        Early 1900s : Redes eléctricas establecidas\n                    : Transmisión a larga distancia\n        1947  : Invención del transistor\n              : Puente con la electrónica\n    \n    section Revolución digital\n        1960s-70s : Circuitos integrados\n                  : Surgen los sistemas digitales\n        1980s-90s : Avances en electrónica de potencia\n                  : Comienza la integración renovable\n    \n    section Era moderna\n        2000s-2020s : Redes inteligentes\n                    : Sistemas de almacenamiento de energía\n                    : Vehículos eléctricos\n                    : Soluciones de energía sostenible",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_electrica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

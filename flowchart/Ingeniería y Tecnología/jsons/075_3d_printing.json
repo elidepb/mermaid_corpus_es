@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "075",
+            "topic": "Impresión 3D",
+            "category": "tecnologia",
+            "description": "La impresión 3D, también conocida como fabricación aditiva, es el proceso de crear objetos tridimensionales depositando material capa a capa a partir de modelos digitales. Su objetivo principal es permitir el prototipado rápido, la fabricación personalizada y la producción de geometrías complejas con menos residuos y menores costes de utillaje. Los dominios centrales incluyen: tecnologías de impresión (FDM/FFF, SLA/DLP, SLS, chorro de aglutinante, extrusión de material), materiales (termoplásticos, fotopolímeros, metales, cerámicas, biotintas), diseño para fabricación aditiva (optimización topológica, estructuras reticulares, generación de soportes), posprocesamiento (acabado superficial, tratamiento térmico, infiltración, pintado) y control de calidad (exactitud dimensional, propiedades del material, detección de defectos). El proceso de fabricación involucra diseño CAD, preparación de archivos (conversión STL, rebanado), configuración de impresión, fabricación capa a capa, posprocesamiento e inspección de calidad. Estos elementos convergen mediante ciencia de materiales, ingeniería mecánica y diseño asistido por computadora para producir prototipos, piezas personalizadas, implantes médicos, componentes aeroespaciales y productos de consumo con una libertad de diseño y una flexibilidad de producción sin precedentes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Impresión 3D / Fabricación aditiva</b><br>Creación de objetos capa a capa<br>a partir de modelos digitales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Permitir prototipado rápido y<br>fabricación personalizada]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Tecnologías de impresión]\n        D1[FDM/FFF<br>SLA/DLP y SLS<br>Chorro de aglutinante]\n    end\n    \n    subgraph E[Materiales]\n        E1[Termoplásticos<br>Fotopolímeros<br>Metales, cerámicas y biotintas]\n    end\n    \n    subgraph F[Diseño para FA]\n        F1[Optimización topológica<br>Estructuras reticulares<br>Generación de soportes]\n    end\n    \n    subgraph G[Posprocesamiento]\n        G1[Acabado superficial<br>Tratamiento térmico<br>Infiltración y pintado]\n    end\n    \n    subgraph H[Control de calidad]\n        H1[Exactitud dimensional<br>Propiedades del material<br>Detección de defectos]\n    end\n    \n    I[<b>PROCESO DE FABRICACIÓN</b><br>Diseño CAD, rebanado<br>Impresión, posprocesamiento]:::process\n    \n    J[<b>PRODUCE</b><br>Piezas personalizadas y prototipos<br>con libertad de diseño]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "impresion_3d",
+                "tecnologia",
+                "fabricacion_aditiva",
+                "prototipado"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

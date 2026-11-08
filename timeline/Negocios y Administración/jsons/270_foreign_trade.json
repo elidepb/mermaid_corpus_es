@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "270",
+            "topic": "Comercio exterior",
+            "category": "Negocios",
+            "description": "La historia del comercio exterior abarca desde las rutas comerciales antiguas hasta los sistemas de comercio digital modernos. La Ruta de la Seda (200 a. C.-siglo XV d. C.) conectó Oriente y Occidente mediante el comercio terrestre. El mercantilismo dominó los siglos XVI-XVIII, enfatizando las exportaciones sobre las importaciones y la extracción colonial. La derogación de las Corn Laws (1846) en Gran Bretaña marcó un giro hacia los principios de libre comercio. La Ley arancelaria Smoot-Hawley (1930) elevó los aranceles estadounidenses, agravó la Gran Depresión y demostró los peligros del proteccionismo. El Acuerdo General sobre Aranceles Aduaneros y Comercio (1947) inició la liberalización comercial multilateral. La contenerización (1956) revolucionó la eficiencia del transporte marítimo y los volúmenes del comercio mundial. La Ronda Uruguay (1994) creó la OMC y amplió las reglas comerciales a servicios y propiedad intelectual. La adhesión de China a la OMC (2001) reconfiguró los patrones del comercio mundial. El comercio exterior actual integra plataformas digitales, documentación con blockchain y políticas comerciales vinculadas a la sostenibilidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución del comercio exterior\n    200 BCE-1400s : Era de la Ruta de la Seda\n                  : Rutas comerciales Oriente-Occidente\n    1600s-1700s : Mercantilismo\n                : Políticas centradas en la exportación\n    1846 : Derogación de las Corn Laws\n         : Giro al libre comercio en Gran Bretaña\n    1930 : Arancel Smoot-Hawley\n         : Consecuencias del proteccionismo\n    1947 : Establecimiento del GATT\n         : Liberalización multilateral\n    1956 : Contenerización\n         : Revolución del transporte marítimo\n    1994 : Creación de la OMC\n         : Expansión de la Ronda Uruguay\n    2001 : China ingresa en la OMC\n         : Transformación del comercio mundial\n    2020s : Era del comercio digital\n          : Blockchain y sostenibilidad",
+            "complexity": "high",
+            "tags": [
+                "comercio_exterior",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

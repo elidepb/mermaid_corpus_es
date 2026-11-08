@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "304",
+            "topic": "Mineralogía",
+            "category": "Ciencias de la Tierra",
+            "description": "La mineralogía es el estudio científico de los minerales, incluida su estructura cristalina, composición química, propiedades físicas, procesos de formación y ocurrencia en la naturaleza. Su objetivo principal es comprender las características de los minerales, clasificarlos de forma sistemática, determinar sus condiciones de formación y aplicar este conocimiento a la geología, la ciencia de materiales y la exploración de recursos. Los dominios centrales incluyen: cristalografía (sistemas cristalinos, operaciones de simetría, grupos espaciales, celdas unitarias, morfología cristalina), química mineral (composición química, soluciones sólidas, sustitución isomorfa, fórmulas minerales, análisis elemental), propiedades físicas (dureza, exfoliación, fractura, brillo, color, densidad, propiedades ópticas, propiedades magnéticas), formación mineral (cristalización ígnea, procesos metamórficos, precipitación sedimentaria, depósito hidrotermal, productos de meteorización) y mineralogía sistemática (silicatos, carbonatos, óxidos, sulfuros, halogenuros, elementos nativos, clasificación mineral). El proceso de investigación implica identificación mineral usando propiedades físicas y ópticas, análisis químico mediante espectroscopía y microscopía electrónica, determinación estructural por difracción de rayos X, análisis paragenético para comprender las secuencias de formación, y aplicación a problemas geológicos e industriales. Estos elementos se integran mediante la química, la física y la geología para posibilitar la identificación y clasificación de minerales, la exploración de yacimientos, la evaluación de gemas, las aplicaciones de mineralogía ambiental y la investigación en ciencia de materiales que avanza nuestra comprensión de la composición de la Tierra y proporciona recursos para la tecnología y la industria.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Mineralogía</b><br>Estudio de minerales: estructura,<br>composición y propiedades]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Comprender, clasificar y aplicar<br>el conocimiento mineral]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Cristalografía]\n        D1[Sistemas cristalinos<br>Operaciones de simetría<br>Celdas unitarias y morfología]\n    end\n    \n    subgraph E[Química mineral]\n        E1[Composición química<br>Soluciones sólidas<br>Análisis elemental]\n    end\n    \n    subgraph F[Propiedades físicas]\n        F1[Dureza y exfoliación<br>Brillo, color, densidad<br>Ópticas y magnéticas]\n    end\n    \n    subgraph G[Formación mineral]\n        G1[Cristalización ígnea<br>Procesos metamórficos<br>Hidrotermal y meteorización]\n    end\n    \n    subgraph H[Mineralogía sistemática]\n        H1[Silicatos y carbonatos<br>Óxidos y sulfuros<br>Sistemas de clasificación]\n    end\n    \n    I[<b>PROCESO DE INVESTIGACIÓN</b><br>Identificación, análisis químico<br>Determinación estructural, aplicación]:::process\n    \n    J[<b>POSIBILITA</b><br>Identificación, exploración<br>y ciencia de materiales]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante el estudio| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "very_high",
+            "tags": [
+                "mineralogia",
+                "ciencias_de_la_tierra",
+                "geologia",
+                "minerales",
+                "silicatos",
+                "no_silicatos",
+                "estructura_cristalina"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

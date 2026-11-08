@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "274",
+            "topic": "Auditoría",
+            "category": "Negocios",
+            "description": "La auditoría evolucionó de la verificación básica de cuentas a sofisticados servicios de aseguramiento. Las civilizaciones antiguas empleaban auditores para verificar recaudaciones fiscales y cuentas gubernamentales. La Revolución Industrial (siglo XIX) creó demanda de verificación independiente de las cuentas corporativas. La Companies Act de 1844 en Gran Bretaña impuso auditorías externas para las sociedades. El American Institute of Certified Public Accountants se formó en 1887 para profesionalizar el campo. Las leyes de valores (1933-1934) exigieron auditorías independientes para las empresas cotizadas tras el crack bursátil. Las Normas de Auditoría Generalmente Aceptadas se formalizaron en 1947 y establecieron directrices profesionales. La Comisión Treadway (1985) condujo al desarrollo del marco COSO para el control interno. El escándalo Enron (2001) expuso fallos de auditoría, impulsando la Ley Sarbanes-Oxley (2002) y la creación del PCAOB para una supervisión reforzada. La auditoría actual integra analítica de datos, tecnologías de auditoría continua y verificación con blockchain.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la auditoría\n    Ancient Times : Verificación fiscal\n                  : Auditorías de cuentas gubernamentales\n    1800s : Revolución Industrial\n          : Demanda de auditoría corporativa\n    1844 : Companies Act del Reino Unido\n         : Auditorías externas obligatorias\n    1887 : Formación del AICPA\n         : Comienzan las normas profesionales\n    1933-1934 : Leyes de valores\n              : Requisitos de auditoría para empresas cotizadas\n    1947 : Formalización de las GAAS\n         : Directrices profesionales\n    1985 : Comisión Treadway\n         : Énfasis en el control interno\n    1992 : Marco COSO\n         : Modelo de control integrado\n    2001 : Escándalo Enron\n         : Se expone el fallo de auditoría\n    2002 : Sarbanes-Oxley y PCAOB\n         : Supervisión reforzada\n    2020s : Era de la analítica de datos\n          : Tecnología de auditoría continua",
+            "complexity": "high",
+            "tags": [
+                "auditoria",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

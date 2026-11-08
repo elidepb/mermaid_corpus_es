@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Psicología clínica",
+            "category": "Psicología",
+            "description": "Este mapa mental organiza el campo de la psicología clínica. Se ramifica en actividades centrales (evaluación psicológica, diagnóstico, formulación de caso, psicoterapia, consulta), orientaciones teóricas (cognitivo-conductual, psicodinámica, humanista-existencial, sistémica, integrativa), conceptos clave (práctica basada en evidencia, alianza terapéutica, transferencia, tratamiento manualizado), métodos de evaluación (entrevista clínica, tests de inteligencia, inventarios de personalidad, tests neuropsicológicos), trastornos principales (del estado de ánimo, de ansiedad, psicóticos, de la personalidad, del neurodesarrollo), contribuyentes destacados (Lightner Witmer, Sigmund Freud, Aaron Beck, Carl Rogers, Marsha Linehan) y contextos (hospitales, consulta privada, universidades, centros comunitarios). El mapa captura la amplitud de la profesión y su fundamento científico-profesional.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Psicología clínica))\n    Actividades_centrales\n      Evaluación\n      Diagnóstico\n      Formulación_de_caso\n      Psicoterapia\n      Consulta\n    Orientación_teórica\n      Cognitivo-conductual\n        TCC\n        ACT\n        DBT\n      Psicodinámica\n      Humanista-existencial\n        Centrada_en_la_persona\n        Gestalt\n      Familiar_sistémica\n      Integrativa\n    Conceptos_clave\n      Práctica_basada_en_evidencia\n      Alianza_terapéutica\n      Transferencia_contratransferencia\n      Tratamiento_manualizado\n    Métodos_de_evaluación\n      Entrevista_clínica\n      Tests_de_inteligencia\n      Inventarios_de_personalidad\n      Tests_neuropsicológicos\n    Trastornos_principales\n      Trastornos_del_ánimo\n      Trastornos_de_ansiedad\n      Trastornos_psicóticos\n      Trastornos_de_la_personalidad\n      Neurodesarrollo\n    Contribuyentes_destacados\n      Lightner_Witmer\n      Sigmund_Freud\n      Aaron_Beck\n      Carl_Rogers\n      Marsha_Linehan\n    Contextos\n      Hospitales\n      Consulta_privada\n      Universidades\n      Centros_comunitarios",
+            "complexity": "high",
+            "tags": [
+                "psicología_clínica",
+                "mapa_mental",
+                "psicoterapia",
+                "evaluación",
+                "tcc",
+                "basada_en_evidencia",
+                "salud_mental",
+                "orientación_teórica"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

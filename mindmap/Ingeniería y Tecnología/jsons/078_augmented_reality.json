@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "078",
+            "topic": "Realidad aumentada",
+            "category": "Tecnología",
+            "description": "La realidad aumentada abarca plataformas, tecnologías, aplicaciones y paradigmas de interacción que enriquecen la percepción del mundo real con superposiciones digitales. Las plataformas de RA incluyen ARKit de Apple para desarrollo iOS, ARCore de Google para dispositivos Android, Microsoft HoloLens para realidad mixta empresarial, Magic Leap para computación espacial y WebAR para experiencias en el navegador sin aplicaciones. Las tecnologías de seguimiento emplean seguimiento basado en marcadores con marcadores visuales o códigos QR, seguimiento sin marcadores que detecta características naturales, SLAM que construye mapas del entorno en tiempo real, GPS y brújula para RA basada en localización, y reconocimiento de imagen que identifica objetos y escenas. Los tipos de pantalla cubren teléfonos inteligentes y tabletas que proporcionan RA accesible a través de pantallas, gafas inteligentes como HoloLens y Magic Leap que ofrecen experiencias manos libres, visualizadores de cabeza que proyectan sobre parabrisas, y lentes de contacto que representan la visión futura. Los dominios de aplicación incluyen el comercio minorista con prueba virtual y visualización de productos, navegación con orientación y información de localización, videojuegos ejemplificados por Pokémon GO, educación mediante modelos 3D interactivos y simulaciones, mantenimiento industrial que proporciona guía de reparación paso a paso, sanidad para visualización quirúrgica y formación médica, y arquitectura que visualiza diseños de edificios en contexto. Los componentes técnicos involucran visión por computadora para comprender escenas, renderizado 3D que genera gráficos realistas, audio espacial que crea paisajes sonoros inmersivos y reconocimiento de gestos que habilita la interacción natural.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Realidad<br>aumentada</b>))\n    <b>Plataformas de RA</b>\n      ARKit iOS\n      ARCore Android\n      Microsoft HoloLens\n      Magic Leap\n      Navegadores WebAR\n      Vuforia\n    <b>Tecnologías de seguimiento</b>\n      Seguimiento basado en marcadores\n      Seguimiento sin marcadores\n      Mapeo SLAM\n      GPS y brújula\n      Reconocimiento de imagen\n      Detección de objetos\n    <b>Tipos de pantalla</b>\n      Teléfonos y tabletas\n      Gafas inteligentes\n      Visualizadores de cabeza\n      Lentes de contacto futuras\n      Mapeo por proyección\n    <b>Dominios de aplicación</b>\n      Prueba virtual en comercio\n      Orientación para navegación\n      Videojuegos Pokémon GO\n      Modelos 3D educativos\n      Mantenimiento industrial\n      Cirugía sanitaria\n      Visualización arquitectónica\n    <b>Componentes técnicos</b>\n      Visión por computadora\n      Renderizado 3D\n      Audio espacial\n      Reconocimiento de gestos\n      Sensado de profundidad\n      Estimación de iluminación\n    <b>Métodos de interacción</b>\n      Entrada táctil\n      Gestos de la mano\n      Órdenes de voz\n      Seguimiento de la mirada\n      Entrada por controlador\n    <b>Tipos de contenido</b>\n      Objetos 3D\n      Superposiciones de información\n      Animaciones\n      Texturas de vídeo\n      Anclas espaciales\n    <b>Herramientas de desarrollo</b>\n      Unity AR Foundation\n      Unreal Engine\n      8th Wall WebAR\n      Spark AR Studio\n      Lens Studio",
+            "complexity": "high",
+            "tags": [
+                "realidad_aumentada",
+                "tecnología"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

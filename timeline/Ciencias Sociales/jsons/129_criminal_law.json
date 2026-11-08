@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Derecho penal",
+            "category": "Derecho",
+            "description": "Esta cronología traza la historia del derecho penal desde los códigos antiguos hasta la justicia internacional moderna. Los hitos clave incluyen el Código de Hammurabi (c. 1754 a. C.), las Doce Tablas del derecho romano, el desarrollo del common law inglés (Magna Carta 1215, Habeas Corpus 1679), los Comentarios de Blackstone (1765), el Código Penal Modelo (1962) y sentencias históricas como Miranda v. Arizona (1966). La cronología culmina en el derecho penal internacional contemporáneo y la era digital.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho penal\n    section Antigüedad y Edad Media\n      c. 1754 BCE : Código de Hammurabi\n      450 BCE : Doce Tablas romanas\n      1215 : Magna Carta\n    section Desarrollo del common law\n      1679 : Ley de Habeas Corpus\n      1765 : Comentarios de Blackstone\n    section Codificación moderna\n      1810 : Código Penal francés\n      19th c. : Códigos penales estatales de EE. UU.\n    section Reformas del siglo XX\n      1962 : Código Penal Modelo<br>(American Law Institute)\n      1966 : Miranda v. Arizona\n      1984 : Ley de Reforma de las Penas de EE. UU.\n    section Internacional y contemporáneo\n      1998 : Estatuto de Roma<br>(Corte Penal Internacional)\n      2000s‑20s : Ciberdelincuencia,<br>justicia restaurativa,<br>debates sobre el encarcelamiento masivo",
+            "complexity": "high",
+            "tags": [
+                "derecho_penal",
+                "historia",
+                "linea_de_tiempo",
+                "codigo_de_hammurabi",
+                "codigo_penal_modelo",
+                "miranda",
+                "corte_penal_internacional"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

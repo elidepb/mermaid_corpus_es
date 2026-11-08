@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "064",
+            "topic": "Ingeniería aeroespacial",
+            "category": "Ingeniería",
+            "description": "Los orígenes de la ingeniería aeroespacial se remontan a 1903 con el primer vuelo motorizado de los hermanos Wright en Kitty Hawk, que estableció los principios del vuelo más pesado que el aire. La Primera Guerra Mundial (1914-1918) aceleró el desarrollo de aeronaves con fines militares. Las décadas de 1920-30 trajeron la expansión de la aviación comercial, la construcción de aeronaves metálicas y el desarrollo del concepto de motor a reacción (Frank Whittle 1930, Hans von Ohain 1936). La Segunda Guerra Mundial (1939-1945) vio avances rápidos con las primeras aeronaves a reacción operativas y los cohetes V-2. La década de 1950 introdujo el vuelo supersónico (Chuck Yeager rompió la barrera del sonido en 1947) y el comienzo de la Era Espacial con el Sputnik (1957). La década de 1960 presenció el programa Apolo que condujo al alunizaje (1969) y la expansión de la era del reactor comercial. Las décadas de 1970-80 trajeron las aeronaves de fuselaje ancho, el desarrollo del transbordador espacial y la adopción de materiales compuestos. Las de 1990-2000 vieron la tecnología furtiva, la integración del GPS y la construcción de la Estación Espacial Internacional. Las de 2010-2020 continúan con cohetes reutilizables (SpaceX), el vuelo espacial comercial, el desarrollo de aeronaves eléctricas, vehículos hipersónicos y sistemas de vuelo autónomos que se vuelven realidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería aeroespacial</b>\n    \n    section Nacimiento de la aviación\n        1903  : Primer vuelo de los hermanos Wright\n              : Vuelo motorizado logrado\n        1914-1918 : Desarrollo de aeronaves en la IGM\n        1920s-30s : Comienza la aviación comercial\n                  : Construcción de aeronaves metálicas\n                  : Conceptos de motor a reacción\n    \n    section Era del reactor\n        1939-1945 : Avances rápidos de la IIGM\n                  : Primeras aeronaves a reacción\n                  : Cohetes V-2\n        1947  : Barrera del sonido rota\n              : Chuck Yeager\n        1950s : Era del vuelo supersónico\n    \n    section Era espacial\n        1957  : Lanzamiento del Sputnik\n              : Comienza la Era Espacial\n        1960s : Programa Apolo\n              : Expansión del reactor comercial\n        1969  : Alunizaje logrado\n    \n    section Era moderna\n        1970s-80s : Aeronaves de fuselaje ancho\n                  : Transbordador espacial\n                  : Materiales compuestos\n        1990s-2000s : Tecnología furtiva\n                    : Integración del GPS\n                    : Construcción de la EEI\n    \n    section Contemporánea\n        2010s-2020s : Cohetes reutilizables (SpaceX)\n                    : Vuelo espacial comercial\n                    : Aeronaves eléctricas\n                    : Vehículos hipersónicos\n                    : Sistemas autónomos",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_aeroespacial",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

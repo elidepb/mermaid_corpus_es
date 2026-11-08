@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "136",
+            "topic": "Didáctica",
+            "category": "Educación",
+            "description": "Este mapa mental organiza el campo de la Didáctica en torno a su concepto central. Las ramas principales incluyen Conceptos centrales (enseñanza, aprendizaje, contenido, método, medios, evaluación), Modelos teóricos (didáctica centrada en la Bildung, didáctica constructivista, crítico-comunicativa, didáctica del currículum, diseño instruccional), Modelos de planificación (taxonomía de Bloom, diseño inverso, planificación de unidades didácticas), Métodos (instrucción directa, aprendizaje por descubrimiento, aprendizaje cooperativo, basado en problemas), Medios (libros de texto, medios digitales, laboratorios, realia), Enfoques de evaluación (formativa, sumativa, auténtica, autoevaluación) y Figuras clave (Comenius, Herbart, Dewey, Klafki, Ausubel). El mapa ilustra el carácter multidisciplinario de la instrucción sistemática.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Didáctica))\n    Conceptos_Centrales\n      Enseñanza\n      Aprendizaje\n      Contenido\n      Método\n      Medios\n      Evaluación\n    Modelos_Teóricos\n      Centrada_en_la_Bildung\n      Constructivista\n      Crítico_Comunicativa\n      Didáctica_del_Currículum\n      Diseño_Instruccional\n    Modelos_de_Planificación\n      Taxonomía_de_Bloom\n      Diseño_Inverso\n      Planificación_de_Unidades_Didácticas\n    Métodos\n      Instrucción_Directa\n      Aprendizaje_por_Descubrimiento\n      Aprendizaje_Cooperativo\n      Basado_en_Problemas\n    Medios\n      Libros_de_Texto\n      Medios_Digitales\n      Laboratorios\n      Realia\n    Enfoques_de_Evaluación\n      Formativa\n      Sumativa\n      Auténtica\n      Autoevaluación\n    Figuras_Clave\n      Comenius\n      Herbart\n      Dewey\n      Klafki\n      Ausubel",
+            "complexity": "high",
+            "tags": ["didáctica", "mapa_mental", "métodos_de_enseñanza", "currículum", "evaluación", "diseño_instruccional", "bildung"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

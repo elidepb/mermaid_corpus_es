@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "109",
+            "topic": "Psicología cognitiva",
+            "category": "Psicología",
+            "description": "La psicología cognitiva es el estudio científico de los procesos mentales como la percepción, la atención, la memoria, el lenguaje y el razonamiento. Este diagrama de flujo ilustra su marco: partiendo del objetivo último de comprender cómo la mente procesa la información y guía el comportamiento, integra dominios mentales centrales (percepción y atención, sistemas de memoria, lenguaje y comprensión, razonamiento y toma de decisiones, resolución de problemas). Estos se investigan mediante métodos convergentes que incluyen experimentos conductuales, neurociencia cognitiva (fMRI, EEG) y modelado computacional. Las principales perspectivas teóricas —teoría del procesamiento de la información, conexionismo y cognición corporeizada— dan forma a la interpretación de los hallazgos. Los conocimientos producidos se aplican a la educación, la inteligencia artificial, las intervenciones clínicas y la interacción persona-ordenador.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Psicología cognitiva</b><br>Estudio científico de los procesos<br>mentales y la mente]:::title\n    B[<b>OBJETIVO</b><br>Comprender cómo la mente<br>procesa la información y<br>guía el comportamiento]:::goal\n    C[<b>DOMINIOS MENTALES CENTRALES</b>]:::domains\n    subgraph D[Percepción y atención]\n        D1[Percepción visual y auditiva<br>Atención selectiva, dividida y<br>sostenida]\n    end\n    subgraph E[Sistemas de memoria]\n        E1[Memoria sensorial, a corto plazo/<br>de trabajo, a largo plazo<br>Codificación, almacenamiento, recuperación]\n    end\n    subgraph F[Cognición superior]\n        F1[Lenguaje y comprensión<br>Razonamiento y toma de decisiones<br>Resolución de problemas y creatividad]\n    end\n    G[\"<b>MÉTODOS Y PARADIGMAS</b><br>Experimentos conductuales<br>Neurociencia cognitiva (fMRI, EEG)<br>Modelado computacional\"]:::methods\n    H[<b>PERSPECTIVAS TEÓRICAS</b><br>Procesamiento de la información<br>Conexionismo / PDP<br>Cognición corporeizada]:::theory\n    I[<b>APLICACIONES</b><br>Educación, IA, psicología clínica,<br>interacción persona-ordenador]:::outcome\n\n    A -->|busca| B\n    B -->|al investigar| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|se estudian mediante| G\n    G -->|guiados por| H\n    H -->|produce conocimientos para| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef theory fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "psicologia_cognitiva",
+                "procesos_mentales",
+                "percepcion",
+                "atencion",
+                "memoria",
+                "lenguaje",
+                "toma_de_decisiones",
+                "procesamiento_de_la_informacion",
+                "neurociencia_cognitiva"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

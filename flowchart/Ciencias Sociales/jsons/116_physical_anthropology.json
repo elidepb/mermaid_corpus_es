@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "116",
+            "topic": "Antropología física",
+            "category": "Antropología",
+            "description": "La antropología física es el estudio científico de la evolución biológica humana, la variación y la adaptación. Este diagrama de flujo ilustra su enfoque sistemático: el objetivo último es comprender los orígenes humanos y la diversidad biológica. Integra subcampos centrales (evolución humana y paleoantropología, primatología, variación y adaptación humanas, bioarqueología y antropología forense) con marcos teóricos fundacionales (teoría evolutiva, genética de poblaciones, selección natural). Estos se investigan mediante métodos clave (anatomía comparada, análisis de fósiles, herramientas genéticas y genómicas, morfometría) que revelan patrones de descendencia filogenética, adaptación a los entornos y variación humana moderna. Los conocimientos producidos informan campos como la medicina, la identificación forense y nuestra comprensión de la unicidad humana.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Antropología física</b><br>Estudio científico de la evolución biológica,<br>la variación y la adaptación humanas]:::title\n    B[<b>OBJETIVO</b><br>Comprender los orígenes humanos<br>y la diversidad biológica]:::goal\n    C[<b>SUBCAMPOS CENTRALES</b>]:::subfields\n    subgraph D[Evolución humana]\n        D1[Paleoantropología, homininos fósiles<br>Filogenia, aparición de Homo sapiens]\n    end\n    subgraph E[Primatología]\n        E1[Comportamiento, ecología y genética<br>de primates no humanos]\n    end\n    subgraph F[Variación y adaptación humanas]\n        F1[Genética de poblaciones, adaptación<br>fisiológica, diversidad humana moderna]\n    end\n    subgraph G[Bioarqueología y forense]\n        G1[Biología esquelética, análisis de traumatismos,<br>identificación, salud en el pasado]\n    end\n    H[<b>TEORÍAS Y MÉTODOS</b>]:::theory\n    subgraph I[Teorías]\n        I1[Evolución por selección natural<br>Genética de poblaciones<br>Filogenética]\n    end\n    subgraph J[Métodos]\n        J1[\"Anatomía comparada<br>Análisis y datación de fósiles<br>Genómica (aDNA, GWAS)<br>Morfometría\"]\n    end\n    K[<b>RESULTADOS</b><br>Reconstruir la historia evolutiva humana,<br>identificación forense, informar<br>la medicina y la salud pública]:::outcome\n\n    A -->|busca| B\n    B -->|mediante el estudio de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|guiados por| H\n    H -->|incluye| I\n    H -->|incluye| J\n    I & J -->|producen| K\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef subfields fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef outcome fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "antropologia_fisica",
+                "antropologia_biologica",
+                "evolucion_humana",
+                "primatologia",
+                "antropologia_forense",
+                "genetica_de_poblaciones",
+                "paleoantropologia"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

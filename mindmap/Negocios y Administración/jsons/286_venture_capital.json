@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "286",
+            "topic": "Capital de riesgo",
+            "category": "Negocios",
+            "description": "El capital de riesgo abarca estrategias de inversión, servicios de valor añadido y prácticas de gestión de carteras para el financiamiento de capital de alto riesgo y alto retorno. Las etapas de inversión incluyen el financiamiento pre-semilla para la validación de la idea, el capital semilla para el desarrollo de producto y las pruebas de mercado, la Serie A para escalar modelos de negocio probados, las Series B-C para la expansión de mercado y la aceleración del crecimiento, y el financiamiento en etapa tardía que prepara las salidas. Los criterios de inversión evalúan la calidad de los fundadores valorando visión, capacidad de ejecución y adaptabilidad, el tamaño de mercado que requiere mercados totales direccionables grandes con potencial de crecimiento, la ventaja competitiva mediante tecnología, efectos de red o posicionamiento único, la claridad del modelo de negocio con vía a la rentabilidad y evidencia de tracción que muestra ajuste producto-mercado. Las áreas de diligencia debida cubren evaluación tecnológica, análisis de mercado, panorama competitivo, modelado financiero, revisión legal y verificación de referencias. Los servicios de valor añadido proporcionan planificación estratégica, experiencia operacional, reclutamiento de talento, presentaciones de clientes, apoyo a rondas de seguimiento y preparación de la salida. Las estructuras de fondos incluyen acuerdos de sociedad limitada, comisiones de gestión típicamente del 2%, interés llevado en torno al 20%, ciclo de vida del fondo de 10 años y llamadas de capital para el despliegue. La construcción de la cartera equilibra el riesgo mediante diversificación, enfoque de etapa, especialización sectorial y concentración geográfica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Capital de<br>riesgo</b>))\n    <b>Etapas de inversión</b>\n      Financiamiento pre-semilla\n      Capital semilla\n      Serie A\n      Series B-C\n      Financiamiento en etapa tardía\n      Rondas puente\n    <b>Criterios de inversión</b>\n      Calidad de los fundadores\n      Tamaño de mercado\n      Ventaja competitiva\n      Claridad del modelo de negocio\n      Evidencia de tracción\n      Potencial de escalabilidad\n    <b>Áreas de diligencia debida</b>\n      Evaluación tecnológica\n      Análisis de mercado\n      Panorama competitivo\n      Modelado financiero\n      Revisión legal\n      Verificación de referencias\n    <b>Servicios de valor añadido</b>\n      Planificación estratégica\n      Experiencia operacional\n      Reclutamiento de talento\n      Presentaciones de clientes\n      Captación de seguimiento\n      Preparación de la salida\n    <b>Estructura del fondo</b>\n      Sociedades limitadas\n      Comisiones de gestión 2%\n      Interés llevado 20%\n      Ciclo de vida del fondo 10 años\n      Llamadas de capital\n    <b>Construcción de la cartera</b>\n      Estrategia de diversificación\n      Enfoque de etapa\n      Especialización sectorial\n      Concentración geográfica\n      Reservas de seguimiento\n    <b>Estrategias de salida</b>\n      Oferta pública OPI\n      Adquisición estratégica\n      Ventas secundarias\n      Transacciones de fusión\n    <b>Métricas de desempeño</b>\n      Cálculo de la TIR\n      Múltiplos MOIC\n      Distribuciones DPI\n      Valor total TVPI",
+            "complexity": "high",
+            "tags": [
+                "capital_de_riesgo",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

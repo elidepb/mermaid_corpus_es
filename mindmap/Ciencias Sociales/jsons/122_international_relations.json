@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "Relaciones internacionales",
+            "category": "Ciencia política",
+            "description": "Este mapa mental organiza el campo de las relaciones internacionales. Se ramifica en teorías principales (realismo, liberalismo, constructivismo, marxismo, feminismo, poscolonialismo), conceptos clave (anarquía, soberanía, poder, equilibrio de poder, dilema de seguridad, interdependencia, hegemonía, poder blando), niveles de análisis (sistema, Estado, individuo), actores (Estados, organizaciones internacionales, ONG, empresas multinacionales), temas centrales (guerra, paz, comercio, desarrollo, medioambiente, derechos humanos) y métodos (análisis histórico, estudios de caso, cuantitativo, teoría de juegos). El mapa captura la amplitud conceptual y analítica de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Relaciones internacionales))\n    Teorías_principales\n      Realismo\n      Liberalismo\n      Constructivismo\n      Marxismo\n      Feminismo\n      Poscolonialismo\n    Conceptos_clave\n      Anarquía\n      Soberanía\n      Poder\n      Equilibrio_de_poder\n      Dilema_de_seguridad\n      Interdependencia\n      Hegemonía\n      Poder_blando\n    Niveles_de_análisis\n      Sistema\n      Estado\n      Individuo\n    Actores\n      Estados\n      Organizaciones_internacionales\n      ONG\n      Empresas_multinacionales\n    Temas_centrales\n      Guerra\n      Paz\n      Comercio\n      Desarrollo\n      Medioambiente\n      Derechos_humanos\n    Métodos\n      Análisis_histórico\n      Estudios_de_caso\n      Cuantitativo\n      Teoría_de_juegos",
+            "complexity": "high",
+            "tags": [
+                "relaciones_internacionales",
+                "mapa_mental",
+                "teorías",
+                "conceptos",
+                "actores",
+                "temas",
+                "niveles_de_análisis"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

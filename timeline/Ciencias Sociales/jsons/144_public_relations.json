@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Relaciones públicas",
+            "category": "Comunicación y gestión",
+            "description": "Esta cronología traza la evolución de las relaciones públicas desde la publicidad temprana hasta una práctica mundial orientada al propósito. Hitos clave: las tácticas de publicidad y las oficinas de prensa (década de 1900); la «Declaración de principios» de Ivy Lee (1906), que estableció la apertura y la verdad; las obras seminales de Edward Bernays y el primer manual (Crystallizing Public Opinion, 1923); la expansión de las RP corporativas de la posguerra (décadas de 1950‑60); los cuatro modelos de RP de Grunig y Hunt (1984); la revolución digital de finales de la década de 1990 con salas de prensa en línea y correo electrónico; el auge de las redes sociales y el marketing de contenidos (décadas de 2000‑2010); el surgimiento de las relaciones con influencers, la medición basada en datos y la analítica de reputación; y el enfoque de la década de 2020 en los criterios ESG, la comunicación orientada al propósito, la integración de la IA y el engagement en tiempo real.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de las relaciones públicas\n    section Primeros fundamentos\n      1900 : Primera agencia de publicidad<br>(Publicity Bureau)\n      1906 : Declaración de principios<br>de Ivy Lee\n    section Nacimiento de las RP modernas\n      1914‑1920s : Campañas de Bernays<br>persuasión científica\n      1923 : Primer manual de Bernays<br>Cristalizando la opinión pública\n    section Crecimiento corporativo y mundial\n      1950s‑60s : Auge de la posguerra,<br>departamentos de RP corporativas\n      1984 : Los cuatro modelos de RP<br>de Grunig y Hunt\n    section Transformación digital\n      1990s : Salas de prensa en línea,<br>correo electrónico, primeras RP web\n      2000s : Blogs, SEO, escucha<br>en redes sociales\n      2010s : Marketing de contenidos,<br>relaciones con influencers,<br>medición basada en datos\n    section Era del propósito y la IA\n      2020s : ESG y comunicación orientada<br>al propósito, herramientas de IA,<br>diálogo con grupos de interés en tiempo real",
+            "complexity": "high",
+            "tags": [
+                "relaciones_publicas",
+                "historia",
+                "linea_de_tiempo",
+                "ivy_lee",
+                "berneys",
+                "grunig",
+                "RP_digitales",
+                "ESG"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "141",
+            "topic": "Comunicación Política",
+            "category": "Comunicación y Ciencia Política",
+            "description": "Este mapa mental organiza el campo de la Comunicación Política en torno a su concepto central. Se ramifica en Conceptos clave (propaganda, esfera pública, publicidad política, spin, encuadre, deliberación), Actores políticos (candidatos, partidos, gobiernos, grupos de interés, movimientos sociales), Canales mediáticos (medios masivos tradicionales, medios digitales y sociales, redes interpersonales, sátira política), Enfoques teóricos (establecimiento de agenda, priming, encuadre, espiral del silencio, flujo en dos pasos, cultivación, democracia deliberativa), Efectos (persuasión, construcción de agenda, polarización, movilización, brechas de conocimiento) y Cuestiones contemporáneas (desinformación, curaduría algorítmica, microsegmentación, populismo, entretenimiento político). El mapa refleja el carácter interdisciplinario y dinámico del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Comunicación Política))\n    Conceptos_Clave\n      Propaganda\n      Esfera_Pública\n      Publicidad_Política\n      Spin\n      Encuadre\n      Deliberación\n    Actores_Políticos\n      Candidatos\n      Partidos\n      Gobiernos\n      Grupos_de_Interés\n      Movimientos_Sociales\n    Canales_Mediáticos\n      Medios_Masivos_Tradicionales\n      Medios_Digitales_y_Sociales\n      Redes_Interpersonales\n      Sátira_Política\n    Enfoques_Teóricos\n      Establecimiento_de_Agenda\n      Priming\n      Encuadre\n      Espiral_del_Silencio\n      Flujo_en_Dos_Pasos\n      Cultivación\n      Democracia_Deliberativa\n    Efectos\n      Persuasión\n      Construcción_de_Agenda\n      Polarización\n      Movilización\n      Brechas_de_Conocimiento\n    Cuestiones_Contemporáneas\n      Desinformación\n      Curaduría_Algorítmica\n      Microsegmentación\n      Populismo\n      Entretenimiento_Político",
+            "complexity": "high",
+            "tags": ["comunicación_política", "mapa_mental", "teorías", "efectos", "actores", "canales", "desinformación"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "278",
+            "topic": "Gestión del cambio",
+            "category": "Negocios",
+            "description": "La gestión del cambio abarca modelos, estrategias y prácticas para orientar la transformación organizacional. Los modelos de cambio incluyen el modelo de tres etapas de Lewin de descongelar-cambiar-recongelar, el proceso de ocho pasos de Kotter que enfatiza la urgencia y las coaliciones, el marco ADKAR centrado en las transiciones individuales mediante Conciencia-Deseo-Conocimiento-Habilidad-Refuerzo, y el modelo 7-S de McKinsey que alinea estrategia, estructura, sistemas, habilidades, personal, estilo y valores compartidos. El liderazgo del cambio requiere visión transformacional, inteligencia emocional, construcción de coaliciones y modelado de resiliencia. Las fuentes de resistencia derivan de la pérdida de control, la incertidumbre, la disrupción de rutinas y fracasos de cambios anteriores. Las estrategias de comunicación emplean asambleas, boletines, redes de campeones y mecanismos de retroalimentación. La capacitación y el desarrollo construyen competencias mediante talleres, coaching, ayudas de trabajo y sistemas de apoyo. La transformación cultural desplaza mentalidades, valores y conductas mediante acciones simbólicas y refuerzo. La medición rastrea tasas de adopción, métricas de desempeño y el sentimiento de los empleados a lo largo de las fases de transición.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión del<br>cambio</b>))\n    <b>Modelos de cambio</b>\n      Modelo de 3 etapas de Lewin\n      8 pasos de Kotter\n      Marco ADKAR\n      7-S de McKinsey\n      Modelo de transición de Bridges\n    <b>Liderazgo del cambio</b>\n      Visión transformacional\n      Inteligencia emocional\n      Construcción de coaliciones\n      Modelado de resiliencia\n      Tácticas de influencia\n    <b>Fuentes de resistencia</b>\n      Pérdida de control\n      Temores de incertidumbre\n      Disrupción de rutinas\n      Fracasos anteriores\n      Restricciones de recursos\n    <b>Estrategias de comunicación</b>\n      Asambleas\n      Boletines\n      Redes de campeones\n      Mecanismos de retroalimentación\n      Narrativa\n    <b>Capacitación y desarrollo</b>\n      Talleres de habilidades\n      Programas de coaching\n      Ayudas de trabajo\n      Sistemas de apoyo\n      Aprendizaje entre pares\n    <b>Transformación cultural</b>\n      Cambios de mentalidad\n      Alineación de valores\n      Cambio conductual\n      Acciones simbólicas\n      Refuerzo\n    <b>Medición</b>\n      Tasas de adopción\n      Métricas de desempeño\n      Sentimiento de los empleados\n      Seguimiento del ROI\n      Seguimiento de hitos\n    <b>Tipos de cambio</b>\n      Cambio estratégico\n      Mejora de procesos\n      Adopción tecnológica\n      Reestructuración organizacional\n      Integración de fusiones",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_cambio",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

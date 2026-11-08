@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "056",
+            "topic": "Ingeniería robótica",
+            "category": "Ingeniería",
+            "description": "La ingeniería robótica abarca múltiples dominios interconectados. Los tipos clave de robots incluyen robots industriales (brazos de fabricación, sistemas CNC), robots de servicio (limpieza, entrega, asistentes sanitarios), robots móviles (vehículos autónomos, drones, AGV) y robots humanoides. Los componentes esenciales comprenden actuadores (motores, servos, hidráulica), sensores (visión, LIDAR, proximidad, fuerza/par), controladores (PLC, microcontroladores, sistemas embebidos) y efectores finales (pinzas, herramientas). Las tecnologías centrales involucran cinemática y dinámica, teoría de control (PID, control adaptativo), visión por computadora, aprendizaje automático, SLAM (localización y mapeo simultáneos) y planificación de movimiento. Las aplicaciones cubren automatización de la fabricación, cirugía médica, exploración espacial, agricultura, búsqueda y rescate, y entretenimiento.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>robótica</b>))\n    <b>Tipos de robots</b>\n      Robots industriales\n        Brazos de fabricación\n        Sistemas CNC\n      Robots de servicio\n        Limpieza\n        Sanidad\n      Robots móviles\n        Vehículos autónomos\n        Drones\n        AGV\n      Robots humanoides\n    <b>Componentes</b>\n      Actuadores\n        Motores\n        Servos\n        Hidráulica\n      Sensores\n        Visión\n        LIDAR\n        Proximidad\n        Fuerza/par\n      Controladores\n        PLC\n        Microcontroladores\n        Sistemas embebidos\n      Efectores finales\n        Pinzas\n        Herramientas\n    <b>Tecnologías centrales</b>\n      Cinemática y dinámica\n      Teoría de control\n        PID\n        Control adaptativo\n      Visión por computadora\n      Aprendizaje automático\n      SLAM\n      Planificación de movimiento\n    <b>Aplicaciones</b>\n      Fabricación\n      Cirugía médica\n      Exploración espacial\n      Agricultura\n      Búsqueda y rescate\n      Entretenimiento",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_robótica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

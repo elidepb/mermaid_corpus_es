@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Geografía humana",
+            "category": "Geografía",
+            "description": "La geografía humana es el estudio de la organización espacial de las actividades humanas y las relaciones entre las personas y sus entornos. Este diagrama de flujo ilustra su marco analítico: el objetivo general es comprender y explicar los patrones espaciales del comportamiento humano, la cultura y la sociedad. Se apoya en conceptos centrales (espacio, lugar, escala, región, paisaje) y subcampos (geografía cultural, económica, urbana, política, social). Estos se investigan mediante métodos diversos (SIG, cartografía, trabajo de campo cualitativo, análisis espacial cuantitativo) y se enmarcan en las principales perspectivas teóricas (positivismo, geografía humanística, geografía marxista y feminista, posestructuralismo). El análisis resultante aborda cuestiones clave como la globalización, la migración, la desigualdad urbana y la percepción ambiental, e informa aplicaciones en planificación, política y desarrollo sostenible.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Geografía humana</b><br>Estudio de la organización espacial de<br>las actividades humanas y las relaciones persona-lugar]:::title\n    B[<b>OBJETIVO</b><br>Comprender los patrones espaciales<br>del comportamiento humano, la cultura<br>y la sociedad]:::goal\n    C[<b>ELEMENTOS CENTRALES</b>]:::elements\n    subgraph D[Conceptos clave]\n        D1[Espacio, lugar, escala<br>Región, paisaje, territorio]\n    end\n    subgraph E[Subcampos]\n        E1[Cultural, económica, urbana<br>Política, social, de la población]\n    end\n    subgraph F[Métodos]\n        F1[SIG y cartografía<br>Trabajo de campo cualitativo<br>Análisis espacial cuantitativo]\n    end\n    G[<b>PERSPECTIVAS TEÓRICAS</b><br>Positivismo, humanística,<br>marxista, feminista,<br>posestructural]:::theory\n    H[<b>ANÁLISIS</b><br>Globalización, migración,<br>desigualdad urbana,<br>percepción ambiental]:::analysis\n    I[<b>APLICACIONES</b><br>Planificación urbana, política,<br>desarrollo sostenible]:::outcome\n\n    A -->|busca| B\n    B -->|integra| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|enmarcados por| G\n    G -->|examina| H\n    H -->|informa| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "geografia_humana",
+                "organizacion_espacial",
+                "lugar",
+                "escala",
+                "sig",
+                "geografia_cultural",
+                "geografia_urbana",
+                "analisis_espacial"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

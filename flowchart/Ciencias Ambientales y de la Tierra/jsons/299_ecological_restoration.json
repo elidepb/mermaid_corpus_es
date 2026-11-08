@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "299",
+            "topic": "Restauración ecológica",
+            "category": "Ciencias ambientales",
+            "description": "La restauración ecológica es el proceso de asistir la recuperación de ecosistemas degradados, dañados o destruidos para restablecer su integridad ecológica, biodiversidad y funciones ecosistémicas. Su objetivo principal es reparar el daño ambiental y reinstaurar ecosistemas autosostenibles que proporcionen beneficios ecológicos, sociales y económicos. Los dominios centrales incluyen: planificación de la restauración (evaluación del sitio, identificación del ecosistema de referencia, establecimiento de metas, involucramiento de partes interesadas), estrategias de intervención (restauración pasiva mediante regeneración natural, restauración activa con plantación y reintroducción de especies, enfoques de gestión adaptativa), componentes del ecosistema (restauración y enmienda del suelo, restauración del régimen hidrológico, establecimiento de vegetación, creación de hábitat para fauna), monitoreo y evaluación (indicadores ecológicos, evaluación de la biodiversidad, mediciones de función ecosistémica, criterios de éxito) y dimensiones sociales (participación comunitaria, integración del conocimiento ecológico tradicional, beneficios para los medios de vida, educación ambiental). El proceso de restauración implica evaluación de la degradación, diseño de la restauración, implementación de intervenciones, monitoreo del progreso y refinamiento de la gestión adaptativa. Estos elementos se integran mediante la ecología, la ciencia del suelo y el involucramiento social para crear bosques, humedales, pastizales, arrecifes de coral y tierras degradadas restaurados que recuperan biodiversidad, servicios ecosistémicos, resiliencia climática y bienestar comunitario.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Restauración ecológica</b><br>Asistir la recuperación de ecosistemas<br>degradados]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Reparar el daño y restaurar<br>ecosistemas autosostenibles]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Planificación de la restauración]\n        D1[Evaluación del sitio<br>Ecosistemas de referencia<br>Involucramiento de partes interesadas]\n    end\n    \n    subgraph E[Estrategias de intervención]\n        E1[Restauración pasiva<br>Restauración activa<br>Gestión adaptativa]\n    end\n    \n    subgraph F[Componentes del ecosistema]\n        F1[Restauración del suelo<br>Restauración hidrológica<br>Vegetación y hábitat]\n    end\n    \n    subgraph G[Monitoreo y evaluación]\n        G1[Indicadores ecológicos<br>Evaluación de la biodiversidad<br>Criterios de éxito]\n    end\n    \n    subgraph H[Dimensiones sociales]\n        H1[Participación comunitaria<br>Conocimiento tradicional<br>Beneficios para los medios de vida]\n    end\n    \n    I[<b>PROCESO DE RESTAURACIÓN</b><br>Evaluación, diseño<br>Implementación, monitoreo]:::process\n    \n    J[<b>CREA</b><br>Ecosistemas recuperados con<br>biodiversidad y servicios]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "restauracion_ecologica",
+                "ciencias_ambientales",
+                "ecologia",
+                "conservacion",
+                "revegetacion",
+                "gestion_adaptativa"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

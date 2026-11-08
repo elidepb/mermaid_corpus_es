@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "099",
+            "topic": "Economía del desarrollo",
+            "category": "Economía",
+            "description": "La historia de la economía del desarrollo está marcada por grandes giros teóricos y de política. En 1948, el Plan Marshall simbolizó la reconstrucción de posguerra a gran escala y el nacimiento de la ayuda al desarrollo. El modelo de dualismo sectorial de W. Arthur Lewis (1954) ofreció una teoría temprana de la transformación estructural. Las etapas del crecimiento económico de Walt Rostow (1960) propusieron un esquema lineal de modernización. Durante las décadas de 1960 y 1970, la teoría de la dependencia, impulsada por Prebisch y Frank, cuestionó la visión dominante al enfatizar las estructuras globales desiguales. El lanzamiento del Índice de Desarrollo Humano por el PNUD en 1990 desplazó el foco del ingreso al bienestar más amplio. Los Objetivos de Desarrollo del Milenio (2000) y los Objetivos de Desarrollo Sostenible (2015) fijaron metas mundiales concretas, reflejando el consenso creciente de que el desarrollo debe ser multidimensional, inclusivo y ambientalmente sostenible.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la economía del desarrollo\n    1948 : Plan Marshall<br>Reconstrucción de posguerra\n    1954 : Modelo de dualismo sectorial de Lewis<br>Oferta ilimitada de trabajo\n    1960 : Etapas del crecimiento de Rostow<br>Desarrollo lineal\n    1960s‑70s : Teoría de la dependencia<br>Prebisch, Frank\n    1990 : Índice de Desarrollo Humano<br>PNUD\n    2000 : Objetivos de Desarrollo del Milenio<br>Metas mundiales\n    2015 : Objetivos de Desarrollo Sostenible<br>Agenda 2030",
+            "complexity": "medium",
+            "tags": [
+                "economia_del_desarrollo",
+                "historia",
+                "Rostow",
+                "Lewis",
+                "IDH",
+                "ODS"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

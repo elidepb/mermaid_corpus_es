@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "047",
+            "topic": "Aprendizaje automático",
+            "category": "ciencias_de_la_computacion",
+            "description": "El aprendizaje automático es el estudio científico y el desarrollo de algoritmos que permiten a las computadoras aprender patrones a partir de datos y realizar predicciones o decisiones sin programación explícita para cada tarea. Comienza con la recopilación de datos, reuniendo conjuntos de datos relevantes de diversas fuentes y asegurando calidad, completitud y representatividad. El preprocesamiento de datos limpia los datos tratando valores faltantes, valores atípicos e inconsistencias, y luego transforma las características mediante normalización, codificación e ingeniería. El análisis exploratorio de datos examina distribuciones, relaciones y patrones usando métodos estadísticos y visualización. La selección del modelo elige algoritmos adecuados según el tipo de problema (clasificación, regresión, agrupamiento), las características de los datos y los requisitos de rendimiento. El proceso de entrenamiento optimiza los parámetros del modelo usando datos de entrenamiento, aplicando técnicas como el descenso por gradiente, la validación cruzada y el ajuste de hiperparámetros. La evaluación del modelo valora el rendimiento con datos de prueba reservados, midiendo exactitud, precisión, exhaustividad, puntuación F1 u otras métricas relevantes. El despliegue del modelo integra los modelos entrenados en sistemas de producción con infraestructura de monitorización. La monitorización del rendimiento rastrea las predicciones, detecta la deriva de datos y dispara el reentrenamiento cuando el rendimiento se degrada. El objetivo es crear modelos exactos y generalizables que extraigan conocimientos accionables de los datos y se adapten a patrones cambiantes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Aprendizaje automático</b><br>Algoritmos que aprenden patrones<br>a partir de datos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear modelos exactos y generalizables<br>a partir de datos]:::goal\n    C[<b>FLUJO DE TRABAJO DE AA</b>]:::process\n    \n    subgraph D[Recopilación de datos]\n        D1[Reunir conjuntos de datos asegurando<br>calidad y completitud]\n    end\n    \n    subgraph E[Preprocesamiento de datos]\n        E1[Limpiar y transformar<br>características mediante normalización]\n    end\n    \n    subgraph F[Análisis exploratorio]\n        F1[Examinar distribuciones,<br>relaciones y patrones]\n    end\n    \n    subgraph G[Selección del modelo]\n        G1[Elegir algoritmos según el<br>tipo de problema y los datos]\n    end\n    \n    subgraph H[Proceso de entrenamiento]\n        H1[Optimizar parámetros mediante<br>descenso por gradiente y ajuste]\n    end\n    \n    subgraph I[Evaluación del modelo]\n        I1[Valorar exactitud, precisión<br>y otras métricas]\n    end\n    \n    subgraph J[Despliegue del modelo]\n        J1[Integrar en producción<br>con monitorización]\n    end\n    \n    subgraph K[Monitorización del rendimiento]\n        K1[Rastrear predicciones y<br>detectar deriva]\n    end\n    \n    L[<b>RESULTADO</b><br>Conocimientos accionables que extraen<br>patrones adaptativos]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    K -.->|ciclo de reentrenamiento| H\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "aprendizaje_automatico",
+                "ciencias_de_la_computacion",
+                "aprendizaje_supervisado",
+                "aprendizaje_no_supervisado",
+                "redes_neuronales"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Periodismo",
+            "category": "Comunicación y estudios de medios",
+            "description": "El periodismo es la práctica profesional de recabar, verificar y presentar noticias para informar al público. Este diagrama de flujo traza su lógica central: el objetivo último es servir al interés público y fortalecer el discurso democrático. Integra componentes centrales: la recolección de noticias (reportaje, investigación, fuentes), la verificación y la ética (comprobación de hechos, equidad, independencia), la producción y la edición (redacción, maquetación, narración visual) y los canales de distribución (prensa, radiodifusión, digital). Estas prácticas se guían por marcos teóricos principales (gatekeeping, establecimiento de la agenda, encuadre, teoría de la responsabilidad social) y se despliegan en un proceso profesional cíclico (recabar → verificar → producir → distribuir → retroalimentación). El resultado es una ciudadanía informada, un poder responsable y una esfera pública en funcionamiento.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Periodismo</b><br>Práctica profesional de recabar,<br>verificar y presentar noticias]:::title\n    B[<b>OBJETIVO</b><br>Informar al público, exigir cuentas<br>al poder, fomentar la democracia]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Recolección de noticias]\n        D1[Reportaje y entrevistas<br>Investigación periodística<br>Cultivo de fuentes<br>Periodismo de datos]\n    end\n    subgraph E[Verificación y ética]\n        E1[Comprobación de hechos y exactitud<br>Equidad, equilibrio, imparcialidad<br>Independencia y transparencia<br>Rendición de cuentas y correcciones]\n    end\n    subgraph F[Producción y edición]\n        F1[Redacción y narración<br>Titulares y corrección de estilo<br>Producción visual y multimedia<br>Maquetación y optimización de plataformas]\n    end\n    subgraph G[Canales de distribución]\n        G1[Prensa y radiodifusión<br>En línea y móvil<br>Redes sociales y boletines<br>Pódcast y streaming]\n    end\n    H[<b>MARCOS TEÓRICOS</b><br>Teoría del gatekeeping<br>Establecimiento de la agenda y encuadre<br>Teoría de la responsabilidad social<br>Usos y gratificaciones]:::theory\n    I[\"<b>CICLO PROFESIONAL</b><br>Recabar → Verificar → Producir → Distribuir<br>→ Retroalimentación → (repetir)\"]:::process\n    J[<b>RESULTADOS</b><br>Ciudadanía informada,<br>instituciones responsables,<br>deliberación pública]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    D & E & F & G -->|guiado por| H\n    H -->|configura| I\n    I -->|logra| J\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "periodismo",
+                "noticias",
+                "gatekeeping",
+                "establecimiento_de_la_agenda",
+                "etica_mediatica",
+                "reportaje",
+                "esfera_publica"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

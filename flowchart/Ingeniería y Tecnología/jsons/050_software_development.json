@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "050",
+            "topic": "Desarrollo de software",
+            "category": "ciencias_de_la_computacion",
+            "description": "El desarrollo de software es el proceso sistemático de diseñar, crear, probar y mantener aplicaciones de software mediante metodologías estructuradas que transforman requisitos en programas funcionales. Comienza con la recopilación de requisitos, recabando las necesidades de las partes interesadas, documentando requisitos funcionales y no funcionales, y estableciendo criterios de aceptación. El diseño del sistema traduce los requisitos en una arquitectura que define componentes, interfaces, estructuras de datos y decisiones sobre la pila tecnológica. La implementación implica escribir código siguiendo normas de programación, patrones de diseño y buenas prácticas, usando los lenguajes de programación y marcos elegidos. Las pruebas unitarias verifican que los componentes individuales funcionen correctamente mediante casos de prueba automatizados que cubren casos extremos y condiciones de error. Las pruebas de integración aseguran que los componentes trabajen juntos de forma adecuada, identificando problemas de interfaz y de flujo de datos. Las pruebas de sistema validan que la aplicación completa cumpla los requisitos mediante pruebas funcionales, de rendimiento, de seguridad y de usabilidad. El despliegue libera el software a entornos de producción usando canalizaciones de integración continua y despliegue continuo con capacidades de reversión. El mantenimiento y la evolución abordan correcciones de errores, optimización del rendimiento, mejoras de funcionalidades y gestión de la deuda técnica. El objetivo es entregar software de alta calidad y mantenible que resuelva los problemas de los usuarios de forma eficiente, adaptándose al mismo tiempo a requisitos y tecnologías cambiantes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Desarrollo de software</b><br>Proceso sistemático que crea<br>aplicaciones funcionales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Entregar software de alta calidad<br>y mantenible]:::goal\n    C[<b>CICLO DE VIDA DEL DESARROLLO</b>]:::process\n    \n    subgraph D[Recopilación de requisitos]\n        D1[Recabar necesidades y documentar<br>criterios de aceptación]\n    end\n    \n    subgraph E[Diseño del sistema]\n        E1[Definir arquitectura, componentes<br>y pila tecnológica]\n    end\n    \n    subgraph F[Implementación]\n        F1[Escribir código siguiendo<br>normas y patrones]\n    end\n    \n    subgraph G[Pruebas unitarias]\n        G1[Verificar componentes mediante<br>pruebas automatizadas]\n    end\n    \n    subgraph H[Pruebas de integración]\n        H1[Asegurar que los componentes<br>trabajen juntos adecuadamente]\n    end\n    \n    subgraph I[Pruebas de sistema]\n        I1[Validar que la aplicación completa<br>cumpla los requisitos]\n    end\n    \n    subgraph J[Despliegue]\n        J1[Liberar a producción<br>mediante canalizaciones CI/CD]\n    end\n    \n    subgraph K[Mantenimiento y evolución]\n        K1[Abordar errores, optimizar<br>y mejorar funcionalidades]\n    end\n    \n    L[<b>RESULTADO</b><br>Software de calidad que resuelve<br>problemas de usuarios con eficiencia]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    K -.->|iteración continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "desarrollo_de_software",
+                "ciencias_de_la_computacion",
+                "ciclo_de_vida_del_software",
+                "agil",
+                "devops"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

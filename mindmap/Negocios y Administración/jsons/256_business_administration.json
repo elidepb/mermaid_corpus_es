@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "256",
+            "topic": "Administración de empresas",
+            "category": "Negocios",
+            "description": "La administración de empresas representa las disciplinas interconectadas de la gestión de las organizaciones modernas. Se ramifica en áreas estratégicas: la gestión de operaciones optimiza los procesos de producción, los recursos humanos desarrollan el talento, el marketing crea valor para el cliente, las finanzas asignan el capital y los sistemas de información posibilitan las decisiones basadas en datos. Cada rama respalda el éxito organizacional mediante experiencia especializada, manteniendo al mismo tiempo la alineación con los objetivos generales del negocio.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Administración<br>de empresas</b>))\n    <b>Operaciones</b>\n      Optimización de procesos\n      Control de calidad\n      Cadena de suministro\n      Eficiencia de producción\n    <b>Recursos humanos</b>\n      Captación de talento\n      Capacitación y desarrollo\n      Gestión del desempeño\n      Relaciones laborales\n    <b>Marketing</b>\n      Investigación de mercado\n      Estrategia de marca\n      Relaciones con clientes\n      Gestión de ventas\n    <b>Finanzas</b>\n      Planificación presupuestaria\n      Análisis de inversiones\n      Gestión de riesgos\n      Información financiera\n    <b>Sistemas de información</b>\n      Gestión de datos\n      Integración tecnológica\n      Analítica de negocio\n      Transformación digital",
+            "complexity": "high",
+            "tags": [
+                "administracion_de_empresas",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

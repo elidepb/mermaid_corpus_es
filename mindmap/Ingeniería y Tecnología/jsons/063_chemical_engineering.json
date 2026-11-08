@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "063",
+            "topic": "Ingeniería química",
+            "category": "Ingeniería",
+            "description": "La ingeniería química abarca especializaciones técnicas e aplicaciones industriales diversas. Los conceptos fundamentales incluyen balances de materia, balances de energía, termodinámica, cinética de reacción y fenómenos de transporte. Las operaciones unitarias cubren destilación, absorción, extracción, cristalización, filtración, secado, mezclado e intercambio de calor. Los tipos de reactor incluyen reactores discontinuos, reactores de tanque agitado continuo (CSTR), reactores de flujo pistón (PFR), reactores de lecho empacado y reactores de lecho fluidizado. El equipo de proceso comprende intercambiadores de calor, bombas, compresores, separadores, columnas y recipientes. Las herramientas de análisis incluyen Aspen Plus, HYSYS, MATLAB y ChemCAD para simulación y diseño. Los sectores industriales cubren petroquímica, farmacéutica, polímeros, procesamiento de alimentos, biotecnología e ingeniería ambiental. Las consideraciones de seguridad involucran análisis HAZOP, evaluación de riesgos, sistemas de alivio de presión y compatibilidad de materiales. Las áreas emergentes incluyen química verde, intensificación de procesos, aplicaciones de nanotecnología y prácticas de fabricación sostenible.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>química</b>))\n    <b>Conceptos fundamentales</b>\n      Balances de materia\n      Balances de energía\n      Termodinámica\n      Cinética de reacción\n      Fenómenos de transporte\n    <b>Operaciones unitarias</b>\n      Destilación\n      Absorción\n      Extracción\n      Cristalización\n      Filtración\n      Secado\n      Mezclado\n      Intercambio de calor\n    <b>Tipos de reactor</b>\n      Reactores discontinuos\n      CSTR\n      Flujo pistón (PFR)\n      Lecho empacado\n      Lecho fluidizado\n    <b>Equipo de proceso</b>\n      Intercambiadores de calor\n      Bombas\n      Compresores\n      Separadores\n      Columnas\n      Recipientes\n    <b>Herramientas de simulación</b>\n      Aspen Plus\n      HYSYS\n      MATLAB\n      ChemCAD\n    <b>Sectores industriales</b>\n      Petroquímica\n      Farmacéutica\n      Polímeros\n      Procesamiento de alimentos\n      Biotecnología\n      Ambiental\n    <b>Seguridad y riesgo</b>\n      Análisis HAZOP\n      Evaluación de riesgos\n      Alivio de presión\n      Compatibilidad de materiales\n    <b>Áreas emergentes</b>\n      Química verde\n      Intensificación de procesos\n      Nanotecnología\n      Fabricación sostenible",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_química",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

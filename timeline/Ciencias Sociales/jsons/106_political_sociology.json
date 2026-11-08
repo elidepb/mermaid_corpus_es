@@ -1,0 +1,26 @@
+{
+    "diagrams": [
+        {
+            "id": "106",
+            "topic": "Sociología política",
+            "category": "Sociología y ciencia política",
+            "description": "Esta cronología rastrea la historia intelectual de la sociología política. Comienza con precursores clásicos (la clasificación de las constituciones de Aristóteles en el siglo IV a. C., El príncipe de Maquiavelo en 1513). Los siglos XVIII y XIX trajeron la democracia y la asociación de Tocqueville (1835) y la política de clase de Marx y Engels (1848). A principios del siglo XX aparecieron La política como vocación de Weber (1919) y los Cuadernos de la cárcel de Gramsci (1929-35). A mediados de siglo, el campo se institucionalizó con el pluralismo (Dahl, 1961) y la teoría de las élites. Las décadas de 1960-70 añadieron la teoría de los clivajes de Lipset y Rokkan (1967) y las revoluciones centradas en el Estado de Skocpol (1979). A finales del siglo XX surgieron los nuevos movimientos sociales (Touraine, Habermas) y el capital social de Putnam (1993). El trabajo contemporáneo se centra en el populismo, la política digital y la gobernanza mundial.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la sociología política\n    section Precursores clásicos\n      4th cent BCE : Aristóteles<br>Política y constituciones\n      1513 : Maquiavelo<br>El príncipe (realismo)\n    section Fundamentos de los siglos XVIII-XIX\n      1835 : Tocqueville<br>La democracia en América\n      1848 : Marx y Engels<br>Manifiesto comunista\n    section Principios del siglo XX\n      1919 : Max Weber<br>La política como vocación\n      1929‑35 : Antonio Gramsci<br>Cuadernos de la cárcel (hegemonía)\n    section Institucionalización de mediados de siglo\n      1961 : Robert Dahl<br>Pluralismo y poliarquía\n      1967 : Lipset y Rokkan<br>Teoría de los clivajes\n    section Finales del siglo XX\n      1979 : Theda Skocpol<br>Los Estados y las revoluciones sociales\n      1980s : Nuevos movimientos sociales<br>(Touraine, Habermas)\n      1993 : Robert Putnam<br>Capital social y cultura cívica\n    section Contemporánea\n      2000s : Populismo y extrema derecha<br>Política digital y activismo",
+            "complexity": "high",
+            "tags": [
+                "sociologia_politica",
+                "historia",
+                "linea_de_tiempo",
+                "marx",
+                "weber",
+                "tocqueville",
+                "gramsci",
+                "skocpol",
+                "movimientos_sociales",
+                "populismo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

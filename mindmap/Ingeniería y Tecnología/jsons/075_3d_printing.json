@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "075",
+            "topic": "Impresión 3D",
+            "category": "Tecnología",
+            "description": "La impresión 3D abarca tecnologías y aplicaciones diversas. Las tecnologías de impresión de polímeros incluyen el modelado por deposición fundida (FDM/FFF) con PLA, ABS, PETG y filamentos flexibles; la estereolitografía (SLA) y el procesamiento digital de luz (DLP) con resinas curables por UV; y PolyJet para impresión multimaterial. La impresión de metal incluye fusión selectiva por láser (SLM), sinterización directa de metal por láser (DMLS), fusión por haz de electrones (EBM) y chorro de aglutinante con metales como titanio, aluminio, acero inoxidable e Inconel. Otras tecnologías presentan sinterización selectiva por láser (SLS) para nailon y polímeros, chorro de aglutinante para arena y cerámicas, y bioimpresión para ingeniería de tejidos. Los materiales cubren termoplásticos (PLA, ABS, nailon), fotopolímeros (resinas estándar, resistentes, flexibles), metales, cerámicas, composites (reforzados con fibra de carbono) y materiales biológicos. Las herramientas de software incluyen programas CAD (Fusion 360, SolidWorks, Tinkercad), software de laminado (Cura, PrusaSlicer, Simplify3D) y herramientas de optimización topológica. Las aplicaciones cubren prototipado rápido, componentes aeroespaciales, implantes y prótesis médicas, piezas automotrices, modelos arquitectónicos, productos de consumo, joyería, aplicaciones dentales y construcción (edificios impresos en 3D). Las consideraciones de diseño involucran voladizos y soportes, adhesión entre capas, exactitud dimensional, propiedades del material, orientación de construcción y optimización de costes.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Impresión 3D))\n    Tecnologías de impresión\n      FDM/FFF\n      SLA/DLP\n      SLS\n      Impresión de metal\n      Bioimpresión\n    Materiales\n      Polímeros\n      Metales\n      Cerámicas\n      Composites\n      Biomateriales\n    Diseño para fabricación aditiva\n      Optimización topológica\n      Estructuras de soporte\n      Orientación de capas\n      Directrices de diseño\n    Parámetros de proceso\n      Resolución\n      Velocidad\n      Temperatura\n      Altura de capa\n    Posprocesado\n      Acabado superficial\n      Tratamiento térmico\n      Eliminación de soportes\n      Ensamblaje\n    Aplicaciones\n      Prototipado\n      Fabricación\n      Dispositivos médicos\n      Aeroespacial\n      Arquitectura\n      Productos de consumo\n    Software\n      Diseño CAD\n      Software de laminado\n      Simulación\n      Formatos de archivo\n    Control de calidad\n      Exactitud dimensional\n      Propiedades del material\n      Ensayos\n      Normas",
+            "complexity": "high",
+            "tags": [
+                "impresión_3d",
+                "tecnología"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

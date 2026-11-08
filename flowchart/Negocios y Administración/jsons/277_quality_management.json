@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Gestión de la calidad",
+            "category": "Negocios",
+            "description": "La gestión de la calidad es el enfoque sistemático para asegurar que productos y servicios cumplan o superen de forma consistente las expectativas del cliente mediante la mejora continua. Comienza con la planificación de la calidad, estableciendo estándares, especificaciones y criterios de aceptación alineados con los requisitos del cliente. El diseño de procesos desarrolla procedimientos y flujos de trabajo que incorporan la calidad en las operaciones en lugar de inspeccionarla después. El control de calidad implementa inspección, pruebas y monitoreo para detectar defectos y variaciones. El control estadístico de procesos usa el análisis de datos para identificar tendencias, patrones y condiciones fuera de control. La acción correctiva aborda las causas raíz de los defectos mediante metodologías de resolución de problemas como los 5 porqués y los diagramas de Ishikawa. La acción preventiva anticipa problemas potenciales e implementa salvaguardas antes de que ocurran. La mejora continua emplea metodologías como Kaizen, Seis Sigma y Lean para mejorar sistemáticamente el desempeño. El objetivo es alcanzar la excelencia mediante la prevención de defectos, la eliminación de desperdicios y la satisfacción del cliente.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de la calidad</b><br>Enfoque sistemático para<br>cumplir las expectativas]:::title\n    B[<b>META PRINCIPAL</b><br>Alcanzar la excelencia mediante<br>la mejora continua]:::goal\n    C[<b>PROCESO DE CALIDAD</b>]:::process\n    \n    subgraph D[Planificación de la calidad]\n        D1[Establecer estándares<br>y especificaciones]\n    end\n    \n    subgraph E[Diseño de procesos]\n        E1[Desarrollar procedimientos<br>que incorporen la calidad]\n    end\n    \n    subgraph F[Control de calidad]\n        F1[Implementar inspección,<br>pruebas y monitoreo]\n    end\n    \n    subgraph G[Control estadístico de procesos]\n        G1[Analizar datos de tendencias<br>y variaciones]\n    end\n    \n    subgraph H[Acción correctiva]\n        H1[Abordar las causas raíz<br>de los defectos]\n    end\n    \n    subgraph I[Acción preventiva]\n        I1[Anticipar y prevenir<br>problemas potenciales]\n    end\n    \n    subgraph J[Mejora continua]\n        J1[Aplicar métodos Kaizen, Seis Sigma<br>y Lean]\n    end\n    \n    K[<b>RESULTADO</b><br>Prevención de defectos y<br>satisfacción del cliente]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|bucle de retroalimentación| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_calidad",
+                "gct",
+                "seis_sigma",
+                "iso_9000",
+                "mejora_continua"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "263",
+            "topic": "Logística",
+            "category": "Negocios",
+            "description": "La logística es la ejecución operativa de mover, almacenar y gestionar el flujo de bienes, servicios e información desde el origen hasta el consumo. Comienza con la planificación del transporte para determinar modos y rutas óptimos, seguida de las operaciones de almacenamiento para guardar y manipular el inventario de forma eficiente. Los procesos de cumplimiento de pedidos recogen, empacan y envían productos a los clientes. La gestión de fletes negocia contratos con transportistas y rastrea los envíos. La logística inversa gestiona devoluciones y reciclaje. La entrega de última milla asegura que los productos lleguen a los destinos finales. La medición del desempeño monitorea métricas clave como la entrega a tiempo y el costo por unidad. El objetivo es asegurar que los productos correctos lleguen al lugar correcto, en el momento correcto, en la condición correcta y al menor costo posible.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Logística</b><br>Ejecución operativa del flujo<br>de bienes e información]:::title\n    B[<b>META PRINCIPAL</b><br>Producto, lugar, momento,<br>condición y costo correctos]:::goal\n    C[<b>PROCESO LOGÍSTICO</b>]:::process\n    \n    subgraph D[Planificación del transporte]\n        D1[Selección y optimización<br>de modo y ruta]\n    end\n    \n    subgraph E[Almacenamiento]\n        E1[Operaciones de almacenamiento<br>y manipulación de inventario]\n    end\n    \n    subgraph F[Cumplimiento de pedidos]\n        F1[Recoger, empacar y enviar<br>pedidos de clientes]\n    end\n    \n    subgraph G[Gestión de fletes]\n        G1[Contratos con transportistas<br>y rastreo de envíos]\n    end\n    \n    subgraph H[Logística inversa]\n        H1[Procesamiento de devoluciones<br>y reciclaje]\n    end\n    \n    subgraph I[Entrega de última milla]\n        I1[Entrega al cliente<br>en el destino final]\n    end\n    \n    subgraph J[Métricas de desempeño]\n        J1[Tasa de puntualidad<br>y seguimiento de costos]\n    end\n    \n    K[<b>RESULTADO</b><br>Entrega de productos<br>eficiente y fiable]:::outcome\n    \n    A -->|busca| B\n    B -->|ejecuta mediante| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| I\n    F -.->|también gestiona| H\n    I & H -->|monitoreados por| J\n    J -->|logra| K\n    K -.->|retroalimentación| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "logistica",
+                "cadena_de_suministro",
+                "transporte",
+                "almacenamiento",
+                "distribucion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

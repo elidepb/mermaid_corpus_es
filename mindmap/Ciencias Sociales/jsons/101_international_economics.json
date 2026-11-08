@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "Economía internacional",
+            "category": "Economía",
+            "description": "El mapa mental de la economía internacional organiza el campo en cinco ramas interconectadas. La teoría del comercio incluye el modelo ricardiano, el marco Heckscher-Ohlin, la nueva teoría del comercio y el modelo de gravedad. La política comercial cubre aranceles, cuotas, subsidios, acuerdos comerciales regionales y el papel de la OMC. Las finanzas internacionales examinan los regímenes cambiarios, la balanza de pagos, las crisis cambiarias y los flujos de capital. Instituciones globales como el FMI, el Banco Mundial y el G20 coordinan políticas monetarias y de desarrollo. Por último, temas actuales como la globalización, las guerras comerciales, las cadenas de suministro globales y el desarrollo sostenible reflejan los desafíos dinámicos que estudia el campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Economía internacional))\n    Teoría del comercio\n      Modelo ricardiano\n      Heckscher-Ohlin\n      Nueva teoría del comercio\n      Modelo de gravedad\n    Política comercial\n      Aranceles y cuotas\n      Subsidios\n      Acuerdos regionales\n      OMC\n    Finanzas internacionales\n      Regímenes cambiarios\n      Balanza de pagos\n      Crisis cambiarias\n      Flujos de capital\n    Instituciones globales\n      FMI\n      Banco Mundial\n      G20\n    Temas actuales\n      Globalización\n      Guerras comerciales\n      Cadenas de suministro\n      Desarrollo sostenible",
+            "complexity": "medium",
+            "tags": [
+                "economía_internacional",
+                "mapa_mental",
+                "teoría_del_comercio",
+                "tipos_de_cambio",
+                "globalización"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

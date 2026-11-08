@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Cadena de bloques",
+            "category": "tecnologia",
+            "description": "La cadena de bloques es una tecnología de libro mayor distribuido que mantiene un registro seguro, transparente e inmutable de transacciones a través de una red descentralizada, sin requerir intermediarios de confianza. Comienza con la iniciación de la transacción, en la que los participantes crean y firman digitalmente transacciones que transfieren activos o ejecutan contratos inteligentes. La validación de transacciones implica que los nodos de la red verifiquen la autenticidad de la transacción, las firmas digitales y el cumplimiento de las reglas del protocolo. La formación de bloques agrega transacciones validadas en bloques con hashes criptográficos que enlazan con bloques anteriores, creando una cadena inmutable. El mecanismo de consenso logra el acuerdo de la red sobre la validez del bloque mediante prueba de trabajo, prueba de participación u otros algoritmos que aseguran la confianza distribuida. La adición de bloques anexa de forma permanente los bloques aprobados a la cadena, distribuyendo copias a todos los nodos de la red. La ejecución de contratos inteligentes ejecuta código autoejecutable de forma automática cuando se cumplen condiciones predefinidas, permitiendo transacciones programables. La sincronización de la red mantiene la consistencia entre nodos distribuidos mediante comunicación entre pares y replicación. El mantenimiento de la seguridad protege frente a ataques mediante técnicas criptográficas, descentralización e incentivos económicos. El objetivo es crear sistemas sin necesidad de confianza, transparentes y resistentes a la manipulación que permitan transacciones entre pares, acuerdos automatizados y registros verificables sin autoridades centralizadas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Cadena de bloques</b><br>Libro mayor distribuido con<br>registros inmutables]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Crear sistemas sin necesidad de confianza,<br>transparentes y resistentes a la manipulación]:::goal\n    C[<b>PROCESO DE CADENA DE BLOQUES</b>]:::process\n    \n    subgraph D[Iniciación de la transacción]\n        D1[Crear y firmar digitalmente<br>transacciones]\n    end\n    \n    subgraph E[Validación de transacciones]\n        E1[Verificar autenticidad y<br>cumplimiento del protocolo]\n    end\n    \n    subgraph F[Formación de bloques]\n        F1[Agregar transacciones con<br>hashes criptográficos]\n    end\n    \n    subgraph G[Mecanismo de consenso]\n        G1[Lograr acuerdo mediante<br>PoW, PoS u alternativas]\n    end\n    \n    subgraph H[Adición de bloques]\n        H1[Anexar a la cadena y<br>distribuir a los nodos]\n    end\n    \n    subgraph I[Ejecución de contratos inteligentes]\n        I1[Ejecutar código autoejecutable<br>cuando se cumplen las condiciones]\n    end\n    \n    subgraph J[Sincronización de la red]\n        J1[Mantener consistencia mediante<br>replicación P2P]\n    end\n    \n    subgraph K[Mantenimiento de la seguridad]\n        K1[Proteger mediante criptografía<br>y descentralización]\n    end\n    \n    L[<b>RESULTADO</b><br>Transacciones entre pares<br>sin intermediarios]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|permite| I\n    H -->|requiere| J\n    J & K -->|en conjunto logran| L\n    L -.->|operación continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "cadena_de_bloques",
+                "tecnologia",
+                "criptomoneda",
+                "contratos_inteligentes",
+                "consenso"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

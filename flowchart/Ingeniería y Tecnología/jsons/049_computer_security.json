@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "049",
+            "topic": "Seguridad informática",
+            "category": "ciencias_de_la_computacion",
+            "description": "La seguridad informática es la protección de sistemas de cómputo, redes y datos frente al acceso no autorizado, el robo, el daño o la interrupción mediante controles técnicos, políticas y prácticas. Comienza con la evaluación de riesgos, identificando activos, amenazas, vulnerabilidades e impactos potenciales para priorizar las inversiones en seguridad. El diseño de la arquitectura de seguridad establece estrategias de defensa en profundidad con múltiples capas de protección, incluyendo segmentación de red, controles de acceso y cifrado. La implementación del control de acceso gestiona la autenticación que verifica las identidades de los usuarios, la autorización que otorga permisos adecuados y la contabilidad que rastrea el uso del sistema. La monitorización de seguridad despliega sistemas de detección de intrusiones, plataformas de información de seguridad y gestión de eventos, y análisis de registros para identificar actividades sospechosas. La gestión de vulnerabilidades realiza exploraciones periódicas, pruebas de penetración y gestión de parches para abordar debilidades de seguridad. La respuesta a incidentes maneja las brechas de seguridad mediante detección, contención, erradicación, recuperación y análisis posterior al incidente. La formación en concienciación de seguridad educa a los usuarios sobre phishing, ingeniería social, higiene de contraseñas y buenas prácticas de seguridad. El cumplimiento y la auditoría aseguran la adhesión a regulaciones, normas y políticas mediante evaluaciones periódicas. El objetivo es mantener la confidencialidad, la integridad y la disponibilidad de los sistemas de información, permitiendo al mismo tiempo las operaciones de negocio y la innovación.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Seguridad informática</b><br>Protección de sistemas, redes<br>y datos frente a amenazas]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Mantener confidencialidad,<br>integridad y disponibilidad]:::goal\n    C[<b>PROCESO DE SEGURIDAD</b>]:::process\n    \n    subgraph D[Evaluación de riesgos]\n        D1[Identificar activos, amenazas<br>y vulnerabilidades]\n    end\n    \n    subgraph E[Arquitectura de seguridad]\n        E1[Establecer defensa en profundidad<br>con múltiples capas]\n    end\n    \n    subgraph F[Control de acceso]\n        F1[Gestionar autenticación,<br>autorización y contabilidad]\n    end\n    \n    subgraph G[Monitorización de seguridad]\n        G1[Desplegar IDS, SIEM<br>y análisis de registros]\n    end\n    \n    subgraph H[Gestión de vulnerabilidades]\n        H1[Realizar exploración, pruebas<br>y parcheo]\n    end\n    \n    subgraph I[Respuesta a incidentes]\n        I1[Manejar brechas mediante<br>detección y recuperación]\n    end\n    \n    subgraph J[Concienciación de seguridad]\n        J1[Educar a usuarios sobre<br>amenazas y buenas prácticas]\n    end\n    \n    subgraph K[Cumplimiento y auditoría]\n        K1[Asegurar adhesión a<br>regulaciones y normas]\n    end\n    \n    L[<b>RESULTADO</b><br>Sistemas seguros que permiten<br>operaciones de negocio]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    L -.->|mejora continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "seguridad_informatica",
+                "ciencias_de_la_computacion",
+                "ciberseguridad",
+                "triada_cid",
+                "malware"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

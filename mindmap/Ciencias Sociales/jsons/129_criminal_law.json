@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "129",
+            "topic": "Derecho Penal",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el campo del Derecho Penal en torno a sus temas centrales. Se ramifica en elementos centrales (actus reus, mens rea), tipos de delitos (homicidio, hurto, agresión), defensas (legítima defensa, inimputabilidad), etapas procesales (detención, juicio, sentencia), teorías de la pena (retribución, disuasión) y fuentes clave (leyes, Model Penal Code). La estructura ofrece una visión de conjunto de las dimensiones sustantiva y procesal de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Penal))\n    Elementos_Centrales\n      Actus_Reus\n      Mens_Rea\n      Concurrencia\n      Causalidad\n    Tipos_de_Delitos\n      Homicidio\n      Hurto\n      Agresión\n      Delitos_de_Drogas\n      Cuello_Blanco\n    Defensas\n      Legítima_Defensa\n      Inimputabilidad\n      Coacción\n      Estado_de_Necesidad\n      Agente_Provocador\n    Procedimiento_Penal\n      Investigación\n      Detención\n      Imputación\n      Negociación_de_Penas\n      Juicio\n      Sentencia\n    Teorías_de_la_Pena\n      Retribución\n      Disuasión\n      Inocuización\n      Rehabilitación\n      Justicia_Restaurativa\n    Fuentes\n      Derecho_Estatutario\n      Jurisprudencia\n      Model_Penal_Code\n      Disposiciones_Constitucionales",
+            "complexity": "high",
+            "tags": ["derecho_penal", "mapa_mental", "actus_reus", "defensas", "procedimiento_penal", "teorías_de_la_pena", "model_penal_code"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

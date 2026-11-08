@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "075",
+            "topic": "Impresión 3D",
+            "category": "Ingeniería",
+            "description": "Los orígenes de la impresión 3D se remontan a 1984 cuando Chuck Hull inventó la estereolitografía (SLA) y acuñó el término impresión 3D. 1986 vio a Hull fundar 3D Systems y presentar la patente de SLA. 1988 introdujo la sinterización selectiva por láser (SLS) de Carl Deckard en la University of Texas. 1989 trajo el desarrollo del modelado por deposición fundida (FDM) de Scott Crump (fundación de Stratasys). La década de 1990 presenció la adopción industrial para el prototipado rápido, el surgimiento de múltiples empresas de impresión 3D y la investigación temprana de bioimpresión. 2005 marcó el lanzamiento del proyecto RepRap de Adrian Bowyer, que inició el movimiento de impresión 3D de código abierto. 2009 vio expirar las patentes de FDM, lo que permitió impresoras 3D de consumo asequibles. La década de 2010 trajo un crecimiento explosivo con impresoras 3D de escritorio (MakerBot, Ultimaker), avances de la impresión 3D metálica, progreso de la bioimpresión (investigación de impresión de órganos) y la adopción aeroespacial (GE imprimiendo toberas de combustible). 2013 introdujo la impresión 3D de fibra de carbono. El período 2015-2020 presenció la impresión multimaterial, las tecnologías de impresión continua (CLIP) y la impresión 3D a escala de construcción. La década de 2020 continúa con la personalización masiva, la impresión metálica para piezas de producción, la impresión 4D (materiales que cambian de forma), los diseños optimizados por IA, los materiales sostenibles y las aplicaciones de fabricación en el espacio que se vuelven realidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la impresión 3D</b>\n    \n    section Era de la invención\n        1984  : Invención de la estereolitografía (SLA)\n              : Chuck Hull\n        1986  : Fundación de 3D Systems\n              : Patente de SLA presentada\n        1988  : Invención de la SLS\n              : Carl Deckard\n        1989  : Desarrollo del FDM\n              : Scott Crump, Stratasys\n    \n    section Adopción industrial\n        1990s : Adopción del prototipado rápido\n              : Surgen múltiples empresas\n              : Investigación temprana de bioimpresión\n    \n    section Movimiento de código abierto\n        2005  : Lanzamiento del proyecto RepRap\n              : Adrian Bowyer\n        2009  : Expiran las patentes de FDM\n              : Impresoras de consumo asequibles\n    \n    section Revolución de consumo\n        2010s : Auge de las impresoras 3D de escritorio\n              : MakerBot, Ultimaker\n              : Avances de la impresión metálica\n              : Progreso de la bioimpresión\n              : Adopción aeroespacial\n        2013  : Impresión de fibra de carbono\n    \n    section Aplicaciones avanzadas\n        2015-2020 : Impresión multimaterial\n                  : Impresión continua (CLIP)\n                  : Impresión a escala de construcción\n    \n    section Era de la producción\n        2020s : Personalización masiva\n              : Impresión metálica para producción\n              : Impresión 4D\n              : Diseños optimizados por IA\n              : Materiales sostenibles\n              : Fabricación en el espacio",
+            "complexity": "high",
+            "tags": [
+                "impresion_3d",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

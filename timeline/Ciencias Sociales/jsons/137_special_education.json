@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "137",
+            "topic": "Educación especial",
+            "category": "Educación",
+            "description": "Esta cronología traza la evolución histórica de la educación especial, de la exclusión a la inclusión. Hitos clave: pioneros como Jean‑Marc Itard (1801) y Edouard Seguin (1846), que educaron al «niño salvaje» y a niños con discapacidad intelectual; la era de la institucionalización a finales del siglo XIX; el movimiento de reivindicación de los padres a mediados del siglo XX; Brown v. Board of Education (1954), que sentó las bases contra la segregación; la Sección 504 de la Rehabilitation Act (1973), que prohibió la discriminación; los casos judiciales pioneros PARC v. Pennsylvania (1972) y Mills v. Board of Education (1972), que establecieron el derecho a la educación; la Education for All Handicapped Children Act (1975, luego IDEA), que mandató la FAPE; las reautorizaciones de IDEA (1990, 1997, 2004), que reforzaron las disposiciones; la ADA (1990); el movimiento de educación inclusiva en las décadas de 1990‑2000; la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (2006); y el énfasis contemporáneo en el DUA, el RTI y el aprendizaje personalizado.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la educación especial\n    section Primeros pioneros\n      1801 : Jean‑Marc Itard<br>Víctor, el «niño salvaje»\n      1846 : Edouard Seguin<br>Método fisiológico\n    section Era institucional\n      Late 19th c. : Asilos y<br>escuelas residenciales\n    section Reivindicación de mediados de siglo\n      1954 : Brown v. Board<br>(precedente de integración)\n      1972 : PARC v. Pennsylvania<br>Mills v. Board of Education\n    section Legislación federal\n      1973 : Sección 504 de<br>la Rehabilitation Act\n      1975 : Education for All<br>Handicapped Children Act<br>(EHA) – P.L. 94‑142\n      1990 : La EHA pasa a llamarse IDEA<br>Se aprueba la ADA\n      1997 : Reautorización de IDEA<br>(fortalecimiento del proceso IEP)\n      2004 : Reautorización de IDEA<br>(alineación con NCLB)\n    section Movimiento de inclusión\n      1990s‑2000s : Inclusión y UDL\n      2006 : Convención de la ONU sobre los<br>Derechos de las Personas con Discapacidad\n    section Contemporáneo\n      2010s‑20s : RTI, MTSS,<br>aprendizaje personalizado",
+            "complexity": "high",
+            "tags": [
+                "educacion_especial",
+                "historia",
+                "linea_de_tiempo",
+                "IDEA",
+                "FAPE",
+                "inclusion",
+                "derechos_de_la_discapacidad",
+                "reivindicacion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

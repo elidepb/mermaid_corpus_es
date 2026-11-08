@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "280",
+            "topic": "Responsabilidad social corporativa",
+            "category": "Negocios",
+            "description": "La responsabilidad social corporativa evolucionó de la filantropía caritativa a la integración estratégica en el negocio. La filantropía empresarial temprana (finales del siglo XIX) se centró en donaciones de industriales adinerados como Carnegie y Rockefeller. Social Responsibilities of the Businessman de Howard Bowen (1953) estableció el fundamento conceptual moderno de la RSC. El movimiento ambientalista de la década de 1970 impulsó la conciencia ecológica y el primer Día de la Tierra (1970). La crítica de Milton Friedman (1970) argumentó que la única responsabilidad de las empresas era maximizar el beneficio, desatando un debate persistente. El Informe Brundtland (1987) definió el desarrollo sostenible e influyó en los enfoques empresariales. La Global Reporting Initiative (1997) creó marcos estandarizados de informes de sostenibilidad. El Pacto Mundial de las Naciones Unidas se lanzó en 2000, estableciendo principios universales para una empresa responsable. La inversión ESG ganó impulso en las décadas de 2000-2010. Los Objetivos de Desarrollo Sostenible de la ONU (2015) aportaron un marco común para la contribución empresarial. La RSC actual integra compromisos climáticos, defensa de la justicia social y principios del capitalismo de las partes interesadas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la responsabilidad social corporativa\n    Late 1800s : Filantropía empresarial\n               : Donaciones de Carnegie y Rockefeller\n    1953 : Fundamento de la RSC de Bowen\n         : Marco conceptual moderno\n    1970 : Movimiento ambientalista\n         : Día de la Tierra y conciencia ecológica\n    1970 : Crítica de Friedman\n         : Debate sobre la maximización del beneficio\n    1987 : Informe Brundtland\n         : Se define el desarrollo sostenible\n    1997 : Global Reporting Initiative\n         : Informes de sostenibilidad estandarizados\n    2000 : Pacto Mundial de las Naciones Unidas\n         : Principios empresariales universales\n    2000s-2010s : Auge de la inversión ESG\n                : Enfoque ambiental-social-gobernanza\n    2015 : Objetivos de Desarrollo Sostenible de la ONU\n         : Marco de contribución empresarial\n    2020s : Clima y capitalismo de las partes interesadas\n          : Compromisos net-zero y justicia social",
+            "complexity": "high",
+            "tags": [
+                "responsabilidad_social_corporativa",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "051",
+            "topic": "Bases de datos",
+            "category": "Ingeniería",
+            "description": "Las bases de datos evolucionaron de los sistemas de archivos a sofisticadas plataformas de gestión de datos distribuidos. El almacenamiento temprano de datos usaba archivos planos y acceso secuencial (décadas de 1950-1960). El modelo de base de datos jerárquico surgió con IMS (1966) organizando los datos en estructuras de árbol. El modelo de base de datos en red (1969) introdujo relaciones de muchos a muchos. El artículo del modelo relacional de Edgar Codd (1970) revolucionó la teoría de bases de datos con fundamentos matemáticos. El desarrollo de SQL en IBM (década de 1970) aportó un lenguaje de consulta estándar. Los sistemas de gestión de bases de datos relacionales se comercializaron a finales de la década de 1970 con Oracle e Ingres. Las bases de datos orientadas a objetos surgieron en la década de 1980 admitiendo tipos de datos complejos. La estandarización de SQL (1986) impulsó la interoperabilidad entre proveedores. Los conceptos de almacén de datos se desarrollaron en la década de 1990 para la inteligencia de negocio. El término NoSQL apareció alrededor de 2009 para abordar los retos de datos a escala web. MongoDB (2009) popularizó las bases de datos documentales. Apache Cassandra aportó almacenamiento distribuido de familia de columnas. Las bases de datos NewSQL (década de 2010) combinaron garantías relacionales con la escalabilidad de NoSQL. Los servicios de bases de datos en la nube como Amazon RDS transformaron el despliegue. Las bases de datos actuales integran arquitecturas serverless, capacidades multimodelo, bases de datos blockchain y optimización de consultas impulsada por IA.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de las bases de datos\n    1950s-1960s : Sistemas de archivos planos\n                : Almacenamiento de acceso secuencial\n    1966 : Modelo jerárquico IMS\n         : Organización en estructura de árbol\n    1969 : Modelo de base de datos en red\n         : Relaciones de muchos a muchos\n    1970 : Modelo relacional de Codd\n         : Fundamentos matemáticos\n    1970s : Desarrollo de SQL\n          : Lenguaje de consulta estándar\n    Late 1970s : Comercialización de los SGBDR\n               : Oracle e Ingres\n    1980s : Bases de datos orientadas a objetos\n          : Tipos de datos complejos\n    1986 : Estandarización de SQL\n         : Interoperabilidad entre proveedores\n    1990s : Almacenamiento de datos\n          : Inteligencia de negocio\n    2009 : Surgimiento de NoSQL\n         : Retos a escala web\n    2009 : Lanzamiento de MongoDB\n         : Popularidad de las bases documentales\n    2010s : Bases de datos NewSQL\n          : Escalabilidad relacional y NoSQL\n    2020s : Serverless y multimodelo\n          : Optimización nativa de la nube con IA",
+            "complexity": "high",
+            "tags": [
+                "bases_de_datos",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

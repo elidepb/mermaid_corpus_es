@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "Negocios internacionales",
+            "category": "Negocios",
+            "description": "Los negocios internacionales son la conducción estratégica de actividades comerciales a través de fronteras nacionales para aprovechar oportunidades globales, gestionando a la vez las complejidades transculturales. Comienzan con el análisis de mercado, evaluando oportunidades internacionales, panoramas competitivos y barreras de entrada. La selección del modo de entrada elige entre exportación, licencias, joint ventures o inversión extranjera directa según preferencias de riesgo y control. La formulación de la estrategia global desarrolla enfoques de estandarización versus localización para productos, marketing y operaciones. La gestión transcultural navega diferencias en valores, estilos de comunicación y prácticas empresariales. Las operaciones internacionales coordinan cadenas de suministro globales, redes de producción y sistemas de distribución. La gestión financiera maneja riesgos cambiarios, tributación internacional y flujos de capital. El cumplimiento asegura la adhesión a regulaciones comerciales, aranceles y marcos legales. El objetivo es una ventaja competitiva global sostenible mediante el despliegue eficaz de recursos en mercados diversos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Negocios internacionales</b><br>Actividades comerciales a través de<br>fronteras nacionales]:::title\n    B[<b>META PRINCIPAL</b><br>Ventaja competitiva global<br>en los mercados]:::goal\n    C[<b>PROCESO DE NEGOCIO GLOBAL</b>]:::process\n    \n    subgraph D[Análisis de mercado]\n        D1[Evaluar oportunidades<br>y barreras de entrada]\n    end\n    \n    subgraph E[Selección del modo de entrada]\n        E1[Elegir exportación, licencias,<br>JV o IED]\n    end\n    \n    subgraph F[Estrategia global]\n        F1[Enfoque de estandarización<br>versus localización]\n    end\n    \n    subgraph G[Gestión transcultural]\n        G1[Navegar valores y<br>prácticas empresariales]\n    end\n    \n    subgraph H[Operaciones internacionales]\n        H1[Coordinar cadenas de suministro<br>y redes de producción]\n    end\n    \n    subgraph I[Gestión financiera]\n        I1[Gestionar riesgos cambiarios<br>y flujos de capital]\n    end\n    \n    subgraph J[Cumplimiento]\n        J1[Adherirse a regulaciones<br>y marcos legales]\n    end\n    \n    K[<b>RESULTADO</b><br>Ventaja sostenible mediante el<br>despliegue global de recursos]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|adaptación continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "negocios_internacionales",
+                "globalizacion",
+                "modos_de_entrada",
+                "analisis_pestel",
+                "negocios"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

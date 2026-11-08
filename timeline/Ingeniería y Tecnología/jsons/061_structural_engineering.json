@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "061",
+            "topic": "Ingeniería estructural",
+            "category": "Ingeniería",
+            "description": "Los primeros principios de la ingeniería estructural surgieron en la Antigüedad con métodos empíricos usados para las pirámides, el Partenón y estructuras romanas como la cúpula del Panteón. El Renacimiento (siglos XV-XVII) trajo el análisis científico con Galileo estudiando la resistencia de las vigas. El siglo XIX marcó la era de los fundamentos matemáticos con Claude-Louis Navier desarrollando la teoría de la elasticidad y el análisis estructural moderno. 1779 vio el primer puente de hierro fundido (Iron Bridge en Inglaterra). A finales del siglo XIX se introdujo la construcción con estructura de acero que permitió los rascacielos y la torre Eiffel (1889). 1903 trajo los códigos de diseño de hormigón armado. La década de 1930 presenció grandes puentes colgantes como el Golden Gate (1937). La década de 1950 introdujo el hormigón pretensado y el diseño por estados límite. Las décadas de 1960-70 vieron cómo el análisis estructural asistido por computadora y los métodos de elementos finitos revolucionaban el diseño. Las de 1980-90 avanzaron con el diseño sísmico basado en el desempeño y los materiales de alta resistencia. Las de 2000-2020 continúan con el diseño sostenible, el modelado paramétrico, los materiales compuestos avanzados y la ingeniería de resiliencia ante eventos extremos como práctica estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería estructural</b>\n    \n    section Fundamentos antiguos\n        Ancient Times : Pirámides y Partenón\n                      : Estructuras romanas\n                      : Cúpula del Panteón\n        Renaissance : Comienza el análisis científico\n                    : Estudios de vigas de Galileo\n    \n    section Era matemática\n        1800s : Teoría de la elasticidad de Navier\n              : Análisis estructural moderno\n        1779  : Primer puente de hierro fundido\n        Late 1800s : Construcción con estructura de acero\n                   : Rascacielos habilitados\n        1889  : Torre Eiffel\n    \n    section Estructuras modernas\n        1903  : Códigos de hormigón armado\n        1930s : Grandes puentes colgantes\n        1937  : Puente Golden Gate\n    \n    section Era computacional\n        1950s : Hormigón pretensado\n              : Diseño por estados límite\n        1960s-70s : Análisis por computadora\n                  : Métodos de elementos finitos\n    \n    section Era avanzada\n        1980s-90s : Diseño basado en el desempeño\n                  : Materiales de alta resistencia\n                  : Avances de la ingeniería sísmica\n        2000s-2020s : Diseño sostenible\n                    : Modelado paramétrico\n                    : Compuestos avanzados\n                    : Ingeniería de resiliencia",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_estructural",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

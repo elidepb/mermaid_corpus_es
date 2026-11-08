@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "120",
+            "topic": "Teoría política",
+            "category": "Ciencia política",
+            "description": "Esta cronología rastrea la evolución histórica de la teoría política. Comienza con los fundamentos griegos antiguos (La República de Platón, c. 380 a. C.; La Política de Aristóteles, c. 335 a. C.). Las contribuciones medievales (Agustín c. 400, Tomás de Aquino c. 1260) integraron teología y política. El realismo renacentista (El príncipe de Maquiavelo, 1513) y la tradición del contrato social (Hobbes 1651, Locke 1689, Rousseau 1762) configuraron el pensamiento moderno. El siglo XIX trajo el idealismo de Hegel, la crítica del capitalismo de Marx (1848, 1867) y el liberalismo de Mill (1859). Hitos del siglo XX incluyen Teoría de la justicia de John Rawls (1971), la respuesta libertaria de Robert Nozick (1974) y el auge de la teoría crítica, el feminismo y el pensamiento político poscolonial. La teoría política contemporánea aborda la justicia global, el multiculturalismo y las preocupaciones ecológicas (décadas de 1990-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la teoría política\n    section Fundamentos antiguos\n      c. 380 BCE : Platón<br>La República\n      c. 335 BCE : Aristóteles<br>Política\n    section Síntesis medieval\n      c. 400 : Agustín<br>La ciudad de Dios\n      c. 1260 : Tomás de Aquino<br>Suma teológica\n    section Renacimiento y contrato social\n      1513 : Maquiavelo<br>El príncipe\n      1651 : Hobbes<br>Leviatán\n      1689 : Locke<br>Dos tratados sobre el gobierno\n      1762 : Rousseau<br>El contrato social\n    section Siglo XIX\n      1821 : Hegel<br>Filosofía del derecho\n      1848 : Marx y Engels<br>Manifiesto comunista\n      1859 : J.S. Mill<br>Sobre la libertad\n    section Siglo XX\n      1971 : John Rawls<br>Teoría de la justicia\n      1974 : Robert Nozick<br>Anarquía, Estado y utopía\n      1980s : Teoría feminista y crítica<br>de la raza\n    section Contemporánea\n      1990s : Justicia global y<br>multiculturalismo\n      2000s : Pensamiento poscolonial y<br>decolonial\n      2010s‑20s : Teoría política ecológica<br>y populismo",
+            "complexity": "high",
+            "tags": [
+                "teoria_politica",
+                "historia",
+                "linea_de_tiempo",
+                "plato",
+                "machiavelli",
+                "rawls",
+                "contrato_social",
+                "justicia",
+                "teoria_critica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

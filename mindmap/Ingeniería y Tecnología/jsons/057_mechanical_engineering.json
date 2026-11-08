@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "057",
+            "topic": "Ingeniería mecánica",
+            "category": "Ingeniería",
+            "description": "La ingeniería mecánica abarca especializaciones y áreas de conocimiento diversas. Las materias fundamentales incluyen estática, dinámica, mecánica de fluidos, termodinámica, transferencia de calor y resistencia de materiales. Las herramientas de diseño comprenden CAD (SolidWorks, AutoCAD, CATIA), FEA (análisis de elementos finitos), CFD (dinámica de fluidos computacional) y software de simulación. Los métodos de fabricación cubren mecanizado CNC, impresión 3D (fabricación aditiva), soldadura, forja y moldeo por inyección. Las áreas de aplicación clave incluyen ingeniería automotriz, aeroespacial, sistemas HVAC, generación de energía, robótica y biomecánica. Los materiales utilizados van desde metales (acero, aluminio, titanio) hasta composites, polímeros y cerámicas. Las competencias profesionales involucran resolución de problemas, gestión de proyectos, dibujo técnico y control de calidad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>mecánica</b>))\n    <b>Materias fundamentales</b>\n      Estática\n      Dinámica\n      Mecánica de fluidos\n      Termodinámica\n      Transferencia de calor\n      Resistencia de materiales\n    <b>Herramientas de diseño</b>\n      CAD\n        SolidWorks\n        AutoCAD\n        CATIA\n      FEA\n      CFD\n      Software de simulación\n    <b>Métodos de fabricación</b>\n      Mecanizado CNC\n      Impresión 3D\n      Soldadura\n      Forja\n      Moldeo por inyección\n      Chapa metálica\n    <b>Áreas de aplicación</b>\n      Automotriz\n      Aeroespacial\n      Sistemas HVAC\n      Generación de energía\n      Robótica\n      Biomecánica\n    <b>Materiales</b>\n      Metales\n        Acero\n        Aluminio\n        Titanio\n      Composites\n      Polímeros\n      Cerámicas\n    <b>Competencias profesionales</b>\n      Resolución de problemas\n      Gestión de proyectos\n      Dibujo técnico\n      Control de calidad",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_mecánica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

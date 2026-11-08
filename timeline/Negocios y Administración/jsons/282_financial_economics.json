@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Economía financiera",
+            "category": "Negocios",
+            "description": "La economía financiera evolucionó de las finanzas descriptivas a una disciplina matemática rigurosa. The Theory of Interest de Irving Fisher (1930) estableció los fundamentos de la elección intertemporal. La teoría de carteras revolucionó la inversión cuando Harry Markowitz introdujo la optimización media-varianza (1952), que le valió un Premio Nobel. Los teoremas de Modigliani-Miller (1958) demostraron la irrelevancia de la estructura de capital en mercados perfectos. El modelo de valoración de activos financieros surgió simultáneamente de Sharpe (1964), Lintner y Mossin, cuantificando el riesgo sistemático. La hipótesis de los mercados eficientes, formalizada por Fama (1970), desató décadas de debate sobre la predictibilidad del mercado. El modelo de valoración de opciones de Black-Scholes (1973) transformó los mercados de derivados y obtuvo reconocimiento Nobel. La teoría de la valoración por arbitraje, desarrollada por Ross (1976), aportó una alternativa multifactorial al CAPM. Las finanzas conductuales ganaron protagonismo en las décadas de 1980-1990 con la teoría de las perspectivas de Kahneman y Tversky. La crisis financiera de 2008 puso de relieve el riesgo sistémico y las limitaciones de los modelos. La economía financiera actual integra aprendizaje automático, análisis de datos de alta frecuencia y consideraciones de finanzas climáticas.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la economía financiera\n    1930 : Teoría del interés de Fisher\n         : Fundamentos de la elección intertemporal\n    1952 : Teoría de carteras de Markowitz\n         : Optimización media-varianza\n    1958 : Teoremas de Modigliani-Miller\n         : Irrelevancia de la estructura de capital\n    1964 : Desarrollo del CAPM\n         : Modelo de Sharpe-Lintner-Mossin\n    1970 : Hipótesis de los mercados eficientes\n         : Teoría de eficiencia de mercado de Fama\n    1973 : Modelo de Black-Scholes\n         : Avance en la valoración de opciones\n    1976 : Teoría de la valoración por arbitraje\n         : Marco multifactorial de Ross\n    1980s-1990s : Finanzas conductuales\n                : Aportaciones de Kahneman y Tversky\n    2008 : Crisis financiera\n         : Conciencia del riesgo sistémico\n    2020s : Aprendizaje automático y clima\n          : Finanzas impulsadas por IA y sostenibles",
+            "complexity": "high",
+            "tags": [
+                "economia_financiera",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

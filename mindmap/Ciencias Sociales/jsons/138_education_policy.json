@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "138",
+            "topic": "Política Educativa",
+            "category": "Educación y Políticas Públicas",
+            "description": "Este mapa mental organiza el campo de la Política Educativa en torno a su concepto central. Las ramas principales incluyen Áreas de política (financiación y asignación de recursos, currículum y estándares, política docente, evaluación y rendición de cuentas, equidad e inclusión, gobernanza escolar), Etapas del ciclo de políticas (establecimiento de la agenda, formulación, adopción, implementación, evaluación), Actores clave (gobiernos, legislaturas, sindicatos docentes, padres, organismos internacionales como UNESCO/OCDE), Marcos teóricos (institucionalismo de la elección racional, corrientes múltiples, coalición promotora, análisis crítico de políticas), Instrumentos (legislación, fórmulas de financiación, regulación, desarrollo de capacidades) y Cuestiones contemporáneas (privatización, elección escolar, equidad digital, pruebas estandarizadas, educación inclusiva). El mapa captura el carácter interdisciplinario y disputado de la gobernanza educativa.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Política Educativa))\n    Áreas_de_Política\n      Financiación\n      Currículum\n      Política_Docente\n      Evaluación\n      Equidad_e_Inclusión\n      Gobernanza_Escolar\n    Ciclo_de_Políticas\n      Establecimiento_de_Agenda\n      Formulación\n      Adopción\n      Implementación\n      Evaluación\n    Actores_Clave\n      Gobiernos\n      Legislaturas\n      Sindicatos_Docentes\n      Padres\n      Organismos_Internacionales\n    Marcos_Teóricos\n      Elección_Racional\n      Corrientes_Múltiples\n      Coalición_Promotora\n      Análisis_Crítico_de_Políticas\n    Instrumentos\n      Legislación\n      Fórmulas_de_Financiación\n      Regulación\n      Desarrollo_de_Capacidades\n    Cuestiones_Contemporáneas\n      Privatización\n      Elección_Escolar\n      Equidad_Digital\n      Pruebas_Estandarizadas\n      Educación_Inclusiva",
+            "complexity": "high",
+            "tags": ["política_educativa", "mapa_mental", "ciclo_de_políticas", "actores", "teorías", "privatización", "equidad", "rendición_de_cuentas"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

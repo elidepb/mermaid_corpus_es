@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "262",
+            "topic": "Cadena de suministro",
+            "category": "Negocios",
+            "description": "La gestión de la cadena de suministro evolucionó de funciones logísticas fragmentadas a sistemas estratégicos integrados. El término cadena de suministro surgió en la década de 1980, cuando las empresas reconocieron la importancia de coordinar a múltiples socios. Las prácticas de inventario justo a tiempo se difundieron desde Toyota a escala mundial en ese período. Los sistemas de planificación de recursos empresariales en la década de 1990 permitieron la integración interfuncional. El efecto látigo fue analizado formalmente por Lee et al. en 1997, revelando problemas de amplificación de la demanda. La tecnología RFID y el seguimiento avanzado surgieron en la década de 2000. El terremoto y tsunami de Japón de 2011 pusieron de relieve la vulnerabilidad de la cadena de suministro e impulsaron el enfoque en la gestión de riesgos. Los principios de la Industria 4.0 transformaron las operaciones en la década de 2010. Las cadenas de suministro actuales aprovechan la IA, el aprendizaje automático y los gemelos digitales para la resiliencia y la optimización en tiempo real.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de la cadena de suministro\n    1980s : Concepto de cadena de suministro\n          : Surge la conciencia de integración\n    1980s : Adopción mundial del JIT\n          : Prácticas de inventario lean\n    1990s : Sistemas ERP\n          : Integración interfuncional\n    1997 : Estudio del efecto látigo\n         : Análisis de la amplificación de la demanda\n    2000s : Tecnología RFID\n          : Sistemas de seguimiento avanzados\n    2011 : Crisis de Japón\n         : Énfasis en la gestión de riesgos\n    2010s : Industria 4.0\n          : Transformación digital\n    2015 : Logística omnicanal\n         : Integración multicanal\n    2020s : IA y gemelos digitales\n          : Optimización predictiva",
+            "complexity": "high",
+            "tags": [
+                "cadena_de_suministro",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

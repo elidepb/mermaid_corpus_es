@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Historia Medieval",
+            "category": "Historia",
+            "description": "Este mapa mental organiza el campo de la Historia Medieval en torno a su concepto central. Las ramas principales incluyen Zonas civilizatorias (Cristiandad latina, Bizancio, mundo islámico, Asia Oriental, Asia Meridional, África, Américas precolombinas), Temas clave (feudalismo y señorío, Iglesia y monacato, economía y comercio de larga distancia, jerarquía social y género, arte y arquitectura, guerra), Subperiodos (Alta Edad Media, Plena Edad Media, Baja Edad Media), Fuentes (crónicas, diplomas, arqueología, arte y manuscritos iluminados), Enfoques metodológicos (historiografía, crítica de fuentes, paleografía, arqueología, estudios interdisciplinarios) y Figuras/historiadores clave (Beda, Ibn Khaldun, Marc Bloch, Georges Duby, Jacques Le Goff). El mapa refleja el alcance global e interdisciplinario de los estudios medievales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia Medieval))\n    Zonas_Civilizatorias\n      Cristiandad_Latina\n      Bizancio\n      Mundo_Islámico\n      Asia_Oriental\n      Asia_Meridional\n      África\n      Américas_Precolombinas\n    Temas_Clave\n      Feudalismo_y_Señorío\n      Iglesia_y_Monacato\n      Economía_y_Comercio\n      Jerarquía_Social_y_Género\n      Arte_y_Arquitectura\n      Guerra\n    Subperiodos\n      Alta_Edad_Media\n      Plena_Edad_Media\n      Baja_Edad_Media\n    Fuentes\n      Crónicas\n      Diplomas\n      Arqueología\n      Arte_y_Manuscritos_Iluminados\n    Enfoques_Metodológicos\n      Historiografía\n      Crítica_de_Fuentes\n      Paleografía\n      Arqueología\n      Estudios_Interdisciplinarios\n    Figuras_e_Historiadores_Clave\n      Beda\n      Ibn_Khaldun\n      Marc_Bloch\n      Georges_Duby\n      Jacques_Le_Goff",
+            "complexity": "high",
+            "tags": ["historia_medieval", "mapa_mental", "edad_media", "civilizaciones", "fuentes", "metodología", "historiadores"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

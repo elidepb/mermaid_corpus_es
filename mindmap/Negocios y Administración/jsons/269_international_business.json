@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "269",
+            "topic": "Negocios internacionales",
+            "category": "Negocios",
+            "description": "Los negocios internacionales abarcan dominios especializados que posibilitan el comercio global. Las estrategias de entrada a mercados globales incluyen la exportación por canales directos o indirectos, la concesión de licencias de propiedad intelectual, el franquiciamiento de modelos de negocio, las joint ventures con socios locales y las filiales de propiedad total mediante greenfield o adquisición. La teoría del comercio internacional explica la ventaja comparativa, las dotaciones factoriales, los ciclos de vida del producto y las nuevas perspectivas comerciales. Las dimensiones interculturales aplican las dimensiones culturales de Hofstede, los marcos de contexto de Hall y los hallazgos del estudio GLOBE para comprender las variaciones en el lugar de trabajo. La gestión de la cadena de suministro global optimiza la logística internacional, el abastecimiento offshore, las compras globales y las estrategias de mitigación de riesgos. La gestión de divisas cubre la exposición cambiaria, pronostica tipos de cambio y gestiona riesgos de transacción. El marketing internacional adapta las 4P a los mercados locales mediante estrategias de glocalización. La evaluación del riesgo político valora la estabilidad gubernamental, los cambios regulatorios y las tensiones geopolíticas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Negocios<br>internacionales</b>))\n    <b>Estrategias de entrada</b>\n      Modos de exportación\n      Licencias de PI\n      Franquiciamiento\n      Joint ventures\n      Filiales extranjeras\n    <b>Teoría del comercio</b>\n      Ventaja comparativa\n      Dotaciones factoriales\n      Ciclo de vida del producto\n      Nueva teoría del comercio\n      Ventaja competitiva\n    <b>Dimensiones culturales</b>\n      Marco de Hofstede\n      Contexto de Hall\n      Estudio GLOBE\n      Inteligencia cultural\n      Variaciones laborales\n    <b>Cadena de suministro global</b>\n      Logística internacional\n      Abastecimiento offshore\n      Compras globales\n      Mitigación de riesgos\n      Optimización de redes\n    <b>Divisas</b>\n      Cobertura cambiaria\n      Pronóstico de tipos de cambio\n      Exposición de transacción\n      Riesgo de conversión\n      Exposición económica\n    <b>Marketing internacional</b>\n      Adaptación de producto\n      Estrategias de precios\n      Canales de distribución\n      Localización de la promoción\n      Glocalización\n    <b>Riesgo político</b>\n      Estabilidad gubernamental\n      Cambios regulatorios\n      Tensiones geopolíticas\n      Riesgo de expropiación\n      Análisis de país\n    <b>RR. HH. globales</b>\n      Gestión de expatriados\n      Asignaciones internacionales\n      Sistemas de compensación\n      Movilidad del talento",
+            "complexity": "high",
+            "tags": [
+                "negocios_internacionales",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

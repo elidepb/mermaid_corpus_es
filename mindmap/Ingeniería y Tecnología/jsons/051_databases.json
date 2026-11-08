@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "051",
+            "topic": "Bases de datos",
+            "category": "Ciencias de la computación",
+            "description": "Las bases de datos abarcan modelos, sistemas de gestión y técnicas de optimización para una organización eficiente de los datos. Los modelos de bases de datos incluyen el relacional, que usa tablas y SQL; NoSQL, que ofrece esquemas flexibles con bases de datos de documentos, clave-valor, familia de columnas y grafos; el orientado a objetos, que almacena objetos de forma directa; y el jerárquico, que organiza estructuras en árbol. Los sistemas RDBMS incluyen Oracle para aplicaciones empresariales, MySQL para aplicaciones web, PostgreSQL para características avanzadas, SQL Server para ecosistemas Microsoft y SQLite para bases de datos embebidas. Las bases de datos NoSQL emplean MongoDB para almacenamiento de documentos, Cassandra para columna ancha distribuida, Redis para clave-valor en memoria, Neo4j para relaciones en grafos y Elasticsearch para búsqueda de texto completo. Las operaciones de bases de datos utilizan SQL para consultas con sentencias SELECT, manipulación de datos mediante INSERT/UPDATE/DELETE, definición de datos con CREATE/ALTER/DROP y control de datos que gestiona permisos. Las formas normales incluyen la primera forma normal, que elimina grupos repetidos; la segunda, que elimina dependencias parciales; la tercera, que elimina dependencias transitivas; y la forma normal de Boyce-Codd, que aborda anomalías. La optimización del rendimiento emplea indexación para búsquedas rápidas, optimización de consultas que mejora los planes de ejecución, particionamiento que divide tablas grandes, caché que reduce accesos a la base de datos y agrupación de conexiones que gestiona las conexiones de forma eficiente.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Bases de datos</b>))\n    <b>Modelos de bases de datos</b>\n      Tablas relacionales\n      NoSQL flexible\n      Orientado a objetos\n      Jerárquico\n      Modelo en red\n    <b>Sistemas RDBMS</b>\n      Oracle\n      MySQL\n      PostgreSQL\n      SQL Server\n      SQLite\n    <b>Bases de datos NoSQL</b>\n      Documentos MongoDB\n      Columna ancha Cassandra\n      Clave-valor Redis\n      Grafo Neo4j\n      Búsqueda Elasticsearch\n    <b>Operaciones SQL</b>\n      Consultas SELECT\n      INSERT/UPDATE/DELETE\n      CREATE/ALTER/DROP\n      Operaciones JOIN\n      Funciones de agregación\n    <b>Formas normales</b>\n      Primera forma normal\n      Segunda forma normal\n      Tercera forma normal\n      FN Boyce-Codd\n      Desnormalización\n    <b>Optimización del rendimiento</b>\n      Estrategias de indexación\n      Optimización de consultas\n      Particionamiento de tablas\n      Capas de caché\n      Agrupación de conexiones\n    <b>Propiedades ACID</b>\n      Atomicidad\n      Consistencia\n      Aislamiento\n      Durabilidad\n      Control de transacciones\n    <b>Integridad de datos</b>\n      Claves primarias\n      Claves foráneas\n      Restricciones\n      Disparadores\n      Reglas de validación\n    <b>Estrategias de escalado</b>\n      Escalado vertical\n      Escalado horizontal\n      Replicación\n      Fragmentación\n      Equilibrio de carga",
+            "complexity": "high",
+            "tags": [
+                "bases_de_datos",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

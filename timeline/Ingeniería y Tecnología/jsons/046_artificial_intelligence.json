@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "046",
+            "topic": "Inteligencia artificial",
+            "category": "Ingeniería",
+            "description": "La inteligencia artificial evolucionó de la especulación filosófica a una tecnología transformadora que reconfigura la sociedad. El concepto de máquinas inteligentes apareció en la mitología antigua y en la automatización temprana. Alan Turing propuso el test de Turing (1950) para la inteligencia de las máquinas. La Conferencia de Dartmouth (1956) acuñó inteligencia artificial y puso en marcha el campo con predicciones optimistas. La IA temprana se centró en el razonamiento simbólico y la resolución de problemas en las décadas de 1950-1960. El primer invierno de la IA (década de 1970) siguió a expectativas incumplidas y recortes de financiación. Los sistemas expertos reavivaron la IA en la década de 1980 con éxito comercial. El segundo invierno de la IA ocurrió a finales de la década de 1980 y principios de la de 1990 debido a las limitaciones. El resurgimiento del aprendizaje automático comenzó en la década de 1990 con enfoques estadísticos. El avance del aprendizaje profundo llegó con AlexNet (2012) al ganar la competición ImageNet. AlphaGo derrotó al campeón mundial (2016) demostrando el poder del aprendizaje por refuerzo. La arquitectura transformer (2017) revolucionó el procesamiento de lenguaje natural. GPT-3 (2020) y ChatGPT (2022) demostraron las capacidades de los grandes modelos de lenguaje. La IA actual integra modelos fundacionales, aprendizaje multimodal y persigue la inteligencia artificial general, al tiempo que aborda los retos de alineación y seguridad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la inteligencia artificial\n    1950 : Test de Turing\n         : Propuesta de inteligencia de máquinas\n    1956 : Conferencia de Dartmouth\n         : El campo de la IA se lanza oficialmente\n    1950s-1960s : Era de la IA simbólica\n                : Primeros sistemas de resolución de problemas\n    1970s : Primer invierno de la IA\n          : Expectativas incumplidas\n    1980s : Resurgimiento de los sistemas expertos\n          : Éxito comercial de la IA\n    Late 1980s-1990s : Segundo invierno de la IA\n                     : Limitaciones expuestas\n    1990s : Resurgimiento del aprendizaje automático\n          : Enfoques estadísticos\n    2012 : Avance del aprendizaje profundo\n         : Victoria de AlexNet en ImageNet\n    2016 : Victoria de AlphaGo\n         : Hito del aprendizaje por refuerzo\n    2017 : Arquitectura transformer\n         : Revolución del PLN\n    2020-2022 : Grandes modelos de lenguaje\n              : Surgimiento de GPT-3 y ChatGPT\n    2020s : Era de los modelos fundacionales\n          : Búsqueda de la IAG y enfoque en seguridad",
+            "complexity": "high",
+            "tags": [
+                "inteligencia_artificial",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

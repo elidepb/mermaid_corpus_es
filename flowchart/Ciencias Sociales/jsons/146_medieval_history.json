@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "146",
+            "topic": "Historia medieval",
+            "category": "Historia",
+            "description": "La historia medieval estudia el milenio comprendido entre el fin del Imperio romano de Occidente (c. 476 d. C.) y el periodo moderno temprano (c. 1500 d. C.). Este diagrama de flujo describe la lógica de la disciplina: el objetivo es comprender cómo se formaron y transformaron las sociedades posromanas y sentaron las bases del mundo moderno. Integra componentes centrales: las grandes zonas civilizatorias (cristiandad latina, Bizancio, califatos islámicos, imperios de Asia oriental y regiones periféricas); dominios temáticos clave (sistemas feudal y señorial, religión e Iglesia, economía y comercio, jerarquías sociales y vida cotidiana, logros intelectuales y artísticos); y diversas fuentes y métodos (crónicas y anales, arqueología, cartas y registros jurídicos, análisis del arte y la arquitectura). Estos se interpretan mediante lentes teóricas (debates sobre el feudalismo, escuela de Annales, sistemas-mundo, perspectivas poscoloniales) y se organizan en torno a un arco histórico: fragmentación temprana y nuevos reinos → crecimiento e institucionalización del pleno Medievo → crisis tardomedieval, renovación y alba del Renacimiento. Los conocimientos resultantes iluminan la formación del Estado moderno, las tradiciones jurídicas, el patrimonio cultural y el intercambio intercivilizatorio.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historia medieval</b><br>Estudio del milenio entre<br>la caída del Imperio romano de Occidente<br>y el periodo moderno temprano]:::title\n    B[<b>OBJETIVO</b><br>Comprender cómo las sociedades posromanas<br>se formaron, se transformaron y sentaron<br>las bases del mundo moderno]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Grandes zonas civilizatorias]\n        D1[\"Cristiandad latina (Europa occidental)<br>Imperio bizantino y mundo ortodoxo<br>Califatos islámicos (omeya, abasí)<br>Asia oriental (Tang, Song, Yuan de China)<br>Asia meridional, África, Américas precolombinas\"]\n    end\n    subgraph E[Temas clave]\n        E1[Sistemas feudal y señorial<br>Religión, Iglesia y herejía<br>Economía, comercio y la Ruta de la Seda<br>Jerarquía social, género, esclavitud<br>Logros intelectuales y artísticos]\n    end\n    subgraph F[Fuentes y métodos]\n        F1[Crónicas y anales<br>Arqueología y cultura material<br>Cartas y registros jurídicos<br>Arte, arquitectura y estudios de manuscritos]\n    end\n    G[<b>LENTES TEÓRICAS</b><br>Debate sobre el feudalismo, escuela de Annales,<br>sistemas-mundo, perspectivas<br>poscoloniales, microhistoria]:::theory\n    H[<b>ARCO HISTÓRICO</b><br>Alta Edad Media: fragmentación y nuevos reinos<br>→ Plena Edad Media: crecimiento, urbanización,<br>escolástica → Baja Edad Media: crisis, peste,<br>orígenes del Renacimiento]:::process\n    I[<b>RESULTADOS</b><br>Comprensión de las instituciones modernas,<br>tradiciones jurídicas, patrimonio cultural,<br>intercambio intercivilizatorio]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el análisis de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|interpretado mediante| G\n    G -->|organizado en torno a| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historia_medieval",
+                "edad_media",
+                "feudalismo",
+                "cristiandad",
+                "mundo_islamico",
+                "bizancio",
+                "peste_negra",
+                "origenes_del_renacimiento"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

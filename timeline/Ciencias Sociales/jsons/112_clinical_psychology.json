@@ -1,0 +1,25 @@
+{
+    "diagrams": [
+        {
+            "id": "112",
+            "topic": "Psicología clínica",
+            "category": "Psicología",
+            "description": "Esta cronología rastrea la evolución de la psicología clínica. Comienza con las primeras reformas humanitarias (Pinel libera de las cadenas a los pacientes en 1793) y el nacimiento del término en 1896, cuando Lightner Witmer fundó la primera clínica psicológica. El psicoanálisis de Freud (1900) y el test de inteligencia de Binet (1905) aportaron herramientas fundacionales. La Conferencia de Boulder (1949) estableció el modelo científico-profesional. Desarrollos mayores: la TREC de Ellis (1955) y la terapia cognitiva de Beck (décadas de 1960-70), y el auge de la terapia de conducta. El DSM-III (1980) revolucionó el diagnóstico, y las primeras guías clínicas de la APA aparecieron en 1995. Las últimas décadas vieron el surgimiento de la psicología positiva (2000), el movimiento de práctica basada en evidencia (2005), la expansión de la teleterapia (década de 2010) y la integración de herramientas digitales de salud mental (década de 2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la psicología clínica\n    section Primeras reformas y orígenes\n      1793 : Philippe Pinel<br>Movimiento del tratamiento moral\n      1896 : Lightner Witmer<br>Primera clínica psicológica\n    section Fundamentos psicoanalíticos y de evaluación\n      1900 : Sigmund Freud<br>La interpretación de los sueños\n      1905 : Binet y Simon<br>Test de inteligencia\n    section Profesionalización de mediados de siglo\n      1949 : Conferencia de Boulder<br>Modelo científico-profesional\n      1955 : Albert Ellis<br>Terapia racional emotiva\n    section Avances cognitivos y conductuales\n      1960s : Aaron Beck<br>Terapia cognitiva\n      1970s : Terapia de conducta<br>desensibilización sistemática\n      1980 : DSM‑III<br>Diagnóstico ateórico\n    section Era basada en evidencia y moderna\n      1995 : Guías de práctica<br>clínica de la APA\n      2000 : Psicología positiva<br>(Seligman)\n      2005 : Movimiento de práctica<br>basada en evidencia\n      2010s : Teleterapia e<br>intervenciones digitales\n      2020s : IA y herramientas digitales<br>de salud mental",
+            "complexity": "high",
+            "tags": [
+                "psicologia_clinica",
+                "historia",
+                "linea_de_tiempo",
+                "witmer",
+                "freud",
+                "beck",
+                "dsm",
+                "basada_en_evidencia",
+                "teleterapia"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

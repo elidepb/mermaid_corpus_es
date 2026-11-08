@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "297",
+            "topic": "Contaminación del agua",
+            "category": "Ciencias ambientales",
+            "description": "La contaminación del agua es la contaminación de cuerpos de agua (ríos, lagos, océanos, aguas subterráneas, humedales) por sustancias nocivas que degradan la calidad del agua y dañan los ecosistemas y la salud humana. Su preocupación principal es comprender las fuentes, los mecanismos de transporte y los impactos para desarrollar estrategias eficaces de prevención y remediación. Los aspectos centrales incluyen: fuentes de contaminación (fuentes puntuales de descargas industriales y aguas residuales, fuentes no puntuales de escorrentía agrícola y aguas pluviales urbanas), tipos de contaminantes (nutrientes que causan eutrofización, metales pesados, sustancias químicas orgánicas, patógenos, plásticos y microplásticos), transporte y destino (escorrentía superficial, infiltración a aguas subterráneas, bioacumulación en las cadenas tróficas), impactos ambientales (degradación de ecosistemas, toxicidad para la vida acuática, pérdida de biodiversidad) y medidas de control (tratamiento de aguas residuales, mejores prácticas de gestión, prevención de la contaminación, marcos regulatorios). El proceso de evaluación implica monitoreo y muestreo, identificación de contaminantes, evaluación de impactos, implementación de control de fuentes y evaluación de la eficacia. Estos elementos se integran mediante la hidrología, la química y la ecología para abordar la contaminación a través de tecnologías de tratamiento, gestión de cuencas, aplicación de políticas y proyectos de restauración que protegen los recursos hídricos y la salud pública.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Contaminación del agua</b><br>Contaminación de cuerpos de agua<br>por sustancias nocivas]:::title\n    B[<b>PREOCUPACIÓN PRINCIPAL</b><br>Comprender fuentes e impactos<br>para desarrollar estrategias de control]:::concern\n    C[<b>ASPECTOS CENTRALES</b>]:::aspects\n    \n    subgraph D[Fuentes de contaminación]\n        D1[Fuentes puntuales<br>Industriales y aguas residuales<br>No puntuales: escorrentía]\n    end\n    \n    subgraph E[Tipos de contaminantes]\n        E1[Nutrientes y metales pesados<br>Sustancias químicas orgánicas<br>Patógenos y microplásticos]\n    end\n    \n    subgraph F[Transporte y destino]\n        F1[Escorrentía superficial<br>Infiltración a aguas subterráneas<br>Bioacumulación]\n    end\n    \n    subgraph G[Impactos ambientales]\n        G1[Degradación de ecosistemas<br>Toxicidad acuática<br>Pérdida de biodiversidad]\n    end\n    \n    subgraph H[Medidas de control]\n        H1[Tratamiento de aguas residuales<br>Mejores prácticas de gestión<br>Marcos regulatorios]\n    end\n    \n    I[<b>PROCESO DE EVALUACIÓN</b><br>Monitoreo, identificación<br>Evaluación de impactos, control]:::process\n    \n    J[<b>ABORDA</b><br>La contaminación mediante tratamiento,<br>gestión y política]:::outcome\n    \n    A -->|plantea| B\n    B -->|mediante la comprensión| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|permite| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef concern fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef aspects fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "contaminacion_del_agua",
+                "ciencias_ambientales",
+                "contaminantes",
+                "calidad_del_agua",
+                "eutrofizacion",
+                "tratamiento_de_aguas_residuales"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

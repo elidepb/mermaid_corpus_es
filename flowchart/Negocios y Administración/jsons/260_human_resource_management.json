@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "260",
+            "topic": "Gestión de recursos humanos",
+            "category": "Negocios",
+            "description": "La gestión de recursos humanos es el proceso estratégico de adquirir, desarrollar y retener talento para alcanzar los objetivos organizacionales. Comienza con la planificación de la fuerza laboral para identificar necesidades de personal, seguida del reclutamiento y la selección para atraer candidatos cualificados. Una vez contratados, los empleados pasan por incorporación y formación para desarrollar competencias. Los sistemas de gestión del desempeño evalúan y mejoran las contribuciones, mientras que la compensación y los beneficios aseguran recompensas competitivas. El proceso incluye las relaciones laborales para mantener el compromiso y la planificación de la sucesión para preparar futuros líderes. El objetivo último es construir una fuerza laboral productiva y motivada, alineada con la estrategia organizacional.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de recursos humanos</b><br>Adquisición, desarrollo y retención<br>estratégicos de talento]:::title\n    B[<b>META PRINCIPAL</b><br>Construir una fuerza laboral<br>productiva y motivada]:::goal\n    C[<b>CICLO DE RR. HH.</b>]:::cycle\n    \n    subgraph D[Planificación]\n        D1[Análisis de la fuerza laboral<br>y necesidades de personal]\n    end\n    \n    subgraph E[Adquisición]\n        E1[Reclutamiento<br>y selección]\n    end\n    \n    subgraph F[Desarrollo]\n        F1[Formación e incorporación<br>desarrollo de competencias]\n    end\n    \n    subgraph G[Desempeño]\n        G1[Evaluación y retroalimentación<br>planes de mejora]\n    end\n    \n    subgraph H[Compensación]\n        H1[Recompensas y beneficios<br>paquetes competitivos]\n    end\n    \n    subgraph I[Retención]\n        I1[Compromiso de los empleados<br>y planificación de la sucesión]\n    end\n    \n    J[<b>RESULTADO</b><br>Alineación estratégica y<br>éxito organizacional]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|logra| J\n    I -.->|ciclo continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_recursos_humanos",
+                "rh",
+                "reclutamiento",
+                "gestion_del_desempeno",
+                "compensacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

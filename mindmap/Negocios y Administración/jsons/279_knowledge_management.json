@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Gestión del conocimiento",
+            "category": "Negocios",
+            "description": "La gestión del conocimiento abarca sistemas, prácticas y tecnologías para el aprendizaje organizacional. Los tipos de conocimiento distinguen el conocimiento explícito, que está codificado y documentado, del conocimiento tácito, embebido en la experiencia, la intuición y el contexto. La creación de conocimiento sigue el modelo SECI de Socialización (tácito a tácito), Externalización (tácito a explícito), Combinación (explícito a explícito) e Internalización (explícito a tácito). Los repositorios de conocimiento incluyen sistemas de gestión documental, wikis e intranets, bases de datos de lecciones aprendidas y directorios de expertos. Las comunidades de práctica conectan a profesionales en torno a intereses compartidos para el intercambio de conocimiento, la resolución de problemas y el desarrollo de buenas prácticas. Los mecanismos de transferencia de conocimiento emplean programas de mentoría, acompañamiento en el puesto, entrevistas de salida y planificación de sucesión. El aprendizaje organizacional promueve el aprendizaje de bucle simple para la corrección de errores y el aprendizaje de doble bucle para cuestionar supuestos. Las métricas de conocimiento miden la frecuencia de intercambio, la utilización de contenidos, el desarrollo de experiencia y los resultados de innovación. Los habilitadores tecnológicos despliegan plataformas de colaboración, búsqueda impulsada por IA, chatbots y grafos de conocimiento.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión del<br>conocimiento</b>))\n    <b>Tipos de conocimiento</b>\n      Conocimiento explícito\n      Conocimiento tácito\n      Conocimiento embebido\n      Conocimiento procedimental\n      Conocimiento declarativo\n    <b>Modelo SECI</b>\n      Socialización\n      Externalización\n      Combinación\n      Internalización\n      Espiral del conocimiento\n    <b>Repositorios de conocimiento</b>\n      Gestión documental\n      Wikis e intranets\n      Bases de lecciones aprendidas\n      Directorios de expertos\n      Bibliotecas de buenas prácticas\n    <b>Comunidades de práctica</b>\n      Intereses compartidos\n      Intercambio de conocimiento\n      Resolución de problemas\n      Buenas prácticas\n      Aprendizaje entre pares\n    <b>Transferencia de conocimiento</b>\n      Programas de mentoría\n      Acompañamiento en el puesto\n      Entrevistas de salida\n      Planificación de sucesión\n      Capacitación cruzada\n    <b>Aprendizaje organizacional</b>\n      Aprendizaje de bucle simple\n      Aprendizaje de doble bucle\n      Cultura de aprendizaje\n      Experimentación\n      Prácticas de reflexión\n    <b>Métricas de conocimiento</b>\n      Frecuencia de intercambio\n      Utilización de contenidos\n      Desarrollo de experiencia\n      Resultados de innovación\n      Medición del ROI\n    <b>Habilitadores tecnológicos</b>\n      Plataformas de colaboración\n      Búsqueda impulsada por IA\n      Chatbots\n      Grafos de conocimiento\n      Gestión de contenidos",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_conocimiento",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

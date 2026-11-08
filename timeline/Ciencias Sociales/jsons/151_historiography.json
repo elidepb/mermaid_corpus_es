@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "151",
+            "topic": "Historiografía",
+            "category": "Historia",
+            "description": "Esta cronología traza el desarrollo de la escritura y el pensamiento históricos desde la Antigüedad hasta el presente. Comienza con los primeros historiadores: Heródoto y Tucídides en Grecia (siglo V a. C.), Sima Qian en China (siglo I a. C.). El Renacimiento (siglos XV‑XVI) reavivó la historia secular. La Ilustración (siglo XVIII) introdujo la historia filosófica (Voltaire, Gibbon). El siglo XIX vio el auge de la historia profesional y científica con el lema de Leopold von Ranke «wie es eigentlich gewesen» (1824). La historiografía marxista surgió después de 1848. En el siglo XX, la Escuela de los Annales (1929) desplazó el foco hacia las estructuras de larga duración; los giros lingüístico y cultural (décadas de 1970‑80) cuestionaron la narrativa y la objetividad; las historias feministas y poscoloniales reconfiguraron el campo. Finales del siglo XX y principios del XXI trajeron la historia digital, la historia global y el estudio de la memoria.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la historiografía\n    section Antigüedad y periodo clásico\n      5th cent. BCE : Heródoto, Tucídides<br>(escritura histórica griega)\n      1st cent. BCE : Sima Qian<br>(Memorias históricas)\n    section Renacimiento e Ilustración\n      15th‑16th cent. : Historia humanista,<br>Maquiavelo, Guicciardini\n      18th cent. : Voltaire, Gibbon<br>Historia filosófica\n    section Profesionalización\n      1824 : «wie es eigentlich<br>gewesen» de Ranke (historia científica)\n      1848‑1900 : Surge la historiografía marxista<br>(Marx, Engels)\n    section Revoluciones del siglo XX\n      1929 : Fundación de la Escuela de los Annales<br>(Bloch, Febvre)\n      1961 : E.H. Carr, ¿Qué es la historia?\n      1970s‑80s : Giro lingüístico, historia<br>cultural, historia feminista\n      1978 : Orientalismo de Said<br>(desafío poscolonial)\n      1990s : Microhistoria, estudios de la memoria\n    section Siglo XXI\n      2000s : Historia digital, historia<br>global, historia desde abajo\n      2010s‑20s : Historiografías transnacionales,<br>decoloniales y<br>ambientales",
+            "complexity": "high",
+            "tags": [
+                "historiografia",
+                "linea_de_tiempo",
+                "ranke",
+                "annales",
+                "giro_linguistico",
+                "poscolonialismo",
+                "historia_digital",
+                "escritura_historica"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

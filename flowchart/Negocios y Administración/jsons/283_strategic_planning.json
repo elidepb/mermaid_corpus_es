@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Planificación estratégica",
+            "category": "Negocios",
+            "description": "La planificación estratégica es el proceso sistemático de definir la dirección organizacional, asignar recursos y establecer acciones para alcanzar objetivos a largo plazo en entornos dinámicos. Comienza con el escaneo del entorno, analizando oportunidades y amenazas externas mediante factores PESTEL (políticos, económicos, sociales, tecnológicos, ambientales, legales) y tendencias de la industria. La evaluación interna valora fortalezas, debilidades, capacidades y recursos organizacionales mediante el análisis de la cadena de valor y el mapeo de competencias. La formulación de visión y misión articula el estado futuro aspiracional y el propósito central que guía todas las decisiones. El establecimiento de objetivos estratégicos define metas específicas, medibles, alcanzables, relevantes y con plazo, alineadas con la misión. La formulación de la estrategia desarrolla enfoques competitivos, incluidos liderazgo en costos, diferenciación, estrategias de enfoque o innovación de océano azul. La planificación de acciones traduce la estrategia en iniciativas, proyectos y asignaciones de recursos con responsabilidad clara. La ejecución de la implementación moviliza a la organización mediante comunicación, alineación y gestión del cambio. El monitoreo del desempeño sigue el progreso usando cuadros de mando integral e indicadores clave de desempeño. El objetivo es una ventaja competitiva sostenible mediante el establecimiento deliberado de dirección y una ejecución adaptativa.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Planificación estratégica</b><br>Proceso sistemático que define<br>la dirección organizacional]:::title\n    B[<b>META PRINCIPAL</b><br>Ventaja competitiva sostenible<br>mediante el establecimiento de dirección]:::goal\n    C[<b>PROCESO DE PLANIFICACIÓN</b>]:::process\n    \n    subgraph D[Escaneo del entorno]\n        D1[Analizar factores PESTEL<br>y tendencias de la industria]\n    end\n    \n    subgraph E[Evaluación interna]\n        E1[Evaluar fortalezas,<br>debilidades y capacidades]\n    end\n    \n    subgraph F[Visión y misión]\n        F1[Articular el estado futuro<br>y el propósito central]\n    end\n    \n    subgraph G[Objetivos estratégicos]\n        G1[Definir metas SMART<br>alineadas con la misión]\n    end\n    \n    subgraph H[Formulación de la estrategia]\n        H1[Desarrollar enfoques competitivos<br>e innovación]\n    end\n    \n    subgraph I[Planificación de acciones]\n        I1[Traducir en iniciativas<br>y asignación de recursos]\n    end\n    \n    subgraph J[Implementación]\n        J1[Movilizar mediante<br>comunicación y alineación]\n    end\n    \n    subgraph K[Monitoreo del desempeño]\n        K1[Seguir el progreso mediante<br>cuadro de mando integral y KPI]\n    end\n    \n    L[<b>RESULTADO</b><br>Dirección deliberada y<br>ejecución adaptativa]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|paso 8| K\n    K -->|logra| L\n    K -.->|revisión continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "planificacion_estrategica",
+                "estrategia_empresarial",
+                "analisis_foda",
+                "mision_vision",
+                "metas_objetivos"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

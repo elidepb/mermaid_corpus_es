@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banca y finanzas",
+            "category": "Negocios",
+            "description": "La banca y las finanzas constituyen el sistema de instituciones, mercados e instrumentos que facilitan el flujo de dinero, la creación de crédito y la asignación de capital en la economía. Comienzan con la captación de depósitos, en la que los bancos recogen fondos de los ahorradores a través de distintos tipos de cuentas. La evaluación crediticia valora la solvencia del prestatario mediante análisis financiero y puntuación de riesgo. El otorgamiento de crédito y la creación de crédito conceden préstamos para consumo, empresa e inversión. Los servicios de inversión gestionan carteras, ejecutan operaciones de valores y ofrecen gestión patrimonial. Los sistemas de pago procesan transacciones mediante tarjetas, transferencias y plataformas digitales. La gestión de riesgos identifica, mide y mitiga exposiciones financieras, incluidos los riesgos de crédito, de mercado y operativos. El cumplimiento normativo asegura la adhesión a requisitos de capital, protección al consumidor y normas contra el lavado de dinero. El objetivo es intermediar de forma eficiente entre ahorradores y prestatarios, manteniendo la estabilidad financiera y apoyando el crecimiento económico.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Banca y finanzas</b><br>Sistema de flujo de dinero, crédito<br>y asignación de capital]:::title\n    B[<b>META PRINCIPAL</b><br>Intermediación eficiente y<br>estabilidad financiera]:::goal\n    C[<b>PROCESO BANCARIO</b>]:::process\n    \n    subgraph D[Captación de depósitos]\n        D1[Recoger fondos de<br>ahorradores mediante cuentas]\n    end\n    \n    subgraph E[Evaluación crediticia]\n        E1[Evaluar la solvencia<br>del prestatario]\n    end\n    \n    subgraph F[Préstamos y crédito]\n        F1[Conceder préstamos para<br>diversos fines]\n    end\n    \n    subgraph G[Servicios de inversión]\n        G1[Gestión de carteras<br>y asesoría patrimonial]\n    end\n    \n    subgraph H[Sistemas de pago]\n        H1[Procesar transacciones<br>por múltiples canales]\n    end\n    \n    subgraph I[Gestión de riesgos]\n        I1[Identificar y mitigar<br>exposiciones financieras]\n    end\n    \n    subgraph J[Cumplimiento normativo]\n        J1[Adherirse a normas de capital<br>y de protección]\n    end\n    \n    K[<b>RESULTADO</b><br>Crecimiento económico mediante<br>intermediación estable]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|apoya| G\n    D & F -->|habilitan| H\n    F & G & H -->|requieren| I\n    I -->|asegura| J\n    J -->|logra| K\n    K -.->|sostiene| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "banca",
+                "finanzas",
+                "banco_central",
+                "banca_comercial",
+                "mercados_financieros"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

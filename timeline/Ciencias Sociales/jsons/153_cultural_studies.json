@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "153",
+            "topic": "Estudios culturales",
+            "category": "Ciencias sociales interdisciplinarias",
+            "description": "Esta cronología traza el desarrollo de los estudios culturales desde su prehistoria hasta el presente. Los hitos clave incluyen: las influencias tempranas de Cultura y sociedad de Raymond Williams (1958) y The Uses of Literacy de Richard Hoggart (1957); la fundación del Centre for Contemporary Cultural Studies de Birmingham (CCCS) en 1964 bajo Hoggart y, más tarde, Stuart Hall; el desarrollo de conceptos teóricos clave como la codificación/decodificación (Hall, 1973) y el análisis de las subculturas (Resistance through Rituals, 1976); la adopción de la hegemonía de Gramsci y de la ideología de Althusser en la década de 1970; los giros feminista y poscolonial en la década de 1980 con obras de Angela McRobbie y There Ain’t No Black in the Union Jack de Paul Gilroy (1987); el auge de los estudios de política cultural y la crítica del posmodernismo en la década de 1990; y la expansión hacia la cultura digital, la globalización y la teoría del afecto en las décadas de 2000‑2020.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de los estudios culturales\n    section Prehistoria\n      1957 : Richard Hoggart<br>Los usos de la alfabetización\n      1958 : Raymond Williams<br>Cultura y sociedad\n      1961 : E.P. Thompson<br>La formación de la clase obrera en Inglaterra\n    section Escuela de Birmingham\n      1964 : Fundación del CCCS (Hoggart)<br>luego Stuart Hall como director\n      1973 : \"Codificación/decodificación\" de Hall\n      1976 : Resistencia a través de rituales\n      (subculturas)\n    section Giros gramsciano y estructuralista\n      1970s : Adopción de la hegemonía de Gramsci<br>Ideología de Althusser\n      1980 : \"Estudios culturales -<br>dos paradigmas\" de Stuart Hall\n    section Feminista y poscolonial\n      1984 : Angela McRobbie – chicas y<br>subculturas\n      1987 : Paul Gilroy – No hay negros en la<br>Union Jack\n      1990 : Judith Butler – El género en disputa\n    section Política y globalización\n      1990s : Estudios de política cultural<br>debates sobre el posmodernismo\n      2000s : Cultura digital, teoría del afecto,<br>flujos culturales globales\n    section Contemporáneo\n      2010s‑20s : Estudios de plataformas,<br>estudios culturales decoloniales,<br>humanidades ambientales",
+            "complexity": "high",
+            "tags": [
+                "estudios_culturales",
+                "linea_de_tiempo",
+                "CCCS",
+                "Stuart_Hall",
+                "Raymond_Williams",
+                "subculturas",
+                "poscolonial",
+                "cultura_digital"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

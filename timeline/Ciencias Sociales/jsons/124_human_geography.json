@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "124",
+            "topic": "Geografía humana",
+            "category": "Geografía",
+            "description": "Esta cronología rastrea la evolución de la geografía humana. A finales del siglo XVIII y en el XIX, Alexander von Humboldt y Carl Ritter sentaron las bases de la geografía regional sistemática. A finales del XIX y principios del XX se vio el determinismo ambiental (Ratzel, Semple). Carl Sauer introdujo la morfología del paisaje cultural en la década de 1920, mientras que las décadas de 1950-60 trajeron la revolución cuantitativa (ciencia espacial, Schaefer, Berry). La década de 1970 presenció la geografía humanística (Tuan, Relph) y la geografía radical/marxista (Harvey). Las geografías feministas y posestructurales surgieron en las décadas de 1980-90 junto con el giro cultural. A partir de la década de 1990, el SIG revolucionó el análisis espacial y, en las de 2000-2020, el SIG crítico, el big data y las geografías digitales (soberanía de los datos, urbanismo de plataformas) han reconfigurado el campo.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la geografía humana\n    section Fundamentos de los siglos XVIII-XIX\n      1799‑1859 : Humboldt y Ritter<br>Geografía regional sistemática\n    section Determinismo ambiental\n      late 19th : Ratzel, Semple<br>Determinismo ambiental\n      1920s : Carl Sauer<br>Morfología del paisaje cultural\n    section Revolución cuantitativa\n      1950s‑60s : Ciencia espacial<br>Revolución cuantitativa (Schaefer, Berry)\n    section Giros humanístico y radical\n      1970s : Geografía humanística<br>(Tuan, Relph)\n      1973 : David Harvey<br>Justicia social y la ciudad\n    section Geografías críticas\n      1980s‑90s : Geografías feministas y<br>posestructurales\n      Giro cultural\n    section SIG y era digital\n      1990s‑2000s : Revolución del SIG<br>herramientas de análisis espacial\n      2010s‑20s : SIG crítico, big data<br>geografías digitales, urbanismo de plataformas",
+            "complexity": "high",
+            "tags": [
+                "geografia_humana",
+                "historia",
+                "linea_de_tiempo",
+                "revolucion_cuantitativa",
+                "paisaje_cultural",
+                "harvey",
+                "GIS",
+                "geografias_digitales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

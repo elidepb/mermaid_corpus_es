@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsicología",
+            "category": "Psicología y neurociencia",
+            "description": "Este mapa mental organiza el campo de la neuropsicología. Cubre conceptos centrales (relaciones cerebro-conducta, localización, lateralización, plasticidad, redes funcionales); dominios de evaluación (memoria, atención, funciones ejecutivas, lenguaje, visuoespacial, velocidad de procesamiento) y herramientas (Halstead-Reitan, WAIS, WMS, BNT); trastornos (TCE, accidente cerebrovascular, demencia, epilepsia, TDAH, tumor); métodos (neuroimagen: RM/RMf/PET; electrofisiología: EEG/ERP; tareas conductuales); marcos teóricos (neuropsicología cognitiva, sistemas funcionales de Luria, modelos conexionistas); contribuyentes destacados (Paul Broca, Carl Wernicke, Alexander Luria, Donald Hebb, Norman Geschwind); y aplicaciones (diagnóstico clínico, rehabilitación, evaluaciones forenses, investigación).",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Neuropsicología))\n    Conceptos_centrales\n      Relaciones_cerebro-conducta\n      Localización\n      Lateralización\n      Plasticidad\n      Redes_funcionales\n    Dominios_de_evaluación\n      Memoria\n      Atención\n      Funciones_ejecutivas\n      Lenguaje\n      Visuoespacial\n      Velocidad_de_procesamiento\n    Trastornos\n      TCE\n      Accidente cerebrovascular\n      Demencia\n      Epilepsia\n      TDAH\n      Tumor\n    Métodos\n      Neuroimagen\n        RM\n        RMf\n        PET\n      Electrofisiología\n        EEG\n        ERP\n      Tareas_conductuales\n    Marcos_teóricos\n      Neuropsicología_cognitiva\n      Sistemas_funcionales_de_Luria\n      Modelos_conexionistas\n    Contribuyentes_destacados\n      Paul_Broca\n      Carl_Wernicke\n      Alexander_Luria\n      Donald_Hebb\n      Norman_Geschwind\n    Aplicaciones\n      Diagnóstico_clínico\n      Rehabilitación\n      Evaluaciones_forenses\n      Investigación",
+            "complexity": "high",
+            "tags": [
+                "neuropsicología",
+                "mapa_mental",
+                "evaluación",
+                "cerebro_conducta",
+                "trastornos",
+                "neuroimagen",
+                "luria",
+                "rehabilitación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

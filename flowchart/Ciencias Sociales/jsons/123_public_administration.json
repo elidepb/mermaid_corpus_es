@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "123",
+            "topic": "Administración pública",
+            "category": "Ciencia política y gestión pública",
+            "description": "La administración pública es el estudio académico y la práctica de implementar la política gubernamental y gestionar programas públicos. Este diagrama de flujo ilustra su enfoque sistemático: el objetivo general es asegurar una gobernanza eficaz, eficiente y responsable. Integra funciones centrales (planificar, organizar, dotar de personal, dirigir, presupuestar —POSDCORB) y principios (interés público, transparencia, rendición de cuentas, Estado de derecho) con los principales marcos teóricos —burocracia clásica, Nueva Gestión Pública y Nuevo Servicio Público. Estos orientan el ciclo de implementación de políticas (formulación → implementación → evaluación → retroalimentación). Los conocimientos resultantes informan el diseño organizacional, la gestión de recursos humanos, el presupuesto público y la medición del desempeño, y producen en última instancia una prestación de servicios públicos que construye la confianza ciudadana y la equidad social.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Administración pública</b><br>Estudio y práctica de implementar<br>la política pública y gestionar programas]:::title\n    B[<b>OBJETIVO</b><br>Gobernanza eficaz, eficiente y<br>responsable]:::goal\n    C[<b>ELEMENTOS CENTRALES</b>]:::elements\n    subgraph D[\"Funciones (POSDCORB)\"]\n        D1[Planificar, organizar, dotar de personal<br>Dirigir, coordinar,<br>informar, presupuestar]\n    end\n    subgraph E[Principios]\n        E1[Interés público, transparencia,<br>rendición de cuentas, Estado de derecho]\n    end\n    F[\"<b>MARCOS TEÓRICOS</b><br>Burocracia clásica<br>Nueva Gestión Pública (NGP)<br>Nuevo Servicio Público\"]:::theory\n    G[<b>CICLO DE POLÍTICAS</b><br>Formulación → implementación<br>→ evaluación → retroalimentación]:::cycle\n    H[<b>RESULTADOS</b><br>Prestación de servicios públicos,<br>confianza ciudadana, equidad social]:::outcome\n\n    A -->|busca| B\n    B -->|integrando| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|guiados por| F\n    F -->|impulsa| G\n    G -->|logra| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef elements fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef cycle fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "administracion_publica",
+                "gobernanza",
+                "politica_publica",
+                "posdcorb",
+                "burocracia",
+                "nueva_gestion_publica",
+                "servicio_publico",
+                "rendicion_de_cuentas"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

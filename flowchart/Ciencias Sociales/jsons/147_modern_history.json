@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "147",
+            "topic": "Historia moderna",
+            "category": "Historia",
+            "description": "La historia moderna estudia las transformaciones globales desde el periodo moderno temprano (c. 1500) hasta el presente. Este diagrama de flujo describe la lógica de la disciplina: el objetivo es explicar cómo revoluciones, ideologías y tecnologías interconectadas dieron forma al mundo contemporáneo. Integra componentes centrales: las grandes regiones del mundo (Europa, el mundo atlántico, Asia, África, las Américas), dominios temáticos clave (revoluciones políticas y Estados-nación, industrialización y capitalismo, imperialismo y descolonización, guerra y paz, cambio social y cultural, globalización y cambio ambiental) y diversas fuentes y métodos (archivos y documentos estatales, estadísticas y datos económicos, historia oral y medios, historia digital y SIG). Estos se interpretan mediante lentes teóricas (teoría de la modernización, sistemas-mundo, marxismo, poscolonialismo, historia cultural y de género) y se organizan en torno a un arco histórico: conexiones globales de la Edad Moderna y absolutismo → era de las revoluciones e industrialización → largo siglo XIX: imperios y nacionalismo → siglo XX: guerras mundiales, conflictos ideológicos, descolonización → finales del siglo XX y XXI: globalización, era digital y multipolaridad emergente. Los conocimientos resultantes iluminan las instituciones contemporáneas, las identidades, las desigualdades y las dinámicas del cambio global.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Historia moderna</b><br>Estudio de las transformaciones globales<br>desde c. 1500 hasta el presente]:::title\n    B[<b>OBJETIVO</b><br>Explicar cómo revoluciones, ideologías<br>y tecnologías interconectadas<br>dieron forma al mundo de hoy]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Grandes regiones del mundo]\n        D1[\"Europa y el mundo atlántico<br>Asia (otomano, mogol, Qing, Japón)<br>África y Oriente Medio<br>Américas y Pacífico\"]\n    end\n    subgraph E[Temas clave]\n        E1[Revoluciones políticas y Estados-nación<br>Industrialización y capitalismo<br>Imperialismo y descolonización<br>Guerra, paz y orden internacional<br>Cambio social y cultural<br>Globalización y cambio ambiental]\n    end\n    subgraph F[Fuentes y métodos]\n        F1[Archivos y documentos estatales<br>Estadísticas y datos económicos<br>Historia oral y medios<br>Historia digital y SIG]\n    end\n    G[<b>LENTES TEÓRICAS</b><br>Modernización, sistemas-mundo,<br>marxismo, poscolonialismo,<br>historia cultural y de género]:::theory\n    H[\"<b>ARCO HISTÓRICO</b><br>Conexiones globales de la Edad Moderna<br>→ Revoluciones e industrialización<br>→ Imperios y nacionalismo (s. XIX)<br>→ Guerras mundiales, ideologías,<br>descolonización → Globalización<br>y era digital\"]:::process\n    I[<b>RESULTADOS</b><br>Comprensión de las instituciones<br>contemporáneas, identidades,<br>desigualdades y cambio global]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante el análisis de| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|interpretado mediante| G\n    G -->|organizado en torno a| H\n    H -->|genera| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "historia_moderna",
+                "globalizacion",
+                "revoluciones",
+                "industrializacion",
+                "imperialismo",
+                "descolonizacion",
+                "guerras_mundiales",
+                "estado_nacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

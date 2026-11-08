@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Gestión de proyectos",
+            "category": "Negocios",
+            "description": "La gestión de proyectos abarca áreas de conocimiento especializadas que, en conjunto, aseguran el éxito del proyecto. La gestión del alcance define y controla los límites del proyecto mediante la recopilación de requisitos y las estructuras de desglose del trabajo. La gestión del tiempo elabora cronogramas usando análisis de la ruta crítica, diagramas de Gantt y seguimiento de hitos. La gestión de costos estima presupuestos, controla gastos y pronostica el desempeño financiero. La gestión de riesgos identifica incertidumbres, evalúa impactos, desarrolla estrategias de mitigación y mantiene registros de riesgos. La gestión de recursos asigna de forma eficiente capital humano, equipos y materiales. La gestión de la calidad establece estándares, realiza inspecciones e implementa la mejora continua. La gestión de las partes interesadas identifica intereses, gestiona expectativas y mantiene la interacción. La gestión de la integración coordina todas las áreas de conocimiento en una ejecución cohesiva del proyecto.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Gestión de<br>proyectos</b>))\n    <b>Gestión del alcance</b>\n      Recopilación de requisitos\n      Creación de EDT\n      Verificación del alcance\n      Control de cambios\n      Definición de entregables\n    <b>Gestión del tiempo</b>\n      Elaboración del cronograma\n      Análisis de la ruta crítica\n      Diagramas de Gantt\n      Seguimiento de hitos\n      Estimación de duraciones\n    <b>Gestión de costos</b>\n      Estimación presupuestaria\n      Control de gastos\n      Pronóstico de costos\n      Análisis de valor ganado\n      Información financiera\n    <b>Gestión de riesgos</b>\n      Identificación de riesgos\n      Evaluación de impacto\n      Estrategias de mitigación\n      Registros de riesgos\n      Planificación de contingencias\n    <b>Gestión de recursos</b>\n      Asignación de equipos\n      Planificación de equipos\n      Adquisición de materiales\n      Optimización de capacidad\n      Resolución de conflictos\n    <b>Gestión de la calidad</b>\n      Establecimiento de estándares\n      Inspecciones de calidad\n      Mejora de procesos\n      Prevención de defectos\n      Criterios de aceptación\n    <b>Gestión de partes interesadas</b>\n      Mapeo de intereses\n      Alineación de expectativas\n      Planes de comunicación\n      Estrategias de involucramiento\n    <b>Gestión de la integración</b>\n      Acta del proyecto\n      Coordinación\n      Alineación de áreas de conocimiento\n      Integración de cambios",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_proyectos",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

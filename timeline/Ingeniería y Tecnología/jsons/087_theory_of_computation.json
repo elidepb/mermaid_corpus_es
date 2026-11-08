@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "087",
+            "topic": "Teoría de la computación",
+            "category": "Ingeniería",
+            "description": "La teoría de la computación evolucionó de la lógica matemática a un marco exhaustivo para comprender los límites y las capacidades computacionales. El Entscheidungsproblem de David Hilbert (1928) planteó el problema de decisión pidiendo un algoritmo que determinara la verdad de los enunciados matemáticos. Alonzo Church desarrolló el cálculo lambda (1936) como sistema formal de computación. Alan Turing introdujo las máquinas de Turing (1936) aportando un modelo universal de computación y demostrando que el problema de la parada es indecidible. La tesis de Church-Turing (1936) igualó las nociones intuitiva y formal de computabilidad. La arquitectura de John von Neumann (1945) influyó en el diseño práctico de ordenadores. La jerarquía de Chomsky (1956) clasificó los lenguajes formales por poder generativo. El teorema de Cook (1971) identificó el primer problema NP-completo demostrando la dureza de la satisfacibilidad. Los 21 problemas NP-completos de Karp (1972) demostraron la dificultad computacional generalizada. El problema P frente a NP se formalizó (década de 1970) como pregunta fundamental de si P=NP. Los algoritmos aleatorizados ganaron protagonismo con las pruebas de primalidad (décadas de 1970-1980). Los sistemas de prueba interactiva surgieron extendiendo el poder de verificación (década de 1980). La teoría de la computación cuántica se desarrolló con el algoritmo de Shor (1994) factorizando de forma eficiente y la búsqueda de Grover (1996). Los algoritmos de aproximación se formalizaron aportando garantías de desempeño (década de 1990). La complejidad parametrizada surgió analizando problemas por múltiples parámetros (década de 2000). La teoría actual explora las clases de complejidad cuántica, la complejidad de grano fino, la complejidad de la comunicación y las conexiones entre complejidad y criptografía.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la teoría de la computación\n    1928 : Entscheidungsproblem de Hilbert\n         : Problema de decisión planteado\n    1936 : Church y Turing\n         : Cálculo lambda y máquinas de Turing\n    1936 : Tesis de Church-Turing\n         : Equivalencia de la computación\n    1945 : Arquitectura de Von Neumann\n         : Diseño práctico de ordenadores\n    1956 : Jerarquía de Chomsky\n         : Clasificación de lenguajes formales\n    1971 : Teorema de Cook\n         : Primer problema NP-completo\n    1972 : 21 problemas de Karp\n         : NP-completitud generalizada\n    1970s : Problema P frente a NP\n          : Pregunta fundamental formalizada\n    1980s : Sistemas de prueba interactiva\n          : Poder de verificación extendido\n    1994 : Algoritmo de Shor\n         : Eficiencia de la factorización cuántica\n    1996 : Búsqueda de Grover\n         : Aceleración de la búsqueda cuántica\n    2000s : Complejidad parametrizada\n          : Análisis de múltiples parámetros\n    2020s : Cuántica y de grano fino\n          : Exploración avanzada de la complejidad",
+            "complexity": "high",
+            "tags": [
+                "teoria_de_la_computacion",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

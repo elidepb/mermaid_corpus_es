@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "126",
+            "topic": "Geopolítica",
+            "category": "Geografía/Política",
+            "description": "Un diagrama de flujo que muestra los conceptos fundamentales de la geopolítica.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    G[Geopolítica] --> T[Teorías]\n    G --> F[Factores]\n    G --> I[Cuestiones]\n\n    T --> H[Teoría del Heartland]\n    T --> R[Teoría del Rimland]\n    T --> C[Geopolítica crítica]\n\n    F --> G2[Geografía]\n    F --> R2[Recursos]\n    F --> E[Economía]\n    F --> P[Política]\n\n    I --> B[Fronteras]\n    I --> C2[Conflicto]\n    I --> G3[Globalización]",
+            "complexity": "medium",
+            "tags": [
+                "geopolitica",
+                "geografia_politica"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

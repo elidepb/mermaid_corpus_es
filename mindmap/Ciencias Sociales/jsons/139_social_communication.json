@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "139",
+            "topic": "Comunicación Social",
+            "category": "Comunicación y Ciencias Sociales",
+            "description": "Este mapa mental organiza el campo de la Comunicación Social en torno a su concepto central. Se ramifica en Conceptos clave (mensaje, retroalimentación, ruido, contexto, significado compartido, interacción simbólica), Niveles de comunicación (intrapersonal, interpersonal, grupal, organizacional, masiva, intercultural), Teorías principales (interaccionismo simbólico, gestión coordinada del significado, teoría de la penetración social, teoría de la riqueza de los medios, usos y gratificaciones, establecimiento de agenda, cultivación), Funciones (informar, construcción de relaciones, expresión de identidad, persuasión, entretenimiento) y Áreas contemporáneas (comunicación digital, redes sociales, comunicación en salud, comunicación política, comunicación no verbal). El mapa captura tanto los fundamentos clásicos como las aplicaciones modernas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Comunicación Social))\n    Conceptos_Clave\n      Mensaje\n      Retroalimentación\n      Ruido\n      Contexto\n      Significado_Compartido\n      Interacción_Simbólica\n    Niveles_de_Comunicación\n      Intrapersonal\n      Interpersonal\n      Grupal\n      Organizacional\n      Masiva\n      Intercultural\n    Teorías_Principales\n      Interaccionismo_Simbólico\n      Gestión_Coordinada_del_Significado\n      Penetración_Social\n      Riqueza_de_Medios\n      Usos_y_Gratificaciones\n      Establecimiento_de_Agenda\n      Cultivación\n    Funciones\n      Informar\n      Construcción_de_Relaciones\n      Expresión_de_Identidad\n      Persuasión\n      Entretenimiento\n    Áreas_Contemporáneas\n      Comunicación_Digital\n      Redes_Sociales\n      Comunicación_en_Salud\n      Comunicación_Política\n      Comunicación_No_Verbal",
+            "complexity": "high",
+            "tags": ["comunicación_social", "mapa_mental", "teorías", "niveles", "funciones", "comunicación_digital", "medios"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

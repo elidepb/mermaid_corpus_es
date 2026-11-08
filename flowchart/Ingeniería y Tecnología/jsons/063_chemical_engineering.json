@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "063",
+            "topic": "Ingeniería química",
+            "category": "ingenieria",
+            "description": "La ingeniería química es la disciplina que aplica principios de química, física, matemáticas y economía para transformar de forma eficiente materias primas en productos valiosos mediante procesos químicos y físicos. Su objetivo principal es diseñar, optimizar y operar procesos industriales para la producción a gran escala, asegurando al mismo tiempo seguridad, sostenibilidad y rentabilidad. Los dominios centrales incluyen: diseño de procesos (operaciones unitarias, desarrollo de diagramas de flujo, simulación de procesos), ingeniería de reacciones (diseño de reactores, cinética, catálisis), procesos de separación (destilación, extracción, filtración, cristalización), termodinámica y fenómenos de transporte (transferencia de calor, transferencia de masa, flujo de fluidos) y control de procesos (automatización, instrumentación, optimización). El enfoque de ingeniería involucra investigación de laboratorio, pruebas a escala piloto, escalado de procesos, diseño de plantas y gestión de la operación. Estos elementos convergen mediante balances de materia y energía, cinética y economía para producir productos químicos, combustibles, fármacos, materiales y productos de consumo de forma segura y económica.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería química</b><br>Transformación de materias primas en<br>productos mediante procesos químicos]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Diseñar y optimizar procesos<br>industriales de producción]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Diseño de procesos]\n        D1[Operaciones unitarias<br>Desarrollo de diagramas de flujo<br>Simulación de procesos]\n    end\n    \n    subgraph E[Ingeniería de reacciones]\n        E1[Diseño de reactores<br>Cinética<br>Catálisis]\n    end\n    \n    subgraph F[Procesos de separación]\n        F1[Destilación<br>Extracción<br>Filtración y cristalización]\n    end\n    \n    subgraph G[Termodinámica y transporte]\n        G1[Transferencia de calor y masa<br>Flujo de fluidos<br>Balances de energía]\n    end\n    \n    subgraph H[Control de procesos]\n        H1[Automatización<br>Instrumentación<br>Optimización]\n    end\n    \n    I[<b>ENFOQUE DE INGENIERÍA</b><br>Investigación, escalado<br>Diseño, operación]:::approach\n    \n    J[<b>PRODUCE</b><br>Productos químicos, combustibles y fármacos<br>de forma segura y económica]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef approach fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_quimica",
+                "ingenieria",
+                "fenomenos_de_transporte",
+                "operaciones_unitarias",
+                "ingenieria_de_reacciones"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

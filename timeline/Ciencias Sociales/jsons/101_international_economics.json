@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "101",
+            "topic": "Economía internacional",
+            "category": "Economía",
+            "description": "La cronología de la economía internacional destaca hitos clave. El principio de ventaja comparativa de David Ricardo (1817) sentó la base intelectual de las ganancias del comercio. La Gran Depresión y el arancel Smoot-Hawley (década de 1930) demostraron los peligros del proteccionismo. La conferencia de Bretton Woods (1944) estableció un sistema de tipos de cambio fijos y creó el FMI y el Banco Mundial. El colapso de Bretton Woods en 1971 dio paso a un régimen de tipos de cambio flotantes. En 1979, la nueva teoría del comercio de Paul Krugman incorporó las economías de escala y la competencia imperfecta. La Organización Mundial del Comercio (OMC) se fundó en 1995 para supervisar las normas comerciales multilaterales. La crisis financiera mundial de 2008 provocó una fuerte contracción del comercio y de los flujos de capital, mientras que la guerra comercial entre Estados Unidos y China (2018-presente) ha reavivado los debates sobre el proteccionismo y las cadenas de suministro globales.",
+            "diagram_type": "timeline",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"timeline\": {\"lineColor\": \"#4A6FA5\", \"titleColor\": \"#333\"}}}%%\ntimeline\n    title Historia de la economía internacional\n    1817 : Ventaja comparativa de Ricardo<br>Fundamento de la teoría del comercio\n    1930s : Gran Depresión y proteccionismo<br>Arancel Smoot-Hawley\n    1944 : Bretton Woods<br>Tipos de cambio fijos, FMI, Banco Mundial\n    1971 : Fin de Bretton Woods<br>Tipos de cambio flotantes\n    1979 : Nueva teoría del comercio de Krugman<br>Economías de escala, competencia imperfecta\n    1995 : Creación de la OMC<br>Normas comerciales multilaterales\n    2008 : Crisis financiera mundial<br>Colapso del comercio y los flujos de capital\n    2018‑present : Guerra comercial EE. UU.-China<br>Auge del proteccionismo",
+            "complexity": "medium",
+            "tags": [
+                "economia_internacional",
+                "historia",
+                "Bretton_Woods",
+                "OMC",
+                "guerra_comercial"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

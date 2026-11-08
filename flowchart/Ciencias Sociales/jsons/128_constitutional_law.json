@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Derecho constitucional",
+            "category": "Derecho",
+            "description": "El derecho constitucional es el conjunto de normas que define la estructura, las potestades y los límites de las instituciones de gobierno, así como la relación entre el Estado y los individuos. Este diagrama de flujo ilustra su funcionamiento sistemático: el objetivo último es sostener la supremacía constitucional, proteger los derechos fundamentales y garantizar un gobierno limitado. Integra principios centrales (Estado de derecho, separación de poderes, federalismo, derechos fundamentales) con doctrinas clave (revisión judicial, debido proceso, igual protección, proporcionalidad). Las fuentes incluyen el texto constitucional, los precedentes judiciales, las convenciones y los tratados internacionales. La interpretación y el litigio constitucionales involucran a diversos actores (tribunales, legislaturas, ejecutivos) y conducen a resultados como la certeza jurídica, la gobernanza democrática y la tutela de los derechos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Derecho constitucional</b><br>Cuerpo jurídico que define la estructura,<br>las potestades y los límites del gobierno]:::title\n    B[<b>OBJETIVO</b><br>Sostener la supremacía constitucional,<br>proteger los derechos fundamentales<br>y limitar el gobierno]:::goal\n    C[<b>PRINCIPIOS CENTRALES</b>]:::principles\n    subgraph D[Estado de derecho y separación]\n        D1[Estado de derecho<br>Separación de poderes<br>Controles y contrapesos]\n    end\n    subgraph E[Federalismo y derechos]\n        E1[Federalismo / unitario<br>Derechos y libertades fundamentales<br>Independencia judicial]\n    end\n    F[\"<b>DOCTRINAS CLAVE</b><br>Revisión judicial (Marbury v. Madison)<br>Debido proceso e igual protección<br>Proporcionalidad y deferencia\"]:::doctrines\n    G[<b>FUENTES</b><br>Texto constitucional, precedentes judiciales,<br>convenciones constitucionales,<br>tratados internacionales]:::sources\n    H[<b>INTERPRETACIÓN Y LITIGIO</b><br>Originalismo, constitucionalismo vivo<br>Tribunales constitucionales, revisión judicial]:::process\n    I[<b>RESULTADOS</b><br>Certeza jurídica, gobernanza<br>democrática, tutela de derechos]:::outcome\n\n    A -->|pretende| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|operacionalizado mediante| F\n    F -->|extraído de| G\n    G -->|configura| H\n    H -->|logra| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef principles fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef doctrines fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef sources fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef process fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "derecho_constitucional",
+                "revision_judicial",
+                "separacion_de_poderes",
+                "derechos_fundamentales",
+                "estado_de_derecho",
+                "constitucionalismo"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "054",
+            "topic": "Computación en la nube",
+            "category": "Ingeniería",
+            "description": "La evolución de la computación en la nube comenzó en la década de 1960 con los conceptos de tiempo compartido que permitían a varios usuarios acceder a los mainframes. La década de 1990 vio a las compañías de telecomunicaciones ofrecer servicios VPN y virtualización temprana. 1999 introdujo Salesforce.com como SaaS pionero. 2002 trajo los primeros servicios web de AWS. 2006 marcó el lanzamiento de AWS EC2, estableciendo el IaaS moderno. 2008 vio los anuncios de Google App Engine (PaaS) y Microsoft Azure. La década de 2010 presenció un crecimiento explosivo con servicios de nube móvil, adopción de nube híbrida y tecnologías de contenedores (Docker 2013, Kubernetes 2014). 2014 introdujo la computación serverless (AWS Lambda). La década de 2020 continúa con la integración de la computación en el borde, servicios de IA/ML en la nube, estrategias multinube y marcos de seguridad reforzados que se vuelven estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la computación en la nube</b>\n    \n    section Conceptos iniciales\n        1960s : Tiempo compartido en mainframes\n              : Concepto de acceso de varios usuarios\n        1990s : Servicios VPN de telecomunicaciones\n              : Virtualización temprana\n    \n    section Nacimiento de la nube\n        1999  : Lanzamiento de Salesforce.com\n              : Modelo SaaS pionero\n        2002  : Comienzan los servicios web de AWS\n        2006  : Lanzamiento de AWS EC2\n              : IaaS moderno establecido\n    \n    section Expansión de plataformas\n        2008  : Google App Engine (PaaS)\n              : Anuncio de Microsoft Azure\n        2010s : Auge de los servicios de nube móvil\n              : Adopción de la nube híbrida\n    \n    section Era de los contenedores\n        2013  : Lanzamiento de Docker\n        2014  : Introducción de Kubernetes\n              : AWS Lambda (serverless)\n    \n    section Nube moderna\n        2020s : Integración de computación en el borde\n              : Servicios de IA/ML en la nube\n              : Estrategias multinube\n              : Marcos de seguridad reforzados",
+            "complexity": "high",
+            "tags": [
+                "computacion_en_la_nube",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

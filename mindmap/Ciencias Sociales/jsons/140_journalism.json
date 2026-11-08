@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "140",
+            "topic": "Periodismo",
+            "category": "Comunicación y Estudios de Medios",
+            "description": "Este mapa mental organiza el campo del Periodismo en torno a su concepto central. Las ramas principales incluyen Principios centrales (verdad, exactitud, imparcialidad, independencia, rendición de cuentas, interés público), Tipos de periodismo (de investigación, de datos, audiovisual, impreso, digital, de soluciones, ciudadano), Prácticas clave (entrevista, verificación de hechos, edición, narración, fotoperiodismo/video), Conceptos teóricos (gatekeeping, establecimiento de agenda, encuadre, flujo en dos pasos, espiral del silencio), Cuestiones éticas (privacidad, conflicto de interés, protección de fuentes, sensacionalismo) y Desafíos contemporáneos (desinformación, propiedad de los medios, dependencia de plataformas, IA en la redacción, confianza de la audiencia). El mapa refleja tanto las normas clásicas como las transformaciones actuales.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Periodismo))\n    Principios_Centrales\n      Verdad\n      Exactitud\n      Imparcialidad\n      Independencia\n      Rendición_de_Cuentas\n      Interés_Público\n    Tipos_de_Periodismo\n      Investigativo\n      Datos\n      Audiovisual\n      Impreso\n      Digital\n      Soluciones\n      Ciudadano\n    Prácticas_Clave\n      Entrevista\n      Verificación_de_Hechos\n      Edición\n      Narración\n      Foto_Video\n    Conceptos_Teóricos\n      Gatekeeping\n      Establecimiento_de_Agenda\n      Encuadre\n      Flujo_en_Dos_Pasos\n      Espiral_del_Silencio\n    Cuestiones_Éticas\n      Privacidad\n      Conflicto_de_Interés\n      Protección_de_Fuentes\n      Sensacionalismo\n    Desafíos_Contemporáneos\n      Desinformación\n      Propiedad_de_los_Medios\n      Dependencia_de_Plataformas\n      IA_en_la_Redacción\n      Confianza_de_la_Audiencia",
+            "complexity": "high",
+            "tags": ["periodismo", "mapa_mental", "ética", "prácticas", "teorías", "desinformación", "periodismo_de_investigación"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

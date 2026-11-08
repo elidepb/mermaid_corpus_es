@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociología de la educación",
+            "category": "Sociología",
+            "description": "La sociología de la educación examina cómo las instituciones sociales y las experiencias individuales configuran los procesos y resultados educativos. Este diagrama de flujo ilustra el proceso analítico: partiendo del objetivo de comprender la desigualdad educativa y la movilidad social, integra factores estructurales centrales (clase social, raza/etnia, género, origen familiar) y procesos educativos (currículo, agrupamiento, pedagogía, expectativas docentes, currículo oculto, credencialismo). Estos se analizan a través de las principales perspectivas teóricas —funcionalismo (integración social), teoría del conflicto (reproducción de la desigualdad), interaccionismo simbólico (etiquetado, profecía autocumplida), teoría del capital cultural (Bourdieu) y pedagogía crítica (Freire)—, lo que conduce a ideas sobre los patrones de logro y titulación, e informa en última instancia reformas de política e intervenciones de equidad.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Sociología de la educación</b><br>Estudio de cómo las fuerzas sociales<br>configuran la escolarización y sus resultados]:::title\n    B[<b>OBJETIVO</b><br>Comprender la desigualdad educativa<br>y la reproducción social]:::goal\n    C[<b>DIMENSIONES CENTRALES</b>]:::dimensions\n    subgraph D[Factores estructurales]\n        D1[Clase social<br>Raza y etnia<br>Género<br>Origen familiar]\n    end\n    subgraph E[Procesos educativos]\n        E1[Currículo<br>Agrupamiento por capacidad<br>Pedagogía y expectativas docentes<br>Currículo oculto<br>Credencialismo]\n    end\n    F[\"<b>PERSPECTIVAS TEÓRICAS</b><br>Funcionalismo: integración<br>Conflicto: reproducción de la desigualdad<br>Interaccionismo: etiquetado<br>Capital cultural (Bourdieu)<br>Pedagogía crítica (Freire)\"]:::theory\n    G[<b>ANÁLISIS</b><br>Explicar patrones de<br>logro, titulación y movilidad]:::analysis\n    H[<b>RESULTADOS</b><br>Reformas de política, intervenciones de equidad,<br>cambio social]:::outcome\n\n    A -->|busca| B\n    B -->|examina| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|analizados mediante| F\n    F -->|conduce a| G\n    G -->|informa| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "sociologia_de_la_educacion",
+                "desigualdad_educativa",
+                "reproduccion_social",
+                "capital_cultural",
+                "agrupamiento",
+                "curriculo_oculto",
+                "teoria_del_etiquetado",
+                "bourdieu"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

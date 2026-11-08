@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "266",
+            "topic": "Gestión de proyectos",
+            "category": "Negocios",
+            "description": "La gestión de proyectos es la aplicación disciplinada de conocimientos, habilidades y técnicas para ejecutar proyectos con éxito dentro de las restricciones de tiempo, costo y alcance. Comienza con la iniciación del proyecto, definiendo objetivos, partes interesadas y viabilidad. La planificación desarrolla cronogramas detallados, presupuestos, asignación de recursos y estrategias de riesgo. La ejecución moviliza equipos para realizar las tareas y entregables del proyecto. El monitoreo y control siguen el progreso respecto a las líneas base, gestionan cambios y resuelven incidencias. El aseguramiento de la calidad garantiza que los entregables cumplan los requisitos. La comunicación con las partes interesadas mantiene la alineación y las expectativas. El cierre del proyecto completa formalmente los entregables, documenta las lecciones aprendidas y libera recursos. El objetivo es entregar resultados definidos a tiempo, dentro del presupuesto y con los estándares de calidad, gestionando riesgos y expectativas de las partes interesadas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión de proyectos</b><br>Ejecutar proyectos dentro de<br>tiempo, costo y alcance]:::title\n    B[<b>META PRINCIPAL</b><br>Entregar resultados a tiempo,<br>presupuesto y calidad]:::goal\n    C[<b>CICLO DE VIDA DEL PROYECTO</b>]:::lifecycle\n    \n    subgraph D[Iniciación]\n        D1[Definir objetivos,<br>partes interesadas y viabilidad]\n    end\n    \n    subgraph E[Planificación]\n        E1[Cronogramas, presupuestos,<br>recursos y riesgos]\n    end\n    \n    subgraph F[Ejecución]\n        F1[Movilizar equipos<br>y realizar tareas]\n    end\n    \n    subgraph G[Monitoreo y control]\n        G1[Seguir el progreso, gestionar<br>cambios y resolver incidencias]\n    end\n    \n    subgraph H[Aseguramiento de la calidad]\n        H1[Asegurar que los entregables<br>cumplan los requisitos]\n    end\n    \n    subgraph I[Comunicación]\n        I1[Mantener la alineación<br>de las partes interesadas]\n    end\n    \n    subgraph J[Cierre]\n        J1[Completar entregables<br>y documentar lecciones]\n    end\n    \n    K[<b>RESULTADO</b><br>Entrega exitosa del proyecto<br>cumpliendo todas las restricciones]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|fase 1| D\n    D -->|fase 2| E\n    E -->|fase 3| F\n    F -->|fase 4| G\n    G & H & I -.->|apoyan| F\n    G -->|fase 5| J\n    J -->|logra| K\n    K -.->|las lecciones informan| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef lifecycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_proyectos",
+                "pmbok",
+                "planificacion",
+                "ejecucion",
+                "seguimiento"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

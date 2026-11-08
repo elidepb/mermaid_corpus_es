@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "276",
+            "topic": "Marketing digital",
+            "category": "Negocios",
+            "description": "El marketing digital es el uso estratégico de canales y tecnologías digitales para promocionar productos, involucrar audiencias e impulsar conversiones. Comienza con la investigación de audiencias, identificando demografías, comportamientos y preferencias en línea mediante analítica y segmentación. El desarrollo de la estrategia define objetivos, selección de canales y temas de contenido alineados con las metas del negocio. La creación de contenido produce materiales atractivos, incluidos texto, imágenes, videos y experiencias interactivas. El despliegue de canales distribuye el contenido en motores de búsqueda, redes sociales, correo electrónico y sitios web. La ejecución de campañas implementa publicidad pagada, esfuerzos de alcance orgánico y alianzas con influencers. El seguimiento del desempeño monitorea métricas como tráfico, engagement, conversiones y ROI mediante plataformas de analítica. La optimización e iteración refinan los enfoques a partir de insights de datos, pruebas A/B y referencias de desempeño. El objetivo es construir notoriedad de marca, generar leads cualificados y convertir prospectos en clientes mediante experiencias digitales personalizadas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Marketing digital</b><br>Uso estratégico de canales digitales<br>para la promoción]:::title\n    B[<b>META PRINCIPAL</b><br>Construir notoriedad e impulsar<br>conversiones]:::goal\n    C[<b>PROCESO DE MARKETING</b>]:::process\n    \n    subgraph D[Investigación de audiencias]\n        D1[Identificar demografías,<br>comportamientos y preferencias]\n    end\n    \n    subgraph E[Desarrollo de la estrategia]\n        E1[Definir objetivos, canales<br>y temas de contenido]\n    end\n    \n    subgraph F[Creación de contenido]\n        F1[Producir texto, imágenes<br>y videos atractivos]\n    end\n    \n    subgraph G[Despliegue de canales]\n        G1[Distribuir en SEO,<br>social, correo y web]\n    end\n    \n    subgraph H[Ejecución de campañas]\n        H1[Implementar anuncios pagados<br>y alcance orgánico]\n    end\n    \n    subgraph I[Seguimiento del desempeño]\n        I1[Monitorear tráfico, engagement<br>y conversiones]\n    end\n    \n    subgraph J[Optimización e iteración]\n        J1[Refinar mediante insights de datos<br>y pruebas A/B]\n    end\n    \n    K[<b>RESULTADO</b><br>Leads cualificados y conversiones<br>de clientes]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|retroalimentación continua| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "marketing_digital",
+                "marketing",
+                "seo",
+                "ppc",
+                "marketing_en_redes_sociales"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

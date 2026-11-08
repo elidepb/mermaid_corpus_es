@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "283",
+            "topic": "Planificación estratégica",
+            "category": "Negocios",
+            "description": "La planificación estratégica abarca marcos analíticos, herramientas estratégicas y enfoques de implementación para la dirección organizacional. Las herramientas de análisis estratégico incluyen el análisis FODA que identifica fortalezas-debilidades-oportunidades-amenazas, las cinco fuerzas de Porter que evalúan el atractivo del sector, el marco PESTEL que examina factores del macroentorno, el análisis de la cadena de valor que valora las contribuciones de las actividades y la identificación de competencias centrales. Los marcos de estrategia aplican la matriz de crecimiento de Ansoff para opciones de expansión, la matriz BCG para la gestión de carteras, el 7-S de McKinsey para la alineación organizacional, la Estrategia de Océano Azul para la creación de mercados y la visión basada en recursos que enfatiza capacidades únicas. Las estrategias competitivas persiguen el liderazgo en costos mediante eficiencia y escala, la diferenciación vía propuestas de valor únicas, el enfoque en segmentos de nicho o enfoques híbridos que combinan elementos. Los objetivos estratégicos utilizan las perspectivas del cuadro de mando integral de las dimensiones financiera, de cliente, de procesos internos y de aprendizaje-crecimiento. La planificación de escenarios desarrolla múltiples futuros, identifica incertidumbres críticas y construye estrategias adaptativas. La implementación estratégica requiere el cascada de metas, la asignación de recursos, la alineación organizacional, la gestión del cambio y el compromiso del liderazgo. La medición del desempeño rastrea indicadores adelantados y rezagados, establece rendición de cuentas y permite la corrección de rumbo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Planificación<br>estratégica</b>))\n    <b>Herramientas de análisis estratégico</b>\n      Análisis FODA\n      Cinco fuerzas de Porter\n      Marco PESTEL\n      Análisis de la cadena de valor\n      Competencias centrales\n    <b>Marcos de estrategia</b>\n      Matriz de crecimiento de Ansoff\n      Matriz BCG\n      7-S de McKinsey\n      Estrategia de Océano Azul\n      Visión basada en recursos\n    <b>Estrategias competitivas</b>\n      Liderazgo en costos\n      Diferenciación\n      Estrategias de enfoque\n      Enfoques híbridos\n      Posicionamiento estratégico\n    <b>Cuadro de mando integral</b>\n      Perspectiva financiera\n      Perspectiva del cliente\n      Procesos internos\n      Aprendizaje y crecimiento\n      Alineación estratégica\n    <b>Planificación de escenarios</b>\n      Escenarios futuros\n      Incertidumbres críticas\n      Estrategias adaptativas\n      Planificación de contingencias\n      Exploración del entorno\n    <b>Implementación estratégica</b>\n      Cascada de metas\n      Asignación de recursos\n      Alineación organizacional\n      Gestión del cambio\n      Compromiso del liderazgo\n    <b>Medición del desempeño</b>\n      Indicadores adelantados\n      Indicadores rezagados\n      Sistemas de rendición de cuentas\n      Corrección de rumbo\n      Seguimiento de KPI\n    <b>Pensamiento estratégico</b>\n      Perspectiva de sistemas\n      Orientación a largo plazo\n      Resolución creativa de problemas\n      Reconocimiento de patrones",
+            "complexity": "high",
+            "tags": [
+                "planificacion_estrategica",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

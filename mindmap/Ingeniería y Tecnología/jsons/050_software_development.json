@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "050",
+            "topic": "Desarrollo de software",
+            "category": "Ciencias de la computación",
+            "description": "El desarrollo de software abarca metodologías, paradigmas y prácticas para crear aplicaciones robustas. Las metodologías de desarrollo incluyen la cascada con fases secuenciales, el ágil que enfatiza el desarrollo iterativo y la colaboración con el cliente, Scrum con sprints y reuniones diarias, Kanban que visualiza el flujo de trabajo y limita el trabajo en curso, y DevOps que integra desarrollo y operaciones. Los paradigmas de programación emplean la programación orientada a objetos con encapsulamiento y herencia, la programación funcional que enfatiza la inmutabilidad y las funciones puras, la programación procedimental con instrucciones secuenciales, la programación declarativa que especifica qué en lugar de cómo, y la programación dirigida por eventos que responde a las acciones del usuario. Los patrones de arquitectura de software utilizan la arquitectura en capas que separa preocupaciones, los microservicios que descomponen en servicios independientes, el modelo-vista-controlador que separa presentación y lógica, la arquitectura dirigida por eventos con colas de mensajes, y el serverless que aprovecha funciones en la nube. Las prácticas de desarrollo incluyen el control de versiones con Git para la colaboración, la revisión de código que asegura calidad y comparte conocimiento, la integración continua que automatiza compilaciones y pruebas, el desarrollo guiado por pruebas que escribe pruebas antes del código, y la programación en pareja para la colaboración en tiempo real. Los atributos de calidad abordan el rendimiento que optimiza velocidad y eficiencia, la escalabilidad que gestiona el crecimiento, la mantenibilidad que facilita los cambios, la seguridad que protege de amenazas y la fiabilidad que asegura un funcionamiento consistente.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Desarrollo de<br>software</b>))\n    <b>Metodologías</b>\n      Cascada secuencial\n      Ágil iterativo\n      Sprints Scrum\n      Flujo de trabajo Kanban\n      Integración DevOps\n      Desarrollo Lean\n    <b>Paradigmas de programación</b>\n      Orientada a objetos\n      Programación funcional\n      Procedimental\n      Declarativa\n      Dirigida por eventos\n    <b>Patrones de arquitectura</b>\n      Arquitectura en capas\n      Microservicios\n      Patrón MVC\n      Dirigida por eventos\n      Serverless\n      Arquitectura hexagonal\n    <b>Prácticas de desarrollo</b>\n      Control de versiones Git\n      Revisión de código\n      Integración continua\n      Desarrollo guiado por pruebas\n      Programación en pareja\n      Refactorización\n    <b>Enfoques de prueba</b>\n      Pruebas unitarias\n      Pruebas de integración\n      Pruebas de sistema\n      Pruebas de aceptación\n      Pruebas de regresión\n      Pruebas de rendimiento\n    <b>Atributos de calidad</b>\n      Rendimiento\n      Escalabilidad\n      Mantenibilidad\n      Seguridad\n      Fiabilidad\n      Usabilidad\n    <b>Herramientas y tecnologías</b>\n      IDE\n      Herramientas de compilación\n      Marcos de prueba\n      Canalizaciones CI/CD\n      Herramientas de monitorización\n    <b>Principios de diseño</b>\n      Principios SOLID\n      Principio DRY\n      Principio KISS\n      Separación de preocupaciones\n      Modularidad",
+            "complexity": "high",
+            "tags": [
+                "desarrollo_de_software",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

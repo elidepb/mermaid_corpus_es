@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "067",
+            "topic": "Ingeniería nuclear",
+            "category": "Ingeniería",
+            "description": "La ingeniería nuclear abarca diversos tipos de reactores y aplicaciones. Las tecnologías de reactor incluyen reactores de agua a presión (PWR), reactores de agua en ebullición (BWR), reactores de agua pesada a presión (PHWR/CANDU), reactores reproductores rápidos, reactores de gas de alta temperatura y diseños avanzados (reactores modulares pequeños, reactores de sales fundidas, reactores de fusión en desarrollo). El ciclo del combustible involucra minería de uranio, conversión, enriquecimiento, fabricación de combustible, operación del reactor, almacenamiento de combustible gastado, reprocesamiento y disposición final de residuos. La detección de radiación usa contadores Geiger, detectores de centelleo, detectores semiconductores y dosímetros. Los materiales nucleares incluyen materiales fisionables (U-235, Pu-239), materiales fértiles (U-238, Th-232), moderadores (agua, agua pesada, grafito), refrigerantes y materiales de control (boro, cadmio). Las aplicaciones médicas cubren PET, imagen SPECT, radioterapia (haz externo, braquiterapia) y radiofármacos. Los sistemas de seguridad presentan estructuras de contención, refrigeración de emergencia del núcleo, sistemas de seguridad redundantes y características de seguridad pasiva. Las herramientas computacionales incluyen MCNP, RELAP, SCALE y códigos de simulación de reactores. Los marcos regulatorios involucran licenciamiento de la NRC, normas del OIEA y protocolos internacionales de seguridad.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Ingeniería<br>nuclear</b>))\n    <b>Tipos de reactor</b>\n      PWR\n      BWR\n      PHWR/CANDU\n      Reproductor rápido\n      Gas de alta temperatura\n      Diseños avanzados\n        SMR\n        Sales fundidas\n        Fusión (en desarrollo)\n    <b>Ciclo del combustible</b>\n      Minería\n      Conversión\n      Enriquecimiento\n      Fabricación de combustible\n      Operación del reactor\n      Almacenamiento de combustible gastado\n      Reprocesamiento\n      Disposición de residuos\n    <b>Detección de radiación</b>\n      Contadores Geiger\n      Detectores de centelleo\n      Detectores semiconductores\n      Dosímetros\n    <b>Materiales nucleares</b>\n      Fisionables\n        U-235\n        Pu-239\n      Fértiles\n        U-238\n        Th-232\n      Moderadores\n        Agua\n        Agua pesada\n        Grafito\n      Refrigerantes\n      Materiales de control\n    <b>Aplicaciones médicas</b>\n      PET\n      Imagen SPECT\n      Radioterapia\n        Haz externo\n        Braquiterapia\n      Radiofármacos\n    <b>Sistemas de seguridad</b>\n      Contención\n      Refrigeración de emergencia\n      Sistemas redundantes\n      Seguridad pasiva\n    <b>Herramientas computacionales</b>\n      MCNP\n      RELAP\n      SCALE\n      Códigos de simulación\n    <b>Regulatorio</b>\n      Licenciamiento NRC\n      Normas OIEA\n      Protocolos de seguridad",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_nuclear",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

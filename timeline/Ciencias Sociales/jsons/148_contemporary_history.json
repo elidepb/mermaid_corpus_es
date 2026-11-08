@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "148",
+            "topic": "Historia contemporánea",
+            "category": "Historia",
+            "description": "Una cronología que muestra los grandes acontecimientos y desarrollos de la historia contemporánea, desde la Primera Guerra Mundial hasta el presente.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Cronología de la historia contemporánea\n    1914 : Comienza la Primera Guerra Mundial\n          : Gran Guerra\n          : Fin del antiguo orden\n    1917 : Revolución rusa\n          : Toma del poder bolchevique\n          : Fundación de la Unión Soviética\n    1929 : Comienza la Gran Depresión\n          : Colapso económico\n          : Crisis mundial\n    1939 : Comienza la Segunda Guerra Mundial\n          : Potencias del Eje\n          : Conflicto mundial\n    1945 : Fin de la Segunda Guerra Mundial\n          : Fundación de las Naciones Unidas\n          : Comienza la Guerra Fría\n    1947 : Independencia de la India\n          : Fin del dominio británico\n          : Comienza la descolonización\n    1969 : Alunizaje\n          : Logro de la carrera espacial\n          : Vuelo espacial humano\n    1989 : Caída del Muro de Berlín\n          : Fin de la Guerra Fría\n          : Reunificación alemana\n    2001 : Atentados del 9/11\n          : Guerra contra el terror\n          : Cambios en la seguridad mundial\n    2008 : Crisis financiera mundial\n          : Recesión económica\n          : Crisis bancaria\n    2020 : Pandemia de COVID-19\n          : Crisis sanitaria mundial\n          : Disrupción económica",
+            "complexity": "high",
+            "tags": [
+                "historia_contemporanea",
+                "historia"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

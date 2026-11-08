@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "288",
+            "topic": "Consultoría",
+            "category": "Negocios",
+            "description": "La consultoría es el servicio profesional de proporcionar asesoramiento experto, análisis y apoyo a la implementación a organizaciones que buscan resolver problemas, mejorar el desempeño o alcanzar objetivos estratégicos. Comienza con el compromiso con el cliente, comprendiendo los desafíos del negocio, definiendo el alcance del proyecto y estableciendo criterios de éxito mediante reuniones de descubrimiento. El análisis diagnóstico investiga las causas raíz, reúne datos mediante entrevistas y revisión de documentos, e identifica oportunidades de mejora usando marcos analíticos. El diseño de la solución desarrolla recomendaciones, enfoques alternativos y hojas de ruta de implementación adaptadas al contexto y las restricciones del cliente. La presentación de la propuesta comunica hallazgos, justifica recomendaciones, aborda preocupaciones y asegura el respaldo de las partes interesadas. El apoyo a la implementación guía la ejecución mediante gestión de proyectos, gestión del cambio, desarrollo de capacidades y liderazgo interino cuando se necesita. La transferencia de conocimiento asegura la sostenibilidad formando a los equipos del cliente, documentando procesos y construyendo capacidades internas. El cierre del proyecto entrega los entregables finales, mide los resultados frente a los objetivos y captura las lecciones aprendidas. El objetivo es crear valor medible aprovechando expertise especializada, perspectiva objetiva y metodologías probadas para abordar desafíos empresariales complejos.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Consultoría</b><br>Asesoramiento experto y servicios de<br>apoyo a la implementación]:::title\n    B[<b>META PRINCIPAL</b><br>Crear valor medible mediante<br>expertise especializada]:::goal\n    C[<b>PROCESO DE CONSULTORÍA</b>]:::process\n    \n    subgraph D[Compromiso con el cliente]\n        D1[Comprender desafíos y<br>definir el alcance]\n    end\n    \n    subgraph E[Análisis diagnóstico]\n        E1[Investigar causas raíz<br>y recoger datos]\n    end\n    \n    subgraph F[Diseño de la solución]\n        F1[Desarrollar recomendaciones<br>y hojas de ruta]\n    end\n    \n    subgraph G[Presentación de la propuesta]\n        G1[Comunicar hallazgos y<br>asegurar el respaldo]\n    end\n    \n    subgraph H[Apoyo a la implementación]\n        H1[Guiar la ejecución mediante GP<br>y gestión del cambio]\n    end\n    \n    subgraph I[Transferencia de conocimiento]\n        I1[Formar equipos y documentar<br>procesos]\n    end\n    \n    subgraph J[Cierre del proyecto]\n        J1[Entregar resultados finales y<br>medir resultados]\n    end\n    \n    K[<b>RESULTADO</b><br>Desafíos complejos resueltos<br>con impacto sostenido]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|futuros encargos| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "consultoria",
+                "negocios",
+                "consultoria_de_gestion",
+                "resolucion_de_problemas",
+                "gestion_del_cambio"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

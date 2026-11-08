@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "049",
+            "topic": "Seguridad informática",
+            "category": "Ingeniería",
+            "description": "La seguridad informática evolucionó de la seguridad física a una ciberseguridad sofisticada que aborda amenazas digitales globales. La seguridad informática temprana se centró en los controles de acceso físico en las décadas de 1960-1970. El primer gusano informático, Creeper (1971), demostró código autorreplicante. Las normas de cifrado surgieron con DES (1977) aportando protección de datos. El gusano Morris (1988) infectó el 10 % de los ordenadores conectados a internet, poniendo de relieve la vulnerabilidad. El software antivirus proliferó en la década de 1990 para combatir la proliferación de malware. Los cortafuegos se convirtieron en protección de red estándar a mediados de la década de 1990. El virus ILOVEYOU (2000) causó daños por miles de millones y demostró las amenazas basadas en correo electrónico. El gusano Code Red (2001) explotó vulnerabilidades de servidores web. Los ataques de phishing se volvieron prevalentes a principios de la década de 2000. El gusano Stuxnet (2010) demostró armas cibernéticas sofisticadas de origen estatal. Grandes filtraciones de datos en Target (2013) y Equifax (2017) expusieron millones de registros. Epidemias de ransomware como WannaCry (2017) interrumpieron organizaciones de todo el mundo. La arquitectura de confianza cero ganó protagonismo a finales de la década de 2010. La seguridad informática actual aborda la seguridad en la nube, las vulnerabilidades del IoT, las amenazas impulsadas por IA y las implicaciones de la computación cuántica.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la seguridad informática\n    1960s-1970s : Enfoque en la seguridad física\n                : Énfasis en el control de acceso\n    1971 : Gusano Creeper\n         : Primer código autorreplicante\n    1977 : Norma de cifrado DES\n         : Protección de datos formalizada\n    1988 : Gusano Morris\n         : Infección del 10 % de internet\n    1990s : Software antivirus\n          : Proliferación de la lucha contra el malware\n    Mid-1990s : Normas de cortafuegos\n              : Protección de red\n    2000 : Virus ILOVEYOU\n         : Amenaza por correo de miles de millones\n    2010 : Gusano Stuxnet\n         : Arma cibernética de origen estatal\n    2013 : Filtración de datos de Target\n         : Exposición masiva de registros\n    2017 : Ransomware WannaCry\n         : Interrupción de epidemia mundial\n    Late 2010s : Arquitectura de confianza cero\n               : Cambio de paradigma de seguridad\n    2020s : Seguridad en la nube e IoT\n          : Amenazas de IA e implicaciones cuánticas",
+            "complexity": "high",
+            "tags": [
+                "seguridad_informatica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

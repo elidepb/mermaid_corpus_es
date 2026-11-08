@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "048",
+            "topic": "Ciencia de datos",
+            "category": "Ingeniería",
+            "description": "La ciencia de datos surgió de la convergencia de la estadística, la informática y el análisis de dominios específicos. Los métodos estadísticos tempranos desarrollados en los siglos XVII-XIX aportaron los fundamentos matemáticos. El término ciencia de datos apareció en la década de 1960 para describir el trabajo con datos. Las bases de datos relacionales (década de 1970) permitieron el almacenamiento estructurado de datos y las consultas SQL. El software estadístico como SAS (1976) y SPSS facilitó el análisis. El concepto de almacén de datos surgió en la década de 1980 para la inteligencia de negocio. La World Wide Web (década de 1990) generó volúmenes masivos de datos que exigían nuevos enfoques. El término minería de datos ganó popularidad en la década de 1990 para el descubrimiento de patrones. El big data se volvió prominente alrededor de 2005 con los retos de datos a escala web. Hadoop (2006) proporcionó un marco de procesamiento distribuido. El rol de científico de datos ganó reconocimiento a través de DJ Patil y Jeff Hammerbacher (2008) en LinkedIn y Facebook. Bibliotecas de aprendizaje automático como scikit-learn (2007) democratizaron la analítica avanzada. Las plataformas de computación en la nube (década de 2010) aportaron infraestructura escalable. Los avances del aprendizaje profundo (2012+) ampliaron las capacidades analíticas. La ciencia de datos actual integra AutoML, MLOps, analítica en tiempo real y prácticas de IA responsable.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la ciencia de datos\n    1600s-1800s : Métodos estadísticos\n                : Fundamentos matemáticos\n    1960s : Término ciencia de datos\n          : Surge el uso temprano\n    1970s : Bases de datos relacionales\n          : Almacenamiento de datos estructurados\n    1976 : Software SAS\n         : Herramientas de análisis estadístico\n    1980s : Almacenamiento de datos\n          : Concepto de inteligencia de negocio\n    1990s : Minería de datos\n          : Énfasis en el descubrimiento de patrones\n    2005 : Era del big data\n         : Retos a escala web\n    2006 : Marco Hadoop\n         : Procesamiento distribuido\n    2008 : Rol de científico de datos\n         : Reconocimiento de Patil y Hammerbacher\n    2007 : Scikit-learn\n         : Democratización del AA\n    2010s : Computación en la nube\n          : Infraestructura escalable\n    2012+ : Integración del aprendizaje profundo\n          : Capacidades ampliadas\n    2020s : AutoML y MLOps\n          : IA automatizada y responsable",
+            "complexity": "high",
+            "tags": [
+                "ciencia_de_datos",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

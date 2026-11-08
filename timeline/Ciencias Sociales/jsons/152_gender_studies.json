@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "152",
+            "topic": "Estudios de género",
+            "category": "Ciencias sociales interdisciplinarias",
+            "description": "Esta cronología traza la evolución de los estudios de género, desde el pensamiento feminista temprano hasta los enfoques interseccionales y queer contemporáneos. Los hitos clave incluyen Vindicación de los derechos de la mujer de Mary Wollstonecraft (1792); la Convención de Seneca Falls (1848); la primera ola del sufragio femenino (finales del siglo XIX-principios del XX); El segundo sexo de Simone de Beauvoir (1949), que impulsó el feminismo existencialista; la segunda ola y La mística de la feminidad de Betty Friedan (1963); el surgimiento del feminismo radical y el activismo por los derechos reproductivos (década de 1970); la tercera ola y la acuñación de la interseccionalidad por Kimberlé Crenshaw (1989); El género en disputa de Judith Butler (1990) y el auge de la teoría queer; la cuarta ola con el activismo digital y #MeToo (década de 2010); y la expansión de los estudios trans* y del feminismo global en años recientes.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del pensamiento de género y feminista\n    section Protofeminismo e Ilustración\n      1792 : Mary Wollstonecraft<br>Vindicación de los derechos de la mujer\n      1848 : Convención de Seneca Falls<br>(Declaración de sentimientos)\n    section Primera ola y sufragio\n      late 19th‑early 20th c. : Movimientos de sufragio femenino<br>EE. UU.: 19.ª enmienda (1920)\n      1893 : Nueva Zelanda: primer voto<br>femenino nacional\n    section Segunda ola\n      1949 : Simone de Beauvoir<br>El segundo sexo\n      1963 : Betty Friedan<br>La mística de la feminidad\n      1970s : Feminismo radical,<br>derechos reproductivos, ERA\n    section Tercera ola e interseccionalidad\n      1989 : Kimberlé Crenshaw<br>acuña «interseccionalidad»\n      1990 : Judith Butler<br>El género en disputa (teoría queer)\n      1990s : Se expanden los feminismos<br>poscoloniales y globales\n    section Cuarta ola y contemporáneo\n      2010s : Activismo digital,<br>#MeToo, blogs feministas\n      2015+ : Movimientos por los derechos trans*,<br>transversalización de género a escala mundial\n      2020s : Justicia decolonial, ecofeminista<br>e interseccional",
+            "complexity": "high",
+            "tags": [
+                "estudios_de_genero",
+                "linea_de_tiempo",
+                "feminismo",
+                "olas_del_feminismo",
+                "interseccionalidad",
+                "teoria_queer",
+                "#MeToo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

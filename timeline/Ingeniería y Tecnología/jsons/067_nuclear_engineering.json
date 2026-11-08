@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "067",
+            "topic": "Ingeniería nuclear",
+            "category": "Ingeniería",
+            "description": "La ingeniería nuclear surgió del descubrimiento de la radiactividad (1896) por Henri Becquerel y la investigación posterior de Marie y Pierre Curie. 1905 trajo la ecuación E=mc² de Einstein que estableció la equivalencia masa-energía. 1932 presenció el descubrimiento del neutrón (James Chadwick) y 1938 vio el descubrimiento de la fisión nuclear (Otto Hahn, Fritz Strassmann). El Proyecto Manhattan (1942-1945) desarrolló las primeras armas nucleares y creó la primera reacción en cadena nuclear controlada (Enrico Fermi, Chicago Pile-1, 1942). La década de 1950 marcó el desarrollo de la energía nuclear pacífica con la primera central nuclear (Obninsk, URSS, 1954) y el primer reactor comercial de EE. UU. (Shippingport, 1957). Las décadas de 1960-70 presenciaron la rápida expansión de la energía nuclear en todo el mundo y el desarrollo de diversos diseños de reactores. El accidente de Three Mile Island de 1979 y el desastre de Chernóbil de 1986 impulsaron regulaciones de seguridad reforzadas. Las décadas de 1990-2000 trajeron diseños de reactores de Generación III+ con características de seguridad mejoradas. El accidente de Fukushima de 2011 avanzó aún más las normas de seguridad. Las de 2010-2020 continúan con el desarrollo de reactores modulares pequeños, conceptos de Generación IV, el progreso de la energía de fusión (proyecto ITER) y ciclos de combustible avanzados que enfatizan la sostenibilidad y la reducción de residuos.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería nuclear</b>\n    \n    section Fundamentos científicos\n        1896  : Descubrimiento de la radiactividad\n              : Becquerel\n        1905  : E=mc² de Einstein\n        1932  : Descubrimiento del neutrón\n              : Chadwick\n        1938  : Descubrimiento de la fisión nuclear\n    \n    section Era del Proyecto Manhattan\n        1942  : Primera reacción en cadena\n              : Fermi, Chicago Pile-1\n        1942-1945 : Proyecto Manhattan\n                  : Primeras armas nucleares\n    \n    section Aplicaciones pacíficas\n        1954  : Primera central nuclear\n              : Obninsk, URSS\n        1957  : Reactor de Shippingport\n              : Primer comercial de EE. UU.\n        1960s-70s : Expansión de la energía nuclear\n                  : Variedad de diseños de reactores\n    \n    section Evolución de la seguridad\n        1979  : Three Mile Island\n        1986  : Desastre de Chernóbil\n              : Regulaciones de seguridad reforzadas\n        1990s-2000s : Reactores de Generación III+\n                    : Características de seguridad mejoradas\n        2011  : Accidente de Fukushima\n              : Normas de seguridad avanzadas\n    \n    section Era avanzada\n        2010s-2020s : Reactores modulares pequeños\n                    : Conceptos de Generación IV\n                    : Progreso de la fusión (ITER)\n                    : Ciclos de combustible avanzados\n                    : Enfoque en la sostenibilidad",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_nuclear",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

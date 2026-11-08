@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "271",
+            "topic": "Banca y finanzas",
+            "category": "Negocios",
+            "description": "La banca y las finanzas abarcan diversas instituciones, mercados y productos que constituyen el sistema financiero. Los servicios bancarios incluyen la banca minorista con cuentas corrientes y de ahorro, la banca comercial que otorga préstamos empresariales y financiamiento comercial, y la banca de inversión que facilita la captación de capital y el asesoramiento en fusiones y adquisiciones. Los mercados financieros comprenden los mercados monetarios de instrumentos a corto plazo, los mercados de capitales que negocian acciones y bonos, los mercados de divisas y los mercados de derivados. Los instrumentos de inversión van desde acciones y renta fija hasta fondos mutuos, ETF e inversiones alternativas. La regulación financiera aplica los Acuerdos de Basilea para la adecuación de capital, las protecciones al consumidor de Dodd-Frank y los marcos antilavado de dinero. Las innovaciones fintech despliegan banca digital, tecnología blockchain, asesores robotizados y plataformas de préstamos entre pares. Las finanzas corporativas gestionan la estructura de capital, el capital de trabajo y la valoración. La banca central conduce la política monetaria, regula a los bancos y mantiene la estabilidad financiera.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Banca y<br>finanzas</b>))\n    <b>Servicios bancarios</b>\n      Banca minorista\n      Banca comercial\n      Banca de inversión\n      Banca privada\n      Financiamiento comercial\n    <b>Mercados financieros</b>\n      Mercados monetarios\n      Mercados de capitales\n      Divisas\n      Mercados de derivados\n      Materias primas\n    <b>Instrumentos de inversión</b>\n      Acciones\n      Renta fija\n      Fondos mutuos\n      ETF\n      Inversiones alternativas\n    <b>Regulación financiera</b>\n      Acuerdos de Basilea\n      Adecuación de capital\n      Protección al consumidor\n      Marcos ALD\n      Ley Dodd-Frank\n    <b>Innovación fintech</b>\n      Banca digital\n      Tecnología blockchain\n      Asesores robotizados\n      Préstamos P2P\n      Pagos móviles\n    <b>Finanzas corporativas</b>\n      Estructura de capital\n      Capital de trabajo\n      Métodos de valoración\n      Asesoría en fusiones y adquisiciones\n      Servicios de OPI\n    <b>Banca central</b>\n      Política monetaria\n      Regulación bancaria\n      Estabilidad financiera\n      Prestamista de última instancia\n    <b>Gestión de riesgos</b>\n      Riesgo de crédito\n      Riesgo de mercado\n      Riesgo operacional\n      Riesgo de liquidez",
+            "complexity": "high",
+            "tags": [
+                "banca_y_finanzas",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

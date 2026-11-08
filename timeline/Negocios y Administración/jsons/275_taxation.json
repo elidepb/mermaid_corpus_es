@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "275",
+            "topic": "Fiscalidad",
+            "category": "Negocios",
+            "description": "La historia de la fiscalidad abarca desde los sistemas de tributo antiguos hasta los códigos tributarios modernos integrales. Civilizaciones antiguas como Egipto, Roma y China recaudaban impuestos sobre la tierra, el comercio y la producción. La Carta Magna (1215) estableció el principio de que la imposición requiere consentimiento. El impuesto sobre la renta británico surgió temporalmente en 1799 para financiar las guerras napoleónicas y se hizo permanente en 1842. Estados Unidos adoptó el impuesto sobre la renta de forma temporal durante la Guerra Civil (1861) y de forma permanente mediante la 16.ª Enmienda (1913). El impuesto sobre el valor añadido nació en Francia (1954) y se difundió mundialmente como impuesto al consumo eficiente. La Ley de Reforma Fiscal (1986) simplificó el código tributario de Estados Unidos y redujo tipos. El proyecto sobre la erosión de la base imponible y el traslado de beneficios de la OCDE (2013) abordó la elusión fiscal multinacional. Los debates sobre fiscalidad digital surgieron en la década de 2010 respecto a los gigantes tecnológicos. La fiscalidad actual integra sistemas de cumplimiento automatizado, propuestas de impuesto mínimo global y fiscalidad ambiental.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la fiscalidad\n    Ancient Times : Sistemas de tributo\n                  : Impuestos sobre tierra y comercio\n    1215 : Carta Magna\n         : La imposición requiere consentimiento\n    1799 : Impuesto sobre la renta británico\n         : Financiación de las guerras napoleónicas\n    1842 : Impuesto sobre la renta permanente\n         : Gran Bretaña establece el sistema\n    1861 : Impuesto de la Guerra Civil de Estados Unidos\n         : Imposición temporal sobre la renta\n    1913 : 16.ª Enmienda\n         : Impuesto sobre la renta permanente de Estados Unidos\n    1954 : IVA en Francia\n         : Innovación del impuesto al consumo\n    1986 : Ley de Reforma Fiscal de Estados Unidos\n         : Simplificación del código\n    2013 : Proyecto BEPS\n         : Elusión fiscal multinacional\n    2010s : Debates sobre fiscalidad digital\n          : Imposición a empresas tecnológicas\n    2020s : Impuesto mínimo global\n          : Coordinación de la OCDE y automatización",
+            "complexity": "high",
+            "tags": [
+                "fiscalidad",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "053",
+            "topic": "Redes de computadoras",
+            "category": "Ciencias de la computación",
+            "description": "Las redes de computadoras comprenden diversas capas y elementos que trabajan de forma conjunta. El modelo OSI estructura las redes en siete capas (Física, Enlace de datos, Red, Transporte, Sesión, Presentación, Aplicación). Los tipos de red abarcan LAN, WAN, MAN y PAN. El hardware clave incluye enrutadores, conmutadores, concentradores y módems. Los protocolos rigen la comunicación (suite TCP/IP, HTTP, HTTPS, FTP, DNS, DHCP). Las topologías definen la estructura (estrella, anillo, malla, bus, híbrida). Las medidas de seguridad incluyen cortafuegos, VPN, cifrado y autenticación. Los medios de transmisión usan cables de cobre, fibra óptica o tecnologías inalámbricas, mientras que los servicios abarcan correo electrónico, transferencia de archivos, acceso remoto y computación en la nube.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Redes de<br>computadoras</b>))\n    <b>Modelo OSI</b>\n      Física\n      Enlace de datos\n      Red\n      Transporte\n      Sesión\n      Presentación\n      Aplicación\n    <b>Tipos de red</b>\n      LAN\n      WAN\n      MAN\n      PAN\n    <b>Hardware</b>\n      Enrutadores\n      Conmutadores\n      Concentradores\n      Módems\n    <b>Protocolos</b>\n      TCP/IP\n      HTTP/HTTPS\n      FTP\n      DNS\n      DHCP\n    <b>Topología</b>\n      Estrella\n      Anillo\n      Malla\n      Bus\n      Híbrida\n    <b>Seguridad</b>\n      Cortafuegos\n      VPN\n      Cifrado\n      Autenticación\n    <b>Medios de transmisión</b>\n      Cables de cobre\n      Fibra óptica\n      Inalámbrico\n    <b>Servicios</b>\n      Correo electrónico\n      Transferencia de archivos\n      Acceso remoto\n      Computación en la nube",
+            "complexity": "high",
+            "tags": [
+                "redes_de_computadoras",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

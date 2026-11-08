@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "270",
+            "topic": "Comercio exterior",
+            "category": "Negocios",
+            "description": "El comercio exterior es el intercambio sistemático de bienes y servicios a través de fronteras internacionales, regido por regulaciones, acuerdos y políticas económicas. Comienza con el análisis de acuerdos comerciales, comprendiendo tratados bilaterales y multilaterales que configuran el acceso a los mercados. Los procedimientos de exportación e importación implican documentación, despacho aduanero y cumplimiento normativo. El cálculo de aranceles y derechos determina los costos según la clasificación del producto y el país de origen. La coordinación logística gestiona el envío internacional, el transitario y los plazos de entrega. La financiación del comercio asegura el pago mediante cartas de crédito, cobranzas documentarias y financiación a la exportación. El cumplimiento de calidad y normas garantiza que los productos satisfagan los requisitos del país de destino. La gestión de riesgos aborda fluctuaciones cambiarias, inestabilidad política e impagos. El objetivo es facilitar un comercio transfronterizo eficiente que amplíe mercados, optimice costos y gestione las complejidades del comercio internacional.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Comercio exterior</b><br>Intercambio de bienes y servicios<br>a través de fronteras]:::title\n    B[<b>META PRINCIPAL</b><br>Facilitar un comercio transfronterizo<br>eficiente]:::goal\n    C[<b>PROCESO COMERCIAL</b>]:::process\n    \n    subgraph D[Análisis de acuerdos comerciales]\n        D1[Comprender tratados<br>y acceso a mercados]\n    end\n    \n    subgraph E[Procedimientos de exportación-importación]\n        E1[Documentación y despacho<br>aduanero]\n    end\n    \n    subgraph F[Cálculo de aranceles y derechos]\n        F1[Determinar costos por<br>clasificación y origen]\n    end\n    \n    subgraph G[Coordinación logística]\n        G1[Gestionar envíos y<br>transporte internacional]\n    end\n    \n    subgraph H[Financiación del comercio]\n        H1[Asegurar el pago mediante<br>cartas de crédito]\n    end\n    \n    subgraph I[Cumplimiento de normas]\n        I1[Cumplir los requisitos<br>de destino]\n    end\n    \n    subgraph J[Gestión de riesgos]\n        J1[Abordar riesgos cambiarios,<br>políticos y de pago]\n    end\n    \n    K[<b>RESULTADO</b><br>Mercados ampliados con<br>costos optimizados]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    K -.->|monitoreo continuo| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "comercio_exterior",
+                "negocios_internacionales",
+                "exportacion",
+                "importacion",
+                "aduanas"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

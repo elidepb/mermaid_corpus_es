@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "292",
+            "topic": "Conservación biológica",
+            "category": "Ciencias ambientales",
+            "description": "La conservación biológica es la disciplina científica dedicada a proteger la biodiversidad, incluidas las especies, la diversidad genética y los ecosistemas, de la extinción y la degradación. Su objetivo principal es preservar la diversidad biológica de la Tierra comprendiendo las amenazas, implementando estrategias de protección y promoviendo relaciones sostenibles entre humanos y naturaleza. Los dominios centrales incluyen: evaluación de amenazas (pérdida y fragmentación de hábitat, sobreexplotación, especies invasoras, contaminación, cambio climático), estrategias de conservación (establecimiento de áreas protegidas, programas de recuperación de especies, restauración de hábitats, conservación ex situ), preservación de la diversidad genética (análisis de viabilidad poblacional, gestión genética, bancos de semillas, criopreservación), conservación de ecosistemas (protección de servicios ecosistémicos, gestión de especies clave, mantenimiento de la integridad ecológica) e involucramiento comunitario (medios de vida sostenibles, integración del conocimiento indígena, educación ambiental, conservación participativa). El proceso de conservación implica evaluación y monitoreo de la biodiversidad, identificación de amenazas, planificación de la conservación (planificación sistemática, priorización), implementación de intervenciones y gestión adaptativa. Estos elementos se integran mediante la ecología, la genética y las ciencias sociales para crear redes de áreas protegidas, programas de reintroducción de especies, corredores de hábitat, gestión sostenible de recursos y conservación comunitaria que salvaguardan la biodiversidad para las generaciones futuras.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Conservación biológica</b><br>Proteger la biodiversidad de la<br>extinción y la degradación]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Preservar la diversidad biológica<br>y las relaciones sostenibles]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Evaluación de amenazas]\n        D1[Pérdida de hábitat<br>Sobreexplotación<br>Especies invasoras y contaminación]\n    end\n    \n    subgraph E[Estrategias de conservación]\n        E1[Áreas protegidas<br>Recuperación de especies<br>Restauración de hábitats]\n    end\n    \n    subgraph F[Diversidad genética]\n        F1[Viabilidad poblacional<br>Gestión genética<br>Bancos de semillas y criopreservación]\n    end\n    \n    subgraph G[Conservación de ecosistemas]\n        G1[Servicios ecosistémicos<br>Especies clave<br>Integridad ecológica]\n    end\n    \n    subgraph H[Involucramiento comunitario]\n        H1[Medios de vida sostenibles<br>Conocimiento indígena<br>Conservación participativa]\n    end\n    \n    I[<b>PROCESO DE CONSERVACIÓN</b><br>Evaluación, planificación<br>Implementación, adaptación]:::process\n    \n    J[<b>CREA</b><br>Redes y programas protegidos<br>que salvaguardan la biodiversidad]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificados por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "conservacion_biologica",
+                "ciencias_ambientales",
+                "biodiversidad",
+                "conservacion",
+                "ecologia",
+                "in_situ",
+                "ex_situ"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

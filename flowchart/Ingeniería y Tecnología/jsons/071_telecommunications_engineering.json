@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "071",
+            "topic": "Ingeniería de telecomunicaciones",
+            "category": "ingenieria",
+            "description": "La ingeniería de telecomunicaciones es la disciplina que diseña, desarrolla y mantiene sistemas para transmitir información a distancia por medios electrónicos. Su objetivo principal es permitir una comunicación fiable y de alta velocidad a través de redes locales y globales mediante tecnologías cableadas e inalámbricas. Los dominios centrales incluyen: sistemas de transmisión (fibra óptica, cable coaxial, propagación inalámbrica, técnicas de modulación), arquitectura de red (sistemas de conmutación, protocolos de enrutamiento, topología de red, capas del modelo OSI), procesamiento de señales (procesamiento digital de señales, codificación, compresión, corrección de errores), comunicaciones inalámbricas (redes celulares, sistemas satelitales, enlaces de microondas, diseño de antenas) y protocolos de telecomunicación (TCP/IP, LTE, normas 5G, seguridad de red). El proceso de ingeniería involucra diseño de sistemas, análisis de presupuesto de enlace, planificación de red, optimización del rendimiento y cumplimiento de normas. Estos elementos se integran mediante teoría de la información, teoría electromagnética y principios de redes para crear redes telefónicas, infraestructura de internet, sistemas de comunicación móvil, comunicaciones satelitales y redes de transmisión de datos que permiten la conectividad global.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería de telecomunicaciones</b><br>Transmisión de información a<br>distancia de forma electrónica]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Permitir redes de comunicación<br>fiables y de alta velocidad]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Sistemas de transmisión]\n        D1[Fibra óptica<br>Cable coaxial<br>Técnicas de modulación]\n    end\n    \n    subgraph E[Arquitectura de red]\n        E1[Sistemas de conmutación<br>Protocolos de enrutamiento<br>Topología de red]\n    end\n    \n    subgraph F[Procesamiento de señales]\n        F1[Procesamiento digital<br>Codificación y compresión<br>Corrección de errores]\n    end\n    \n    subgraph G[Comunicaciones inalámbricas]\n        G1[Redes celulares<br>Sistemas satelitales<br>Diseño de antenas]\n    end\n    \n    subgraph H[Protocolos de telecomunicación]\n        H1[TCP/IP<br>Normas LTE y 5G<br>Seguridad de red]\n    end\n    \n    I[<b>PROCESO DE INGENIERÍA</b><br>Diseño, análisis de enlace<br>Planificación, optimización]:::process\n    \n    J[<b>CREA</b><br>Infraestructura de comunicación<br>que permite la conectividad global]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_de_telecomunicaciones",
+                "ingenieria",
+                "redes_de_comunicacion",
+                "comunicacion_inalambrica",
+                "comunicacion_optica"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

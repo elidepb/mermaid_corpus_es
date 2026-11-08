@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Relaciones Públicas",
+            "category": "Comunicación y Gestión",
+            "description": "Este mapa mental organiza el campo de las Relaciones Públicas en torno a su concepto central. Las ramas principales incluyen Conceptos centrales (reputación, grupo de interés, públicos, comunicación bidireccional, transparencia, spin), Tipos de RP (relaciones con los medios, comunicación de crisis, comunicación interna, relaciones con inversores, relaciones comunitarias, RP digital), Modelos clásicos (agente de prensa, información pública, bidireccional asimétrico, bidireccional simétrico — Grunig y Hunt), Herramientas y tácticas (comunicados de prensa, kits de prensa, discursos, eventos, redes sociales, boletines), Teorías (teoría de la excelencia, teoría situacional, encuadre, construcción de agenda, teoría dialógica, gestión de relaciones), Ética (código de la PRSA, transparencia, honestidad, conflicto de interés) y Figuras clave (Ivy Lee, Edward Bernays, James Grunig, Scott Cutlip). El mapa captura las dimensiones estratégica y ética de la profesión.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Relaciones Públicas))\n    Conceptos_Centrales\n      Reputación\n      Grupos_de_Interés\n      Públicos\n      Comunicación_Bidireccional\n      Transparencia\n      Spin\n    Tipos_de_RP\n      Relaciones_con_los_Medios\n      Comunicación_de_Crisis\n      Comunicación_Interna\n      Relaciones_con_Inversores\n      Relaciones_Comunitarias\n      RP_Digital\n    Modelos_Clásicos\n      Agente_de_Prensa\n      Información_Pública\n      Bidireccional_Asimétrico\n      Bidireccional_Simétrico\n    Herramientas_y_Tácticas\n      Comunicados_de_Prensa\n      Kits_de_Prensa\n      Discursos\n      Eventos\n      Redes_Sociales\n      Boletines\n    Teorías\n      Teoría_de_la_Excelencia\n      Teoría_Situacional\n      Encuadre\n      Construcción_de_Agenda\n      Teoría_Dialógica\n      Gestión_de_Relaciones\n    Ética\n      Código_PRSA\n      Transparencia\n      Honestidad\n      Conflicto_de_Interés\n    Figuras_Clave\n      Ivy_Lee\n      Edward_Bernays\n      James_Grunig\n      Scott_Cutlip",
+            "complexity": "high",
+            "tags": ["relaciones_públicas", "mapa_mental", "modelos", "teorías", "ética", "bernays", "grunig"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

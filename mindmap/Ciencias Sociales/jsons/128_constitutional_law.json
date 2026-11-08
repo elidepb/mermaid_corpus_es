@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Derecho Constitucional",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el campo del Derecho Constitucional en torno a su concepto central. Se ramifica en componentes principales: Principios centrales (estado de derecho, separación de poderes, federalismo, independencia judicial, derechos fundamentales), Fuentes (constitución escrita, jurisprudencia, convenciones, derecho internacional), Doctrinas clave (revisión judicial, debido proceso, igual protección, proporcionalidad, originalismo vs. constitución viva), Tipos de constituciones (escritas/no escritas, rígidas/flexibles, unitarias/federales, republicanas/monárquicas), Casos emblemáticos (Marbury v. Madison, Brown v. Board, Roe v. Wade, Kesavananda Bharati) y Actores e instituciones (tribunales constitucionales, legislativo, ejecutivo, comisiones de derechos humanos). El mapa captura las dimensiones estructurales y normativas de la gobernanza constitucional.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Constitucional))\n    Principios_Centrales\n      Estado_de_Derecho\n      Separación_de_Poderes\n      Federalismo\n      Independencia_Judicial\n      Derechos_Fundamentales\n    Fuentes\n      Constitución_Escrita\n      Jurisprudencia\n      Convenciones\n      Tratados_Internacionales\n    Doctrinas_Clave\n      Revisión_Judicial\n      Debido_Proceso\n      Igual_Protección\n      Proporcionalidad\n      Originalismo_vs_Constitución_Viva\n    Tipos_de_Constituciones\n      Escritas_vs_No_Escritas\n      Rígidas_vs_Flexibles\n      Unitarias_vs_Federales\n      Republicanas_vs_Monárquicas\n    Casos_Emblemáticos\n      Marbury_v_Madison_1803\n      Brown_v_Board_1954\n      Roe_v_Wade_1973\n      Kesavananda_Bharati_1973\n    Actores_Instituciones\n      Tribunales_Constitucionales\n      Legislativo\n      Ejecutivo\n      Comisiones_de_Derechos_Humanos",
+            "complexity": "high",
+            "tags": ["derecho_constitucional", "mapa_mental", "principios", "doctrinas", "casos_emblemáticos", "constitucionalismo", "revisión_judicial"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

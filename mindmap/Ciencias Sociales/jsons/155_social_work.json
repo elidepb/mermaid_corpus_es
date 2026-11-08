@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "155",
+            "topic": "Trabajo Social",
+            "category": "Ciencias Sociales y Práctica",
+            "description": "Este mapa mental organiza el campo del Trabajo Social en torno a su concepto central. Las ramas principales incluyen Valores centrales (justicia social, dignidad y valor de la persona, integridad, competencia, relaciones humanas), Teorías (teoría de sistemas, perspectiva ecológica, basada en fortalezas, empoderamiento, psicodinámica, TCC, teoría crítica), Niveles de intervención (micro: individuos y familias; mezzo: grupos y organizaciones; macro: comunidades y política), Métodos (trabajo de casos, trabajo grupal, organización comunitaria, incidencia, intervención en crisis, entrevista motivacional), Campos de práctica (bienestar infantil, salud mental, atención sanitaria, escuelas, gerontología, justicia penal, abuso de sustancias), Conceptos clave (persona en su entorno, empatía, empoderamiento, resiliencia, interseccionalidad) y Figuras destacadas (Jane Addams, Mary Richmond, Bertha Reynolds, Paulo Freire, Dorothy Height). El mapa ilustra la amplitud de la profesión, de los valores a la práctica.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Trabajo Social))\n    Valores_Centrales\n      Justicia_Social\n      Dignidad_y_Valor\n      Integridad\n      Competencia\n      Relaciones_Humanas\n    Teorías\n      Teoría_de_Sistemas\n      Perspectiva_Ecológica\n      Basada_en_Fortalezas\n      Empoderamiento\n      Psicodinámica\n      TCC\n      Teoría_Crítica\n    Niveles_de_Intervención\n      Micro\n      Mezzo\n      Macro\n    Métodos\n      Trabajo_de_Casos\n      Trabajo_Grupal\n      Organización_Comunitaria\n      Incidencia\n      Intervención_en_Crisis\n      Entrevista_Motivacional\n    Campos_de_Práctica\n      Bienestar_Infantil\n      Salud_Mental\n      Atención_Sanitaria\n      Escuelas\n      Gerontología\n      Justicia_Penal\n      Abuso_de_Sustancias\n    Conceptos_Clave\n      Persona_en_su_Entorno\n      Empatía\n      Empoderamiento\n      Resiliencia\n      Interseccionalidad\n    Figuras_Destacadas\n      Jane_Addams\n      Mary_Richmond\n      Bertha_Reynolds\n      Paulo_Freire\n      Dorothy_Height",
+            "complexity": "high",
+            "tags": ["trabajo_social", "mapa_mental", "valores", "teorías", "métodos", "campos", "figuras_clave"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

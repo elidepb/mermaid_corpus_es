@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "257",
+            "topic": "Contabilidad",
+            "category": "Negocios",
+            "description": "La contabilidad es el proceso sistemático de registrar, clasificar e informar transacciones financieras para proporcionar información útil para la toma de decisiones. Comienza con la identificación de hechos económicos, su registro mediante asientos de diario, la clasificación en cuentas del mayor y el resumen en estados financieros. Este proceso sirve a tres usuarios principales: la dirección para decisiones internas, inversores y acreedores para la evaluación externa, y las autoridades fiscales para el cumplimiento. El objetivo último es proporcionar información financiera precisa y oportuna que respalde decisiones económicas informadas.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Contabilidad</b><br>Registro e informe sistemáticos<br>de transacciones financieras]:::title\n    B[<b>PROPÓSITO PRINCIPAL</b><br>Proporcionar información financiera<br>para la toma de decisiones]:::objective\n    C[<b>CICLO CONTABLE</b>]:::cycle\n    \n    subgraph D[Registro]\n        D1[Identificar transacciones<br>y asientos de diario]\n    end\n    \n    subgraph E[Clasificación]\n        E1[Pasar a cuentas<br>del mayor]\n    end\n    \n    subgraph F[Resumen]\n        F1[Preparar estados<br>financieros]\n    end\n    \n    subgraph G[Informe]\n        G1[Comunicar resultados<br>a las partes interesadas]\n    end\n    \n    H[<b>TRES GRUPOS DE USUARIOS</b>]:::users\n    \n    I[<b>Dirección</b><br>Decisiones internas]:::internal\n    J[<b>Inversores y acreedores</b><br>Evaluación externa]:::external\n    K[<b>Autoridades fiscales</b><br>Cumplimiento]:::tax\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|sirve a| H\n    H -->|informa a| I\n    H -->|informa a| J\n    H -->|informa a| K\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef objective fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef cycle fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef users fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#333\n    classDef internal fill:#e1f5fe,stroke:#0277bd,stroke-width:1px,color:#333\n    classDef external fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1px,color:#333\n    classDef tax fill:#e8f5e9,stroke:#388e3c,stroke-width:1px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "contabilidad",
+                "finanzas",
+                "ciclo_contable",
+                "estados_financieros",
+                "teneduria_de_libros"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

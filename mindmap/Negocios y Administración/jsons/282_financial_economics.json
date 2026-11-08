@@ -1,0 +1,19 @@
+{
+    "diagrams": [
+        {
+            "id": "282",
+            "topic": "Economía financiera",
+            "category": "Economía/Negocios",
+            "description": "La economía financiera abarca marcos teóricos, modelos y métodos empíricos para comprender los sistemas financieros. Los modelos de valoración de activos incluyen el Modelo de Valoración de Activos de Capital, que vincula el riesgo con los retornos esperados mediante la beta de mercado, la Teoría de Precios por Arbitraje que usa múltiples factores de riesgo, el modelo de tres factores de Fama-French que añade factores de tamaño y valor, y modelos multifactoriales que incorporan momentum, rentabilidad y patrones de inversión. La teoría de la eficiencia de mercados examina la eficiencia en forma débil que refleja precios históricos, la eficiencia semifuerte que incorpora información pública y la eficiencia en forma fuerte que incluye información privilegiada. La teoría de carteras aplica la optimización media-varianza de Markowitz, la maximización del ratio de Sharpe, el modelo Black-Litterman que incorpora visiones y los enfoques de paridad de riesgo. La valoración de derivados emplea el marco Black-Scholes-Merton para opciones, modelos binomiales y trinomiales para tiempo discreto, opciones reales para decisiones de inversión y la valoración de opciones exóticas. La econometría financiera usa análisis de series temporales, modelado de volatilidad ARCH/GARCH, cointegración para relaciones y métodos de datos de panel. Las finanzas conductuales examinan el exceso de confianza, la aversión a la pérdida, el comportamiento de rebaño y los sesgos de contabilidad mental que afectan las decisiones.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Economía<br>financiera</b>))\n    <b>Modelos de valoración de activos</b>\n      Marco CAPM\n      Teoría de Precios por Arbitraje\n      Factores Fama-French\n      Modelos multifactoriales\n      Efectos de momentum\n    <b>Eficiencia de mercados</b>\n      Eficiencia en forma débil\n      Eficiencia semifuerte\n      Eficiencia en forma fuerte\n      Hipótesis de paseo aleatorio\n      Anomalías de mercado\n    <b>Teoría de carteras</b>\n      Optimización de Markowitz\n      Ratio de Sharpe\n      Modelo Black-Litterman\n      Paridad de riesgo\n      Inversión por factores\n    <b>Valoración de derivados</b>\n      Black-Scholes-Merton\n      Modelos binomiales\n      Opciones reales\n      Opciones exóticas\n      Sensibilidad de las griegas\n    <b>Econometría financiera</b>\n      Análisis de series temporales\n      Modelos ARCH/GARCH\n      Cointegración\n      Métodos de datos de panel\n      Análisis de regresión\n    <b>Finanzas conductuales</b>\n      Sesgo de exceso de confianza\n      Aversión a la pérdida\n      Comportamiento de rebaño\n      Contabilidad mental\n      Teoría de las perspectivas\n    <b>Teoría de finanzas corporativas</b>\n      Estructura de capital\n      Política de dividendos\n      Teoría de agencia\n      Modelos de señalización\n    <b>Microestructura de mercados</b>\n      Spreads bid-ask\n      Provisión de liquidez\n      Descubrimiento de precios\n      Mecanismos de negociación",
+            "complexity": "high",
+            "tags": [
+                "economia_financiera",
+                "economia",
+                "negocios"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

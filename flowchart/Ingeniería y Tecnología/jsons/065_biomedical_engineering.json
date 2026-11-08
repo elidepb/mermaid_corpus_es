@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "065",
+            "topic": "Ingeniería biomédica",
+            "category": "ingenieria",
+            "description": "La ingeniería biomédica es el campo interdisciplinario que aplica principios de ingeniería y conceptos de diseño a la medicina y la biología con fines de atención sanitaria. Su objetivo principal es desarrollar tecnologías, dispositivos y sistemas innovadores que diagnostiquen, monitoricen y traten afecciones médicas, mejorando al mismo tiempo los resultados de los pacientes. Los dominios centrales incluyen: dispositivos médicos (equipos de diagnóstico, dispositivos terapéuticos, instrumentos quirúrgicos), biomateriales (implantes, andamios tisulares, materiales biocompatibles), imagen médica (IRM, TC, ultrasonido, sistemas de rayos X), biomecánica (prótesis, ortesis, dispositivos de rehabilitación) y bioinformática y biología computacional (análisis de datos, modelado, descubrimiento de fármacos). El proceso de desarrollo involucra evaluación de necesidades clínicas, diseño y prototipado, pruebas biológicas, aprobación regulatoria (FDA) e implementación clínica. Estos elementos convergen mediante biología, fisiología, ciencia de materiales y electrónica para crear herramientas de diagnóstico, dispositivos terapéuticos, órganos artificiales y tecnologías de rehabilitación que mejoran la prestación de atención sanitaria y la calidad de vida de los pacientes.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería biomédica</b><br>Aplicación de principios de ingeniería<br>a la medicina y la biología]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Desarrollar tecnologías para<br>diagnóstico, tratamiento y monitorización]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Dispositivos médicos]\n        D1[Equipos de diagnóstico<br>Dispositivos terapéuticos<br>Instrumentos quirúrgicos]\n    end\n    \n    subgraph E[Biomateriales]\n        E1[Implantes<br>Andamios tisulares<br>Materiales biocompatibles]\n    end\n    \n    subgraph F[Imagen médica]\n        F1[IRM y TC<br>Ultrasonido<br>Sistemas de rayos X]\n    end\n    \n    subgraph G[Biomecánica]\n        G1[Prótesis<br>Ortesis<br>Dispositivos de rehabilitación]\n    end\n    \n    subgraph H[Bioinformática]\n        H1[Análisis de datos<br>Modelado<br>Descubrimiento de fármacos]\n    end\n    \n    I[<b>PROCESO DE DESARROLLO</b><br>Diseño, pruebas<br>Aprobación regulatoria, implementación]:::process\n    \n    J[<b>CREA</b><br>Tecnologías que mejoran<br>la atención sanitaria y los resultados de los pacientes]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_biomedica",
+                "ingenieria",
+                "biomecanica",
+                "biomateriales",
+                "imagen_medica"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

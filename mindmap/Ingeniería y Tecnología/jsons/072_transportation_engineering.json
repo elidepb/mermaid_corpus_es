@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "072",
+            "topic": "Ingeniería del transporte",
+            "category": "Ingeniería",
+            "description": "La ingeniería del transporte abarca múltiples modos y especializaciones técnicas. El diseño de carreteras incluye alineación (curvas horizontales y verticales), diseño de sección transversal, distancia de visibilidad, peralte y gestión de accesos. La ingeniería de pavimentos cubre pavimentos flexibles (asfalto), pavimentos rígidos (hormigón), análisis de pavimentos (método AASHTO), rehabilitación y estrategias de mantenimiento. Las operaciones de tráfico involucran teoría del flujo de tráfico (relaciones velocidad-densidad), análisis de capacidad (Manual de Capacidad de Carreteras), evaluación del nivel de servicio, análisis de colas y modelado de microsimulación. Los sistemas de control de tráfico presentan semáforos (accionados, coordinados, adaptativos), señales y marcas, rotondas y sistemas inteligentes de transporte (ITS), incluidos centros de gestión de tráfico, paneles de mensaje variable y vehículos conectados. El transporte público incluye sistemas de autobús (convencional, BRT), sistemas ferroviarios (tranvía, metro, cercanías), paratránsito e instalaciones intermodales. Las herramientas de planificación abarcan modelos de demanda de viajes (modelo de cuatro etapas), encuestas origen-destino, aplicaciones SIG y análisis coste-beneficio. El análisis de seguridad usa análisis de datos de accidentes, auditorías de seguridad vial, factores de modificación de accidentes y principios Visión Cero. Las tecnologías emergentes presentan vehículos autónomos, movilidad como servicio (MaaS), infraestructura para vehículos eléctricos, soluciones de micromovilidad e integración de ciudades inteligentes.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ingeniería del transporte))\n    Ingeniería de carreteras\n      Diseño geométrico\n      Diseño de pavimentos\n      Capacidad vial\n      Análisis de seguridad\n    Ingeniería de tráfico\n      Teoría del flujo de tráfico\n      Diseño de semáforos\n      Diseño de intersecciones\n      Gestión del tráfico\n    Transporte público\n      Sistemas de autobús\n      Tránsito ferroviario\n      Sistemas de metro\n      Planificación\n    Planificación del transporte\n      Demanda de viajes\n      Elección modal\n      Uso del suelo\n      Pronóstico\n    Ingeniería de pavimentos\n      Materiales de pavimento\n      Diseño de pavimentos\n      Mantenimiento\n      Rehabilitación\n    Transporte inteligente\n      Sistemas ITS\n      Sensores de tráfico\n      Información en tiempo real\n      Vehículos autónomos\n    Ingeniería aeroportuaria\n      Diseño de pistas\n      Diseño de terminales\n      Control de tráfico aéreo\n      Planificación de aeropuertos\n    Ingeniería portuaria\n      Diseño de puertos\n      Instalaciones marítimas\n      Manipulación de carga\n      Ingeniería costera",
+            "complexity": "high",
+            "tags": [
+                "ingeniería_del_transporte",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "142",
+            "topic": "Marketing",
+            "category": "Empresa y gestión",
+            "description": "Esta cronología traza la evolución del marketing desde una orientación a la producción hasta la economía de la experiencia. Hitos clave: la era de la producción (principios del siglo XX), centrada en la eficiencia manufacturera; la era de las ventas (décadas de 1930‑50), que enfatizó tácticas de venta agresivas; la era del concepto de marketing (década de 1960), que introdujo la orientación al consumidor; la era del marketing relacional (década de 1980), que fomentó la lealtad; el auge del marketing digital y el comercio electrónico (décadas de 1990‑2000) con buscadores y correo electrónico; la revolución de las redes sociales y el móvil (2007‑2010s) con Facebook, el iPhone y el marketing de influencers; y el marketing de la década de 2020 impulsado por la IA, personalizado y orientado a la sostenibilidad.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del marketing\n    section Era de la producción\n      early 1900s : Enfoque en la eficiencia<br>manufacturera y la disponibilidad\n    section Era de las ventas\n      1930s‑50s : Venta agresiva,<br>crecimiento de la publicidad\n    section Concepto de marketing\n      1960s : Filosofía centrada en el consumidor<br>Introducción del marco de las 4P\n    section Marketing relacional\n      1980s : Lealtad y retención de clientes<br>Marketing directo y CRM\n    section Digital e internet\n      1990s : Comercio electrónico, buscadores<br>(Amazon, Google)\n      2000s : Marketing por correo electrónico, SEO,<br>campañas basadas en datos\n    section Social y móvil\n      2007 : iPhone y aplicaciones móviles\n      2008‑10s : Marketing en redes sociales<br>(Facebook, Instagram)\n      2010s : Marketing de influencers y de contenidos\n    section IA y experiencia\n      2020s : Personalización con IA,<br>sostenibilidad, metaverso,<br>marketing centrado en la privacidad",
+            "complexity": "high",
+            "tags": [
+                "marketing",
+                "historia",
+                "linea_de_tiempo",
+                "era_de_la_produccion",
+                "concepto_de_marketing",
+                "marketing_digital",
+                "IA",
+                "redes_sociales"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

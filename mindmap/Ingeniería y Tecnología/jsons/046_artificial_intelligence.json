@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "046",
+            "topic": "Inteligencia artificial",
+            "category": "Ciencias de la computación",
+            "description": "La inteligencia artificial abarca enfoques, aplicaciones y consideraciones diversas para crear sistemas computacionales inteligentes. Los enfoques de IA incluyen la IA simbólica, que usa lógica y representación del conocimiento; la IA conexionista, que emplea redes neuronales; la computación evolutiva, que aplica algoritmos genéticos; el razonamiento probabilístico con métodos bayesianos; y los sistemas híbridos que combinan varios paradigmas. Los dominios de aplicación cubren la visión por computadora para el reconocimiento de imágenes y la detección de objetos, el procesamiento del lenguaje natural que permite comprender y generar texto, la robótica que aporta corporeidad física y manipulación, los sistemas expertos que capturan conocimiento de dominio, los juegos que alcanzan un rendimiento sobrehumano, y los sistemas autónomos que toman decisiones independientes. Los paradigmas de aprendizaje automático incluyen el aprendizaje supervisado a partir de datos etiquetados, el no supervisado que descubre patrones, el por refuerzo mediante ensayo y error, el semisupervisado que combina datos etiquetados y no etiquetados, y el aprendizaje por transferencia que aplica conocimiento entre dominios. La ética de la IA aborda el sesgo algorítmico y la equidad, la protección de la privacidad, la transparencia y la explicabilidad, la rendición de cuentas por las decisiones y la seguridad en el despliegue. Las capacidades cognitivas incluyen la percepción que procesa la entrada sensorial, el razonamiento que extrae conclusiones lógicas, el aprendizaje que mejora con la experiencia, la planificación que genera secuencias de acciones y el lenguaje natural que habilita la comunicación.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Inteligencia<br>artificial</b>))\n    <b>Enfoques de IA</b>\n      IA simbólica\n      IA conexionista\n      Computación evolutiva\n      Razonamiento probabilístico\n      Sistemas híbridos\n    <b>Dominios de aplicación</b>\n      Visión por computadora\n      Procesamiento del lenguaje natural\n      Robótica\n      Sistemas expertos\n      Juegos\n      Sistemas autónomos\n    <b>Paradigmas de aprendizaje</b>\n      Aprendizaje supervisado\n      Aprendizaje no supervisado\n      Aprendizaje por refuerzo\n      Aprendizaje semisupervisado\n      Aprendizaje por transferencia\n    <b>Ética de la IA</b>\n      Sesgo algorítmico\n      Protección de la privacidad\n      Transparencia y explicabilidad\n      Rendición de cuentas\n      Seguridad y alineación\n    <b>Capacidades cognitivas</b>\n      Percepción\n      Razonamiento\n      Aprendizaje\n      Planificación\n      Lenguaje natural\n      Resolución de problemas\n    <b>Búsqueda y optimización</b>\n      Búsqueda heurística\n      Satisfacción de restricciones\n      Algoritmos genéticos\n      Recocido simulado\n    <b>Sistemas de conocimiento</b>\n      Ontologías\n      Redes semánticas\n      Sistemas basados en reglas\n      Grafos de conocimiento\n    <b>Arquitecturas de IA</b>\n      Redes neuronales\n      Modelos transformer\n      Arquitecturas cognitivas\n      Sistemas multiagente",
+            "complexity": "high",
+            "tags": [
+                "inteligencia_artificial",
+                "ciencias_de_la_computación"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

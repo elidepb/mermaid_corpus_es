@@ -1,0 +1,20 @@
+{
+    "diagrams": [
+        {
+            "id": "279",
+            "topic": "Gestión del conocimiento",
+            "category": "Negocios",
+            "description": "La gestión del conocimiento es el proceso sistemático de capturar, organizar, compartir y utilizar el conocimiento organizacional para mejorar el desempeño y la innovación. Comienza con la identificación del conocimiento, descubriendo activos de conocimiento críticos, incluida la documentación explícita y la expertise tácita que poseen los individuos. La captura del conocimiento convierte el conocimiento tácito en forma explícita mediante documentación, entrevistas y observación de expertos. La organización del conocimiento estructura la información usando taxonomías, metadatos y sistemas de categorización para facilitar su recuperación. El almacenamiento del conocimiento mantiene repositorios que incluyen bases de datos, wikis, sistemas de gestión documental y plataformas de aprendizaje. El intercambio de conocimiento facilita la distribución mediante comunidades de práctica, mentoría, herramientas de colaboración y sesiones de transferencia. La aplicación del conocimiento pone los insights en práctica mediante apoyo a la decisión, resolución de problemas y procesos de innovación. La evaluación del conocimiento valora relevancia, exactitud y uso para identificar brechas y oportunidades. El objetivo es aprovechar la inteligencia colectiva, prevenir la pérdida de conocimiento, acelerar el aprendizaje e impulsar la mejora continua.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Gestión del conocimiento</b><br>Captura y utilización sistemáticas<br>del conocimiento organizacional]:::title\n    B[<b>META PRINCIPAL</b><br>Aprovechar la inteligencia colectiva<br>e impulsar la innovación]:::goal\n    C[<b>PROCESO DE GC</b>]:::process\n    \n    subgraph D[Identificación del conocimiento]\n        D1[Descubrir activos críticos<br>y expertise tácita]\n    end\n    \n    subgraph E[Captura del conocimiento]\n        E1[Convertir lo tácito en explícito<br>mediante documentación]\n    end\n    \n    subgraph F[Organización del conocimiento]\n        F1[Estructurar mediante taxonomías<br>y metadatos]\n    end\n    \n    subgraph G[Almacenamiento del conocimiento]\n        G1[Mantener repositorios<br>y plataformas]\n    end\n    \n    subgraph H[Intercambio de conocimiento]\n        H1[Facilitar la distribución mediante<br>comunidades y herramientas]\n    end\n    \n    subgraph I[Aplicación del conocimiento]\n        I1[Aplicar insights a decisiones<br>e innovación]\n    end\n    \n    subgraph J[Evaluación del conocimiento]\n        J1[Valorar relevancia, exactitud<br>y uso]\n    end\n    \n    K[<b>RESULTADO</b><br>Aprendizaje acelerado y<br>mejora continua]:::outcome\n    \n    A -->|busca| B\n    B -->|sigue| C\n    C -->|paso 1| D\n    D -->|paso 2| E\n    E -->|paso 3| F\n    F -->|paso 4| G\n    G -->|paso 5| H\n    H -->|paso 6| I\n    I -->|paso 7| J\n    J -->|logra| K\n    J -.->|bucle de retroalimentación| D\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray:5 5\n    classDef goal fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "gestion_del_conocimiento",
+                "negocios",
+                "aprendizaje_organizacional",
+                "gestion_de_la_informacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

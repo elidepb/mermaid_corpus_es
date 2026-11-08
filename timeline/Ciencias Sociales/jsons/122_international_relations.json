@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "122",
+            "topic": "Relaciones internacionales",
+            "category": "Ciencia política",
+            "description": "Esta cronología rastrea el desarrollo intelectual e institucional de las relaciones internacionales. Los precursores clásicos incluyen la Historia de la guerra del Peloponeso de Tucídides (siglo V a. C.) y pensadores de la modernidad temprana (Hobbes, Grocio). La disciplina surgió formalmente tras la Primera Guerra Mundial con la fundación de la primera cátedra de RI en Aberystwyth (1919) y el idealismo de entreguerras (Sociedad de Naciones). El realismo de posguerra (La política entre las naciones de Morgenthau, 1948) se volvió dominante. La revolución conductista de la década de 1960 introdujo métodos cuantitativos. El institucionalismo neoliberal (Poder e interdependencia de Keohane y Nye, 1977) y el constructivismo (Wendt, 1992) ofrecieron paradigmas alternativos. El fin de la Guerra Fría (1991) desplazó el foco hacia la globalización, la identidad y la teoría crítica. Las RI contemporáneas abordan el cambio climático, la ciberpolítica y las pandemias (décadas de 2000-2020).",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de las relaciones internacionales\n    section Precursores clásicos\n      5th cent BCE : Tucídides<br>Guerra del Peloponeso\n      1625 : Grocio<br>Del derecho de la guerra y de la paz\n    section Nacimiento de la disciplina\n      1919 : Primera cátedra de RI<br>Universidad de Aberystwyth\n      1939 : E.H. Carr<br>La crisis de los veinte años\n    section Realismo y giro conductista\n      1948 : Hans Morgenthau<br>La política entre las naciones\n      1960s : Revolución conductista<br>Métodos cuantitativos\n    section Expansión de paradigmas\n      1977 : Keohane y Nye<br>Poder e interdependencia\n      1992 : Alexander Wendt<br>La anarquía es lo que los Estados hacen de ella\n    section Posguerra Fría\n      1991 : Fin de la Guerra Fría<br>identidad y teoría crítica\n      2000s : Globalización y<br>gobernanza mundial\n    section Contemporánea\n      2010s : Ciberpolítica y<br>seguridad climática\n      2020s : Pandemias y<br>competencia entre grandes potencias",
+            "complexity": "high",
+            "tags": [
+                "relaciones_internacionales",
+                "historia",
+                "linea_de_tiempo",
+                "realismo",
+                "liberalismo",
+                "constructivismo",
+                "guerra_fria",
+                "globalizacion"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "144",
+            "topic": "Relaciones públicas",
+            "category": "Comunicación y gestión",
+            "description": "Las relaciones públicas son la gestión estratégica de la comunicación y de las relaciones entre una organización y sus públicos. Este diagrama de flujo describe la lógica de la disciplina: el objetivo último es construir confianza, credibilidad y relaciones mutuamente beneficiosas. Integra áreas centrales: medios ganados y relaciones con influencers (contacto con medios, alianzas con periodistas, compromiso comunitario), comunicación corporativa estratégica (gestión de crisis, comunicación de asuntos y del cambio, relaciones internas, asuntos públicos) y estrategia digital basada en contenidos (redes sociales, storytelling, eventos). Estas se fundamentan en marcos teóricos principales —teoría de la excelencia, teoría situacional de los públicos, encuadre, construcción de la agenda y comunicación dialógica— y se despliegan mediante el ciclo del proceso estratégico (investigación → acción → comunicación → evaluación, RACE). Los resultados incluyen el fortalecimiento de la reputación, la lealtad de los grupos de interés, la resolución de asuntos y la legitimidad organizacional a largo plazo.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Relaciones públicas</b><br>Gestión estratégica de la comunicación<br>y de las relaciones con los públicos]:::title\n    B[<b>OBJETIVO</b><br>Construir confianza, credibilidad y<br>relaciones mutuamente beneficiosas]:::goal\n    C[<b>COMPONENTES CENTRALES</b>]:::core\n    subgraph D[Medios ganados y relaciones]\n        D1[Relaciones con medios y contacto de prensa<br>Alianzas con influencers y blogueros<br>Relaciones comunitarias y RSC]\n    end\n    subgraph E[Comunicación corporativa estratégica]\n        E1[Comunicación de crisis y gestión de asuntos<br>Compromiso interno y de empleados<br>Asuntos públicos y relaciones gubernamentales]\n    end\n    subgraph F[Contenido y estrategia digital]\n        F1[Redes sociales y RP digitales<br>Marketing de contenidos y storytelling<br>Gestión de eventos y patrocinio]\n    end\n    G[<b>FUNDAMENTOS TEÓRICOS</b><br>Teoría de la excelencia, teoría situacional<br>de los públicos, encuadre, construcción de la agenda,<br>comunicación dialógica]:::theory\n    H[\"<b>PROCESO ESTRATÉGICO (RACE)</b><br>Investigación → Acción → Comunicación<br>→ Evaluación → Retroalimentación\"]:::process\n    I[<b>RESULTADOS</b><br>Reputación, lealtad de los grupos de interés,<br>resolución de asuntos, legitimidad<br>organizacional]:::outcome\n\n    A -->|pretende| B\n    B -->|requiere| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|informado por| G\n    G -->|guía| H\n    H -->|logra| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef core fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef process fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "relaciones_publicas",
+                "RP",
+                "comunicacion_de_crisis",
+                "relaciones_con_medios",
+                "RACE",
+                "teoria_de_la_excelencia",
+                "gestion_de_grupos_de_interes"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

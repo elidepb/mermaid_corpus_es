@@ -1,0 +1,22 @@
+{
+    "diagrams": [
+        {
+            "id": "098",
+            "topic": "Econometría",
+            "category": "Economía",
+            "description": "El mapa mental de la econometría se ramifica desde el concepto central hacia sus componentes fundamentales. Cubre tipos de datos (transversales, series temporales, de panel), métodos de estimación (MCO, máxima verosimilitud, variables instrumentales, GMM, modelos de series temporales), los supuestos clave que sustentan los modelos clásicos de regresión (linealidad, exogeneidad, homocedasticidad, ausencia de autocorrelación, normalidad), técnicas de diagnóstico usadas para verificar esos supuestos (multicolinealidad, heterocedasticidad, autocorrelación, pruebas de estabilidad del modelo) y los principales campos de aplicación (pronóstico macroeconómico, evaluación de políticas, finanzas, economía laboral). Esta estructura ofrece una visión organizada de los elementos nucleares de la disciplina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "%%{init: {\"theme\": \"base\", \"themeVariables\": {\n  \"primaryColor\": \"#E3F2FD\",\n  \"primaryTextColor\": \"#333\",\n  \"primaryBorderColor\": \"#1565C0\",\n  \"lineColor\": \"#4A6FA5\",\n  \"secondaryColor\": \"#FFF3E0\",\n  \"tertiaryColor\": \"#E8F5E9\"\n}}}%%\nmindmap\n  root((Econometría))\n    Tipos de datos\n      Transversal\n      Series temporales\n      Panel\n    Métodos de estimación\n      MCO\n      Máxima verosimilitud\n      VI / MC2E\n      GMM\n      Modelos de series temporales\n    Supuestos\n      Linealidad\n      Exogeneidad\n      Homocedasticidad\n      Sin autocorrelación\n      Normalidad\n    Diagnósticos\n      Multicolinealidad\n      Heterocedasticidad\n      Autocorrelación\n      Estabilidad del modelo\n    Aplicaciones\n      Pronóstico macroeconómico\n      Evaluación de políticas\n      Finanzas\n      Economía laboral",
+            "complexity": "medium",
+            "tags": [
+                "econometría",
+                "mapa_mental",
+                "mco",
+                "series_temporales",
+                "datos_de_panel",
+                "diagnósticos"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

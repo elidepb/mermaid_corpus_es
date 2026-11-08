@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "130",
+            "topic": "Derecho Civil",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el sistema jurídico del Derecho Civil en torno a su concepto central. Las ramas principales incluyen Fuentes centrales (constitución, códigos, leyes, costumbre, doctrina), Rasgos clave (codificación, razonamiento deductivo, precedente limitado, procedimiento inquisitivo, separación entre derecho público y privado), Grandes codificaciones (Corpus Juris de Justiniano, Código Napoleónico, BGB alemán, Código Civil suizo), Comparación con el common law (derecho creado por jueces vs. derecho estatutario, adversarial vs. inquisitivo, stare decisis vs. jurisprudence constante) y Áreas de aplicación (contratos, responsabilidad civil, propiedad, derecho de familia, derecho mercantil). El mapa captura los rasgos definitorios de la tradición del derecho civil.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Civil))\n    Fuentes_Centrales\n      Constitución\n      Códigos\n        Código_Civil\n        Código_de_Comercio\n      Leyes\n      Costumbre\n      Doctrina\n    Rasgos_Clave\n      Codificación\n      Razonamiento_Deductivo\n      Precedente_Limitado\n      Procedimiento_Inquisitivo\n      División_Derecho_Público_Privado\n    Grandes_Codificaciones\n      Corpus_Juris_de_Justiniano\n      Código_Napoleónico_1804\n      BGB_Alemán_1900\n      Código_Civil_Suizo_1907\n    Comparación_Common_Law\n      Estatutario_vs_Creado_por_Jueces\n      Adversarial_vs_Inquisitivo\n      Stare_Decisis_vs_Jurisprudence_Constante\n    Áreas_de_Aplicación\n      Contratos\n      Responsabilidad_Civil\n      Propiedad\n      Derecho_de_Familia\n      Derecho_Mercantil",
+            "complexity": "high",
+            "tags": ["derecho_civil", "mapa_mental", "codificación", "código_napoleónico", "bgb_alemán", "tradición_jurídica", "fuentes_del_derecho"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

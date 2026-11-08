@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "149",
+            "topic": "Historia de las Américas",
+            "category": "Historia",
+            "description": "Este mapa mental organiza el campo de la Historia de las Américas en torno a su concepto central. Las ramas principales incluyen Periodos clave (precolombino, colonial, independencia y primeras repúblicas, largo siglo XIX, siglo XX, contemporánea), Regiones y civilizaciones (Maya, Azteca, Inca, América hispana, Brasil, América del Norte británica, Caribe francés, América del Norte indígena), Temas (colonización y genocidio, esclavitud y abolición, construcción nacional y caudillismo, ciclos económicos, migración, revolución y contrarrevolución, hibridación cultural), Fuentes y métodos (arqueología, crónicas coloniales, archivos nacionales, tradiciones orales, cartografía digital), Enfoques teóricos (poscolonialismo, teoría de la dependencia, mundo atlántico, tierras fronterizas, historia subalterna, teoría crítica de la raza) y Figuras/historiadores clave (Bartolomé de las Casas, Simón Bolívar, Frederick Douglass, Eric Williams, Eduardo Galeano, Howard Zinn, Ana Lúcia Araújo). El mapa captura el alcance hemisférico y multidisciplinario del campo.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Historia de las Américas))\n    Periodos_Clave\n      Precolombino\n      Colonial\n      Independencia_y_Primeras_Repúblicas\n      Largo_Siglo_XIX\n      Siglo_XX\n      Contemporánea\n    Regiones_y_Civilizaciones\n      Maya\n      Azteca\n      Inca\n      América_Hispana\n      Brasil\n      América_del_Norte_Británica\n      Caribe_Francés\n      América_del_Norte_Indígena\n    Temas\n      Colonización_y_Genocidio\n      Esclavitud_y_Abolición\n      Construcción_Nacional_y_Caudillismo\n      Ciclos_Económicos\n      Migración\n      Revolución_y_Contrarrevolución\n      Hibridación_Cultural\n    Fuentes_y_Métodos\n      Arqueología\n      Crónicas_Coloniales\n      Archivos_Nacionales\n      Tradiciones_Orales\n      Cartografía_Digital\n    Enfoques_Teóricos\n      Poscolonialismo\n      Teoría_de_la_Dependencia\n      Mundo_Atlántico\n      Tierras_Fronterizas\n      Historia_Subalterna\n      Teoría_Crítica_de_la_Raza\n    Figuras_e_Historiadores_Clave\n      Bartolomé_de_las_Casas\n      Simón_Bolívar\n      Frederick_Douglass\n      Eric_Williams\n      Eduardo_Galeano\n      Howard_Zinn\n      Ana_Lúcia_Araújo",
+            "complexity": "high",
+            "tags": ["historia_de_las_américas", "mapa_mental", "periodos", "regiones", "temas", "poscolonialismo", "historia_atlántica"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

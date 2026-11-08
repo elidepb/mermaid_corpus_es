@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "070",
+            "topic": "Mecatrónica",
+            "category": "Ingeniería",
+            "description": "La mecatrónica abarca múltiples tecnologías y componentes integrados. Los componentes mecánicos incluyen actuadores (motores de CC, motores paso a paso, servomotores, cilindros neumáticos, actuadores hidráulicos), mecanismos (engranajes, palancas, levas, correas) y elementos estructurales. Los sensores cubren sensores de posición (encoders, potenciómetros, LVDT), sensores de fuerza/par, sensores de proximidad (ultrasónicos, infrarrojos, capacitivos), sistemas de visión (cámaras, procesamiento de imagen) y sensores ambientales (temperatura, presión, humedad). Las estrategias de control incluyen control en lazo abierto, realimentación en lazo cerrado, control PID, control adaptativo, lógica difusa y control predictivo basado en modelo. Los microcontroladores y procesadores presentan Arduino, Raspberry Pi, PIC, ARM Cortex y PLC industriales. Los protocolos de comunicación involucran I2C, SPI, UART, bus CAN, Ethernet y normas inalámbricas. Las herramientas de software incluyen MATLAB/Simulink, LabVIEW, sistemas CAD (SolidWorks, AutoCAD) y programación embebida (C/C++, Python). Las aplicaciones cubren automatización industrial, robótica, sistemas automotrices (ABS, control electrónico de estabilidad), electrónica de consumo, sistemas aeroespaciales y dispositivos médicos. Las consideraciones de diseño involucran rendimiento en tiempo real, fiabilidad, optimización de costes, eficiencia energética e interfaces hombre-máquina.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((<b>Mecatrónica</b>))\n    <b>Componentes mecánicos</b>\n      Actuadores\n        Motores de CC\n        Motores paso a paso\n        Servomotores\n        Cilindros neumáticos\n        Actuadores hidráulicos\n      Mecanismos\n        Engranajes\n        Palancas\n        Levas\n        Correas\n      Elementos estructurales\n    <b>Sensores</b>\n      Posición\n        Encoders\n        Potenciómetros\n        LVDT\n      Fuerza/par\n      Proximidad\n        Ultrasónico\n        Infrarrojo\n        Capacitivo\n      Sistemas de visión\n      Ambientales\n    <b>Estrategias de control</b>\n      Control en lazo abierto\n      Realimentación en lazo cerrado\n      Control PID\n      Control adaptativo\n      Lógica difusa\n      Control predictivo basado en modelo\n    <b>Microcontroladores y procesadores</b>\n      Arduino\n      Raspberry Pi\n      PIC\n      ARM Cortex\n      PLC\n    <b>Protocolos de comunicación</b>\n      I2C\n      SPI\n      UART\n      Bus CAN\n      Ethernet\n      Inalámbrico\n    <b>Herramientas de software</b>\n      MATLAB/Simulink\n      LabVIEW\n      Sistemas CAD\n      Programación embebida\n        C/C++\n        Python\n    <b>Aplicaciones</b>\n      Automatización industrial\n      Robótica\n      Sistemas automotrices\n        ABS\n        Control de estabilidad\n      Electrónica de consumo\n      Aeroespacial\n      Dispositivos médicos\n    <b>Consideraciones de diseño</b>\n      Rendimiento en tiempo real\n      Fiabilidad\n      Optimización de costes\n      Eficiencia energética\n      Interfaz hombre-máquina",
+            "complexity": "high",
+            "tags": [
+                "mecatrónica",
+                "ingeniería"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

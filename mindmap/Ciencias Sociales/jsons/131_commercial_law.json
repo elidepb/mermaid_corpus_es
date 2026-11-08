@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "131",
+            "topic": "Derecho Comercial",
+            "category": "Derecho",
+            "description": "Este mapa mental organiza el campo del Derecho Comercial en torno a su concepto central. Se ramifica en áreas principales (derecho de contratos, compraventa de mercancías, transacciones garantizadas, títulos valores, organizaciones empresariales, agencia, derecho de la competencia, protección del consumidor, comercio internacional), principios clave (libertad contractual, buena fe, autonomía de la voluntad, predictibilidad), fuentes primarias (Uniform Commercial Code, leyes nacionales, jurisprudencia, CISG, principios UNIDROIT) y entidades empresariales comunes (empresa individual, sociedad, corporación, LLC). La estructura captura la amplitud del derecho privado que rige el comercio.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Derecho Comercial))\n    Áreas_Centrales\n      Derecho_de_Contratos\n      Compraventa_de_Mercancías\n      Transacciones_Garantizadas\n      Títulos_Valores\n      Organizaciones_Empresariales\n      Agencia\n      Derecho_de_la_Competencia\n      Protección_del_Consumidor\n      Comercio_Internacional\n    Principios_Clave\n      Libertad_Contractual\n      Buena_Fe\n      Autonomía_de_la_Voluntad\n      Predictibilidad\n    Fuentes_Principales\n      Uniform_Commercial_Code\n      Leyes_Nacionales\n      Jurisprudencia\n      CISG\n      Principios_UNIDROIT\n    Entidades_Empresariales\n      Empresa_Individual\n      Sociedad\n      Corporación\n      LLC",
+            "complexity": "high",
+            "tags": ["derecho_comercial", "mapa_mental", "derecho_empresarial", "UCC", "contratos", "entidades_empresariales", "CISG"],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "128",
+            "topic": "Derecho constitucional",
+            "category": "Derecho",
+            "description": "Esta cronología traza la evolución histórica del derecho constitucional desde las cartas medievales hasta el constitucionalismo mundial moderno. Comienza con la Magna Carta (1215), que estableció límites al poder real. La Declaración de Derechos inglesa (1689) y la Constitución de los Estados Unidos (1787) institucionalizaron aún más la separación de poderes y los derechos fundamentales. La Declaración francesa de los Derechos del Hombre (1789) difundió los ideales revolucionarios. El siglo XIX vio la expansión de la soberanía parlamentaria y las monarquías constitucionales. Marbury v. Madison (1803) estableció el control de constitucionalidad. Tras la Segunda Guerra Mundial, constituciones modernas como la Ley Fundamental de Alemania (1949) y la Constitución de la India (1950) consagraron la dignidad humana y la justicia social. La era posterior a la Guerra Fría produjo la Constitución transformadora de Sudáfrica (1996), el crecimiento de los tribunales constitucionales en todo el mundo e instrumentos constitucionales regionales (Carta de la UE de 2000). El derecho constitucional contemporáneo aborda los derechos digitales, el constitucionalismo transnacional y los poderes de emergencia.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia del derecho constitucional\n    section Fundamentos medievales y de la Edad Moderna\n      1215 : Magna Carta\n      1689 : Declaración de Derechos inglesa\n    section Constitucionalismo revolucionario\n      1787 : Constitución de EE. UU.\n      1789 : Declaración francesa de<br>los Derechos del Hombre\n      1803 : Marbury v. Madison<br>(establecimiento del control de constitucionalidad)\n    section Desarrollos del siglo XIX\n      1830s-1900s : Expansión de la<br>soberanía parlamentaria<br>y las monarquías constitucionales\n    section Constitucionalismo de la posguerra\n      1949 : Ley Fundamental alemana\n      1950 : Constitución de la India\n      1958 : Quinta República francesa\n    section Difusión mundial y tribunales\n      1982 : Carta Canadiense de<br>Derechos y Libertades\n      1996 : Constitución sudafricana\n      2000 : Carta de los Derechos<br>Fundamentales de la UE\n    section Contemporáneo\n      2000s‑2020s : Derechos digitales,<br>constitucionalismo transnacional,<br>debates sobre poderes de emergencia",
+            "complexity": "high",
+            "tags": [
+                "derecho_constitucional",
+                "historia",
+                "linea_de_tiempo",
+                "magna_carta",
+                "control_de_constitucionalidad",
+                "marbury_v_madison",
+                "constitucionalismo",
+                "declaracion_de_derechos"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "108",
+            "topic": "Sociología de la educación",
+            "category": "Sociología",
+            "description": "Este mapa mental organiza el campo de la sociología de la educación en torno a su concepto central. Se ramifica en conceptos centrales (desigualdad educativa, reproducción social, capital cultural, currículo oculto, agrupamiento, credencialismo), perspectivas teóricas (funcionalismo con Durkheim y Parsons, teoría del conflicto con Bowles y Gintis, interaccionismo sobre el etiquetado, reproducción cultural a través de Bourdieu, pedagogía crítica de Freire), áreas de investigación (clase y logro, raza y educación, género y escolarización, educación superior, elección escolar), pensadores clave (Durkheim, Bourdieu, Coleman, Freire, Willis) y cuestiones de política (financiamiento escolar, desegregación, rendición de cuentas, privatización). La estructura captura la amplitud conceptual del campo y sus principales líneas de indagación.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Sociología de la educación))\n    Conceptos_centrales\n      Desigualdad_educativa\n      Reproducción_social\n      Capital_cultural\n      Currículo_oculto\n      Agrupamiento\n      Credencialismo\n    Perspectivas_teóricas\n      Funcionalismo\n        Durkheim\n        Parsons\n      Teoría_del_conflicto\n        Bowles_y_Gintis\n      Interaccionismo\n        Etiquetado\n      Reproducción_cultural\n        Bourdieu\n      Pedagogía_crítica\n        Freire\n    Áreas_de_investigación\n      Clase_y_logro\n      Raza_y_educación\n      Género_y_escolarización\n      Educación_superior\n      Elección_escolar\n    Pensadores_clave\n      Durkheim\n      Bourdieu\n      Coleman\n      Freire\n      Willis\n    Cuestiones_de_política\n      Financiamiento_escolar\n      Desegregación\n      Rendición_de_cuentas\n      Privatización",
+            "complexity": "high",
+            "tags": [
+                "sociología_de_la_educación",
+                "mapa_mental",
+                "desigualdad_educativa",
+                "capital_cultural",
+                "currículo_oculto",
+                "etiquetado",
+                "elección_escolar",
+                "bourdieu"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

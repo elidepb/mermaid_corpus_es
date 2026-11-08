@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "063",
+            "topic": "Ingeniería química",
+            "category": "Ingeniería",
+            "description": "La ingeniería química surgió a finales del siglo XIX cuando las industrias exigieron enfoques sistemáticos para la producción química. La profesión comenzó formalmente con el Handbook of Chemical Engineering de George E. Davis (1901) y los primeros programas de titulación en ingeniería química. A principios del siglo XX se desarrolló el concepto de operaciones unitarias (Arthur D. Little, 1915), estableciendo enfoques sistemáticos para el diseño de procesos. Las décadas de 1920-30 trajeron avances en el refinado de petróleo, el craqueo catalítico y el desarrollo de la química de polímeros. Las de 1940-50 presenciaron la expansión de la industria petroquímica, la producción de materiales sintéticos y la introducción de sistemas de control de procesos. Las de 1960-70 avanzaron con el diseño de procesos asistido por computadora, la teoría de la ingeniería de reacciones y las regulaciones ambientales que impulsaron procesos más limpios. Las de 1980-90 introdujeron software de simulación de procesos (Aspen Plus), aplicaciones de biotecnología y los principios de la química verde. La década de 2000 trajo la intensificación de procesos, la integración de la nanotecnología e innovaciones en la fabricación farmacéutica. Las de 2010-2020 continúan con la química sostenible, las tecnologías de captura de carbono, la biorrefinación, la síntesis de materiales avanzados y el control de procesos optimizado por IA como práctica estándar.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title <b>Evolución de la ingeniería química</b>\n    \n    section Nacimiento de la profesión\n        Late 1800s : Surge la química industrial\n        1901  : Manual de George E. Davis\n              : Primeros programas de titulación\n        1915  : Concepto de operaciones unitarias\n              : Arthur D. Little\n    \n    section Crecimiento industrial\n        1920s-30s : Avances en el refinado de petróleo\n                  : Craqueo catalítico\n                  : Química de polímeros\n        1940s-50s : Expansión petroquímica\n                  : Materiales sintéticos\n                  : Sistemas de control de procesos\n    \n    section Era moderna\n        1960s-70s : Diseño asistido por computadora\n                  : Teoría de la ingeniería de reacciones\n                  : Regulaciones ambientales\n        1980s-90s : Software de simulación de procesos\n                  : Aplicaciones de biotecnología\n                  : Principios de la química verde\n    \n    section Tecnologías avanzadas\n        2000s : Intensificación de procesos\n              : Integración de la nanotecnología\n              : Innovaciones farmacéuticas\n    \n    section Futuro sostenible\n        2010s-2020s : Química sostenible\n                    : Captura de carbono\n                    : Biorrefinación\n                    : Materiales avanzados\n                    : Optimización de procesos con IA",
+            "complexity": "high",
+            "tags": [
+                "ingenieria_quimica",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

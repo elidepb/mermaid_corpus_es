@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "113",
+            "topic": "Neuropsicología",
+            "category": "Psicología y neurociencia",
+            "description": "La neuropsicología es el estudio científico de las relaciones cerebro-conducta, con un enfoque en comprender las consecuencias cognitivas, emocionales y conductuales de la disfunción cerebral. Este diagrama de flujo describe su enfoque sistemático: el objetivo último es diagnosticar y tratar los trastornos neuropsicológicos integrando el conocimiento de la organización cerebral (localización, lateralización, redes) con la evaluación clínica. El proceso implica reunir datos mediante tests neuropsicológicos, neuroimagen y entrevistas clínicas; interpretar los hallazgos dentro de modelos teóricos (neuropsicología cognitiva, sistemas funcionales); formular diagnósticos; y diseñar estrategias de rehabilitación o intervención. Estos pasos se aplican en entornos clínicos, forenses y de investigación, con el fin último de mejorar los resultados de los pacientes y avanzar en la neurociencia.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Neuropsicología</b><br>Estudio científico de las relaciones<br>cerebro-conducta]:::title\n    B[<b>OBJETIVO</b><br>Diagnosticar y tratar<br>trastornos neuropsicológicos]:::goal\n    C[<b>FUNDAMENTOS</b>]:::foundations\n    subgraph D[Organización cerebral]\n        D1[Localización y lateralización<br>Redes distribuidas<br>Neuroplasticidad]\n    end\n    subgraph E[Métodos de evaluación]\n        E1[\"Tests neuropsicológicos<br>Neuroimagen (MRI, fMRI, PET)<br>Entrevista clínica\"]\n    end\n    subgraph F[Modelos teóricos]\n        F1[Neuropsicología cognitiva<br>Sistemas funcionales de Luria<br>Modelos conexionistas]\n    end\n    G[<b>PROCESO</b><br>Integración de datos → interpretación<br>→ diagnóstico → rehabilitación]:::process\n    H[<b>ENTORNOS</b><br>Clínico, forense,<br>investigación]:::settings\n    I[<b>RESULTADOS</b><br>Mejor funcionamiento del paciente<br>y comprensión neurocientífica]:::outcome\n\n    A -->|busca| B\n    B -->|requiere| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|orientan| G\n    G -->|se aplica en| H\n    H -->|conduce a| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef foundations fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef process fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef settings fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "neuropsicologia",
+                "cerebro_conducta",
+                "evaluacion",
+                "neuroimagen",
+                "neuropsicologia_cognitiva",
+                "rehabilitacion",
+                "localizacion"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

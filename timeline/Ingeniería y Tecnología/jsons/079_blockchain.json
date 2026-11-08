@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "079",
+            "topic": "Blockchain",
+            "category": "Ingeniería",
+            "description": "Blockchain evolucionó de la investigación criptográfica a una tecnología transformadora que altera las finanzas, las cadenas de suministro y la gobernanza. Los fundamentos criptográficos tempranos los sentó el efectivo digital de David Chaum (1983) y los conceptos de sellado de tiempo (1991). El libro blanco de Bitcoin publicado por Satoshi Nakamoto (2008) introdujo la primera implementación práctica de blockchain combinando criptografía, consenso e incentivos. La red Bitcoin se lanzó (2009) permitiendo moneda digital entre pares sin autoridad central. Ethereum propuesto por Vitalik Buterin (2013) extendió blockchain con contratos inteligentes Turing-completos. Ethereum se lanzó (2015) permitiendo aplicaciones descentralizadas y acuerdos programables. Surgieron iniciativas empresariales de blockchain con el proyecto Hyperledger (2015) para redes de negocio permissionadas. El ataque a The DAO (2016) expuso vulnerabilidades de los contratos inteligentes y condujo a una controvertida bifurcación de Ethereum. Las ofertas iniciales de monedas alcanzaron su auge (2017) recaudando miles de millones para proyectos blockchain en medio de la especulación. Bitcoin alcanzó 20 000 dólares (2017) antes de la corrección del mercado. La adopción empresarial se aceleró con pilotos de cadena de suministro e identidad (2018-2019). El verano DeFi (2020) demostró el potencial de innovación financiera de blockchain. Los NFT explotaron en popularidad (2021) para arte digital y coleccionables. La transición de Ethereum 2.0 a prueba de participación comenzó a abordar la escalabilidad y las preocupaciones energéticas. El blockchain actual integra soluciones de escalado de capa 2, monedas digitales de bancos centrales y marcos regulatorios.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de blockchain\n    1983 : Concepto de efectivo digital\n         : Criptografía de David Chaum\n    1991 : Investigación de sellado de tiempo\n         : Fundamentos criptográficos\n    2008 : Libro blanco de Bitcoin\n         : Propuesta de Satoshi Nakamoto\n    2009 : Lanzamiento de la red Bitcoin\n         : Primera implementación de blockchain\n    2013 : Propuesta de Ethereum\n         : Visión de Vitalik Buterin\n    2015 : Ethereum e Hyperledger\n         : Contratos inteligentes y empresa\n    2016 : Ataque a The DAO\n         : Vulnerabilidades de contratos inteligentes\n    2017 : Auge de las ICO y Bitcoin a 20 000 $\n         : Oleada de especulación del mercado\n    2018-2019 : Adopción empresarial\n              : Pilotos de cadena de suministro e identidad\n    2020 : Verano DeFi\n         : Auge de la innovación financiera\n    2021 : Explosión de los NFT\n         : Arte digital generalizado\n    2022+ : Ethereum 2.0 y capa 2\n          : Transición a PoS y escalado\n    2020s : CBDC y regulación\n          : Integración gubernamental",
+            "complexity": "high",
+            "tags": [
+                "blockchain",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

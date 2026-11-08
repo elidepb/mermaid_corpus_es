@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "082",
+            "topic": "Genómica computacional",
+            "category": "Ingeniería",
+            "description": "La genómica computacional evolucionó de la secuenciación temprana del ADN al análisis de alto rendimiento que transforma la investigación biomédica y la atención sanitaria. La estructura del ADN descubierta por Watson y Crick (1953) sentó los fundamentos de la biología molecular. El método de secuenciación de Sanger (1977) permitió las primeras secuencias de ADN pero siguió siendo de bajo rendimiento. El Proyecto Genoma Humano se lanzó (1990) con el objetivo de secuenciar el genoma humano completo. El algoritmo BLAST (1990) revolucionó la búsqueda de similitud de secuencias. Se secuenció el primer genoma bacteriano (1995) demostrando capacidades de genoma completo. El Proyecto Genoma Humano completó el borrador (2001) tras una década de colaboración internacional. Las bases de datos de SNP y el proyecto HapMap (2002-2005) catalogaron la variación genética. La secuenciación de nueva generación se comercializó (2005-2007) con las plataformas Illumina y 454 reduciendo drásticamente los costes. El proyecto 1000 Genomes (2008-2015) caracterizó la diversidad genética humana. El proyecto ENCODE (2012) cartografió elementos funcionales a lo largo del genoma. La edición genómica CRISPR-Cas9 (2012) permitió la manipulación genética precisa. La secuenciación unicelular surgió (2014+) revelando la heterogeneidad celular. Iniciativas de genómica del cáncer como TCGA generaron conjuntos de datos tumorales exhaustivos. AlphaFold (2020) resolvió la predicción de estructura de proteínas usando IA. La genómica computacional actual integra la secuenciación de lectura larga, la ómica espacial, el descubrimiento impulsado por IA y los biobancos a escala poblacional.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la genómica computacional\n    1953 : Descubrimiento de la estructura del ADN\n         : Fundamentos de Watson y Crick\n    1977 : Secuenciación de Sanger\n         : Primer método de secuenciación de ADN\n    1990 : Proyecto Genoma Humano y BLAST\n         : Genoma completo y búsqueda de similitud\n    1995 : Primer genoma bacteriano\n         : Demostración de genoma completo\n    2001 : Borrador del genoma humano\n         : Colaboración de una década completada\n    2002-2005 : Proyecto HapMap\n              : Catálogo de variación genética\n    2005-2007 : Comercialización de la SNG\n              : Reducción de costes de Illumina\n    2008-2015 : Proyecto 1000 Genomes\n              : Caracterización de la diversidad humana\n    2012 : ENCODE y CRISPR\n         : Elementos funcionales y edición\n    2014+ : Secuenciación unicelular\n          : Heterogeneidad celular\n    2020 : Avance de AlphaFold\n         : Predicción de estructura de proteínas con IA\n    2020s : Lectura larga y ómica espacial\n          : Integración multimodal de IA",
+            "complexity": "high",
+            "tags": [
+                "genomica_computacional",
+                "ingenieria"
+            ],
+            "creation_date": "2025-11-10"
+        }
+    ]
+}

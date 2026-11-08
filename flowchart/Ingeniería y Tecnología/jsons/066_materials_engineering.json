@@ -1,0 +1,21 @@
+{
+    "diagrams": [
+        {
+            "id": "066",
+            "topic": "Ingeniería de materiales",
+            "category": "ingenieria",
+            "description": "La ingeniería de materiales es la disciplina que estudia la estructura, las propiedades, el procesamiento y el rendimiento de los materiales para desarrollar nuevos materiales y optimizar los existentes para aplicaciones específicas. Su objetivo principal es diseñar y seleccionar materiales que cumplan los requisitos de rendimiento, considerando al mismo tiempo el coste, la sostenibilidad y la fabricabilidad. Los dominios centrales incluyen: fundamentos de ciencia de materiales (estructura atómica, enlace, cristalografía, diagramas de fases), procesamiento de materiales (fundición, conformado, tratamiento térmico, métodos de síntesis), caracterización de materiales (microscopía, espectroscopía, ensayos mecánicos), clases de materiales (metales, cerámicas, polímeros, composites) y selección de materiales (optimización de propiedades, análisis de fallos, evaluación del ciclo de vida). El enfoque de ingeniería involucra la comprensión de las relaciones estructura-propiedad, la optimización del procesamiento, las pruebas de rendimiento y el diseño específico de la aplicación. Estos elementos se integran mediante termodinámica, cinética y mecánica para crear materiales avanzados para las industrias aeroespacial, automotriz, electrónica, energética, biomédica y de la construcción.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Ingeniería de materiales</b><br>Estudio de la estructura, las propiedades<br>y el procesamiento de materiales]:::title\n    B[<b>OBJETIVO PRINCIPAL</b><br>Diseñar y seleccionar materiales<br>para un rendimiento óptimo]:::objective\n    C[<b>DOMINIOS CENTRALES</b>]:::domains\n    \n    subgraph D[Fundamentos de ciencia de materiales]\n        D1[Estructura atómica<br>Enlace y cristalografía<br>Diagramas de fases]\n    end\n    \n    subgraph E[Procesamiento de materiales]\n        E1[Fundición y conformado<br>Tratamiento térmico<br>Métodos de síntesis]\n    end\n    \n    subgraph F[Caracterización de materiales]\n        F1[Microscopía<br>Espectroscopía<br>Ensayos mecánicos]\n    end\n    \n    subgraph G[Clases de materiales]\n        G1[Metales<br>Cerámicas<br>Polímeros y composites]\n    end\n    \n    subgraph H[Selección de materiales]\n        H1[Optimización de propiedades<br>Análisis de fallos<br>Evaluación del ciclo de vida]\n    end\n    \n    I[<b>ENFOQUE DE INGENIERÍA</b><br>Relaciones estructura-propiedad<br>Procesamiento, pruebas, diseño]:::approach\n    \n    J[<b>CREA</b><br>Materiales avanzados para<br>diversas aplicaciones industriales]:::outcome\n    \n    A -->|busca| B\n    B -->|mediante| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    C -->|incluye| G\n    C -->|incluye| H\n    D & E & F & G & H -->|unificado por| I\n    I -->|produce| J\n    \n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef objective fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef domains fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef approach fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#333\n    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333",
+            "complexity": "medium",
+            "tags": [
+                "ingenieria_de_materiales",
+                "ingenieria",
+                "ciencia_de_materiales",
+                "estructura",
+                "propiedades"
+            ],
+            "creation_date": "2024-01-16"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "119",
+            "topic": "Ciencia política",
+            "category": "Ciencias sociales",
+            "description": "Este mapa mental organiza la disciplina de la ciencia política en torno a su concepto central. Se ramifica en subcampos nucleares (teoría política, política comparada, relaciones internacionales, política pública, metodología), conceptos clave (poder, Estado, soberanía, democracia, justicia, representación), pensadores principales (Platón, Aristóteles, Maquiavelo, Hobbes, Locke, Marx, Weber, Arendt), métodos de investigación (estudios de caso, encuestas, experimentos, teoría de juegos, análisis del discurso) y áreas aplicadas (gobernanza, elecciones, resolución de conflictos, derechos humanos, política ambiental). Captura la amplitud del campo, de los fundamentos filosóficos a las aplicaciones empíricas.",
+            "diagram_type": "mindmap",
+            "mermaid_code": "mindmap\n  root((Ciencia política))\n    Subcampos\n      Teoría_política\n      Política_comparada\n      Relaciones_internacionales\n      Política_pública\n      Metodología\n    Conceptos_clave\n      Poder\n      Estado\n      Soberanía\n      Democracia\n      Justicia\n      Representación\n    Pensadores_principales\n      Platón\n      Aristóteles\n      Maquiavelo\n      Hobbes\n      Locke\n      Marx\n      Weber\n      Arendt\n    Métodos_de_investigación\n      Estudios_de_caso\n      Encuestas\n      Experimentos\n      Teoría_de_juegos\n      Análisis_del_discurso\n    Áreas_aplicadas\n      Gobernanza\n      Elecciones\n      Resolución_de_conflictos\n      Derechos_humanos\n      Política_ambiental",
+            "complexity": "high",
+            "tags": [
+                "ciencia_política",
+                "mapa_mental",
+                "poder",
+                "estado",
+                "democracia",
+                "teoría_política",
+                "relaciones_internacionales",
+                "metodología"
+            ],
+            "creation_date": "2025-11-04"
+        }
+    ]
+}

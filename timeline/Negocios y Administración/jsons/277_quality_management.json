@@ -1,0 +1,18 @@
+{
+    "diagrams": [
+        {
+            "id": "277",
+            "topic": "Gestión de la calidad",
+            "category": "Negocios",
+            "description": "La gestión de la calidad evolucionó de enfoques basados en la inspección a sistemas organizacionales integrales. La gestión científica de Frederick Taylor (1911) introdujo estándares de trabajo sistemáticos. Walter Shewhart desarrolló los gráficos de control estadístico de procesos en la década de 1920 en Bell Labs. La Segunda Guerra Mundial aceleró la adopción del control de calidad en la manufactura. W. Edwards Deming enseñó control estadístico de la calidad a la industria japonesa tras la Segunda Guerra Mundial (década de 1950), transformando la excelencia manufacturera. El Quality Control Handbook de Joseph Juran (1951) estableció marcos de planificación de la calidad. La gestión de la calidad total surgió en la década de 1980, enfatizando el compromiso de toda la organización. Las normas ISO 9000 se introdujeron en 1987, creando marcos mundiales de certificación de calidad. Motorola desarrolló Seis Sigma en 1986 para la reducción de defectos. Los principios de manufactura lean se difundieron mundialmente desde el Sistema de Producción Toyota en la década de 1990. El Premio Nacional de Calidad Malcolm Baldrige (1987) promovió la excelencia. La gestión de la calidad actual integra sistemas de calidad digitales, detección de defectos impulsada por IA y analítica en tiempo real.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Evolución de la gestión de la calidad\n    1911 : Gestión científica\n         : Estándares de trabajo de Taylor\n    1920s : Control estadístico de procesos\n          : Gráficos de control de Shewhart\n    WWII : Adopción del control de calidad\n         : Aceleración manufacturera\n    1950s : Deming en Japón\n          : Enseñanza de la calidad estadística\n    1951 : Manual de Juran\n         : Marcos de planificación de la calidad\n    1980s : Gestión de la calidad total\n          : Compromiso de toda la organización\n    1986 : Desarrollo de Seis Sigma\n         : Reducción de defectos de Motorola\n    1987 : ISO 9000 y Premio Baldrige\n         : Normas mundiales y excelencia\n    1990s : Manufactura lean\n          : Difusión mundial del TPS\n    2020s : Sistemas de calidad digitales\n          : Analítica impulsada por IA",
+            "complexity": "high",
+            "tags": [
+                "gestion_de_la_calidad",
+                "negocios"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

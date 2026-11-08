@@ -1,0 +1,15 @@
+{
+    "diagrams": [
+        {
+            "id": "127",
+            "topic": "Demografía",
+            "category": "Ciencias sociales",
+            "description": "La demografía es el estudio científico de las poblaciones humanas: su tamaño, composición, distribución y los procesos que las modifican a lo largo del tiempo. Este diagrama de flujo describe su enfoque sistemático: el objetivo último es describir y explicar la dinámica de la población y sus consecuencias. El campo examina tres procesos demográficos centrales: la fecundidad (nacimientos), la mortalidad (defunciones) y la migración (desplazamientos). Estos se miden con un conjunto de fuentes de datos y métodos: censos, registro civil, encuestas y modelos demográficos (tablas de vida, proyecciones de población). El análisis resultante revela patrones como el envejecimiento de la población, la urbanización y las tasas de crecimiento. Los conocimientos generados se aplican de forma directa a la política pública, la planificación de la seguridad social, la salud pública y la investigación de mercados, y en última instancia orientan las decisiones que dan forma a las sociedades.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Demografía</b><br>Estudio científico del tamaño,<br>la composición y el cambio<br>de la población humana]:::title\n    B[<b>OBJETIVO</b><br>Describir y explicar la dinámica<br>de la población y sus consecuencias]:::goal\n    C[<b>PROCESOS CENTRALES</b>]:::processes\n    subgraph D[Fecundidad]\n        D1[Tasas de natalidad, fecundidad,<br>comportamiento reproductivo]\n    end\n    subgraph E[Mortalidad]\n        E1[Tasas de mortalidad, esperanza de vida,<br>causas de muerte]\n    end\n    subgraph F[Migración]\n        F1[Inmigración, emigración,<br>movilidad interna]\n    end\n    G[<b>DATOS Y MÉTODOS</b><br>Censo, registro civil, encuestas,<br>tablas de vida, proyecciones de población]:::methods\n    H[<b>ANÁLISIS</b><br>Proyecciones de población, envejecimiento,<br>urbanización, tasas de crecimiento]:::analysis\n    I[<b>APLICACIONES</b><br>Política pública, planificación sanitaria,<br>seguridad social, investigación de mercados]:::outcome\n\n    A -->|pretende| B\n    B -->|examina| C\n    C -->|incluye| D\n    C -->|incluye| E\n    C -->|incluye| F\n    D & E & F -->|cuantificado por| G\n    G -->|alimenta| H\n    H -->|informa| I\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef processes fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef methods fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": ["demografia", "poblacion", "fecundidad", "mortalidad", "migracion", "crecimiento_poblacional", "transicion_demografica", "censo"],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}

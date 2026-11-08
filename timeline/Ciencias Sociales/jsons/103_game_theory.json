@@ -1,0 +1,23 @@
+{
+    "diagrams": [
+        {
+            "id": "103",
+            "topic": "Teoría de juegos",
+            "category": "Matemáticas y economía",
+            "description": "Esta cronología destaca los principales desarrollos históricos de la teoría de juegos. Comienza con los fundamentos: el teorema minimax de von Neumann en 1928 y, en 1944, Teoría de juegos y comportamiento económico con Morgenstern. La era de Nash trajo el equilibrio de Nash en 1950 y los refinamientos de la forma extensiva en 1953. Las décadas de 1960-70 vieron los refinamientos de Selten (perfecto en subjuegos) y Harsanyi (juegos bayesianos), y el surgimiento de la teoría de juegos evolutiva de Maynard Smith. La década de 1980 introdujo el diseño de mecanismos (Hurwicz, Maskin), la de 1990 la teoría de juegos del comportamiento (Camerer) y la de 2000 la teoría de juegos algorítmica. Los avances recientes incluyen la IA en juegos y los sistemas multiagente.",
+            "diagram_type": "timeline",
+            "mermaid_code": "timeline\n    title Historia de la teoría de juegos\n    section Fundamentos\n      1928 : John von Neumann<br>Teorema minimax\n      1944 : \"Teoría de juegos y<br>comportamiento económico\"<br>(von Neumann y Morgenstern)\n    section Nash y el equilibrio\n      1950 : John Nash<br>Equilibrio de Nash\n      1953 : Juegos en forma extensiva<br>e ideas de refinamiento\n    section Refinamientos y dinámica\n      1960s : Reinhard Selten<br>Equilibrio perfecto en subjuegos\n      1967-68 : John Harsanyi<br>Juegos bayesianos\n      1970s : Teoría de juegos evolutiva<br>(Maynard Smith)\n    section Aplicaciones y extensiones\n      1980s : Diseño de mecanismos<br>(Hurwicz, Maskin)\n      1990s : Teoría de juegos del comportamiento<br>(Camerer)\n      2000s : Teoría de juegos algorítmica\n    section Reciente\n      2010s-20s : IA en juegos<br>Sistemas multiagente",
+            "complexity": "high",
+            "tags": [
+                "teoria_de_juegos",
+                "historia",
+                "equilibrio_de_Nash",
+                "von_neumann",
+                "diseno_de_mecanismos",
+                "teoria_de_juegos_evolutiva",
+                "linea_de_tiempo"
+            ],
+            "creation_date": "2025-01-27"
+        }
+    ]
+}

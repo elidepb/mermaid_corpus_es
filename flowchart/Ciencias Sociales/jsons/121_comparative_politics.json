@@ -1,0 +1,24 @@
+{
+    "diagrams": [
+        {
+            "id": "121",
+            "topic": "Política comparada",
+            "category": "Ciencia política",
+            "description": "La política comparada es el subcampo de la ciencia política que estudia los sistemas políticos, las instituciones y el comportamiento a través de los países mediante la comparación sistemática. Este diagrama de flujo describe su proceso analítico: el objetivo general es explicar las similitudes y diferencias en los resultados políticos. Integra dimensiones sustantivas centrales (formación del Estado, regímenes políticos, instituciones, cultura política y desarrollo) con métodos comparativos (estudios de caso, análisis histórico comparativo, modelado estadístico, análisis cualitativo comparado). Las principales lentes teóricas —teoría de la modernización, institucionalismo, elección racional y constructivismo— orientan la investigación. La síntesis genera tipologías de regímenes, explicaciones causales de la democratización, la capacidad estatal y la variación de políticas, e informa en última instancia el diseño de políticas y el desarrollo internacional.",
+            "diagram_type": "flowchart",
+            "mermaid_code": "flowchart TD\n    A[<b>Política comparada</b><br>Comparación sistemática de sistemas<br>políticos, instituciones y comportamiento]:::title\n    B[<b>OBJETIVO</b><br>Explicar similitudes y diferencias<br>en los resultados políticos entre contextos]:::goal\n    C[<b>DIMENSIONES CENTRALES</b>]:::dimensions\n    subgraph D[Dominios sustantivos]\n        D1[\"Formación y capacidad del Estado<br>Regímenes políticos (democracia, autocracia)<br>Instituciones políticas (legislaturas, partidos)<br>Cultura política y valores<br>Economía política y desarrollo\"]\n    end\n    subgraph E[Métodos de comparación]\n        E1[\"Estudios de caso y análisis histórico comparativo<br>Métodos estadísticos de N grande<br>Análisis cualitativo comparado (QCA)<br>Métodos mixtos\"]\n    end\n    F[<b>LENTES TEÓRICAS</b><br>Modernización, institucionalismo,<br>elección racional, constructivismo]:::theory\n    G[<b>PRODUCTOS ANALÍTICOS</b><br>Tipologías de regímenes,<br>explicaciones de la democratización,<br>variación de políticas]:::analysis\n    H[<b>APLICACIONES</b><br>Diseño de políticas, desarrollo<br>internacional, promoción de la democracia]:::outcome\n\n    A -->|busca| B\n    B -->|al investigar| C\n    C -->|incluye| D\n    C -->|incluye| E\n    D & E -->|informados por| F\n    F -->|produce| G\n    G -->|contribuye a| H\n\n    classDef title fill:#f0f7ff,stroke:#4a6fa5,stroke-width:2px,color:#333,stroke-dasharray: 5 5\n    classDef goal fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333\n    classDef dimensions fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333\n    classDef theory fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333\n    classDef analysis fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#333\n    classDef outcome fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#333",
+            "complexity": "high",
+            "tags": [
+                "politica_comparada",
+                "sistemas_politicos",
+                "democracia",
+                "autoritarismo",
+                "instituciones",
+                "metodos_comparativos",
+                "cambio_de_regimen",
+                "qca"
+            ],
+            "creation_date": "2024-03-15"
+        }
+    ]
+}
